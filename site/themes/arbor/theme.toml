@@ -1,0 +1,17 @@
+name = "Arbor"
+license = "MIT"
+description = "Arbor Church Website Theme"
+homepage = "https://www.arborchurchnw.org/"
+tags = []
+features = []
+min_version = 0.17
+
+[author]
+  name = "Jonathan McPherson"
+  homepage = "https://about.me/jmcphers/"
+
+# If porting an existing theme
+[original]
+  name = ""
+  homepage = ""
+  repo = ""
