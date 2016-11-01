@@ -1,0 +1,39 @@
+body {
+  background: url(/img/arbor-backdrop.jpg);
+  background-size: cover;
+  color: #f0f0ff;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1, h2 {
+  text-shadow: 0px 0px 10px #000000;
+}
+
+.announcement {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.announcement .details {
+  align-self: flex-end;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+h1 .arbor {
+  text-transform: lowercase;
+  color: #A0FFA0;
+}
+
+h2 {
+  font-size: 2rem;
+  letter-spacing: 0.5rem;
+  text-transform: uppercase;
+  font-weight: 300;
+}
+
