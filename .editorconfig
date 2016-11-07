@@ -1,0 +1,14 @@
+# see http://editorconfig.org/
+
+# use two-space tabs everywhere
+[*.{yml,md,js,html}]
+indent_style = space
+indent_size = 2
+end_of_file = lf
+max_line_length = 120
+
+# .. except CSS
+[*.{css}]
+indent_style = space
+indent_size = 4
+
