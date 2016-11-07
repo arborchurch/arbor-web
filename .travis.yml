@@ -1,0 +1,3 @@
+
+openssl aes-256-cbc -K $encrypted_f3556f82c616_key -iv $encrypted_f3556f82c616_iv -in arborchurch-travis.enc -out arborchurch-travis -d
+
