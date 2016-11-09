@@ -10,7 +10,8 @@ install:
 
 # build the site
 script: 
-  - ./hugo_0.17_linux_amd64/hugo_0.17_linux_amd64 --theme=sunblind
+  - cd site
+  - ../hugo_0.17_linux_amd64/hugo_0.17_linux_amd64 --theme=sunblind
 
 # deploy it!
 after_success:
