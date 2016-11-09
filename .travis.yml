@@ -1,18 +1,19 @@
 # decrypt deployment private key
 before_install:
   - openssl aes-256-cbc -K $encrypted_f3556f82c616_key -iv $encrypted_f3556f82c616_iv -in arborchurch-travis.enc -out arborchurch-travis -d
+  - chmod 0600 arborchurch-travis
 
 # install hugo
 install:
-  - wget https://github.com/spf13/hugo/releases/download/v0.17/hugo_0.17-64bit.deb
-  - dpkg -i hugo_0.17-64bit.deb
+  - wget https://github.com/spf13/hugo/releases/download/v0.17/hugo_0.17_Linux-64bit.tar.gz
+  - tar xzvf hugo_0.17_Linux-64bit.tar.gz
 
 # build the site
 script: 
-  - hugo --theme=arbor
+  - ./hugo_0.17_linux_amd64/hugo_0.17_linux_amd64 --theme=sunblind
 
 # deploy it!
 after_success:
   - cd public
-  - scp -i arborchurch-travis -r * arborchurch@arborchurchnw.org:arborchurchnw.org
+  - scp -i ../arborchurch-travis -o StrictHostKeyChecking=no -r * arborchurch@arborchurchnw.org:arborchurchnw.org
 
