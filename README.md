@@ -2,7 +2,7 @@
 
 # Arbor Church Website
 
-This repository hosts the sources for the Arbor Church website. 
+This repository hosts the sources for the [Arbor Church website](https://www.arborchurchnw.org/). 
 
 ## Development
 
