@@ -16,5 +16,5 @@ script:
 # deploy it!
 after_success:
   - cd public
-  - scp -i ../../arborchurch-travis -o StrictHostKeyChecking=no -r * arborchurch@arborchurchnw.org:arborchurchnw.org
+  - scp -i ../../arborchurch-travis -o StrictHostKeyChecking=no -r * arborchurch@arborchurchnw.org:arborchurchnw.org/staging
 
