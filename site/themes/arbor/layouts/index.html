@@ -19,9 +19,23 @@
   </script>
 </head>
 <body>
+<ul>
+{{ $currentNode := . }}
+{{ range .Site.Menus.main }}
+  <li>{{ .Name }}</li>
+  {{ if .HasChildren }}
+    <ul>
+    {{ range .Children }}
+      <li>{{ .Name }}</li>
+    {{ end }}
+    </ul>
+  {{ end }}
+{{ end }}
+</ul>
 <div class="announcement">
   <div class="details">
     <img style="width: 250px; margin-bottom: 5rem;" src="/img/arbor-logo-500-dark.png" /><br />
+    <h1>STAGING</h1>
     <a href="https://www.facebook.com/arborchurchnw/"><i class="fa fa-facebook-square"></i></a>
     &nbsp; &nbsp;
     <a href="https://www.instagram.com/arborchurchnw/"><i class="fa fa-instagram"></i></a>
