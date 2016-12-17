@@ -1,3 +1,12 @@
+---
 baseurl: "https://www.arborchurchnw.org/"
 title: "Arbor Church"
 languageCode: "en-us"
+menu:
+  main:
+    - Name: Give
+      URL: https://arborchurch.churchcenteronline.com/giving
+      Identifier: Give
+      Weight: -110
+---
+
