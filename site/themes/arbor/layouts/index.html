@@ -19,23 +19,30 @@
   </script>
 </head>
 <body>
-<ul class="menu">
-{{ $currentNode := . }}
-{{ range .Site.Menus.main }}
-  <li>{{ .Name }}</li>
-  {{ if .HasChildren }}
-    <ul>
-    {{ range .Children }}
-      <li>{{ .Name }}</li>
+<div class="navigation">
+  <i class="hamburger fa fa-bars"></i>
+  <ul class="menu">
+  {{ $currentNode := . }}
+  {{ range .Site.Menus.main }}
+    <li><a href="{{.URL}}">{{ .Name }}</a></li>
+    {{ if .HasChildren }}
+      <ul>
+      {{ range .Children }}
+        <li><a href="{{.URL}}">{{ .Name }}</a></li>
+      {{ end }}
+      </ul>
     {{ end }}
-    </ul>
   {{ end }}
-{{ end }}
-</ul>
+  </ul>
+</div>
+
+<img class="mast" src="/img/arbor-logo-500-dark.png" />
 
 {{ range .Data.Pages }}
   {{ if eq .Type "block" }}
-  <h1>{{ .Title }}</h1>
+  <div class="block">
+    <h1>{{ .Title }}</h1>
+  </div>
   {{ end }} 
 {{ end }}
 

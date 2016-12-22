@@ -7,6 +7,6 @@ menu:
     - Name: Give
       URL: https://arborchurch.churchcenteronline.com/giving
       Identifier: Give
-      Weight: -110
+      Weight: 110
 ---
 

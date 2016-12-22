@@ -1,4 +1,6 @@
 body {
+  background: url(/img/arbor-path-full.jpg) no-repeat;
+  background-size: contain;
   background-color: rgba(61, 61, 61, 1.0);
   font-family: sans-serif;
 }
@@ -23,29 +25,64 @@ h1, h2 {
   align-self: flex-end;
 }
 
+.block {
+  height: 10rem;
+}
+
 .details, .details a {
   color: white;
   font-size: 3rem;
 }
 
 /* "hamburger" menu */
-ul.menu {
-  text-transform: uppercase;
+.navigation {
+  position: absolute;
+  right: 20px;
   color: white;
 }
 
+.navigation a {
+  color: white;
+  text-decoration: none;
+  letter-spacing: 0.1em;
+}
+
+.hamburger {
+  cursor: pointer;
+}
+
+ul.menu {
+  text-transform: uppercase;
+}
+
 ul.menu li {
+  display: inline;
   list-style-type: none;
+  padding-left: 1em;
+}
+
+.mast {
+  width: 250px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 3rem;
+  display: block;
 }
 
 /* mobile */
 @media screen and (max-width: 500px)  {
   ul.menu {
+    display: none;
   }
 }
 
 /* desktop */ 
-@media screen and (min-width: 980px) {
+@media screen and (min-width: 500px) {
+  .navigation .hamburger {
+    display: none;
+  }
+
   ul.menu ul {
     display: none;
   }
