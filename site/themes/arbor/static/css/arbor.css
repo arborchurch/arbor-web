@@ -35,24 +35,35 @@ h1, h2 {
 }
 
 /* "hamburger" menu */
-.navigation {
-  position: absolute;
+.navMenu {
+  position: fixed;
   right: 20px;
+  top: 20px;
   color: white;
 }
 
-.navigation a {
+.navMenu a {
   color: white;
   text-decoration: none;
   letter-spacing: 0.1em;
 }
 
-.hamburger {
+i.hamburger {
+  position: fixed; 
+  right: 0px;
+  top: 0px;
+  padding: 20px;
   cursor: pointer;
+  font-size: 2rem;
+}
+
+#menuToggle {
+  display: none;
 }
 
 ul.menu {
   text-transform: uppercase;
+  margin: 0px;
 }
 
 ul.menu li {
@@ -74,6 +85,33 @@ ul.menu li {
 @media screen and (max-width: 500px)  {
   ul.menu {
     display: none;
+    padding-top: 4rem;
+    background-color: #f0fff0;
+  }
+
+  #menuToggle:checked + label > ul.menu {
+    display: block;
+    height: 100%;
+  }
+
+  #menuToggle:checked + label > .hamburger {
+    color: #404040;
+  }
+
+  ul.menu li {
+    display: block;
+    margin-bottom: 2rem;
+  }
+
+  ul.menu li a {
+    color: #204020;
+  }
+
+  .navMenu {
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+    top: 0px;
   }
 }
 

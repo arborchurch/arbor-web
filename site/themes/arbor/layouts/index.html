@@ -20,20 +20,23 @@
 </head>
 <body>
 <div class="navigation">
-  <i class="hamburger fa fa-bars"></i>
-  <ul class="menu">
-  {{ $currentNode := . }}
-  {{ range .Site.Menus.main }}
-    <li><a href="{{.URL}}">{{ .Name }}</a></li>
-    {{ if .HasChildren }}
-      <ul>
-      {{ range .Children }}
-        <li><a href="{{.URL}}">{{ .Name }}</a></li>
+  <input id="menuToggle" type="checkbox" />
+  <label class="navMenu" for="menuToggle">
+    <i class="hamburger fa fa-bars"></i>
+    <ul class="menu">
+    {{ $currentNode := . }}
+    {{ range .Site.Menus.main }}
+      <li><a href="{{.URL}}">{{ .Name }}</a></li>
+      {{ if .HasChildren }}
+        <ul>
+        {{ range .Children }}
+          <li><a href="{{.URL}}">{{ .Name }}</a></li>
+        {{ end }}
+        </ul>
       {{ end }}
-      </ul>
     {{ end }}
-  {{ end }}
-  </ul>
+    </ul>
+  </label>
 </div>
 
 <img class="mast" src="/img/arbor-logo-500-dark.png" />
