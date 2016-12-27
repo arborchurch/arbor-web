@@ -3,6 +3,8 @@ body {
   background-size: contain;
   background-color: rgba(61, 61, 61, 1.0);
   font-family: sans-serif;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 h1, h2 {
@@ -26,7 +28,22 @@ h1, h2 {
 }
 
 .block {
-  height: 10rem;
+  overflow: hidden;
+}
+
+.pageButtons {
+  float: right;
+}
+
+.pageButtons a {
+  text-decoration: none;
+  border: 3px solid white;
+  margin: 2rem;
+  padding: 1rem;
+  display: block;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
 }
 
 .details, .details a {

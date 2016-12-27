@@ -39,12 +39,13 @@
   </label>
 </div>
 
-<img class="mast" src="/img/arbor-logo-500-dark.png" />
+<img class="mast" src="img/arbor-logo-500-dark.png" />
 
 {{ range .Data.Pages }}
   {{ if eq .Type "block" }}
-  <div class="block">
+  <div class="block" style="background-color: {{ .Params.blockcolor }}">
     <h1>{{ .Title }}</h1>
+    {{ .Content }}
   </div>
   {{ end }} 
 {{ end }}
