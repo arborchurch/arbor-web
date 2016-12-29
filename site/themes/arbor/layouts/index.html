@@ -26,7 +26,7 @@
     <ul class="menu">
     {{ $currentNode := . }}
     {{ range .Site.Menus.main }}
-      <li><a href="{{.URL}}">{{ .Name }}</a></li>
+      <li><a href="#block_{{.Name}}">{{ .Name }}</a></li>
       {{ if .HasChildren }}
         <ul>
         {{ range .Children }}
@@ -39,23 +39,32 @@
   </label>
 </div>
 
-<img class="mast" src="img/arbor-logo-500-dark.png" />
+<div class="mast">
+  <img src="img/arbor-logo-500-dark.png" />
+  <h1>Sundays at 10am</h1>
+  <a href="https://www.google.com/maps/place/19011+Woodinville+Snohomish+Rd,+Woodinville,+WA+98072/@47.7657651,-122.1576943,17z/data=!3m1!4b1!4m5!3m4!1s0x54900e9a33e7f0d3:0x2d8ffaf8fde7a709!8m2!3d47.7657651!4d-122.1555003">19011 Woodinville-Snohomish Rd.</a>
+</div>
 
 {{ range .Data.Pages }}
   {{ if eq .Type "block" }}
-  <div class="block" style="background-color: {{ .Params.blockcolor }}">
-    <h1>{{ .Title }}</h1>
+  <div id="block_{{ .Title }}" class="block" style="background-color: {{ .Params.blockcolor }}">
+    <h1>{{ .Params.tagline }}</h1>
     {{ .Content }}
   </div>
   {{ end }} 
 {{ end }}
 
-<div class="details">
+<div class="footer">
+  <div class="address">
+    <strong>Arbor Church</strong>. 19011 Woodinville Snohomish Rd, Woodinville, WA 98072
+  </div>
   <a href="https://www.facebook.com/arborchurchnw/"><i class="fa fa-facebook-square"></i></a>
   &nbsp; &nbsp;
   <a href="https://www.instagram.com/arborchurchnw/"><i class="fa fa-instagram"></i></a>
   &nbsp; &nbsp;
   <a href="https://www.twitter.com/arborchurchnw/"><i class="fa fa-twitter-square"></i></a>
+  &nbsp; &nbsp;
+  <a href="mailto:info@arborchurchnw.org"><i class="fa fa-envelope-o"></i></a>
 </div>
 </body>
 </html>

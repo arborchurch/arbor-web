@@ -4,6 +4,7 @@ title: "About"
 menu: "main"
 weight: 10
 blockColor: "#255535"
+tagline: "Making Disciples Together"
 ---
 
 <div class="pageButtons">
