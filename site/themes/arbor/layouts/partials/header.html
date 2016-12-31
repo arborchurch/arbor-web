@@ -1,0 +1,42 @@
+<html>
+<head>
+  <title>{{ .Site.Title }}</title>
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/arbor.css" />
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/font-awesome/css/font-awesome.min.css" />
+  <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}img/favicon-16.png" sizes="16x16" />
+  <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}img/favicon-32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}img/favicon-64.png" sizes="64x64" />
+
+  {{ .Hugo.Generator }}
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-86541908-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+</head>
+<body>
+
+<div class="navigation">
+  <input id="menuToggle" type="checkbox" />
+  <label class="navMenu" for="menuToggle">
+    <i class="hamburger fa fa-bars"></i>
+    <ul class="menu">
+    {{ $currentNode := . }}
+    {{ range .Site.Menus.main }}
+      <li><a href="#block_{{.Name}}">{{ .Name }}</a></li>
+      {{ if .HasChildren }}
+        <ul>
+        {{ range .Children }}
+          <li><a href="{{.URL}}">{{ .Name }}</a></li>
+        {{ end }}
+        </ul>
+      {{ end }}
+    {{ end }}
+    </ul>
+  </label>
+</div>
+

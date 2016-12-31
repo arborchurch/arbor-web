@@ -1,48 +1,11 @@
-<html>
-<head>
-  <title>{{ .Site.Title }}</title>
-  <link rel="stylesheet" href="css/arbor.css" />
-  <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css" />
-  <link rel="icon" type="image/png" href="img/favicon-16.png" sizes="16x16" />
-  <link rel="icon" type="image/png" href="img/favicon-32.png" sizes="32x32" />
-  <link rel="icon" type="image/png" href="img/favicon-64.png" sizes="64x64" />
+{{ partial "header.html" . }}
 
-  {{ .Hugo.Generator }}
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-86541908-1', 'auto');
-    ga('send', 'pageview');
-  </script>
-</head>
-<body>
-<div class="navigation">
-  <input id="menuToggle" type="checkbox" />
-  <label class="navMenu" for="menuToggle">
-    <i class="hamburger fa fa-bars"></i>
-    <ul class="menu">
-    {{ $currentNode := . }}
-    {{ range .Site.Menus.main }}
-      <li><a href="#block_{{.Name}}">{{ .Name }}</a></li>
-      {{ if .HasChildren }}
-        <ul>
-        {{ range .Children }}
-          <li><a href="{{.URL}}">{{ .Name }}</a></li>
-        {{ end }}
-        </ul>
-      {{ end }}
-    {{ end }}
-    </ul>
-  </label>
-</div>
-
-<div class="mast">
-  <img src="img/arbor-logo-500-dark.png" />
-  <h1>Sundays at 10am</h1>
-  <a href="https://www.google.com/maps/place/19011+Woodinville+Snohomish+Rd,+Woodinville,+WA+98072/@47.7657651,-122.1576943,17z/data=!3m1!4b1!4m5!3m4!1s0x54900e9a33e7f0d3:0x2d8ffaf8fde7a709!8m2!3d47.7657651!4d-122.1555003">19011 Woodinville-Snohomish Rd.</a>
+<div class="header">
+  <div class="mast">
+    <img src="img/arbor-logo-500-dark.png" />
+    <h1>Sundays at 10am</h1>
+    <a href="https://www.google.com/maps/place/19011+Woodinville+Snohomish+Rd,+Woodinville,+WA+98072/@47.7657651,-122.1576943,17z/data=!3m1!4b1!4m5!3m4!1s0x54900e9a33e7f0d3:0x2d8ffaf8fde7a709!8m2!3d47.7657651!4d-122.1555003">19011 Woodinville-Snohomish Rd.</a>
+  </div>
 </div>
 
 {{ range .Data.Pages }}
@@ -54,19 +17,4 @@
   {{ end }} 
 {{ end }}
 
-<div class="footer">
-  <div class="address">
-    <strong>Arbor Church</strong>. 19011 Woodinville Snohomish Rd, Woodinville, WA 98072
-  </div>
-  <a href="https://www.facebook.com/arborchurchnw/"><i class="fa fa-facebook-square"></i></a>
-  &nbsp; &nbsp;
-  <a href="https://www.instagram.com/arborchurchnw/"><i class="fa fa-instagram"></i></a>
-  &nbsp; &nbsp;
-  <a href="https://www.twitter.com/arborchurchnw/"><i class="fa fa-twitter-square"></i></a>
-  &nbsp; &nbsp;
-  <a href="mailto:info@arborchurchnw.org"><i class="fa fa-envelope-o"></i></a>
-</div>
-</body>
-<script src="js/zenscroll-min.js"></script>
-</html>
-
+{{ partial "footer.html" . }}
