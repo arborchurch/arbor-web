@@ -1,17 +1,22 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 body {
-  background: url(img/arbor-path-full.jpg) no-repeat;
-  background-size: contain;
-  background-color: rgba(61, 61, 61, 1.0);
+  background-color: white;
   font-family: serif;
   margin-left: 0px;
   margin-right: 0px;
+  color: #949494;
 }
 
 h1, h2 {
   font-family: Montserrat;
   color: white;
+}
+
+.header {
+  background-color: #515151;
+  margin: 0px;
+  padding: 0px;
 }
 
 .footer {
@@ -32,6 +37,7 @@ h1, h2 {
   padding-top: 7rem;
   padding-bottom: 7rem;
   text-align: center;
+  word-wrap: none;
 }
 
 .pageButtons a {
@@ -41,12 +47,18 @@ h1, h2 {
   padding: 1rem;
   color: white;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.2em;
+  border-top: 6px solid white;
+  border-bottom: 1px solid white;
+  border-right: 1px solid white;
+  border-left: 1px solid white;
+  font-family: sans-serif;
+  font-weight: 300;
 }
 
 .footer, .footer a {
-  color: white;
   font-family: sans-serif;
+  color: #949494;
 }
 
 .footer .address {
