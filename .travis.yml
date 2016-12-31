@@ -11,7 +11,7 @@ install:
 # build the site
 script: 
   - cd site
-  - ../hugo_0.17_linux_amd64/hugo_0.17_linux_amd64 --theme=arbor
+  - ../hugo_0.17_linux_amd64/hugo_0.17_linux_amd64 --baseURL=https://www.arborchurchnw.org/staging/ --theme=arbor
 
 # deploy it!
 after_success:
