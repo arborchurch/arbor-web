@@ -13,6 +13,10 @@ h1, h2 {
   color: white;
 }
 
+a:hover {
+  text-decoration: none;
+}
+
 .header {
   background-color: #515151;
   margin: 0px;
@@ -40,7 +44,7 @@ h1, h2 {
   word-wrap: none;
 }
 
-.pageButtons a {
+.pageButtons a, a.email-link {
   text-decoration: none;
   border-bottom: 2px solid white;
   margin: 2rem;
@@ -136,8 +140,40 @@ ul.menu li {
   color: white;
 }
 
+/* ------------------------------------------------------------------------- */
+/* detail pages 
+/* ------------------------------------------------------------------------- */
+.detail {
+  margin-bottom: 20px;
+}
+
+.detail .photo {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.detail .photocell {
+  padding-right: 20px;
+  border-right: 4px solid black;
+}
+
+.detail .content {
+  padding-bottom: 20px;
+}
+
+.detail .email-link {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-top: 4px solid black;
+  text-transform: uppercase;
+  padding: 5px;
+  color: #404040;
+}
+
 /* mobile */
-@media screen and (max-width: 500px)  {
+@media screen and (max-width: 768px)  {
   ul.menu {
     display: none;
     padding-top: 4rem;
@@ -168,16 +204,24 @@ ul.menu li {
     bottom: 0px;
     top: 0px;
   }
+
+  .detail .photo {
+    height: 400px;
+  }
 }
 
 /* desktop */ 
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 768px) {
   .navigation .hamburger {
     display: none;
   }
 
   ul.menu ul {
     display: none;
+  }
+
+  .detail .photo {
+    height: 400px;
   }
 }
 

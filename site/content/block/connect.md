@@ -9,6 +9,6 @@ tagline: "Get Connected"
 
 <div class="pageButtons">
   <a href="#">Events</a>
-  <a href="#">Serve</a>
+  <a href="../serve">Serve</a>
 </div>
 
