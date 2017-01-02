@@ -10,15 +10,18 @@ body {
 
 h1, h2 {
   font-family: Montserrat;
-  color: white;
 }
 
 a:hover {
   text-decoration: none;
 }
 
-.header {
+.splash {
   background-color: #515151;
+  background-image: url(../img/arbor-mast.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   margin: 0px;
   padding: 0px;
 }
@@ -31,6 +34,10 @@ a:hover {
 
 .block {
   overflow: hidden;
+}
+
+.block h1 {
+  color: white;
 }
 
 .block h1 {
@@ -143,11 +150,24 @@ ul.menu li {
 /* ------------------------------------------------------------------------- */
 /* detail pages 
 /* ------------------------------------------------------------------------- */
+
+.header {
+  height: 500px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.header h1 {
+  text-transform: uppercase;
+  padding-top: 200px;
+  color: white;
+}
+
 .detail {
   margin-bottom: 20px;
 }
 
-.detail .photo {
+.detail .photo, .header {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
