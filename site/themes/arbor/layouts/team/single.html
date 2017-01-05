@@ -1,3 +1,18 @@
+<div class="row detail">
+  <div class="col-md-8">
+    <div class="photocell">
+      <div class="photo" style="background-image: url({{ .Site.BaseURL }}img/{{ .Params.image }})">
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="summary">
+      <h2>{{ .Title }}</h2>
+      <div class="content">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</div>
 
-<h1> {{ .Title }} </h1>
 
