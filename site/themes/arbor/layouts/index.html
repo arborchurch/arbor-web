@@ -10,7 +10,7 @@
 
 {{ range .Data.Pages }}
   {{ if eq .Type "block" }}
-  <div id="block_{{ .Title }}" class="block" style="background-color: {{ .Params.blockcolor }}">
+  <div id="{{ .Title }}" class="block" style="background-color: {{ .Params.blockcolor }}">
     <h1>{{ .Params.tagline }}</h1>
     {{ .Content }}
   </div>

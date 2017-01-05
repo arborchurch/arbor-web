@@ -9,6 +9,6 @@ tagline: "Messages"
 
 <div class="pageButtons">
   <a href="#">Series</a>
-  <a href="#">Podcast</a>
+  <a href="podcast/index.xml">Podcast</a>
 </div>
 

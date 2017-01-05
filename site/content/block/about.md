@@ -9,7 +9,7 @@ tagline: "Making Disciples Together"
 
 <div class="pageButtons">
   <a href="{{< relref "whoweare.md" >}}">Who We Are</a>
-  <a href="../team/">The Team</a>
+  <a href="team/">The Team</a>
 </div>
 
 
