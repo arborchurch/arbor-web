@@ -26,6 +26,16 @@ a:hover {
   padding: 0px;
 }
 
+.home-logo {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.home-logo img {
+  width: 38px;
+}
+
 .footer {
   padding-top: 2rem;
   padding-bottom: 3rem;

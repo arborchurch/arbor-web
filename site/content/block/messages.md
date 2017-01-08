@@ -5,10 +5,12 @@ menu: "main"
 weight: 25
 blockColor: "#307015"
 tagline: "Messages"
+image: "block-messages.jpg"
 ---
 
 <div class="pageButtons">
   <a href="#">Series</a>
+  <img class="separator" src="img/nav-separator.png" />
   <a href="podcast/index.xml">Podcast</a>
 </div>
 
