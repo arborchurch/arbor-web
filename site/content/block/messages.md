@@ -8,7 +8,7 @@ tagline: "Messages"
 image: "block-messages.jpg"
 ---
 
-<div class="pageButtons">
+<div class="page-buttons">
   <a href="#">Series</a>
   <img class="separator" src="img/nav-separator.png" />
   <a href="podcast/index.xml">Podcast</a>

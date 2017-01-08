@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
 
 body {
   background-color: white;
@@ -29,7 +30,7 @@ a:hover {
 .home-logo {
   position: absolute;
   top: 20px;
-  left: 20px;
+  left: 60px;
 }
 
 .home-logo img {
@@ -44,9 +45,16 @@ a:hover {
 
 .block {
   overflow: hidden;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 450px;
+  padding-top: 5rem;
+  letter-spacing: 0.2em;
 }
 
 .block h1 {
+  font-size: 50pt;
   color: white;
 }
 
@@ -54,27 +62,41 @@ a:hover {
   text-align: center;
 }
 
-.pageButtons {
+.block h2 {
+  font-family: Baskerville, Libre Baskerville;
+  text-align: center;
+  color: white;
+  font-style: italic;
+  letter-spacing: 0.1em;
+}
+
+.page-buttons {
   padding-top: 7rem;
   padding-bottom: 7rem;
   text-align: center;
   word-wrap: none;
 }
 
-.pageButtons a, a.email-link {
+.page-buttons a, a.email-link {
   text-decoration: none;
   border-bottom: 2px solid white;
   margin: 2rem;
   padding: 1rem;
   color: white;
   text-transform: uppercase;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.3em;
   border-top: 6px solid white;
   border-bottom: 1px solid white;
   border-right: 1px solid white;
   border-left: 1px solid white;
   font-family: sans-serif;
   font-weight: 300;
+  display: inline-block;
+  width: 12em;
+}
+
+.page-buttons .separator {
+  width: 28px;
 }
 
 .footer, .footer a {
@@ -95,7 +117,7 @@ a:hover {
 .navMenu {
   font-family: Montserrat;
   position: absolute;
-  right: 20px;
+  right: 60px;
   top: 20px;
   color: white;
 }
@@ -137,23 +159,35 @@ ul.menu li {
   margin-right: auto;
   text-align: center;
   width: 350px;
-  padding-bottom: 2rem;
+  padding-bottom: 8rem;
+  letter-spacing: 0.2em;
 }
 
 .mast img {
   width: 250px;
   height: auto;
+  margin-bottom: 2rem;
 }
 
 .mast h1 {
   font-size: 2rem;
-  opacity: 0.8;
   margin-bottom: 1rem;
+  text-transform: uppercase;
 }
 
 .mast a {
   font-family: Montserrat;
+  font-weight: 300;
   text-decoration: none;
+  color: white;
+}
+
+.mast .service-info {
+  border-top: 6px solid white;
+  border-bottom: 1px solid white;
+  border-right: 1px solid white;
+  border-left: 1px solid white;
+  padding-bottom: 10px;
   color: white;
 }
 

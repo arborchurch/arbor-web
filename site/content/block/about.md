@@ -4,11 +4,11 @@ title: "About"
 menu: "main"
 weight: 10
 blockColor: "#255535"
-tagline: "Making Disciples Together"
+tagline: "Making Disciples... Together"
 image: "block-about.jpg"
 ---
 
-<div class="pageButtons">
+<div class="page-buttons">
   <a href="{{< relref "whoweare.md" >}}">Who We Are</a>
   <img class="separator" src="img/nav-separator.png" />
   <a href="team/">The Team</a>
