@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 title: "Worship"
-image: "team-worship.jpg"
+image: "serve-worship.jpg"
 leader: "Jack"
 email: "worship@arborchurchnw.org"
 weight: 10

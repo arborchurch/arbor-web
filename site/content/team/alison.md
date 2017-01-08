@@ -1,6 +1,7 @@
 ---
 date: "2017-01-01"
 title: "Alison Acone"
+position: "Lead Pastor Assistant"
 weight: 20
 image: "staff-alison.jpg"
 ---

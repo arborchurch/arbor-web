@@ -3,10 +3,10 @@
 
 body {
   background-color: white;
-  font-family: serif;
+  font-family: Baskerville, Libre Baskerville, serif;
   margin-left: 0px;
   margin-right: 0px;
-  color: #949494;
+  color: #303030;
 }
 
 h1, h2 {
@@ -41,6 +41,15 @@ a:hover {
   padding-top: 2rem;
   padding-bottom: 3rem;
   text-align: center;
+}
+
+.footer a {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.footer a img {
+  width: 33px;
 }
 
 .block {
@@ -195,6 +204,10 @@ ul.menu li {
 /* detail pages 
 /* ------------------------------------------------------------------------- */
 
+.summary h3 {
+  font-style: italic;
+}
+
 .header {
   height: 500px;
   text-align: center;
@@ -240,6 +253,20 @@ ul.menu li {
   text-transform: uppercase;
   padding: 5px;
   color: #404040;
+}
+
+ul.footer-menu {
+  text-transform: uppercase;
+}
+
+ul.footer-menu li {
+  list-style-type: none;
+  display: inline-block;
+  padding-left: 1em;
+  padding-right: 1em;
+  font-weight: bold;
+  letter-spacing: 0.15em;
+  font-size: 8pt;
 }
 
 /* mobile */

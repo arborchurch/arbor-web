@@ -1,14 +1,14 @@
 <div class="footer">
-  <div class="address">
-    <strong>Arbor Church</strong>. 19011 Woodinville Snohomish Rd, Woodinville, WA 98072
-  </div>
-  <a href="https://www.facebook.com/arborchurchnw/"><i class="fa fa-facebook-square"></i></a>
-  &nbsp; &nbsp;
-  <a href="https://www.instagram.com/arborchurchnw/"><i class="fa fa-instagram"></i></a>
-  &nbsp; &nbsp;
-  <a href="https://www.twitter.com/arborchurchnw/"><i class="fa fa-twitter-square"></i></a>
-  &nbsp; &nbsp;
-  <a href="mailto:info@arborchurchnw.org"><i class="fa fa-envelope-o"></i></a>
+  <ul class="footer-menu">
+  {{ $baseUrl := .Site.BaseURL }}
+  {{ range .Site.Menus.main }}
+    <li><a href="{{ $baseUrl }}#{{.Name}}">{{ .Name }}</a></li>
+  {{ end }}
+  </ul>
+  <a href="mailto:info@arborchurchnw.org"><img src="{{ .Site.BaseURL }}img/social-mail.png"></i></a>
+  <a href="https://www.facebook.com/arborchurchnw/"><img src="{{ .Site.BaseURL }}img/social-facebook.png" /></i></a>
+  <a href="https://www.twitter.com/arborchurchnw/"><img src="{{ .Site.BaseURL }}img/social-twitter.png" /></i></a>
+ <a href="https://www.instagram.com/arborchurchnw/"><img src="{{ .Site.BaseURL }}img/social-instagram.png" /></i></a>
 </div>
 </body>
 <script src="{{ .Site.BaseURL }}js/zenscroll-min.js"></script>

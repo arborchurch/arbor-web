@@ -1,6 +1,7 @@
 ---
 date: "2017-01-01"
 title: "Jake Goetze"
+position: "Lead Pastor"
 image: "staff-jake.jpg"
 weight: 10
 ---

@@ -1,10 +1,11 @@
 ---
-date: "2017-01-01"
-title: "Children"
-image: "serve-childrens.jpg"
-leader: "Anna"
-email: "children@arborchurchnw.org"
-weight: 20
+date: "2017-01-07"
+title: "Media"
+image: "serve-media.jpg"
+leader: "Kevin"
+email: "media@arborchurchnw.org"
+weight: 10
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum am the worship team.
+
