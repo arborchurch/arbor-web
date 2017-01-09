@@ -31,13 +31,24 @@
 
 <div class="navigation">
   <input id="menuToggle" type="checkbox" />
-  <label class="navMenu" for="menuToggle">
+  <label class="nav-menu" for="menuToggle">
     <i class="hamburger fa fa-bars"></i>
     <ul class="menu">
     {{ $currentNode := . }}
     {{ $baseUrl := .Site.BaseURL }}
     {{ range .Site.Menus.main }}
-      <li><a href="{{ $baseUrl }}#{{.Name}}">{{ .Name }}</a></li>
+      <li>
+        {{ if (lt .Weight 100) }}
+        <a href="{{ $baseUrl }}#{{.Name}}">
+          {{ .Name }}
+          <img height="10" width="10" src="{{ $baseUrl }}img/drop-menu.png" />
+        </a>
+        {{ else }}
+        <a href="{{ .URL }}">
+          {{ .Name }}
+        </a>
+        {{ end }}
+      </li>
       {{ if .HasChildren }}
         <ul>
         {{ range .Children }}

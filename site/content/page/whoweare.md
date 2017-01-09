@@ -1,11 +1,11 @@
 ---
 date: "2016-12-13T22:07:46-08:00"
 title: "Who We Are"
+image: "block-about.jpg"
 menu:
   main:
     parent: 'About'
 ---
-
 
 ## God Is Real
 

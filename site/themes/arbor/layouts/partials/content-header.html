@@ -1,11 +1,11 @@
 {{ partial "header.html" . }}
 
-<div class="header" style="background-image: url(../img/{{ .Params.image }});">
+<div class="header" style="background-image: url({{ .Site.BaseURL }}img/{{ .Params.image }});">
   <h1>{{ .Title }}</h1>
   <div class="subtitle">
     {{ .Params.subtitle }}
   </div>
 </div>
 
-<div class="container">
+<div class="container-fluid">
 

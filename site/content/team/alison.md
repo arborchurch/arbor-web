@@ -3,6 +3,8 @@ date: "2017-01-01"
 title: "Alison Acone"
 position: "Lead Pastor Assistant"
 weight: 20
+email: "alison@arborchurchnw.org"
+emailname: Alison
 image: "staff-alison.jpg"
 ---
 

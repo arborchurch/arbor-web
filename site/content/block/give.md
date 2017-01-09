@@ -1,7 +1,6 @@
 ---
 date: "2016-01-07"
 title: "Give"
-menu: "main"
 weight: 25
 blockColor: "#307015"
 tagline: "Support Arbor Church"

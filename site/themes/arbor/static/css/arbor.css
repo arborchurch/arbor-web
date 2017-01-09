@@ -52,6 +52,12 @@ a:hover {
   width: 33px;
 }
 
+.footer .copyright {
+  font-family: Montserrat;
+  font-size: 10px;
+  margin-top: 2em;
+}
+
 .block {
   overflow: hidden;
   background-repeat: no-repeat;
@@ -87,13 +93,15 @@ a:hover {
 }
 
 .page-buttons a, a.email-link {
+  position: relative;
+  top: 0px;
   text-decoration: none;
   border-bottom: 2px solid white;
   margin: 2rem;
-  padding: 1rem;
+  padding: 5px;
   color: white;
   text-transform: uppercase;
-  letter-spacing: 0.3em;
+  letter-spacing: 0.2em;
   border-top: 6px solid white;
   border-bottom: 1px solid white;
   border-right: 1px solid white;
@@ -102,6 +110,16 @@ a:hover {
   font-weight: 300;
   display: inline-block;
   width: 12em;
+}
+
+.summary a.email-link {
+  display: block;
+  text-align: center;
+  left: 0px;
+  bottom: 0px;
+  margin: 0px;
+  width: 150px;
+  height: 40px;
 }
 
 .page-buttons .separator {
@@ -113,25 +131,21 @@ a:hover {
   color: #949494;
 }
 
-.footer .address {
-  font-size: 10pt;
-  margin-bottom: 1rem;
-}
-
-.footer a {
-  font-size: 14pt;
-}
-
 /* "hamburger" menu */
-.navMenu {
+.nav-menu {
   font-family: Montserrat;
+  font-size: 13px;
   position: absolute;
   right: 60px;
   top: 20px;
   color: white;
 }
 
-.navMenu a {
+.nav-menu img {
+  vertical-align: baseline;
+}
+
+.nav-menu a {
   color: white;
   text-decoration: none;
   letter-spacing: 0.1em;
@@ -167,13 +181,13 @@ ul.menu li {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  width: 350px;
+  width: 400px;
   padding-bottom: 8rem;
   letter-spacing: 0.2em;
 }
 
 .mast img {
-  width: 250px;
+  width: 400px;
   height: auto;
   margin-bottom: 2rem;
 }
@@ -186,7 +200,6 @@ ul.menu li {
 
 .mast a {
   font-family: Montserrat;
-  font-weight: 300;
   text-decoration: none;
   color: white;
 }
@@ -197,12 +210,19 @@ ul.menu li {
   border-right: 1px solid white;
   border-left: 1px solid white;
   padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
   color: white;
 }
 
 /* ------------------------------------------------------------------------- */
 /* detail pages 
 /* ------------------------------------------------------------------------- */
+
+.summary {
+  position: relative;
+  overflow: hidden;
+}
 
 .summary h3 {
   font-style: italic;
@@ -212,11 +232,13 @@ ul.menu li {
   height: 500px;
   text-align: center;
   margin-bottom: 50px;
+  z-index: -1;
 }
 
 .header h1 {
-  text-transform: uppercase;
+  text-shadow: 0px 0px 25px rgba(0,0,0,0.5);
   margin: 0px;
+  font-size: 50pt;
   padding-top: 150px;
   color: white;
 }
@@ -224,6 +246,7 @@ ul.menu li {
 .header .subtitle {
   font-style: italic;
   color: white;
+  font-size: 20pt;
 }
 
 .detail {
@@ -234,6 +257,8 @@ ul.menu li {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  position: relative;
+  margin-left: -15px;
 }
 
 .detail .photocell {
@@ -257,6 +282,7 @@ ul.menu li {
 
 ul.footer-menu {
   text-transform: uppercase;
+  margin-bottom: 2em;
 }
 
 ul.footer-menu li {
@@ -266,7 +292,7 @@ ul.footer-menu li {
   padding-right: 1em;
   font-weight: bold;
   letter-spacing: 0.15em;
-  font-size: 8pt;
+  font-size: 14px;
 }
 
 /* mobile */
@@ -295,7 +321,7 @@ ul.footer-menu li {
     color: #204020;
   }
 
-  .navMenu {
+  .nav-menu {
     right: 0px;
     left: 0px;
     bottom: 0px;
