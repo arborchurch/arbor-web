@@ -1,5 +1,22 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
+
+@font-face {
+  font-family: "Montserrat";
+  src: url('fonts/Montserrat-ExtraLight-webfont.woff') format('woff');
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url('fonts/Montserrat-Regular-webfont.woff') format('woff');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url('fonts/Montserrat-Bold-webfont.woff') format('woff');
+  font-weight: 700;
+}
 
 body {
   background-color: white;
@@ -101,13 +118,13 @@ a:hover {
   padding: 5px;
   color: white;
   text-transform: uppercase;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.25em;
   border-top: 6px solid white;
   border-bottom: 1px solid white;
   border-right: 1px solid white;
   border-left: 1px solid white;
-  font-family: sans-serif;
-  font-weight: 300;
+  font-family: Montserrat, sans-serif;
+  font-weight: 200;
   display: inline-block;
   width: 12em;
 }
@@ -148,7 +165,8 @@ a:hover {
 .nav-menu a {
   color: white;
   text-decoration: none;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.05em;
+  font-weight: normal;
 }
 
 i.hamburger {
@@ -195,7 +213,9 @@ ul.menu li {
 .mast h1 {
   font-size: 2rem;
   margin-bottom: 1rem;
+  margin-top: 1rem;
   text-transform: uppercase;
+  font-weight: 200;
 }
 
 .mast a {
@@ -213,6 +233,7 @@ ul.menu li {
   padding-right: 20px;
   padding-left: 20px;
   color: white;
+  font-weight: 200;
 }
 
 /* ------------------------------------------------------------------------- */
