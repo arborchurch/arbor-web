@@ -8,5 +8,9 @@ emailname: Alison
 image: "staff-alison.jpg"
 ---
 
+Alison has been Jake's assistant since her hair was red, but for the record, she sees absolutely no correlation between their partnership and her gray. Absolutely none.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+When she's not helping with Arbor, she's asleep. Or she is with her grandkids.
+
+Make sure to follow Alison on all the social media platforms for 24 by 7 coverage of her fascinating life.
+

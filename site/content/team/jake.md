@@ -7,4 +7,5 @@ email: "jake@arborchurchnw.org"
 emailname: Jake
 weight: 10
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Jake is a Pacific Northwest native: a flannel, trucks, and country music guy raised in the small town of Eatonville. When he's not fishing, he's hanging out with his wife and kids, hopefully at Disneyland. After the loss of their 3-year-old daughter, Magnolia, Jake has a renewed passion to tell others about Jesus and the heaven their little girl is now playing in. He is grateful for the people of Arbor Church partnering together to share that message.
+
