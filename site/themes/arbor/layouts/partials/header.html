@@ -32,7 +32,6 @@
 <div class="navigation">
   <input id="menuToggle" type="checkbox" />
   <label class="nav-menu" for="menuToggle">
-    <i class="hamburger fa fa-bars"></i>
     <ul class="menu">
     {{ $currentNode := . }}
     {{ $baseUrl := .Site.BaseURL }}
@@ -58,6 +57,14 @@
       {{ end }}
     {{ end }}
     </ul>
+    <div class="menu-logo">
+      <img src="{{ .Site.BaseURL }}img/arbor-mobile-logo.png" />
+    </div>
+    <div class="hamburger">
+      <div class="line"></div>
+      <div class="line"></div>
+      <div class="line"></div>
+    </div>
   </label>
 </div>
 
