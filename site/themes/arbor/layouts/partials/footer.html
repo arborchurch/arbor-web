@@ -2,7 +2,7 @@
   <ul class="footer-menu">
   {{ $baseUrl := .Site.BaseURL }}
   {{ range .Site.Menus.main }}
-    <li><a href="{{ $baseUrl }}#{{.Name}}">{{ .Name }}</a></li>
+    <li><a href="{{ $baseUrl }}#block_{{.Name}}">{{ .Name }}</a></li>
   {{ end }}
   </ul>
   <a href="mailto:info@arborchurchnw.org"><img src="{{ .Site.BaseURL }}img/social-mail.png"></i></a>

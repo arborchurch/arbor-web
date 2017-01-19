@@ -12,7 +12,7 @@
 
 {{ range .Data.Pages }}
   {{ if eq .Type "block" }}
-  <div id="{{ .Title }}" class="block" style="background-image: url(img/{{ .Params.image }});">
+  <div id="block_{{ .Title }}" class="block" style="background-image: url(img/{{ .Params.image }});">
     <h1>{{ .Title }}</h1>
     <h2>{{ .Params.tagline }}</h2>
     {{ .Content }}

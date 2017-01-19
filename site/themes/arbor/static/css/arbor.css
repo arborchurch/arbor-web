@@ -23,6 +23,7 @@ body {
   font-family: Baskerville, Libre Baskerville, serif;
   margin-left: 0px;
   margin-right: 0px;
+  margin-top: 0px;
   color: #303030;
 }
 
@@ -118,7 +119,9 @@ a:hover {
   top: 0px;
   text-decoration: none;
   border-bottom: 2px solid white;
-  margin: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  margin-bottom: 1rem;
   padding: 5px;
   color: white;
   text-transform: uppercase;
@@ -175,7 +178,7 @@ a:hover {
 
 .hamburger {
   position: fixed; 
-  right: 0px;
+  right: 20px;
   top: 0px;
   padding: 20px;
   cursor: pointer;
@@ -323,15 +326,55 @@ ul.footer-menu li {
   font-size: 14px;
 }
 
-.desktop-expand, .mobile-expand {
+.desktop-expand, .mobile-expand, .mobile-contract {
+  display: none;
+}
+
+ul.menu li {
+  padding-left: 0px;
+}
+
+ul.menu ul {
+  padding-top: 20px;
+  padding-bottom: 0px;
+  display: none;
+  transition: all 0.25s linear;
+  overflow: hidden;
+}
+
+ul.menu li.open ul {
+  display: block;
+  transition: all 0.25s linear;
+}
+
+ul.menu li img.mobile-contract {
+  display: none;
+}
+
+ul.menu li.open img.mobile-expand {
+  display: none;
+}
+
+ul.menu li.open img.mobile-contract {
+  display: inline;
+}
+
+.menu-background {
+  background-color: #83BA23;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  height: 60px;
   display: none;
 }
 
 /* mobile */
-@media screen and (max-width: 768px)  {
+@media screen and (max-width: 768px) {
   ul.menu {
     display: none;
     padding-top: 6rem;
+    padding-left: 20px;
     background-color: #f5f5f5;
     color: #404040;
     font-size: 25px;
@@ -341,19 +384,21 @@ ul.footer-menu li {
     position: fixed;
   }
   
-  .mobile-expand {
+  .mobile-expand, .mobile-contract {
     display: inline;
   }
 
   #nav-menu a {
     color: #404040;
+    display: block;
   }
 
-  #nav-menu img {
+  #nav-menu .mobile-expand, #nav-menu .mobile-contract {
     vertical-align: top;
     position: absolute;
-    right: 20px;
+    right: 40px;
   }
+
   #nav-menu.open {
     right: 0px;
     left: 0px;
@@ -382,12 +427,9 @@ ul.footer-menu li {
     background-color: #83BA23;
   }
 
-  #nav-menu.open {
-  }
-
   ul.menu li {
     display: block;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
   }
 
   ul.menu li a {
@@ -402,20 +444,24 @@ ul.footer-menu li {
     display: none;
   }
 
+  .home-logo, .menu-logo {
+    top: 20px;
+    left: 20px;
+  }
 }
 
 /* desktop */ 
 @media screen and (min-width: 768px) {
+  ul.menu li {
+    padding-left: 10px;
+  }
+
   .navigation .hamburger {
     display: none;
   }
 
   .desktop-expand {
     display: inline;
-  }
-
-  ul.menu ul {
-    display: none;
   }
 
   .detail .photo {

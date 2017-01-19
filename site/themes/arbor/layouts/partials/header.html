@@ -21,13 +21,30 @@
   </script>
 
   <script>
-    function toggle_menu() {
-      var ele = document.getElementById("nav-menu");
+    function toggle_menu(ele) {
       if (ele.className === "open")
         ele.className = "";
       else
         ele.className = "open";
       return false;
+    }
+
+    function toggle_main_menu() {
+      toggle_menu(document.getElementById("nav-menu"));
+    }
+
+    function toggle_sub_menu(menu) {
+      toggle_menu(document.getElementById(menu));
+    }
+
+    function navigate_to(menu) {
+      if (document.getElementById("nav-menu").className === "open") {
+        // when the mobile menu is open, expand/collapse it
+        toggle_sub_menu("menu_" + menu);
+      } else {
+        // when it isn't, scroll to the right place in the document
+        zenscroll.intoView(document.getElementById("block_" + menu));
+      }
     }
   </script>
 </head>
@@ -45,19 +62,19 @@
     {{ $currentNode := . }}
     {{ $baseUrl := .Site.BaseURL }}
     {{ range .Site.Menus.main }}
-      <li>
+      <li id="menu_{{ .Name }}">
         {{ if (lt .Weight 100) }}
-        <a href="{{ $baseUrl }}#{{.Name}}">
+        <a href="javascript:navigate_to('{{.Name}}');">
           {{ .Name }}
           <img class="desktop-expand" height="10" width="10" src="{{ $baseUrl }}img/drop-menu.png" />
-          <img class="mobile-expand" height="25" width="25" src="{{ $baseUrl }}img/mobile-menu-expanded.png" />
+          <img class="mobile-expand" height="25" width="25" src="{{ $baseUrl }}img/mobile-menu-contracted.png" />
+          <img class="mobile-contract" height="25" width="25" src="{{ $baseUrl }}img/mobile-menu-expanded.png" />
         </a>
         {{ else }}
         <a href="{{ .URL }}">
           {{ .Name }}
         </a>
         {{ end }}
-      </li>
       {{ if .HasChildren }}
         <ul>
         {{ range .Children }}
@@ -65,12 +82,15 @@
         {{ end }}
         </ul>
       {{ end }}
+      </li>
     {{ end }}
     </ul>
     <div class="menu-logo">
-      <img src="{{ .Site.BaseURL }}img/arbor-mobile-logo.png" />
+      <a href="{{ .Site.BaseURL }}">
+        <img src="{{ .Site.BaseURL }}img/arbor-mobile-logo.png" />
+      </a>
     </div>
-    <div class="hamburger" onClick="return toggle_menu();">
+    <div class="hamburger" onClick="return toggle_main_menu();">
       <div class="line"></div>
       <div class="line"></div>
       <div class="line"></div>
