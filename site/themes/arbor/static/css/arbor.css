@@ -68,6 +68,7 @@ a:hover {
 .footer a {
   padding-left: 2px;
   padding-right: 2px;
+  text-decoration: none;
 }
 
 .footer a img {
@@ -204,18 +205,18 @@ ul.menu li {
 }
 
 .mast {
-  overflow: none;
+  overflow: hidden;
   padding-top: 3rem;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  width: 400px;
+  width: 360px;
   padding-bottom: 8rem;
   letter-spacing: 0.2em;
 }
 
 .mast img {
-  width: 400px;
+  width: 360px;
   height: auto;
   margin-bottom: 2rem;
 }
@@ -244,6 +245,8 @@ ul.menu li {
   padding-left: 20px;
   color: white;
   font-weight: 200;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* ------------------------------------------------------------------------- */
@@ -251,6 +254,8 @@ ul.menu li {
 /* ------------------------------------------------------------------------- */
 
 .summary {
+  border-left: 4px solid black;
+  padding-left: 20px;
   position: relative;
   overflow: hidden;
 }
@@ -258,6 +263,7 @@ ul.menu li {
 .summary h3 {
   font-style: italic;
 }
+
 
 .header {
   height: 500px;
@@ -294,7 +300,6 @@ ul.menu li {
 
 .detail .photocell {
   padding-right: 20px;
-  border-right: 4px solid black;
 }
 
 .detail .content {
@@ -314,13 +319,15 @@ ul.menu li {
 ul.footer-menu {
   text-transform: uppercase;
   margin-bottom: 2em;
+  margin-left: 0px;
+  padding-left: 0px;
 }
 
 ul.footer-menu li {
   list-style-type: none;
   display: inline-block;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
   font-weight: bold;
   letter-spacing: 0.15em;
   font-size: 14px;
@@ -404,6 +411,7 @@ ul.menu li.open img.mobile-contract {
     left: 0px;
     bottom: 0px;
     top: 0px;
+    z-index: 1;
   }
 
   #nav-menu.open ul.menu {
