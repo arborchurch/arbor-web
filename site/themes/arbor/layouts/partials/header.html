@@ -53,7 +53,7 @@
       var end = start + ele.offsetHeight + ele.offsetHeight;
       if (st >= start && st <= end) {
         var translate =  Math.round(((st - start) / (end - start)) * 300) - 150;
-        ele.style.backgroundPosition = "0px " + translate + "px";
+        ele.style.backgroundPosition = "center " + translate + "px";
       }
     }
 
