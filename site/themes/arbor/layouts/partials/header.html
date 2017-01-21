@@ -49,8 +49,8 @@
     
     function update_parallax(ele) {
       var st = document.body.scrollTop;
-      var start = ele.offsetTop - window.screen.height;
-      var end = start + ele.offsetHeight + window.screen.height;
+      var start = ele.offsetTop - ele.offsetHeight;
+      var end = start + ele.offsetHeight + ele.offsetHeight;
       if (st >= start && st <= end) {
         var translate =  Math.round(((st - start) / (end - start)) * 300) - 150;
         ele.style.backgroundPosition = "0px " + translate + "px";

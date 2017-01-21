@@ -87,7 +87,7 @@ a:hover {
   background-position: center;
   background-size: cover;
   height: 100vh;
-  padding-top: 5rem;
+  padding-top: 20vh;
   letter-spacing: 0.2em;
 }
 
@@ -292,7 +292,7 @@ ul.menu li {
 
 .detail .photo, .header {
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: 50% 0px;
   background-size: cover;
   position: relative;
   margin-left: -15px;
