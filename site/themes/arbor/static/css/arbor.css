@@ -86,7 +86,7 @@ a:hover {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  height: 600px;
+  height: 100vh;
   padding-top: 5rem;
   letter-spacing: 0.2em;
 }
@@ -187,7 +187,7 @@ a:hover {
 }
 
 .hamburger .line {
-  width: 100%;
+  width: 30px;
   height: 5px;
   margin-bottom: 5px;
   background-color: white;
