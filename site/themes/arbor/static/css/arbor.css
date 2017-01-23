@@ -126,7 +126,7 @@ a:hover {
   padding: 5px;
   color: white;
   text-transform: uppercase;
-  letter-spacing: 0.25em;
+  letter-spacing: 0.15em;
   border-top: 6px solid white;
   border-bottom: 1px solid white;
   border-right: 1px solid white;
@@ -143,8 +143,8 @@ a:hover {
   left: 0px;
   bottom: 0px;
   margin: 0px;
-  width: 150px;
-  height: 40px;
+  width: 12em;
+  font-size: 13px;
 }
 
 .page-buttons .separator {
@@ -184,6 +184,7 @@ a:hover {
   padding: 20px;
   cursor: pointer;
   width: 30px;
+  z-index: 2;
 }
 
 .hamburger .line {
@@ -255,7 +256,7 @@ ul.menu li {
 
 .summary {
   border-left: 4px solid black;
-  padding-left: 20px;
+  padding-left: 30px;
   position: relative;
   overflow: hidden;
 }
@@ -296,10 +297,6 @@ ul.menu li {
   background-size: cover;
   position: relative;
   margin-left: -15px;
-}
-
-.detail .photocell {
-  padding-right: 20px;
 }
 
 .detail .content {
@@ -415,12 +412,15 @@ ul.menu li.open img.mobile-contract {
     padding-top: 10px;
     border-top: 1px solid #404040;
     margin-left: 0px;
+    padding-left: 20px;
+    margin-right: 10px;
   }
 
   #nav-menu .mobile-expand, #nav-menu .mobile-contract {
     vertical-align: top;
     position: absolute;
     right: 10px;
+    margin-top: 5px;
   }
 
   #nav-menu.open {
@@ -428,7 +428,6 @@ ul.menu li.open img.mobile-contract {
     left: 0px;
     bottom: 0px;
     top: 0px;
-    z-index: 1;
   }
 
   #nav-menu.open ul.menu {
@@ -438,10 +437,14 @@ ul.menu li.open img.mobile-contract {
     left: 0px;
     right: 0px;
     bottom: 0px;
+    margin-bottom: 0;
+    padding-left: 0;
+    z-index: 1;
   }
 
   #nav-menu.open .menu-logo {
     display: block;
+    z-index: 2;
   }
 
   #nav-menu.open .hamburger {
@@ -472,6 +475,15 @@ ul.menu li.open img.mobile-contract {
   .home-logo, .menu-logo {
     top: 20px;
     left: 20px;
+  }
+  
+  .summary {
+    margin-top: 10px;
+    padding-left: 10px;
+  }
+
+  .summary h2 {
+    margin-top: 0px;
   }
 }
 
