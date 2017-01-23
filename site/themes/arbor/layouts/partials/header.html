@@ -38,13 +38,7 @@
     }
 
     function navigate_to(menu) {
-      if (document.getElementById("nav-menu").className === "open") {
-        // when the mobile menu is open, expand/collapse it
-        toggle_sub_menu("menu_" + menu);
-      } else {
-        // when it isn't, scroll to the right place in the document
-        zenscroll.intoView(document.getElementById("block_" + menu));
-      }
+      toggle_sub_menu("menu_" + menu);
     }
     
     function update_parallax(ele) {

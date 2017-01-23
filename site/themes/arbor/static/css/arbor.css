@@ -199,7 +199,12 @@ ul.menu > li > a {
   margin: 0px;
 }
 
+ul.menu {
+  position: relative;
+}
+
 ul.menu li {
+  position: relative;
   display: inline;
   list-style-type: none;
   padding-left: 1em;
@@ -271,6 +276,7 @@ ul.menu li {
   text-align: center;
   margin-bottom: 50px;
   z-index: -1;
+  background-position: center 0px;
 }
 
 .header h1 {
@@ -293,7 +299,6 @@ ul.menu li {
 
 .detail .photo, .header {
   background-repeat: no-repeat;
-  background-position: center;
   background-size: cover;
   position: relative;
   margin-left: -15px;
@@ -342,25 +347,15 @@ ul.menu ul {
   padding-top: 20px;
   padding-bottom: 0px;
   display: none;
-  transition: all 0.25s linear;
   overflow: hidden;
 }
 
 ul.menu li.open ul {
   display: block;
-  transition: all 0.25s linear;
 }
 
 ul.menu li img.mobile-contract {
   display: none;
-}
-
-ul.menu li.open img.mobile-expand {
-  display: none;
-}
-
-ul.menu li.open img.mobile-contract {
-  display: inline;
 }
 
 .menu-background {
@@ -389,6 +384,14 @@ ul.menu li.open img.mobile-contract {
   }
   
   .mobile-expand, .mobile-contract {
+    display: inline;
+  }
+
+  ul.menu li.open img.mobile-expand {
+    display: none;
+  }
+
+  ul.menu li.open img.mobile-contract {
     display: inline;
   }
 
@@ -491,6 +494,19 @@ ul.menu li.open img.mobile-contract {
 @media screen and (min-width: 768px) {
   ul.menu li {
     padding-left: 10px;
+  }
+
+  ul.menu li.open ul {
+    position: absolute;
+    top: 1.5em;
+    left: 0px;
+    padding-left: 0px;
+    width: 12em;
+    padding-top: 0;
+  }
+
+  ul.menu li.open ul li {
+    display: block;
   }
 
   .navigation .hamburger {
