@@ -372,6 +372,13 @@ ul.menu li img.mobile-contract {
   display: none;
 }
 
+.detail-notice {
+  color: #909090;
+  margin-bottom: 20px;
+  border: 1px solid black;
+  padding: 20px;
+}
+
 /* mobile */
 @media screen and (max-width: 768px) {
   ul.menu {

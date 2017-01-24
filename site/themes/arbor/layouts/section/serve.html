@@ -1,0 +1,17 @@
+
+{{ partial "content-header.html" . }}
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <div class="detail-notice">
+      Interested in serving at Arbor Church, but not sure who to talk to? Here are a few great places to get plugged in! If any of these sound like you (or you're still not sure!), e-mail Alison Acone at <a href="mailto:alison@arborchurchnw.org">alison@arborchurchnw.org</a> for more info.
+    </div>
+  </div>
+</div>
+
+{{ range .Data.Pages }}
+  {{ .Render "single" }}
+{{ end }}
+
+{{ partial "content-footer.html" . }}
+
