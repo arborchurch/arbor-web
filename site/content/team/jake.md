@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 title: "Jake Goetze"
-position: "Lead Pastor"
+position: "Pastor"
 image: "staff-jake.jpg"
 email: "jake@arborchurchnw.org"
 emailname: Jake

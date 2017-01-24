@@ -2,7 +2,7 @@
 date: "2017-01-01"
 title: "Welcome"
 image: "serve-welcome.jpg"
-leader: "Jon"
+leader: "Jon & Kerri"
 email: "welcome@arborchurchnw.org"
 weight: 20
 ---

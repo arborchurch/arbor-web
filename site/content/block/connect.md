@@ -4,7 +4,7 @@ title: "Connect"
 menu: "main"
 weight: 20
 blockColor: "#909090"
-tagline: "Get Connected"
+tagline: "Gathering Together in Groups"
 image: "block-connect.jpg"
 ---
 

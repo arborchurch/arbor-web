@@ -3,7 +3,7 @@ date: "2016-01-07"
 title: "Give"
 weight: 25
 blockColor: "#307015"
-tagline: "Support Arbor Church"
+tagline: "Going Together in Teams"
 image: "block-give.jpg"
 ---
 

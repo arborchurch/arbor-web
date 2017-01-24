@@ -87,12 +87,13 @@ a:hover {
   background-position: center;
   background-size: cover;
   height: 100vh;
-  padding-top: 20vh;
+  padding-top: 35vh;
   letter-spacing: 0.2em;
 }
 
 .block h1 {
   font-size: 50pt;
+  margin-bottom: 0;
   color: white;
 }
 
@@ -105,7 +106,10 @@ a:hover {
   text-align: center;
   color: white;
   font-style: italic;
-  letter-spacing: 0.1em;
+  font-size: 20pt;
+  margin-top: 0;
+  font-weight: normal;
+  letter-spacing: normal;
 }
 
 .page-buttons {
@@ -123,7 +127,7 @@ a:hover {
   margin-left: 2rem;
   margin-right: 2rem;
   margin-bottom: 1rem;
-  padding: 5px;
+  padding: 7px;
   color: white;
   text-transform: uppercase;
   letter-spacing: 0.15em;
@@ -218,7 +222,7 @@ ul.menu li {
   text-align: center;
   width: 360px;
   padding-bottom: 8rem;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.15em;
 }
 
 .mast img {

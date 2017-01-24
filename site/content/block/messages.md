@@ -4,7 +4,7 @@ title: "Messages"
 menu: "main"
 weight: 25
 blockColor: "#307015"
-tagline: "Messages"
+tagline: "Growing Together on Sundays"
 image: "block-messages.jpg"
 ---
 
