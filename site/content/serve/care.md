@@ -2,7 +2,7 @@
 date: "2017-01-01"
 title: "Care"
 image: "serve-care.jpg"
-leader: "Paul"
+leader: "Paul & TC"
 email: "care@arborchurchnw.org"
 weight: 30
 ---

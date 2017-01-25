@@ -4,7 +4,7 @@ title: "About"
 menu: "main"
 weight: 10
 blockColor: "#255535"
-tagline: "Making Disciples... together"
+tagline: "Making disciples... together"
 image: "block-about.jpg"
 ---
 

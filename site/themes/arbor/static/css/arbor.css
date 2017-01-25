@@ -92,7 +92,8 @@ a:hover {
 }
 
 .block h1 {
-  font-size: 50pt;
+  text-transform: lowercase;
+  font-size: 60pt;
   margin-bottom: 0;
   color: white;
 }
@@ -108,7 +109,7 @@ a:hover {
   font-style: italic;
   font-size: 20pt;
   margin-top: 0;
-  font-weight: normal;
+  font-weight: 300;
   letter-spacing: normal;
 }
 
@@ -142,9 +143,11 @@ a:hover {
 }
 
 .summary a.email-link {
+  position: absolute;
   display: block;
   text-align: center;
-  left: 0px;
+  left: 30px;
+  top: auto;
   bottom: 0px;
   margin: 0px;
   width: 12em;
@@ -289,6 +292,7 @@ ul.menu li {
   font-size: 50pt;
   padding-top: 150px;
   color: white;
+  text-transform: lowercase;
 }
 
 .header .subtitle {
@@ -379,6 +383,30 @@ ul.menu li img.mobile-contract {
   padding: 20px;
 }
 
+/* beliefs page */
+
+.belief-header {
+  padding-top: 30px;
+  text-align: center;
+  font-size: 20pt;
+  font-style: italic;
+}
+
+.belief-verses {
+  font-family: Baskerville, Libre Baskerville, serif;
+  margin-top: 2em;
+  color: #909090;
+  font-style: italic;
+}
+
+.belief-body {
+  font-family: Montserrat;
+  font-weight: 300;
+  font-size: 12pt;
+  border-left: 4px solid black;
+  margin-bottom: 50px;
+}
+
 /* mobile */
 @media screen and (max-width: 768px) {
   ul.menu {
@@ -433,7 +461,7 @@ ul.menu li img.mobile-contract {
   #nav-menu .mobile-expand, #nav-menu .mobile-contract {
     vertical-align: top;
     position: absolute;
-    right: 10px;
+    right: 2px;
     margin-top: 5px;
   }
 
@@ -499,6 +527,12 @@ ul.menu li img.mobile-contract {
   .summary h2 {
     margin-top: 0px;
   }
+
+  .summary a.email-link {
+    position: relative;
+    top: 0px;
+    left: 0px;
+  }
 }
 
 /* desktop */ 
@@ -507,12 +541,36 @@ ul.menu li img.mobile-contract {
     padding-left: 10px;
   }
 
+  ul.menu li.open {
+    background-color: white;
+  }
+
+  #nav-menu ul.menu li.open a {
+    color: #808080;
+  }
+
+  #nav-menu ul.menu li.open ul li {
+    background-color: white;
+    transition: background-color 0.5s linear;
+  }
+
+  #nav-menu ul.menu li.open ul li:hover {
+    color: white;
+    background-color: #000000;
+    transition: background-color 0.5s linear;
+  }
+
+  #nav-menu ul.menu li.open ul li:hover a {
+    color: white;
+  }
+
   ul.menu li.open ul {
+    background-color: white;
     position: absolute;
     top: 1.5em;
     left: 0px;
+    width: 100%;
     padding-left: 0px;
-    width: 12em;
     padding-top: 0;
   }
 
@@ -528,7 +586,7 @@ ul.menu li img.mobile-contract {
     display: inline;
   }
 
-  .detail .photo {
+  .detail .photo, .detail .summary {
     height: 400px;
   }
 }

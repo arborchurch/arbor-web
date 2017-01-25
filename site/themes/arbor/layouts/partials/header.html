@@ -22,10 +22,10 @@
 
   <script>
     function toggle_menu(ele) {
-      if (ele.className === "open")
-        ele.className = "";
+      if (ele.className.endsWith(" open"))
+        ele.className = ele.className.substring(0, ele.className.length - " open".length);
       else
-        ele.className = "open";
+        ele.className += " open";
       return false;
     }
 
@@ -39,6 +39,19 @@
 
     function navigate_to(menu) {
       toggle_sub_menu("menu_" + menu);
+    }
+
+    function hover_menu_on(e, menu) {
+      // ignore hover on small screens
+      if (document.body.clientWidth < 768) 
+        return;
+      navigate_to(menu);
+    }
+
+    function hover_menu_off(e, menu) {
+      if (document.body.clientWidth < 768) 
+        return;
+      navigate_to(menu);
     }
     
     function update_parallax(ele) {
@@ -59,6 +72,31 @@
         }
       });
     });
+
+    window.addEventListener("load", function() {
+      var eles = document.getElementsByClassName("menu-hover");
+      for (var i = 0; i < eles.length; i++) {
+        (function() {
+          var ele = eles[i];
+          ele.addEventListener("mouseover", function(e) {
+            if (document.body.clientWidth < 768)
+              return;
+            if (!ele.className.endsWith(" open"))
+              ele.className += " open";
+          });
+          ele.addEventListener("mouseout", function(e) {
+            if (document.body.clientWidth < 768)
+              return;
+            var e = event.toElement || event.relatedTarget;
+            if (e.className === "menu") {
+               return;
+            }
+            if (ele.className.endsWith(" open"))
+              ele.className = ele.className.substring(0, " open".length);
+          });
+        })();
+      }
+    });
   </script>
 </head>
 <body>
@@ -75,7 +113,7 @@
     {{ $currentNode := . }}
     {{ $baseUrl := .Site.BaseURL }}
     {{ range .Site.Menus.main }}
-      <li id="menu_{{ .Name }}">
+      <li class="menu-hover" id="menu_{{ .Name }}">
         {{ if (lt .Weight 100) }}
         <a href="javascript:navigate_to('{{.Name}}');">
           {{ .Name }}
@@ -89,7 +127,7 @@
         </a>
         {{ end }}
       {{ if .HasChildren }}
-        <ul>
+        <ul class="sub-menu">
         {{ range .Children }}
           <li><a href="{{.URL}}">{{ .Name }}</a></li>
         {{ end }}
