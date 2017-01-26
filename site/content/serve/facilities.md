@@ -2,7 +2,7 @@
 date: "2017-01-01"
 title: "Facilities"
 image: "serve-facilities.jpg"
-leader: "Jarrod"
+leader: "Jerrod"
 email: "facilities@arborchurchnw.org"
 weight: 100
 ---
