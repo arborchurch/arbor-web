@@ -58,7 +58,7 @@ menu:
     The Church is God's People
   </div>
   <div class="col-sm-8 belief-body">
-    The church is not a building, event, or institution. It is God’s family, made up of those who trust in Jesus, are baptized, and made new by the power of the Holy Spirit. The primary purpose of the church is to share the good news of Jesus to this broken world. 
+    We believe the church is not a building, event, or institution. It is God’s family, made up of those who trust in Jesus, are baptized, and made new by the power of the Holy Spirit. The primary purpose of the church is to share the good news of Jesus to this broken world. 
 
     <div class="belief-verses">(Ephesians 2:19, 22, 5:25-27; Matthew 16:15-19; Acts 2:38-41; Matthew 28:18-20)</div>
   </div>
