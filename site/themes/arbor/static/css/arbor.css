@@ -301,6 +301,7 @@ ul.menu li {
   font-style: italic;
   color: white;
   font-size: 20pt;
+  text-transform: lowercase;
 }
 
 .detail {
