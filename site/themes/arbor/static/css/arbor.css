@@ -43,6 +43,7 @@ a:hover {
   background-size: cover;
   margin: 0px;
   padding: 0px;
+  height: 100vh;
 }
 
 .home-logo, .menu-logo {
@@ -111,6 +112,7 @@ a:hover {
   margin-top: 0;
   font-weight: 300;
   letter-spacing: normal;
+  text-transform: lowercase;
 }
 
 .page-buttons {
@@ -394,7 +396,7 @@ ul.menu li img.mobile-contract {
 
 .belief-verses {
   font-family: Baskerville, Libre Baskerville, serif;
-  margin-top: 2em;
+  margin-top: 1em;
   color: #909090;
   font-style: italic;
 }

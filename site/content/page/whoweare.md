@@ -8,7 +8,10 @@ menu:
     parent: 'About'
 ---
 
-# Our Beliefs
+
+As a new church plant in Woodinville, WA, we desire to make disciples. Making disciples is our purpose, and our preference is to do it together. We hope to do this together by gathering together in groups, growing together on Sundays, and going together in teams.
+
+Our story is because of God's story, also known as our Statement of Beliefs.
 
 <div class="belief-row">
   <div class="col-sm-4 belief-header">

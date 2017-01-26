@@ -10,7 +10,5 @@ image: "block-messages.jpg"
 
 <div class="page-buttons">
   <a href="series/">Series</a>
-  <img class="separator" src="img/nav-separator.png" />
-  <a href="podcast/index.xml">Podcast</a>
 </div>
 
