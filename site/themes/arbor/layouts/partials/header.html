@@ -120,9 +120,7 @@
         {{ if (lt .Weight 100) }}
         <a href="javascript:navigate_to('{{.Name}}');">
           {{ .Name }}
-          <img class="desktop-expand" height="10" width="10" src="{{ $baseUrl }}img/drop-menu.png" />
-          <img class="mobile-expand" height="25" width="25" src="{{ $baseUrl }}img/mobile-menu-contracted.png" />
-          <img class="mobile-contract" height="25" width="25" src="{{ $baseUrl }}img/mobile-menu-expanded.png" />
+          <div class="expand-arrow"></div>
         </a>
         {{ else }}
         <a href="{{ .URL }}">

@@ -168,7 +168,7 @@ a:hover {
 /* "hamburger" menu */
 #nav-menu {
   font-family: Montserrat;
-  font-size: 13px;
+  font-size: 14px;
   position: absolute;
   right: 60px;
   top: 20px;
@@ -347,8 +347,11 @@ ul.footer-menu li {
   font-size: 14px;
 }
 
-.desktop-expand, .mobile-expand, .mobile-contract {
-  display: none;
+/* menu */
+.expand-arrow {
+  display: inline-block;
+  background-position: center;
+  background-size: contain;
 }
 
 ul.menu li {
@@ -364,10 +367,6 @@ ul.menu ul {
 
 ul.menu li.open ul {
   display: block;
-}
-
-ul.menu li img.mobile-contract {
-  display: none;
 }
 
 .menu-background {
@@ -426,18 +425,6 @@ ul.menu li img.mobile-contract {
     position: fixed;
   }
   
-  .mobile-expand, .mobile-contract {
-    display: inline;
-  }
-
-  ul.menu li.open img.mobile-expand {
-    display: none;
-  }
-
-  ul.menu li.open img.mobile-contract {
-    display: inline;
-  }
-
   #nav-menu a {
     color: #404040;
     display: block;
@@ -462,11 +449,21 @@ ul.menu li img.mobile-contract {
     margin-right: 10px;
   }
 
-  #nav-menu .mobile-expand, #nav-menu .mobile-contract {
+  #nav-menu .expand-arrow {
     vertical-align: top;
     position: absolute;
     right: 2px;
     margin-top: 5px;
+  }
+
+  li .expand-arrow {
+    background-image: url(../img/mobile-menu-contracted.png);
+    width: 25px;
+    height: 25px;
+  }
+
+  li.open .expand-arrow {
+    background-image: url(../img/mobile-menu-expanded.png);
   }
 
   #nav-menu.open {
@@ -541,8 +538,23 @@ ul.menu li img.mobile-contract {
 
 /* desktop */ 
 @media screen and (min-width: 768px) {
+
+  li .expand-arrow {
+    background-image: url(../img/desktop-menu-contracted.png);
+    width: 10px;
+    height: 10px;
+  }
+
+  li.open .expand-arrow {
+    background-image: url(../img/desktop-menu-expanded.png);
+  }
+
   ul.menu li {
-    padding-left: 10px;
+    padding-left: 16px;
+  }
+
+  ul.menu ul li {
+    padding-left: 0px;
   }
 
   ul.menu li.open {
@@ -553,12 +565,20 @@ ul.menu li img.mobile-contract {
     color: #808080;
   }
 
-  #nav-menu ul.menu li.open ul li {
+  #nav-menu ul.menu li.open ul a {
     background-color: white;
     transition: background-color 0.5s linear;
+    display: block;
+    background-color: white;
+    color: #808080;
+    margin-bottom: 1px;
+    padding-left: 5px;
+    padding-right: 3px;
+    padding-top: 3px;
+    font-size: 12px;
   }
 
-  #nav-menu ul.menu li.open ul li:hover {
+  #nav-menu ul.menu li.open ul a:hover {
     color: white;
     background-color: #000000;
     transition: background-color 0.5s linear;
@@ -569,9 +589,8 @@ ul.menu li img.mobile-contract {
   }
 
   ul.menu li.open ul {
-    background-color: white;
     position: absolute;
-    top: 1.5em;
+    top: 1.3em;
     left: 0px;
     width: 100%;
     padding-left: 0px;
