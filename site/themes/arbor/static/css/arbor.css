@@ -122,7 +122,7 @@ a:hover {
   word-wrap: none;
 }
 
-.page-buttons a, a.email-link {
+.page-buttons a, a.email-link, a.page-button {
   position: relative;
   top: 0px;
   text-decoration: none;
@@ -308,6 +308,18 @@ ul.menu li {
   margin-bottom: 20px;
 }
 
+.detail-container h1 {
+  text-align: center;
+  font-family: Baskerville, Libre Baskerville, serif;
+  letter-spacing: 0.2em;
+  font-style: italic;
+}
+
+.detail-container .text-center {
+  font-family: Montserrat;
+  font-weight: 300;
+}
+
 .detail .photo, .header {
   background-repeat: no-repeat;
   background-size: cover;
@@ -320,7 +332,7 @@ ul.menu li {
   padding-bottom: 20px;
 }
 
-.detail .email-link {
+.detail .email-link, a.page-button {
   border-left: 1px solid black;
   border-right: 1px solid black;
   border-bottom: 1px solid black;
