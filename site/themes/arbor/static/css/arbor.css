@@ -72,8 +72,44 @@ a:hover {
   text-decoration: none;
 }
 
-.footer a img {
+.footer a.social {
+  display: inline-block;
   width: 33px;
+  height: 33px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.footer a.social-facebook {
+  background-image: url(../img/social-facebook.png);
+}
+
+.footer a.social-facebook:hover {
+  background-image: url(../img/social-facebook-on.png);
+}
+
+.footer a.social-twitter {
+  background-image: url(../img/social-twitter.png);
+}
+
+.footer a.social-twitter:hover {
+  background-image: url(../img/social-twitter-on.png);
+}
+
+.footer a.social-mail {
+  background-image: url(../img/social-mail.png);
+}
+
+.footer a.social-mail:hover {
+  background-image: url(../img/social-mail-on.png);
+}
+
+.footer a.social-instagram {
+  background-image: url(../img/social-instagram.png);
+}
+
+.footer a.social-instagram:hover {
+  background-image: url(../img/social-instagram-on.png);
 }
 
 .footer .copyright {
