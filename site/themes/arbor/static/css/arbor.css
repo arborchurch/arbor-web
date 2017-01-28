@@ -442,6 +442,40 @@ ul.menu li.open ul {
   font-size: 16px;
 }
 
+/* events page */
+
+.event {
+  background-color: #000000;
+  align-items: center;
+  display: flex;
+  color: white;
+  position: relative;
+  margin-left: -15px;
+}
+
+.event h2 {
+  display: none;
+}
+
+.event:hover h2 {
+  position: absolute;
+  display: block;
+  text-align: center;
+  top: 30%;
+  width: 100%;
+  z-index: 2;
+  font-size: 50pt;
+}
+
+img.event-image {
+  width: 100%;
+  height: auto;
+}
+
+img.event-image:hover {
+  opacity: 0.4;
+}
+
 /* beliefs page */
 
 .belief-header {

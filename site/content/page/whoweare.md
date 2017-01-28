@@ -12,7 +12,7 @@ menu:
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
     <div class="detail-notice">
-      As a new church in Woodinville, we hope to continue Christ’s great commission of making disciples. That is our purpose. Our preference is to do it together!
+      As a new church in Woodinville, we hope to continue Christ's great commission of making disciples. That is our purpose. Our preference is to do it together!
     </div>
   </div>
 </div>
