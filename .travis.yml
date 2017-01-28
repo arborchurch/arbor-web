@@ -5,16 +5,16 @@ before_install:
 
 # install hugo
 install:
-  - wget https://github.com/spf13/hugo/releases/download/v0.17/hugo_0.17_Linux-64bit.tar.gz
-  - tar xzvf hugo_0.17_Linux-64bit.tar.gz
+  - wget https://github.com/spf13/hugo/releases/download/v0.18.1/hugo_0.18.1_Linux-64bit.tar.gz
+  - tar xzvf hugo_0.18.1_Linux-64bit.tar.gz
 
 # build the site
 script: 
   - cd site
-  - ../hugo_0.17_linux_amd64/hugo_0.17_linux_amd64 --theme=arbor
+  - ../hugo_0.18.1_linux_amd64/hugo_0.18.1_linux_amd64 --baseURL=https://www.arborchurchnw.org/staging/ --theme=arbor
 
 # deploy it!
 after_success:
   - cd public
-  - scp -i ../../arborchurch-travis -o StrictHostKeyChecking=no -r * arborchurch@arborchurchnw.org:arborchurchnw.org
+  - scp -i ../../arborchurch-travis -o StrictHostKeyChecking=no -r * arborchurch@arborchurchnw.org:arborchurchnw.org/staging
 

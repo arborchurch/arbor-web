@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>{{ .Site.Title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  {{ .Hugo.Generator }}
+  <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}img/favicon-16.png" sizes="16x16" />
+  <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}img/favicon-32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="{{ .Site.BaseURL }}img/favicon-64.png" sizes="64x64" />
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/arbor.css" />
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-86541908-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+  <script>
+    function toggle_menu(ele) {
+      if (ele.className.endsWith(" open"))
+        ele.className = ele.className.substring(0, ele.className.length - " open".length);
+      else
+        ele.className += " open";
+      return false;
+    }
+
+    function toggle_main_menu() {
+      toggle_menu(document.getElementById("nav-menu"));
+    }
+
+    function toggle_sub_menu(menu) {
+      toggle_menu(document.getElementById(menu));
+    }
+
+    function navigate_to(menu) {
+      toggle_sub_menu("menu_" + menu);
+    }
+
+    function hover_menu_on(e, menu) {
+      // ignore hover on small screens
+      if (document.body.clientWidth < 768) 
+        return;
+      navigate_to(menu);
+    }
+
+    function hover_menu_off(e, menu) {
+      if (document.body.clientWidth < 768) 
+        return;
+      navigate_to(menu);
+    }
+    
+    function update_parallax(ele) {
+      var st = document.body.scrollTop;
+      var start = ele.offsetTop - ele.offsetHeight;
+      var end = start + ele.offsetHeight + ele.offsetHeight;
+      if (st >= start && st <= end) {
+        var translate =  Math.round(((st - start) / (end - start)) * 300) - 150;
+        ele.style.backgroundPosition = "center " + translate + "px";
+      }
+    }
+
+    window.addEventListener("scroll", function() {
+      requestAnimationFrame(function(step) {
+        var eles = document.getElementsByClassName("parallax");
+        for (var i = 0; i < eles.length; i++) {
+          update_parallax(eles[i]);
+        }
+      });
+    });
+
+    window.addEventListener("load", function() {
+      var eles = document.getElementsByClassName("menu-hover");
+      for (var i = 0; i < eles.length; i++) {
+        (function() {
+          var ele = eles[i];
+          ele.addEventListener("mouseover", function(e) {
+            if (document.body.clientWidth < 768)
+              return;
+            if (!ele.className.endsWith(" open"))
+              ele.className += " open";
+          });
+          ele.addEventListener("mouseout", function(e) {
+            if (document.body.clientWidth < 768)
+              return;
+            var e = event.toElement || event.relatedTarget;
+            if (e.className === "menu") {
+               return;
+            }
+            if (ele.className.endsWith(" open"))
+              ele.className = ele.className.substring(0, " open".length);
+          });
+        })();
+      }
+    });
+  </script>
+</head>
+<body>
+
+<div class="home-logo">
+  <a href="{{ .Site.BaseURL }}">
+    <img src="{{ .Site.BaseURL }}img/arbor-logo-menu.png" />
+  </a>
+</div>
+
+<div class="navigation">
+  <div id="nav-menu">
+    <ul class="menu">
+    {{ $currentNode := . }}
+    {{ $baseUrl := .Site.BaseURL }}
+    {{ range .Site.Menus.main }}
+      <li class="menu-hover" id="menu_{{ .Name }}">
+        {{ if (lt .Weight 100) }}
+        <a href="javascript:navigate_to('{{.Name}}');">
+          {{ .Name }}
+          <div class="expand-arrow"></div>
+        </a>
+        {{ else }}
+        <a href="{{ .URL }}">
+          {{ .Name }}
+        </a>
+        {{ end }}
+      {{ if .HasChildren }}
+        <ul class="sub-menu">
+        {{ range .Children }}
+          <li><a href="{{.URL}}">{{ .Name }}</a></li>
+        {{ end }}
+        </ul>
+      {{ end }}
+      </li>
+    {{ end }}
+    </ul>
+    <div class="menu-logo">
+      <a href="{{ .Site.BaseURL }}">
+        <img src="{{ .Site.BaseURL }}img/arbor-mobile-logo.png" />
+      </a>
+    </div>
+    <div class="hamburger" onClick="return toggle_main_menu();">
+      <div class="line"></div>
+      <div class="line"></div>
+      <div class="line"></div>
+    </div>
+  </label>
+</div>
+
