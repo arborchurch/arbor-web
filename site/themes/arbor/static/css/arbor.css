@@ -323,13 +323,32 @@ ul.menu li {
   font-style: italic;
 }
 
+.desktop-image {
+  width: 100%;
+  height: auto;
+}
+
+.mobile-image {
+  height: 50vh;
+  background-size: cover;
+  background-position: center center;
+}
 
 .header {
-  height: 500px;
   text-align: center;
   margin-bottom: 50px;
   z-index: -1;
-  background-position: center 0px;
+  position: absolute;
+}
+
+.header-content {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .header h1 {
@@ -339,6 +358,7 @@ ul.menu li {
   padding-top: 150px;
   color: white;
   text-transform: lowercase;
+  text-align: center;
 }
 
 .header .subtitle {
@@ -369,6 +389,9 @@ ul.menu li {
   background-size: cover;
   background-position: center;
   position: relative;
+}
+
+.detail .photo {
   margin-left: -15px;
 }
 
@@ -624,6 +647,10 @@ img.event-image:hover {
     top: 0px;
     left: 0px;
   }
+
+  .desktop-image {
+    display: none;
+  }
 }
 
 /* desktop */ 
@@ -637,6 +664,10 @@ img.event-image:hover {
 
   li.open .expand-arrow {
     background-image: url(../img/desktop-menu-expanded.png);
+  }
+
+  ul.menu {
+    margin-top: 20px;
   }
 
   ul.menu li {
@@ -710,6 +741,10 @@ img.event-image:hover {
 
   .detail .summary {
     height: 100%;
+  }
+
+  .mobile-image {
+    display: none;
   }
 }
 

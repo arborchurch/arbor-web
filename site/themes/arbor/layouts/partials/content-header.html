@@ -2,10 +2,14 @@
 
 <div class="menu-background"></div>
 
-<div class="header" style="background-image: url({{ .Site.BaseURL }}img/{{ .Params.image }});">
-  <h1>{{ .Title }}</h1>
-  <div class="subtitle">
-    {{ .Params.subtitle }}
+<div class="header">
+  <img class="desktop-image" src="{{ .Site.BaseURL }}img/{{ .Params.image }}" />
+  <div class="mobile-image" style="background-image: url({{ .Site.BaseURL }}img/{{ .Params.image }});"></div>
+  <div class="header-content">
+    <h1>{{ .Title }}</h1>
+    <div class="subtitle">
+      {{ .Params.subtitle }}
+    </div>
   </div>
 </div>
 
