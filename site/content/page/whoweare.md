@@ -12,9 +12,7 @@ menu:
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
     <div class="detail-notice">
-      As a new church plant in Woodinville, WA, we desire to make disciples. Making disciples is our purpose, and our preference is to do it together. We hope to do this together by gathering together in groups, growing together on Sundays, and going together in teams.
-
-      Our story is because of God's story, also known as our Statement of Beliefs.
+      As a new church in Woodinville, we hope to continue Christ’s great commission of making disciples. That is our purpose. Our preference is to do it together!
     </div>
   </div>
 </div>
