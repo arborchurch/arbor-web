@@ -47,7 +47,7 @@ menu:
     Jesus is the Answer
   </div>
   <div class="col-sm-8 belief-body">
-    We believe that Jesus, the sinless Son of God, was born of a virgin, executed on a cross, which paid the price of sin that we should’ve paid, and then buried in a borbelief-rowed tomb. The good news is that He didn’t stay dead. Through his resurrection we are offered a renewed relationship with God through faith and the forgiveness of sin. 
+    We believe that Jesus, the sinless Son of God, was born of a virgin, executed on a cross, which paid the price of sin that we should’ve paid, and then buried in a borrowed tomb. The good news is that He didn’t stay dead. Through his resurrection we are offered a renewed relationship with God through faith and the forgiveness of sin. 
 
     <div class="belief-verses">(Hebrews 4:15; Isaiah 7:14; Romans 5:8; 1 Corinthians 15:1-4; 1 Timothy 2:5-6; John 1:29)</div>
   </div>
