@@ -665,8 +665,17 @@ ul.menu li.open ul {
     display: inline;
   }
 
-  .detail .photo, .detail .summary {
-    height: 400px;
+  .detail .photo {
+    width: 100%;
+    height: auto;
+  }
+  
+  .detail-summary {
+    height: 100%;
+  }
+
+  .detail .summary {
+    height: 100%;
   }
 }
 
