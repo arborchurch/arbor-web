@@ -144,7 +144,7 @@ a:hover {
   text-align: center;
   color: white;
   font-style: italic;
-  font-size: 20pt;
+  font-size: 18pt;
   margin-top: 0;
   font-weight: 300;
   letter-spacing: normal;
@@ -631,7 +631,7 @@ ul.menu li.open ul {
     padding-left: 5px;
     padding-right: 3px;
     padding-top: 3px;
-    font-size: 12px;
+    font-size: 11px;
   }
 
   #nav-menu ul.menu li.open ul a:hover {
