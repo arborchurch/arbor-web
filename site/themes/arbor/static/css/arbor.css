@@ -346,7 +346,15 @@ ul.menu li {
   top: 0px;
   left: 0px;
   right: 0px;
+  bottom: 0px;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+}
+
+.header-content > div {
   margin-left: auto;
   margin-right: auto;
 }
@@ -355,16 +363,17 @@ ul.menu li {
   text-shadow: 0px 0px 25px rgba(0,0,0,0.5);
   margin: 0px;
   font-size: 50pt;
-  padding-top: 150px;
   color: white;
   text-transform: lowercase;
   text-align: center;
+  display: block;
 }
 
 .header .subtitle {
   font-style: italic;
   color: white;
   font-size: 20pt;
+  display: block;
 }
 
 .detail {
