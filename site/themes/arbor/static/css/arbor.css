@@ -548,6 +548,11 @@ img.event-image:hover {
   .home-logo, .menu-logo {
     position: fixed;
   }
+
+  #nav-menu a {
+    color: #404040;
+    display: block;
+  }
   
   .block h1 {
     font-size: 50pt;
