@@ -503,23 +503,23 @@ img.event-image:hover {
 .belief-header {
   padding-top: 30px;
   text-align: center;
-  font-size: 20pt;
+  font-size: 26pt;
   font-style: italic;
 }
 
 .belief-verses {
   font-family: Baskerville, Libre Baskerville, serif;
   margin-top: 1em;
-  color: #909090;
+  color: #B0B0B0;
   font-style: italic;
 }
 
 .belief-body {
   font-family: Montserrat;
-  font-weight: 300;
-  font-size: 12pt;
+  font-size: 10.5pt;
   border-left: 4px solid black;
   margin-bottom: 50px;
+  line-height: 180%;
 }
 
 /* mobile */

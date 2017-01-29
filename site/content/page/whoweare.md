@@ -9,15 +9,13 @@ menu:
 ---
 
 
-<div class="row">
-  <div class="col-md-6 col-md-offset-3">
-    <div class="detail-notice">
-      As a new church in Woodinville, we hope to continue Christ's great commission of making disciples. That is our purpose. Our preference is to do it together!
-    </div>
-  </div>
-</div>
+<h1 style="margin-bottom: 0.5em;">Our Beliefs</h1>
 
-<h1 style="margin-bottom: 2em;">Our Beliefs</h1>
+<div class="text-center" style="margin-bottom: 5em;">
+As a new church in Woodinville, we hope to continue <br />
+Christ's great commission of making disciples. <br />
+That is our purpose. Our preference is to do it together!
+</div>
 
 <div class="belief-row">
   <div class="col-sm-4 belief-header">
@@ -54,12 +52,6 @@ menu:
 </div>
 
 <div class="belief-row">
-  <div class="col-sm-12">
-    <img src="../../img/sunblind.jpg" style="width: 100%; height: auto; margin-bottom: 50px;" />
-  </div>
-</div>
-
-<div class="belief-row">
   <div class="col-sm-4 belief-header">
     The Church is God's People
   </div>
@@ -67,6 +59,12 @@ menu:
     We believe the church is not a building, event, or institution. It is God’s family, made up of those who trust in Jesus, are baptized, and made new by the power of the Holy Spirit. The primary purpose of the church is to share the good news of Jesus to this broken world. 
 
     <div class="belief-verses">(Ephesians 2:19, 22, 5:25-27; Matthew 16:15-19; Acts 2:38-41; Matthew 28:18-20)</div>
+  </div>
+</div>
+
+<div class="belief-row">
+  <div class="col-sm-12">
+    <img src="../../img/cloudy-beliefs.jpg" style="width: 100%; height: auto; margin-bottom: 50px;" />
   </div>
 </div>
 
