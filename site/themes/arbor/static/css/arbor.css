@@ -472,7 +472,6 @@ ul.menu li.open ul {
 
 .detail-notice {
   margin-bottom: 20px;
-  border: 1px solid black;
   padding: 20px;
   font-size: 16px;
 }
@@ -550,9 +549,12 @@ img.event-image:hover {
     position: fixed;
   }
   
-  #nav-menu a {
-    color: #404040;
-    display: block;
+  .block h1 {
+    font-size: 50pt;
+  }
+
+  .block h2 {
+    font-size: 16pt;
   }
 
   #nav-menu li.open > a {
@@ -634,6 +636,10 @@ img.event-image:hover {
 
   .page-buttons .separator {
     display: none;
+  }
+
+  .page-buttons a {
+    margin-top: 0px;
   }
 
   .home-logo, .menu-logo {
