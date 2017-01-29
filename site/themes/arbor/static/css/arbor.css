@@ -339,6 +339,7 @@ ul.menu li {
   margin-bottom: 50px;
   z-index: -1;
   position: absolute;
+  top
 }
 
 .header-content {
@@ -401,10 +402,13 @@ ul.menu li {
 
 .detail .photo {
   margin-left: -15px;
+  width: 100%;
+  height: auto;
 }
+  
 
 .detail .content {
-  padding-bottom: 20px;
+  padding-bottom: 40px;
 }
 
 .detail .email-link, a.page-button {
@@ -628,10 +632,6 @@ img.event-image:hover {
     color: #204020;
   }
 
-  .detail .photo {
-    height: 400px;
-  }
-
   .page-buttons .separator {
     display: none;
   }
@@ -738,11 +738,6 @@ img.event-image:hover {
     display: inline;
   }
 
-  .detail .photo {
-    width: 100%;
-    height: auto;
-  }
-  
   .detail-summary {
     height: 100%;
   }
