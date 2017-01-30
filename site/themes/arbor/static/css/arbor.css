@@ -510,6 +510,13 @@ img.event-image:hover {
   opacity: 0.4;
 }
 
+/* series page */
+
+img.series-image {
+  width: 100%;
+  height: auto;
+}
+
 /* beliefs page */
 
 .belief-header {
