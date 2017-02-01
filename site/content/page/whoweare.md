@@ -45,7 +45,7 @@ That is our purpose. Our preference is to do it together!
     Jesus is the Answer
   </div>
   <div class="col-sm-8 belief-body">
-    We believe that Jesus, the sinless Son of God, was born of a virgin, executed on a cross, which paid the price of sin that we should’ve paid, and then buried in a borrowed tomb. The good news is that He didn’t stay dead. Through his resurrection we are offered a renewed relationship with God through faith and the forgiveness of sin. 
+    We believe that Jesus, the sinless Son of God, was born of a virgin, executed on a cross, which paid the price of sin that we should've paid, and then buried in a borrowed tomb. The good news is that He didn't stay dead. Through his resurrection we are offered a renewed relationship with God through faith and the forgiveness of sin. 
 
     <div class="belief-verses">(Hebrews 4:15; Isaiah 7:14; Romans 5:8; 1 Corinthians 15:1-4; 1 Timothy 2:5-6; John 1:29)</div>
   </div>
@@ -56,7 +56,7 @@ That is our purpose. Our preference is to do it together!
     The Church is God's People
   </div>
   <div class="col-sm-8 belief-body">
-    We believe the church is not a building, event, or institution. It is God’s family, made up of those who trust in Jesus, are baptized, and made new by the power of the Holy Spirit. The primary purpose of the church is to share the good news of Jesus to this broken world. 
+    We believe the church is not a building, event, or institution. It is God's family, made up of those who trust in Jesus, are baptized, and made new by the power of the Holy Spirit. The primary purpose of the church is to share the good news of Jesus to this broken world. 
 
     <div class="belief-verses">(Ephesians 2:19, 22, 5:25-27; Matthew 16:15-19; Acts 2:38-41; Matthew 28:18-20)</div>
   </div>
@@ -73,7 +73,7 @@ That is our purpose. Our preference is to do it together!
     The Holy Spirit is our Helper
   </div>
   <div class="col-sm-8 belief-body">
-    We believe the Holy Spirit is present in the world today, active in every believer. He is our helper who opens our ears to hear God’s truth, brings conviction to turn away from sin, comforts us in moments of struggle, and empowers us to carry God’s hope to all those who are hurting. 
+    We believe the Holy Spirit is present in the world today, active in every believer. He is our helper who opens our ears to hear God's truth, brings conviction to turn away from sin, comforts us in moments of struggle, and empowers us to carry God's hope to all those who are hurting. 
 
     <div class="belief-verses">(John 16:7-15; Ephesians 1:13-14; John 14:16-17,26; Romans 8:14-17; Acts 1:8)</div>
   </div>
@@ -85,7 +85,7 @@ That is our purpose. Our preference is to do it together!
     Jesus is Coming Back
   </div>
   <div class="col-sm-8 belief-body">
-    We believe that Jesus is very much alive, having ascended into heaven after fulfilling His mission here on earth. We eagerly await the day He returns to establish His eternal kingdom, eliminate sin entirely, and takes us home to the place he’s been preparing for us.  
+    We believe that Jesus is very much alive, having ascended into heaven after fulfilling His mission here on earth. We eagerly await the day He returns to establish His eternal kingdom, eliminate sin entirely, and takes us home to the place he's been preparing for us.  
 
     <div class="belief-verses">(Revelation 1:18; Acts 1:9-11; Philippians 3:20; 1 Thessalonians 4:16; Hebrews 9:28; John 14:3)</div>
   </div>
