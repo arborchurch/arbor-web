@@ -1,0 +1,11 @@
+
+<div class="message">
+  <h2>{{ .Title }}</h2>
+  <h3>{{ .Params.speaker }} | {{ .Date.Format "Sunday, January 2, 2006" }}</h3>
+
+  {{ .Content }}
+
+  <audio src="{{ .Params.mp3 }}" controls="controls">
+
+  </audio>
+</div>
