@@ -2,10 +2,7 @@
 {{ partial "content-header.html" . }}
 
 {{ range .Data.Pages }}
-  {{ if eq .Type "series" }}
-    {{ .Render "single" }}
-  {{ end }}
+  {{ .Render "single" }}
 {{ end }}
 
 {{ partial "content-footer.html" . }}
-

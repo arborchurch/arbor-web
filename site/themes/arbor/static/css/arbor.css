@@ -31,6 +31,10 @@ h1, h2 {
   font-family: Montserrat;
 }
 
+audio {
+  width: 100%;
+}
+
 a:hover {
   text-decoration: none;
 }
@@ -539,6 +543,24 @@ img.series-image {
   border-left: 4px solid black;
   margin-bottom: 50px;
   line-height: 180%;
+}
+
+/* messages */
+
+.message {
+  border-bottom: 3px solid black;
+  padding-bottom: 50px;
+}
+
+.message h2 {
+  margin-bottom: 0;
+}
+
+.message h3 {
+  margin-top: 15px;
+  color: #909090;
+  font-size: 15px;
+  font-style: italic;
 }
 
 /* mobile */
