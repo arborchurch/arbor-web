@@ -1,0 +1,34 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Arbor Church</title>
+    <link>{{ .Permalink }}</link>
+    <language>en-us</language>
+    <copyright>Copyright 2017 Arbor Church</copyright>
+    <itunes:subtitle>Messages from Arbor Church in Woodinville, Washington</itunes:subtitle>
+    <itunes:author>Arbor Church</itunes:author>
+    <itunes:summary>The Arbor Church Podcast features weekly messages and more from the teaching team at Arbor Church in Woodinville, Washington.</itunes:summary>
+    <description>The Arbor Church Podcast features weekly messages and more from the teaching team at Arbor Church in Woodinville, Washington.</description>
+    <itunes:owner>
+      <itunes:name>Jonathan McPherson</itunes:name>
+      <itunes:email>jonathan@oatmealforbreakfast.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://arborchurchnw.org/img/arbor-logo-small-opaque.jpg" />
+    <itunes:category text="News &amp; Politics">
+      <itunes:category text="Religion &amp; Spirituality">
+         <itunes:category text="Christianity" />
+      </itunes:category>
+    </itunes:category>
+    {{ range .Data.Pages }}
+    <item>
+      {{ `<title><![CDATA[` | safeHTML }}{{ with .Title }}{{.}}{{ end }}]]></title>
+      <itunes:author>{{ .Params.speaker }}</itunes:author>
+      {{ `<itunes:summary><![CDATA[` | safeHTML }}{{ with .Summary }}{{.}}{{ end }}]]></itunes:summary>
+      <enclosure url="{{ .Params.podcast }}" length="{{ .Params.podcast_bytes }}" type="audio/x-m4a" />
+      <guid>{{ .Params.podcast }}</guid>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }} </pubDate>
+      <itunes:duration>{{ .Params.podcast_duration}}</itunes:duration>
+    </item>
+    {{ end }}
+  </channel>
+</rss>
