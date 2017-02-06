@@ -1,0 +1,9 @@
+{{ partial "content-header.html" . }}
+
+{{ range $name, $taxonomy := .Site.Taxonomies.series }}
+  <div class="series">
+    <a href="../series/{{ $name }}"><img class="series-image" src="../img/series/{{ $name }}.jpg" /></a>
+  </div>
+{{ end }}
+
+{{ partial "content-footer.html" . }}
