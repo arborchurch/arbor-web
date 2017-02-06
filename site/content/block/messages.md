@@ -9,6 +9,6 @@ image: "block-messages.jpg"
 ---
 
 <div class="page-buttons">
-  <a href="series/">Series</a>
+  <a href="messages/">Series</a>
 </div>
 
