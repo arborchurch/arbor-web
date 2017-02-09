@@ -1,5 +1,5 @@
 ---
-date: "2016-01-10"
+date: "2016-01-10T10:00:00-08:00"
 title: "Our Story"
 series: "our-story"
 speaker: "Jake Goetze"

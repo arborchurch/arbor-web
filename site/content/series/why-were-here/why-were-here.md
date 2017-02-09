@@ -1,5 +1,5 @@
 ---
-date: "2017-01-29"
+date: "2017-01-29T10:00:00-08:00"
 title: "Why We're Here"
 series: "why-were-here"
 speaker: "Jake Goetze"
