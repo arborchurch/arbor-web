@@ -1,17 +1,17 @@
 #!/usr/bin/env bash
 # Usage:
-# encode-sermon.sh "sermon title" "speaker" wav mp3
+# encode-sermon.sh "sermon title" "speaker" wav m4a
 
-lame -m m \
-     --verbose \
-     --preset 96 \
-     -h \
-     --tt "$1" \
-     --ta "$2" \
-     --tl "Arbor Church" \
-     --ty 2017 \
-     "$3" \
-     "$4"
+ffmpeg -i "$3" \
+       -c:a aac \
+       -b:a 96k \
+       -ac 1 \
+       -metadata title="$1" \
+       -metadata author="$2" \
+       -metadata year=2017 \
+       -movflags +faststart \
+       "$4"
+
 
 
 
