@@ -1,7 +1,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Arbor Church</title>
-    <link>{{ .Permalink }}</link>
+    <link>https://www.arborchurchnw.org/</link>
     <language>en-us</language>
     <copyright>Copyright 2017 Arbor Church</copyright>
     <itunes:subtitle>Messages from Arbor Church in Woodinville, Washington</itunes:subtitle>
@@ -26,8 +26,7 @@
       {{ `<itunes:summary><![CDATA[` | safeHTML }}{{ with .Summary }}{{ . | htmlUnescape | safeHTML }}{{ end }}]]></itunes:summary>
       {{ `<description><![CDATA[` | safeHTML }}{{ with .Summary }}{{ . | htmlUnescape | safeHTML }}{{ end }}]]></description>
       <enclosure url="{{ .Params.podcast }}" length="{{ .Params.podcast_bytes }}" type="audio/x-m4a" />
-      <guid>{{ .Params.podcast }}</guid>
-      <enclosure url="{{ .Params.podcast }}" type="audio/mpeg" length="1" />
+      <guid>{{ .UniqueID }}</guid>
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }} </pubDate>
       <itunes:duration>{{ .Params.podcast_duration}}</itunes:duration>
