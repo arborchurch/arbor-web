@@ -13,10 +13,8 @@
       <itunes:email>jonathan@oatmealforbreakfast.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://arborchurchnw.org/img/arbor-logo-huge.png" />
-    <itunes:category text="News &amp; Politics">
-      <itunes:category text="Religion &amp; Spirituality">
-         <itunes:category text="Christianity" />
-      </itunes:category>
+    <itunes:category text="Religion &amp; Spirituality">
+       <itunes:category text="Christianity" />
     </itunes:category>
     <lastBuildDate>{{ .Site.LastChange }}</lastBuildDate>
     {{ range .Data.Pages }}
