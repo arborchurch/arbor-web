@@ -10,5 +10,7 @@ image: "block-messages.jpg"
 
 <div class="page-buttons">
   <a href="messages/">Series</a>
+  <img class="separator" src="img/nav-separator.png" />
+  <a href="{{< relref "podcast.md" >}}">Podcast</a>
 </div>
 
