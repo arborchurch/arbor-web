@@ -35,11 +35,21 @@ menu:
 
 # Other
 
-<div class="text-center" style="margin-bottom: 100px;">
+<div class="text-center" style="margin-bottom: 50px;">
 
 <p>If you're on another app or platform, or prefer to grab the podcast feed directly, use this link:</p>
 
-<a href="https://feeds.feedburner.com/ArborChurch">https://feeds.feedburner.com/ArborChurch</a>
+<p><a href="https://feeds.feedburner.com/ArborChurch">https://feeds.feedburner.com/ArborChurch</a></p>
+
+</div>
+
+# Streaming
+
+<div class="text-center" style="margin-bottom: 100px;">
+
+<p>Finally, if you'd like to listen right now, all our messages can be streamed from our website.</p>
+
+<p>Go to <strong><a href="../../messages/">Series</a></strong> and pick a series to get started!</p>
 
 </div>
 
