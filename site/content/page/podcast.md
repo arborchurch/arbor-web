@@ -29,7 +29,7 @@ menu:
 
 <p>You can find our podcast in the Google Play store, or use this link:</p>
 
-<p><a href="#"><img src="../../img/available-on-google.png" style="width: 200px; height: auto;" /></a></p>
+<p><a href="https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&amp;isi=691797987&amp;ius=googleplaymusic&amp;link=https://play.google.com/music/m/Irgaekxnx4asjelcnps7x7jorpm?t%3DArbor_Church%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16" rel="nofollow"><img src="../../img/available-on-google.png" style="width: 200px; height: auto;" /></a></p>
 
 </div>
 
