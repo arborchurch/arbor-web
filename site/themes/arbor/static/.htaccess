@@ -1,0 +1,11 @@
+# cache image files for up to a year (we don't change these)
+<filesMatch ".(jpg|jpeg|png|gif|ico)$">
+Header set Cache-Control "max-age=31536000, public"
+</filesMatch>
+
+# don't cache HTML files very long at all as we want changes here to be 
+# reflected immediately
+<filesMatch ".(jpg|jpeg|png|gif|ico)$">
+Header set Cache-Control "max-age=60, public"
+</filesMatch>
+
