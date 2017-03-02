@@ -5,7 +5,7 @@ Header set Cache-Control "max-age=31536000, public"
 
 # don't cache HTML files very long at all as we want changes here to be 
 # reflected immediately
-<filesMatch ".(jpg|jpeg|png|gif|ico)$">
+<filesMatch ".html$">
 Header set Cache-Control "max-age=60, public"
 </filesMatch>
 
