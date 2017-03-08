@@ -10,5 +10,5 @@ podcast_duration: 46:59
 scripture: "Acts 6-7"
 ---
 
-Jake talks about the cost of following Jesus and whate is given in return.
+Jake talks about the cost of following Jesus and what is given in return.
 
