@@ -297,6 +297,12 @@ ul.menu li {
   color: white;
 }
 
+.mast .service-info,
+.mast .special-info {
+  color: white;
+  font-weight: 200;
+}
+
 .mast .service-info {
   position: relative;
   border-top: 6px solid white;
@@ -306,10 +312,14 @@ ul.menu li {
   padding-bottom: 10px;
   padding-right: 20px;
   padding-left: 20px;
-  color: white;
-  font-weight: 200;
   margin-left: auto;
   margin-right: auto;
+}
+
+.mast .special-info {
+  padding-top: 20px;
+  font-family: Montserrat;
+  text-transform: uppercase;
 }
 
 /* ------------------------------------------------------------------------- */
