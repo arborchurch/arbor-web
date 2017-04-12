@@ -1,6 +1,6 @@
 ---
 date: "2017-04-09T09:00:00-08:00"
-title: "Reflections of Pain"
+title: "Pain: Reflections of Pain"
 series: "pain"
 speaker: "Dave Swenson"
 type: message

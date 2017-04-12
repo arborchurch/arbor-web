@@ -1,6 +1,6 @@
 ---
 date: "2017-02-26T09:00:00-08:00"
-title: "The Mistakes"
+title: "Acts: The Mistakes"
 series: "acts-birth-of-a-church"
 speaker: "Jake Goetze"
 type: message

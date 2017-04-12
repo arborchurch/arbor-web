@@ -1,6 +1,6 @@
 ---
 date: "2017-03-05T11:00:00-08:00"
-title: "The Cost"
+title: "Acts: The Cost"
 series: "acts-birth-of-a-church"
 speaker: "Jake Goetze"
 type: message

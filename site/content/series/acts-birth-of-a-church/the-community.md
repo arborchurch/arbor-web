@@ -1,6 +1,6 @@
 ---
 date: "2017-02-19T10:00:00-08:00"
-title: "The Community"
+title: "Acts: The Community"
 series: "acts-birth-of-a-church"
 speaker: "Bob Lee"
 type: message

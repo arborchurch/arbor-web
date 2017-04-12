@@ -1,6 +1,6 @@
 ---
 date: "2017-03-12T11:00:00-08:00"
-title: "The Dispersion"
+title: "Acts: The Dispersion"
 series: "acts-birth-of-a-church"
 speaker: "Bob Lee"
 type: message

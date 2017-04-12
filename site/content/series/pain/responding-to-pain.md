@@ -1,6 +1,6 @@
 ---
 date: "2017-04-02T11:00:00-08:00"
-title: "Responding to Pain"
+title: "Pain: Responding to Pain"
 series: "pain"
 speaker: "Jake Goetze"
 type: message

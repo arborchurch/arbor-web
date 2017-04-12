@@ -1,6 +1,6 @@
 ---
 date: "2017-02-05T10:00:00-08:00"
-title: "The Promise"
+title: "Acts: The Promise"
 series: "acts-birth-of-a-church"
 speaker: "Jake Goetze"
 type: message

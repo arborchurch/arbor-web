@@ -1,6 +1,6 @@
 ---
 date: "2017-03-26T09:00:00-08:00"
-title: "Realities of Pain"
+title: "Pain: Realities of Pain"
 series: "pain"
 speaker: "Jake Goetze"
 type: message
