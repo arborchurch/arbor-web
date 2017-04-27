@@ -505,23 +505,25 @@ ul.menu li.open ul {
   display: none;
 }
 
-.event:hover h2 {
-  position: absolute;
-  display: block;
-  text-align: center;
-  top: 30%;
-  width: 100%;
-  z-index: 2;
-  font-size: 50pt;
-}
-
 img.event-image {
   width: 100%;
   height: auto;
 }
 
-img.event-image:hover {
-  opacity: 0.4;
+.event-details {
+  margin-top: 2em;
+  font-family: Montserrat;
+  font-size: 13pt;
+}
+
+.event-details table td,
+.event-details table th
+{
+  padding: 4px;
+}
+
+.event-details table tr {
+  border: 1px solid black;
 }
 
 /* series page */
