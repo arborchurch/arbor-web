@@ -1,6 +1,6 @@
 ---
 date: "2017-04-23T11:00:00-08:00"
-title: "Heaven: Part One"
+title: "Heaven: Eternity with God"
 series: "heaven"
 speaker: "Jake Goetze"
 type: message
