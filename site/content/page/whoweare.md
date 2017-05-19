@@ -64,7 +64,7 @@ That is our purpose. Our preference is to do it together!
 
 <div class="belief-row">
   <div class="col-sm-12">
-    <img src="../../img/cloudy-beliefs.jpg" style="width: 100%; height: auto; margin-bottom: 50px;" />
+    <img src="../../img/lex-sux.jpg" style="width: 100%; height: auto; margin-bottom: 50px;" />
   </div>
 </div>
 
