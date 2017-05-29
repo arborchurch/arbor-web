@@ -1,5 +1,5 @@
 ---
-date: "2017-05-22T11:00:00-08:00"
+date: "2017-05-28T11:00:00-08:00"
 title: "Disciples: Peter"
 series: "disciples"
 speaker: "Dave Swenson"
