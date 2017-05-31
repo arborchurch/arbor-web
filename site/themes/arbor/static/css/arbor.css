@@ -511,9 +511,21 @@ img.event-image {
 }
 
 .event-details {
-  margin-top: 2em;
+  margin-top: 1em;
   font-family: Montserrat;
   font-size: 13pt;
+  margin-bottom: 5em;
+}
+
+.event-details h1 {
+  font-family: Montserrat;
+  letter-spacing: normal;
+  text-align: left;
+  font-style: normal;
+}
+
+.event-details h2 {
+  font-weight: 300;
 }
 
 .event-details table td,

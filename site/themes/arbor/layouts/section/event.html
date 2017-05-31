@@ -1,7 +1,8 @@
 
 {{ partial "content-header.html" . }}
 
-{{ range .Data.Pages }}
+<!-- render events in reverse order and exclude those which have already occurred -->
+{{ range where .Data.Pages.ByWeight.Reverse "Date.Unix" ">" .Now.Unix }}
   {{ .Render "single" }}
 {{ end }}
 

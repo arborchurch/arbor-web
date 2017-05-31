@@ -3,6 +3,10 @@
   <img class="event-image" src="{{ .Site.BaseURL }}img/{{ .Params.image }}" />
 </div>
 
-<div class="event-details">
-  {{ .Content }}
+<div class="row">
+  <div class="event-details col-sm-12 col-md-8 col-sm-offset-0 col-md-offset-2">
+    <h1>{{ .Title }}</h1>
+    <h2>{{ .Params.where }}</h2>
+    {{ .Content }}
+  </div>
 </div>
