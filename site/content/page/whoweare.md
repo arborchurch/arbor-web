@@ -63,12 +63,6 @@ That is our purpose. Our preference is to do it together!
 </div>
 
 <div class="belief-row">
-  <div class="col-sm-12">
-    <img src="../../img/lex-sux.jpg" style="width: 100%; height: auto; margin-bottom: 50px;" />
-  </div>
-</div>
-
-<div class="belief-row">
   <div class="col-sm-4 belief-header">
     The Holy Spirit is our Helper
   </div>
@@ -111,6 +105,12 @@ That is our purpose. Our preference is to do it together!
     We believe the entire Bible is the inspired Word of God and that men were moved by the Holy Spirit to write the very words of Scripture. Therefore, we believe the Bible is without error and the supreme authority in all matters of faith and conduct. 
 
     <div class="belief-verses">(John 17:17; Romans 15:4; 2 Timothy 3:16-17; 2 Peter 1:19-21; Psalm 19:7-11)</div>
+  </div>
+</div>
+
+<div class="belief-row">
+  <div class="col-sm-12">
+    <img src="../../img/we-are-a-forest.jpg" style="width: 100%; height: auto; margin-bottom: 50px;" />
   </div>
 </div>
 
