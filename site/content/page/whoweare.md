@@ -2,7 +2,7 @@
 date: "2016-12-13T22:07:46-08:00"
 title: "Who We Are"
 subtitle: "making disciples... together"
-image: "page-whoweare.jpg"
+image: "page/who-we-are.jpg"
 menu:
   main:
     parent: 'About'

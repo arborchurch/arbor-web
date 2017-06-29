@@ -1,6 +1,6 @@
 ---
 date: "2017-01-08"
-image: "page-events-picnic.jpg"
+image: "page/events.jpg"
 title: "Events"
 subtitle: "life is better lived together"
 menu:
