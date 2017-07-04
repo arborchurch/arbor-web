@@ -1,7 +1,7 @@
 ---
 date: "2017-07-02"
 title: "Cara and Jack Werner"
-position: "Worship Team Leads"
+position: "Worship"
 image: "staff-werners.jpg"
 email: "worship@arborchurchnw.org"
 emailname: "Cara and Jack"

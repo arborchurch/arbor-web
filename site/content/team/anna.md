@@ -1,7 +1,7 @@
 ---
 date: "2017-07-02"
 title: "Anna Chadwick"
-position: "Arbor Kids Team Lead"
+position: "Childrens"
 image: "staff-anna.jpg"
 email: "anachadwick@yahoo.com"
 emailname: Anna

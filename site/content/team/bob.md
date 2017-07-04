@@ -1,7 +1,7 @@
 ---
 date: "2017-07-01"
 title: "Bob Lee"
-position: "Teaching Pastor"
+position: "Teaching"
 image: "staff-bob.jpg"
 email: "boblee101@live.com"
 emailname: Bob
