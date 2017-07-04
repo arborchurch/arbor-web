@@ -1,7 +1,7 @@
 ---
 date: "2017-04-23"
 title: "Heaven"
-image: "heaven.jpg"
+image: "heavens-shore.jpg"
 type: series
 ---
 
