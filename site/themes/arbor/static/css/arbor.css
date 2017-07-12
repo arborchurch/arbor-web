@@ -534,6 +534,11 @@ img.event-image {
   padding: 4px;
 }
 
+.event-details p
+{
+  font-weight: 300;
+}
+
 .event-details table tr {
   border: 1px solid black;
 }
@@ -557,8 +562,10 @@ img.series-image {
 .belief-verses {
   font-family: Baskerville, Libre Baskerville, serif;
   margin-top: 1em;
+  margin-left: 0.5em;
   color: #B0B0B0;
   font-style: italic;
+  display: inline;
 }
 
 .belief-body {
