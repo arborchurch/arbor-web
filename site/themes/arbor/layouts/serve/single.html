@@ -10,7 +10,8 @@
       <h2>{{ .Title }}</h2>
       <h3>Lead: {{ .Params.leader }}</h3>
       <div class="content">
-        {{ .Content }}
+        <p>{{ .Content }}</p>
+        <p>Info: <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></p>
       </div>
     </div>
   </div>

@@ -3,9 +3,9 @@ date: "2017-01-01"
 title: "Photography"
 image: "serve-photography.jpg"
 leader: "Helena"
-email: "photography@arborchurchnw.org"
+email: "helena.kopet@gmail.com"
 weight: 40
 ---
 
-God is telling a story through his people at Arbor Church, and the Photography team is tasked with the privilege of illustrating the story. Are you a photographer or photo editor? We'd love to have you along to witness and capture the beauty of the Arbor Church family on Sundays and Events.
+God is telling a story through his people at this church, and the Photography Team has privilege of capturing and illustrating that story. We're looking for aspiring photographers who want to get in the mix of things? If you have a dSLR or are pretty savvy at editing photos for social media platforms... we're in need of your artistic skills! 
 

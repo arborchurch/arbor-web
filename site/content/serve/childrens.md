@@ -3,9 +3,9 @@ date: "2017-01-01"
 title: "Childrens"
 image: "serve-childrens.jpg"
 leader: "Anna"
-email: "children@arborchurchnw.org"
+email: "anna@arborchurchnw.org"
 weight: 20
 ---
 
-At Arbor Kids, we are about developing disciple makers.  We are intentional about creating a place for kids to have fun and feel known and loved.  From this foundation, kids will be invited into God's story through worship and eternity-minded curriculum.  All of this is done so that kids would be compelled to invite others into this same life-changing story through relationship.
+We're intentional about creating a place where kids not only have a blast but also feel like they belong. That primarily happens through caring adults going out of their way to express Christ's love to kids. We're not looking for babysitters... it goes way beyond that!  We want leaders who are willing to get down and connect with kids at eye level. That could be holding babies, playing with toddlers, or leading an elementary group. Every Sunday is an opportunity to invest in the next generation!  
 
