@@ -65,7 +65,7 @@
       var start = ele.offsetTop - ele.offsetHeight;
       var end = start + ele.offsetHeight + ele.offsetHeight;
       if (st >= start && st <= end) {
-        var translate =  Math.round(((st - start) / (end - start)) * 300) - 150;
+        var translate = Math.round(((st - start) / (end - start)) * 300) - 150;
         ele.style.backgroundPosition = "center " + translate + "px";
       }
     }
@@ -85,20 +85,34 @@
         (function() {
           var ele = eles[i];
           ele.addEventListener("mouseover", function(e) {
+            // ignore when too narrow for menus
             if (document.body.clientWidth < 768)
               return;
+
+            // close all other menus
+            for (var j = 0; j < eles.length; j++) {
+              eles[j].className = "menu-hover";
+            }
+
+            // open if not already opened
             if (!ele.className.endsWith(" open"))
               ele.className += " open";
           });
           ele.addEventListener("mouseout", function(e) {
+            // ignore when too narrow for menus
             if (document.body.clientWidth < 768)
               return;
+
+            // see where the mouse is headed (so we don't close when moving to a submenu)
             var e = event.toElement || event.relatedTarget;
             if (e.className === "menu") {
-               return;
+              return;
             }
-            if (ele.className.endsWith(" open"))
-              ele.className = ele.className.substring(0, " open".length);
+
+            // if open, close it
+            if (ele.className.endsWith(" open")) {
+              ele.className = "menu-hover";
+            }
           });
         })();
       }
