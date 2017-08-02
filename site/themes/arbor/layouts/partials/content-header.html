@@ -1,6 +1,12 @@
-{{ partial "header.html" . }}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>{{ .Site.Title }} - {{ .Params.title }}</title>
+  {{ partial "common-head.html" . }}
+</head>
+<body>
 
-<div class="menu-background"></div>
+{{ partial "menu.html" . }}
 
 <div class="header">
   <img class="desktop-image" src="{{ .Site.BaseURL }}img/{{ .Params.image }}" />
