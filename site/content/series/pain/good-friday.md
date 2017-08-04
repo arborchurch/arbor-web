@@ -4,7 +4,7 @@ title: "Pain: Good Friday"
 series: "pain"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurchnw.org/podcast/pain-good-friday.m4a
+podcast: https://arborchurch.com/podcast/pain-good-friday.m4a
 podcast_bytes: 20725517 
 podcast_duration: 27:46
 ---
