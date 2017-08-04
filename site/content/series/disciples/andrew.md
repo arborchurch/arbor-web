@@ -4,7 +4,7 @@ title: "Disciples: Andrew"
 series: "disciples"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurchnw.org/podcast/disciples-andrew.m4a
+podcast: https://arborchurch.com/podcast/disciples-andrew.m4a
 podcast_bytes: 28800246 
 podcast_duration: 38:35
 ---

@@ -4,7 +4,7 @@ title: "One Anothers: Forgiveness"
 series: "one-anothers"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurchnw.org/podcast/one-anothers-forgiveness.m4a
+podcast: https://arborchurch.com/podcast/one-anothers-forgiveness.m4a
 podcast_bytes: 28269436
 podcast_duration: 37:47
 ---

@@ -4,7 +4,7 @@ title: "Pain: Responding to Pain"
 series: "pain"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurchnw.org/podcast/responding-to-pain.m4a
+podcast: https://arborchurch.com/podcast/responding-to-pain.m4a
 podcast_bytes: 42854506
 podcast_duration: 57:16
 scripture: "2 Corinthians 12:7-10"

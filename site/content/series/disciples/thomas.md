@@ -4,7 +4,7 @@ title: "Disciples: Thomas"
 series: "disciples"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurchnw.org/podcast/disciples-thomas.m4a
+podcast: https://arborchurch.com/podcast/disciples-thomas.m4a
 podcast_bytes: 27256707
 podcast_duration: 36:12
 ---

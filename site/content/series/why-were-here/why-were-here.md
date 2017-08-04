@@ -4,7 +4,7 @@ title: "Why We're Here"
 series: "why-were-here"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurchnw.org/podcast/why-were-here.mp3
+podcast: https://arborchurch.com/podcast/why-were-here.mp3
 podcast_bytes: 20193252
 podcast_duration: 32:46
 ---

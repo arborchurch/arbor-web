@@ -4,7 +4,7 @@ title: "One Anothers: Humility"
 series: "one-anothers"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurchnw.org/podcast/one-anothers-humility.m4a
+podcast: https://arborchurch.com/podcast/one-anothers-humility.m4a
 podcast_bytes: 22172388
 podcast_duration: 29:33
 ---

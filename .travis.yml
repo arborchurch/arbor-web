@@ -16,10 +16,10 @@ install:
 # build the site
 script: 
   - cd site
-  - ../hugo_0.18.1_linux_amd64/hugo_0.18.1_linux_amd64 --baseURL=https://www.arborchurchnw.org/ --theme=arbor
+  - ../hugo_0.18.1_linux_amd64/hugo_0.18.1_linux_amd64 --baseURL=https://www.arborchurch.com/ --theme=arbor
 
 # deploy it!
 after_success:
   - cd public
-  - scp -i ../../arborchurch-travis -o StrictHostKeyChecking=no -r * arborchurch@arborchurchnw.org:arborchurchnw.org
+  - scp -i ../../arborchurch-travis -o StrictHostKeyChecking=no -r * arborchurch@arborchurch.com:arborchurch.com
 

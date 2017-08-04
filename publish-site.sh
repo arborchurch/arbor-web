@@ -14,5 +14,5 @@ hugo --theme=arbor
 echo Publishing site
 echo ---------------
 cd public
-scp -r * arborchurch@arborchurchnw.org:arborchurchnw.org
+scp -r * arborchurch@arborchurch.com:arborchurch.com
 
