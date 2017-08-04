@@ -4,7 +4,7 @@ title: "Heaven: Eternity with God"
 series: "heaven"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurchnw.org/podcast/heaven-part-one.m4a
+podcast: https://arborchurch.com/podcast/heaven-part-one.m4a
 podcast_bytes: 29922026
 podcast_duration: 39:52
 ---

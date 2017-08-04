@@ -4,7 +4,7 @@ title: "Neighboring"
 series: "neighboring"
 speaker: "Pat Swanson"
 type: message
-podcast: https://arborchurchnw.org/podcast/neighboring.m4a
+podcast: https://arborchurch.com/podcast/neighboring.m4a
 podcast_bytes: 29947257
 podcast_duration: 40:00
 scripture: "Acts 9:32-43"

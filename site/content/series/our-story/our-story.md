@@ -3,7 +3,7 @@ date: "2016-01-10T10:00:00-08:00"
 title: "Our Story"
 series: "our-story"
 speaker: "Jake Goetze"
-podcast: https://arborchurchnw.org/podcast/our_story.mp3
+podcast: https://arborchurch.com/podcast/our_story.mp3
 podcast_bytes: 68341248
 podcast_duration: 47:17
 type: message

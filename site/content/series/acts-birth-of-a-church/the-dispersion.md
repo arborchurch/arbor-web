@@ -4,7 +4,7 @@ title: "Acts: The Dispersion"
 series: "acts-birth-of-a-church"
 speaker: "Bob Lee"
 type: message
-podcast: https://arborchurchnw.org/podcast/the-dispersion.m4a
+podcast: https://arborchurch.com/podcast/the-dispersion.m4a
 podcast_bytes: 24995828 
 podcast_duration: 33:29
 scripture: "Acts 8:1-8"

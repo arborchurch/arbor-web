@@ -1,7 +1,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Arbor Church</title>
-    <link>https://www.arborchurchnw.org/</link>
+    <link>https://www.arborchurch.com/</link>
     <language>en-us</language>
     <copyright>Copyright 2017 Arbor Church</copyright>
     <itunes:subtitle>Messages from Arbor Church in Woodinville, Washington</itunes:subtitle>
@@ -12,7 +12,7 @@
       <itunes:name>Jonathan McPherson</itunes:name>
       <itunes:email>jonathan@oatmealforbreakfast.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://arborchurchnw.org/img/arbor-logo-huge.png" />
+    <itunes:image href="https://arborchurch.com/img/arbor-logo-huge.png" />
     <itunes:category text="Religion &amp; Spirituality">
        <itunes:category text="Christianity" />
     </itunes:category>

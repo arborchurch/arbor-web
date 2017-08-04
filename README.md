@@ -2,7 +2,7 @@
 
 # Arbor Church Website
 
-This repository hosts the sources for the [Arbor Church website](https://www.arborchurchnw.org/). 
+This repository hosts the sources for the [Arbor Church website](https://www.arborchurch.com/). 
 
 ## Development
 
@@ -36,7 +36,7 @@ Once you have a WAV containing just the audio, you need to encode and compress i
 
 Now copy the resultant m4a file to the podcast directory of the website like so:
 
-    scp path-to-m4a.m4a arborchurch@arborchurchnw.org:arborchurchnw.org/podcast
+    scp path-to-m4a.m4a arborchurch@arborchurch.com:arborchurch.com/podcast
 
 ### Update website and podcast
 

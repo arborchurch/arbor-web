@@ -4,7 +4,7 @@ title: "Acts: The Promise"
 series: "acts-birth-of-a-church"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurchnw.org/podcast/the-promise.mp3
+podcast: https://arborchurch.com/podcast/the-promise.mp3
 podcast_bytes: 20908566
 podcast_duration: 34:27
 ---

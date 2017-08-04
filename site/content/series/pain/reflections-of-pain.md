@@ -4,7 +4,7 @@ title: "Pain: Reflections of Pain"
 series: "pain"
 speaker: "Dave Swenson"
 type: message
-podcast: https://arborchurchnw.org/podcast/reflections-of-pain.m4a
+podcast: https://arborchurch.com/podcast/reflections-of-pain.m4a
 podcast_bytes: 46687358 
 podcast_duration: 62:54
 ---

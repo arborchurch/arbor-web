@@ -4,7 +4,7 @@ title: "Disciples: Matthew & Simon"
 series: "disciples"
 speaker: "Bob Lee"
 type: message
-podcast: https://arborchurchnw.org/podcast/disciples-matthew-and-simon.m4a
+podcast: https://arborchurch.com/podcast/disciples-matthew-and-simon.m4a
 podcast_bytes: 27510907 
 podcast_duration: 36:51
 ---
