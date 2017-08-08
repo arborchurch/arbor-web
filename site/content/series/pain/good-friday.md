@@ -1,6 +1,6 @@
 ---
 date: "2017-04-14T18:00:00-08:00"
-title: "Pain: Good Friday"
+title: "Pain: Redeeming Pain (Good Friday)"
 series: "pain"
 speaker: "Jake Goetze"
 type: message
