@@ -12,7 +12,7 @@ menu:
 
 <div style="font-size: 20px;">
 <div class="text-center" style="margin-bottom: 50px;">
-<a href="mailto:info@arborchurchnw.org">info@arborchurchnw.org</a>
+<a href="mailto:info@arborchurch.com">info@arborchurch.com</a>
 </div>
 
 <p>19011 Woodinville Snohomish Rd<br />
