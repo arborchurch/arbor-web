@@ -11,8 +11,12 @@ menu:
 <div class="text-center">
 
 <div style="font-size: 20px;">
-<div class="text-center" style="margin-bottom: 50px;">
+<div class="text-center" style="margin-bottom: 30px;">
 <a href="mailto:info@arborchurch.com">info@arborchurch.com</a>
+</div>
+
+<div class="text-center" style="margin-bottom: 30px;">
+425-578-0400
 </div>
 
 <p>19011 Woodinville Snohomish Rd<br />
