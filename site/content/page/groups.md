@@ -19,7 +19,7 @@ menu:
 
 <p>Interested in learning more? Click the link below to see a list of <a href="https://arborchurch.churchcenteronline.com/groups/groups">Group options & sign-up</a>.</p>
 
-<p><a href="https://arborchurch.churchcenteronline.com/groups/groups" style="font-size: x-large;">Arbor Church Groups</a></p>
+<p style="text-align: center;"><a href="https://arborchurch.churchcenteronline.com/groups/groups" style="font-size: 30pt; font-weight: bold;">Arbor Church Groups</a></p>
 
 </div>
 </div>
