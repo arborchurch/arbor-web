@@ -1,7 +1,7 @@
 ---
 date: "2017-02-17T22:07:46-08:00"
 title: "Podcast"
-image: "page/podcast.jpg"
+image: "page/podcast-forest-floor.jpg"
 menu:
   main:
     parent: 'Messages'

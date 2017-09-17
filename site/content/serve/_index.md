@@ -1,6 +1,6 @@
 ---
 date: "2017-01-01"
-image: "page/serve.jpg"
+image: "page/serve-leaf.jpg"
 title: Serve
 menu:
   main:
