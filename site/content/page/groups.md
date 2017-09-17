@@ -17,9 +17,11 @@ menu:
  
 <p>So what do these groups actually look like and what do they do? Great questions! Groups are centered around various common interests and passions. Things like serving others, trying new & different foods, sports, mom's play dates, and everything in between.</p>
 
-<p>Interested in learning more? Click the link below to see a list of <a href="https://arborchurch.churchcenteronline.com/groups/groups">Group options & sign-up</a>.</p>
-
-<p style="text-align: center;"><a href="https://arborchurch.churchcenteronline.com/groups/groups" style="font-size: 30pt; font-weight: bold;">Arbor Church Groups</a></p>
-
 </div>
 </div>
+
+<div style="text-align: center; border: 1px solid black;" class="col-md-4 col-md-offset-4">
+<i>Click to Learn More & Sign Up:</i><br />
+<a href="https://arborchurch.churchcenteronline.com/groups/groups" style="font-size: 30pt; font-weight: bold;">Arbor Church Groups</a>
+</div>
+
