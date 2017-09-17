@@ -20,8 +20,10 @@ menu:
 </div>
 </div>
 
-<div style="text-align: center; border: 1px solid black;" class="col-md-4 col-md-offset-4">
-<span style="font-size: large; padding-top: 15px;">Click to Learn More & Sign Up:</i><br />
+<div style="text-align: center; border: 1px solid black; background: #f0f0f0" class="col-md-4 col-md-offset-4">
+<div style="margin-top: 20px; padding: 10px;">
+<span style="font-size: large; padding-top: 15px; font-style: italic;">Click to Learn More & Sign Up:</i><br />
 <a href="https://arborchurch.churchcenteronline.com/groups/groups" style="font-size: 30pt; font-weight: bold;">Arbor Church Groups</a>
+</div>
 </div>
 
