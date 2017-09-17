@@ -21,7 +21,7 @@ menu:
 </div>
 
 <div style="text-align: center; border: 1px solid black;" class="col-md-4 col-md-offset-4">
-<i>Click to Learn More & Sign Up:</i><br />
+<span style="font-size: large; padding-top: 15px;">Click to Learn More & Sign Up:</i><br />
 <a href="https://arborchurch.churchcenteronline.com/groups/groups" style="font-size: 30pt; font-weight: bold;">Arbor Church Groups</a>
 </div>
 
