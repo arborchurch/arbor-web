@@ -2,6 +2,7 @@
 date: "2017-08-29T22:07:46-08:00"
 title: "Groups"
 image: "page/groups.jpg"
+weight: 10
 menu:
   main:
     parent: 'Connect'
