@@ -10,6 +10,12 @@ menu:
 
 <div class="col-md-8 col-md-offset-2">
 
+<div style="text-align: center; margin-bottom: 50px;">
+  <a href="https://arborchurch.churchcenteronline.com/groups/groups" target="_blank">
+    <img src="/img/groups-button.jpg" />
+  </a>
+</div>
+
 <div style="font-size: 20px;">
 
 <p>Groups at Arbor are different... and that's by design.</p>
@@ -20,11 +26,3 @@ menu:
 
 </div>
 </div>
-
-<div style="text-align: center; border: 1px solid black; background: #f4f4ff; margin-top: 30px;" class="col-md-6 col-md-offset-3">
-<div style="padding: 10px;">
-<span style="font-size: large; padding-top: 15px; font-style: italic;">Click to Learn More & Sign Up:</span><br />
-<a href="https://arborchurch.churchcenteronline.com/groups/groups" style="font-size: 30pt; font-weight: bold;">Arbor Church Groups</a>
-</div>
-</div>
-
