@@ -12,7 +12,7 @@ menu:
 
 <div style="text-align: center; margin-bottom: 50px;">
   <a href="https://arborchurch.churchcenteronline.com/groups/groups" target="_blank">
-    <img src="/img/groups-button.jpg" />
+    <img src="/img/groups-button.png" width="285" height="110" />
   </a>
 </div>
 
