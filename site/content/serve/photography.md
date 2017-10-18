@@ -2,8 +2,8 @@
 date: "2017-01-01"
 title: "Photography"
 image: "serve-photography.jpg"
-leader: "Helena"
-email: "helena.kopet@gmail.com"
+leader: "Breanna & Kevin"
+email: "breannamariephoto@outlook.com"
 weight: 40
 ---
 
