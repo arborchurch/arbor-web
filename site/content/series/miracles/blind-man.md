@@ -1,5 +1,5 @@
 ---
-date: "2017-09-24T11:00:00-08:00"
+date: "2017-10-15T11:00:00-08:00"
 title: "Miracles: Blind Man from Bethsaida"
 series: "miracles"
 speaker: "Jake Goetze"
