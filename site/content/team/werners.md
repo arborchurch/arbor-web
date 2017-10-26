@@ -3,7 +3,7 @@ date: "2017-07-02"
 title: "Cara and Jack Werner"
 position: "Worship"
 image: "staff-werners.jpg"
-email: "worship@arborchurchnw.org"
+email: "worship@arborchurch.com"
 emailname: "Cara and Jack"
 weight: 60
 ---
