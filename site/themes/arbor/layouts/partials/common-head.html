@@ -69,7 +69,7 @@
   }
   
   function update_parallax(ele) {
-    var st = document.body.scrollTop;
+    var st = window.scrollY;
     var start = ele.offsetTop - ele.offsetHeight;
     var end = start + ele.offsetHeight + ele.offsetHeight;
     if (st >= start && st <= end) {
