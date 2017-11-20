@@ -5,7 +5,7 @@ series: "balance"
 speaker: "Jake Goetze"
 type: message
 podcast: https://arborchurch.com/podcast/balance-time.m4a
-podcast_bytes: 33659632
+podcast_bytes: 34612209
 podcast_duration: 46:07
 scripture: Psalm 90
 ---
