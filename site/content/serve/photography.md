@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 title: "Photography"
-image: "serve-photography.jpg"
+image: "photography.jpg"
 leader: "Breanna & Kevin"
 email: "breannamariephoto@outlook.com"
 weight: 40

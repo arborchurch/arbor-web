@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 title: "Facilities"
-image: "serve-facilities.jpg"
+image: "facilities.jpg"
 leader: "Jerrod"
 email: "jerrod.strid@gmail.com"
 weight: 30

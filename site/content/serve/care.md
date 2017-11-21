@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 title: "Care"
-image: "serve-care.jpg"
+image: "care.jpg"
 leader: "Paul & TC"
 email: "alison@arborchurchnw.org"
 weight: 10

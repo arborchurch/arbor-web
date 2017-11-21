@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 title: "Childrens"
-image: "serve-childrens.jpg"
+image: "childrens.jpg"
 leader: "Anna"
 email: "anna@arborchurchnw.org"
 weight: 20

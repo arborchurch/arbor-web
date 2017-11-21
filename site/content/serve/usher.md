@@ -1,7 +1,7 @@
 ---
 date: "2017-01-15"
 title: "Usher"
-image: "serve-usher.jpg"
+image: "usher.jpg"
 leader: "Chris"
 email: "c.fenner@outlook.com"
 weight: 60

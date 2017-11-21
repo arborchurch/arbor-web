@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 title: "Welcome"
-image: "serve-welcome.jpg"
+image: "welcome.jpg"
 leader: "Jon & Kerri"
 email: "nojbeets@msn.com"
 weight: 70

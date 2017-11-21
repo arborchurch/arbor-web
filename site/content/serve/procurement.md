@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 title: "Procurement"
-image: "serve-procurement.jpg"
+image: "procurement.jpg"
 leader: "Kim"
 email: "jkstrid@gmail.com"
 weight: 50
