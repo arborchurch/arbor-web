@@ -1,0 +1,11 @@
+
+<div class="message">
+  <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  <h3>{{ .Params.speaker }} | {{ .Date.Format "Monday, January 2, 2006" }}</h3>
+
+  {{ .Content }}
+
+  <audio src="{{ .Params.podcast }}" controls="controls">
+
+  </audio>
+</div>

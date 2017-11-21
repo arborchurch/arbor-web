@@ -1,7 +1,11 @@
+{{ with .Site.GetPage "taxonomy" "series" .Params.series }}
+  {{ partial "content-header.html" . }}
+{{ end }}
 
-<div class="message">
+<div class="col-sm-12 col-md-8 col-sm-offset-0 col-md-offset-2">
   <h2>{{ .Title }}</h2>
-  <h3>{{ .Params.speaker }} | {{ .Date.Format "Monday, January 2, 2006" }}</h3>
+  <h3>{{ .Date.Format "Monday, January 2, 2006" }}</h3>
+  <h3>{{ .Params.speaker }}</h3>
 
   {{ .Content }}
 
@@ -9,3 +13,5 @@
 
   </audio>
 </div>
+
+{{ partial "content-footer.html" . }}
