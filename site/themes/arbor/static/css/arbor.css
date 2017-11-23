@@ -587,11 +587,28 @@ img.series-image {
   margin-bottom: 0;
 }
 
+.message h2 a {
+  color: #404040;
+}
+
 .message h3 {
   margin-top: 15px;
   color: #909090;
   font-size: 15px;
   font-style: italic;
+}
+
+.message-details h4 {
+  color: #707070;
+}
+
+.message-details p {
+  margin-top: 25px; 
+  margin-bottom: 25px; 
+}
+
+.message-details audio {
+  margin-bottom: 50px;
 }
 
 /* mobile */
