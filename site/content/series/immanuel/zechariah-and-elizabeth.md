@@ -1,5 +1,5 @@
 ---
-date: "2017-12-10T11:00-12:00"
+date: "2017-12-10T11:00:00-08:00"
 title: "Immanuel: Zechariah & Elizabeth"
 series: "immanuel"
 speaker: "Jake Goetze"
