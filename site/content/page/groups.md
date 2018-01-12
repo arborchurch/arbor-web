@@ -18,11 +18,10 @@ menu:
 
 <div style="font-size: 20px;">
 
-<p>Groups at Arbor are different... and that's by design.</p>
+<p>Group signups are happening JANUARY 14-31! </p>
  
-<p>We believe life is better together, that we were designed to live in community... all of us! That's why Groups here aren't designed just for church people. On the contrary, groups are intentionally inclusive; everyone is welcome!</p>
+<p>Click to see what clicks for you and that friend you're bringing along...the winter trimester of groups runs all of February and March, so don't wait too long to sign up!   </p>
  
-<p>So what do these groups actually look like and what do they do? Great questions! Groups are centered around various common interests and passions. Things like serving others, trying new & different foods, sports, mom's play dates, and everything in between.</p>
 
 </div>
 </div>
