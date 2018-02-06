@@ -1,5 +1,5 @@
 ---
 date: "2018-02-04"
-image: "series/first-birthday.jpg"
+image: "series/sermon-on-the-mount.jpg"
 ---
 
