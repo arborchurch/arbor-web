@@ -18,9 +18,9 @@ menu:
 
 <div style="font-size: 20px;">
 
-<p>Group signups are happening JANUARY 14-31! </p>
+<p>Group signups are happening now! </p>
  
-<p>Click to see what clicks for you and that friend you're bringing along...the winter trimester of groups runs all of February and March, so don't wait too long to sign up!   </p>
+<p>Click to see what clicks for you and that friend you're bringing along...the winter trimester of groups runs all of February and March, and many of them have an open door all throughout! It's not too late to be involved.   </p>
  
 
 </div>
