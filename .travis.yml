@@ -20,6 +20,5 @@ script:
 
 # deploy it!
 after_success:
-  - cd public
-  - scp -i ../../arborchurch-travis -o StrictHostKeyChecking=no -r * arborchurch@arborchurch.com:arborchurch.com
+  - rsync -cav -s 'ssh -i ../../arborchurch-travis -o StrictHostKeyChecking=no' --progress public/ arborchurch@arborchurch.com:arborchurch.com
 
