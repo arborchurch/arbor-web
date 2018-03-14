@@ -79,9 +79,14 @@
     var st = window.scrollY;
     var start = ele.offsetTop - ele.offsetHeight;
     var end = start + ele.offsetHeight + ele.offsetHeight;
+    var align = "center";
+    var pos = ele.style.backgroundPosition.indexOf(' ');
+    if (pos > 0) {
+      align = ele.style.backgroundPosition.substring(0, pos);
+    }
     if (st >= start && st <= end) {
       var translate = Math.round(((st - start) / (end - start)) * 300) - 150;
-      ele.style.backgroundPosition = "center " + translate + "px";
+      ele.style.backgroundPosition = align + " " + translate + "px";
     }
   }
 
