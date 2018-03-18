@@ -1,13 +1,13 @@
 ---
-date: "2018-03-11T11:00:00-08:00"
-title: "Helping the Hurting: Grieving"
+date: "2018-03-18T11:00:00-08:00"
+title: "Helping the Hurting: Addicted"
 series: "helping-the-hurting"
-speaker: "Jake Goeze"
+speaker: "Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/helping-the-hurting-grieving.m4a
-podcast_bytes: 32991704
-podcast_duration: 43:56
+podcast: https://arborchurch.com/podcast/helping-the-hurting-addicted.m4a
+podcast_bytes: 35360613
+podcast_duration: 46:47
 ---
 
-Have you ever wanted to help someone who's going through a difficult time... but just don't know what to say or do? Jake launches our new series on helping the hurting with a very practical message on how to walk with those who are grieving. 
+It's tough to talk about addiction, but it's a reality in our communities and in many of our own lives. Two Arbor members share their stories and Garrett leads a conversation about the effects of addiction--and how to break free.
 
