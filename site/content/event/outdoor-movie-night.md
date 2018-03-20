@@ -1,5 +1,6 @@
 ---
 date: "2017-08-17"
+expirydate: "2017-08-17"
 title: "Outdoor Movie Night (Moana)"
 image: "events/outdoor-movie.jpg"
 where: "August 17 @ Willis Tucker Park"

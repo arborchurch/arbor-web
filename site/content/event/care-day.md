@@ -1,5 +1,6 @@
 ---
 date: "2017-06-29"
+expirydate: "2017-06-29"
 title: "Care Day"
 image: "events/care-day.jpg"
 where: "Thursday, June 29"

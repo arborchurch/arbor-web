@@ -1,5 +1,6 @@
 ---
 date: "2017-07-30"
+expirydate: "2017-07-30"
 title: "Park BBQ"
 image: "events/park-bbq.jpg"
 where: "Sunday, July 30 @ Grasslawn Park, 4-9pm"

@@ -1,5 +1,6 @@
 ---
 date: "2017-06-23"
+expirydate: "2017-06-23"
 title: "Mariners Night"
 image: "events/mariners-night.jpg"
 where: "Friday, June 23 @ Safeco Field, 7pm"

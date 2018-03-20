@@ -1,5 +1,6 @@
 ---
 date: "2017-12-24"
+expirydate: "2017-12-24"
 title: "Immanuel Series"
 image: "events/immanuel.jpg"
 weight: 10

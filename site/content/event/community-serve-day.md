@@ -1,5 +1,6 @@
 ---
 date: "2017-08-20"
+expirydate: "2017-08-20"
 title: "Community Serve Day"
 image: "events/community-serve-day.jpg"
 where: "Sunday, August 20"

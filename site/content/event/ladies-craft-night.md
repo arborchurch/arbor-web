@@ -1,5 +1,6 @@
 ---
 date: "2017-06-09"
+expirydate: "2017-06-09"
 title: "Ladies Craft Night"
 image: "events/ladies-craft-night.jpg"
 where: "Friday, June 9 @ Arbor, 7-10pm"
