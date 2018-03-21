@@ -1,12 +1,10 @@
 ---
-date: "2018-04-01"
-publishdate: "2018-03-30"
+date: "2018-03-30"
+publishdate: "2018-03-20"
 expirydate: "2018-04-01"
 title: "Good Friday"
 image: "events/good-friday-2018.jpg"
-where: "Arbor Church @ 7pm"
 weight: 10
-draft: true
 ---
 
 Before we celebrate Jesus' victory over death, we want to hit the pause button and honor His suffering done on our behalf. 
