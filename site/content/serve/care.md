@@ -2,8 +2,8 @@
 date: "2017-01-01"
 title: "Care"
 image: "care.jpg"
-leader: "Paul & TC"
-email: "alison@arborchurchnw.org"
+leader: "Alison"
+email: "alison@arborchurch.com"
 weight: 10
 ---
 
