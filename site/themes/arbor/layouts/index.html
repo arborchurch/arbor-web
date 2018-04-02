@@ -1,30 +1,34 @@
 {{ partial "header.html" . }}
 
-<div class="splash parallax">
-  <div class="mast">
-    <div>
-      <img src="img/arbor-logo-landing.png" />
-      <div class="service-info">
-        <h1>Sundays 9 &amp; 11AM</h1>
-        <a href="https://www.google.com/maps/place/19011+Woodinville+Snohomish+Rd,+Woodinville,+WA+98072/@47.7657651,-122.1576943,17z/data=!3m1!4b1!4m5!3m4!1s0x54900e9a33e7f0d3:0x2d8ffaf8fde7a709!8m2!3d47.7657651!4d-122.1555003">19011 Woodinville-Snohomish Rd.</a>
+<div class="parallax-wrapper">
+  <section class="par-section">
+    <div class="mast">
+      <div>
+        <img src="img/arbor-logo-landing.png" />
+        <div class="service-info">
+          <h1>Sundays 9 &amp; 11AM</h1>
+          <a href="https://www.google.com/maps/place/19011+Woodinville+Snohomish+Rd,+Woodinville,+WA+98072/@47.7657651,-122.1576943,17z/data=!3m1!4b1!4m5!3m4!1s0x54900e9a33e7f0d3:0x2d8ffaf8fde7a709!8m2!3d47.7657651!4d-122.1555003">19011 Woodinville-Snohomish Rd.</a>
+        </div>
       </div>
     </div>
-  </div>
-  <a href="https://www.facebook.com/arborchurchnw/"><i class="fa fa-facebook-square"></i></a>
-  &nbsp; &nbsp;
-  <a href="https://www.instagram.com/arborchurchnw/"><i class="fa fa-instagram"></i></a>
-  &nbsp; &nbsp;
-  <a href="https://www.twitter.com/arborchurchnw/"><i class="fa fa-twitter-square"></i></a>
-</div>
+    <a href="https://www.facebook.com/arborchurchnw/"><i class="fa fa-facebook-square"></i></a>
+    &nbsp; &nbsp;
+    <a href="https://www.instagram.com/arborchurchnw/"><i class="fa fa-instagram"></i></a>
+    &nbsp; &nbsp;
+    <a href="https://www.twitter.com/arborchurchnw/"><i class="fa fa-twitter-square"></i></a>
+  </section>
+  <div class="par-img" style="background-image: url(img/arbor-mast.jpg);"></div>
 
-{{ range .Data.Pages }}
-  {{ if eq .Type "block" }}
-  <div id="block_{{ .Title }}" class="block parallax" style="background-image: url(img/{{ .Params.image }});">
-    <h1>{{ .Title }}</h1>
-    <h2>{{ .Params.tagline }}</h2>
-    {{ .Content }}
-  </div>
-  {{ end }} 
-{{ end }}
+  {{ range .Data.Pages }}
+    {{ if eq .Type "block" }}
+    <section id="block_{{ .Title }}" class="par-section block">
+      <h1>{{ .Title }}</h1>
+      <h2>{{ .Params.tagline }}</h2>
+      {{ .Content }}
+    </section>
+    <div class="par-img" style="background-image: url(img/{{ .Params.image }});"></div>
+    {{ end }} 
+  {{ end }}
+</div>
 
 {{ partial "footer.html" . }}

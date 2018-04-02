@@ -39,17 +39,6 @@ a:hover {
   text-decoration: none;
 }
 
-.splash {
-  background-color: #515151;
-  background-image: url(../img/arbor-mast.jpg);
-  background-repeat: no-repeat;
-  background-position: center 0px;
-  background-size: cover;
-  margin: 0px;
-  padding: 0px;
-  height: 100vh;
-}
-
 .home-logo, .menu-logo {
   position: absolute;
   top: 20px;
@@ -609,6 +598,30 @@ img.series-image {
 
 .message-details audio {
   margin-bottom: 50px;
+}
+
+.parallax-wrapper {
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+  perspective: 2px;
+}
+
+.parallax-wrapper .par-section {
+  position: relative;
+  height: 100vh;
+}
+
+.parallax-wrapper .par-img {
+  position: absolute;
+  display: inline;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  transform: translateZ(-1px) scale(1.5);
+  background-size: 100%;
+  z-index: -1;
 }
 
 /* mobile */
