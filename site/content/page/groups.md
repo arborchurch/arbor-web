@@ -11,7 +11,7 @@ menu:
 <div class="col-md-8 col-md-offset-2">
 
 <div style="text-align: center; margin-bottom: 50px;">
-  <a href="https://arborchurch.churchcenteronline.com/groups/groups" target="_blank">
+  <a href="https://arborchurch.churchcenter.com/groups/spring-2018" target="_blank">
     <img src="/img/groups-button.png" width="285" height="110" />
   </a>
 </div>
