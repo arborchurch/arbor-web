@@ -1,6 +1,6 @@
 ---
 date: "2018-03-30T19:00:00-08:00"
-title: "Easter: Good Friday"
+title: "Good Friday: Jesus on the Cross"
 series: "easter-2018"
 speaker: "Jake Goetze"
 type: message

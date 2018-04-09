@@ -1,6 +1,6 @@
 ---
 date: "2018-04-08T09:00:00-08:00"
-title: "God's Will: Knowing God's Will"
+title: "God's Will: Surrender"
 series: "gods-will"
 speaker: "Jake Goetze"
 type: message

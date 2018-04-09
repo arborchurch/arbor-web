@@ -1,6 +1,6 @@
 ---
 date: "2018-04-01T09:30:00-08:00"
-title: "Easter: The Road to Emmaus"
+title: "Easter: Jesus on the Road"
 series: "easter-2018"
 speaker: "Jake Goetze"
 type: message
