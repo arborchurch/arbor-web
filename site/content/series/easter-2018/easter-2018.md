@@ -5,8 +5,8 @@ series: "easter-2018"
 speaker: "Jake Goetze"
 type: message
 podcast: https://arborchurch.com/podcast/easter-2018-road-to-emmaus.m4a
-podcast_bytes: 29509807 
-podcast_duration: 39:41
+podcast_bytes: 29660442
+podcast_duration: 39:56
 ---
 
 One of the first things Jesus did after his resurrection was to ... take a walk with two men who didn't recognize him.
