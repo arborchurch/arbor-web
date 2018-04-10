@@ -1,7 +1,7 @@
 ---
 date: "2018-03-30T19:00:00-08:00"
 title: "Good Friday: Jesus on the Cross"
-series: "easter-2018"
+series: "good-friday-2018"
 speaker: "Jake Goetze"
 type: message
 podcast: https://arborchurch.com/podcast/good-friday-2018.m4a
