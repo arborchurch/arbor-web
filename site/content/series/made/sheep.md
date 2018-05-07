@@ -5,8 +5,8 @@ series: "made"
 speaker: "Garrett Birkeland"
 type: message
 podcast: https://arborchurch.com/podcast/made-sheep.m4a
-podcast_bytes: 24648088 
-podcast_duration: 33:04
+podcast_bytes: 25381698
+podcast_duration: 33:57
 ---
 
 The Bible often refers to us as "sheep"... which doesn't feel much like a compliment. Garrett helps us look past our culture's obsession with leadership to see why this metaphor is used so often.
