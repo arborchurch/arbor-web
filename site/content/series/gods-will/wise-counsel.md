@@ -2,7 +2,7 @@
 date: "2018-04-15T11:00:00-08:00"
 title: "God's Will: Wise Counsel"
 series: "gods-will"
-speaker: "Scott Heatherington"
+speaker: "Scott Hetherington"
 type: message
 podcast: https://arborchurch.com/podcast/gods-will-wise-counsel.m4a
 podcast_bytes: 31490367
