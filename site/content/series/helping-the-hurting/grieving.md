@@ -2,7 +2,7 @@
 date: "2018-03-11T11:00:00-08:00"
 title: "Helping the Hurting: Grieving"
 series: "helping-the-hurting"
-speaker: "Jake Goeze"
+speaker: "Jake Goetze"
 type: message
 podcast: https://arborchurch.com/podcast/helping-the-hurting-grieving.m4a
 podcast_bytes: 32991704
