@@ -2,7 +2,7 @@
 date: "2018-05-20T11:00:00-08:00"
 title: "Made: Branch"
 series: "made"
-speaker: "Scott Heatherington"
+speaker: "Scott Hetherington"
 type: message
 podcast: https://arborchurch.com/podcast/made-branch.m4a
 podcast_bytes: 22670893
