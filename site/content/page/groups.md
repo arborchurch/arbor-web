@@ -10,12 +10,6 @@ menu:
 
 <div class="col-md-8 col-md-offset-2">
 
-<div style="text-align: center; margin-bottom: 50px;">
-  <a href= target="_blank">
-    <img src="/img/groups-button.png" width="285" height="110" />
-  </a>
-</div>
-
 <div style="font-size: 20px;">
 
 <p>groups are off for the summer! </p>
