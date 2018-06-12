@@ -18,9 +18,9 @@ menu:
 
 <div style="font-size: 20px;">
 
-<p>Group signups start April 8th! </p>
+<p>groups are off for the summer! </p>
  
-<p>Click to see what clicks for you and that friend you're bringing along...the spring trimester of groups runs all of May and June, and many of them have an open door all throughout! Enjoy time with the Arbor fam even when it's not Sunday!</p>
+<p>looking forward to an exciting lineup of groups for the fall... stay tuned for some really sweet opportunities to connect!</p>
  
 
 </div>
