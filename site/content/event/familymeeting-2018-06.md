@@ -2,7 +2,7 @@
 date: "2018-06-10"
 title: "Family Meeting"
 image: "events/family-meeting-2017-05.jpg"
-expirydate: "2018-09-29"
+expirydate: "2018-06-24"
 ---
 
 <div class="text-center" style="margin-bottom: 1em;">
