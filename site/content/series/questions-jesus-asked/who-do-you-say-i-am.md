@@ -1,5 +1,5 @@
 ---
-date: "2018-07-15T11:00:00-08:00"
+date: "2018-07-08T11:00:00-08:00"
 title: "Questions Jesus Asked: Who Do You Say I Am?"
 series: "questions-jesus-asked"
 speaker: "Jake Goetze"
