@@ -9,4 +9,4 @@ podcast_bytes: 29790257
 podcast_duration: 40:04
 ---
 
-Jesus asked a whole lot of questions, and we've studied some of the more important ones together over the last few weeks. In the final sermon in this series, Jesus asks the *most* important question: *who do you say I am?*
+Jesus asked a whole lot of questions, and we've studied some of the more important ones together over the last few weeks. In the penultimate sermon in this series, Jesus asks the *most* important question: *who do you say I am?*
