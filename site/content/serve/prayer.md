@@ -2,7 +2,7 @@
 date: "2017-01-01"
 title: "Prayer"
 image: "prayer.jpg"
-leader: "Matthew"
+leader: "Jan"
 email: "prayer@arborchurch.com"
 weight: 45
 ---
