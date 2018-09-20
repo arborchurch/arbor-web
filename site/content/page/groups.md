@@ -12,9 +12,9 @@ menu:
 
 <div style="font-size: 20px;">
 
-<p>groups are off for the summer! </p>
+<p>GROUPS are a great way to connect with your Arbor Family! Sharing time together builds bonds of connection, and yet with our busy lives, it's hard to carve that time out spontaneously.... the calendar pages may flip, but our bonds aren't strengthened unless we INTENTIONALLY create time together. </p>
  
-<p>looking forward to an exciting lineup of groups for the fall... stay tuned for some really sweet opportunities to connect!</p>
+<p>As you scroll through the group options, prayerfully consider taking that step of intentionality. Join a group this fall and start to connect with the family God has placed you in here at Arbor Church! </p>
  
 
 </div>
