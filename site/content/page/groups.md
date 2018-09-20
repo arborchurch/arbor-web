@@ -10,6 +10,12 @@ menu:
 
 <div class="col-md-8 col-md-offset-2">
 
+<div style="text-align: center; margin-bottom: 50px;">
+  <a href="https://arborchurch.churchcenter.com/groups" target="_blank">
+    <img src="/img/groups-button.png" width="285" height="110" />
+  </a>
+</div>
+
 <div style="font-size: 20px;">
 
 <p>GROUPS are a great way to connect with your Arbor Family! Sharing time together builds bonds of connection, and yet with our busy lives, it's hard to carve that time out spontaneously.... the calendar pages may flip, but our bonds aren't strengthened unless we INTENTIONALLY create time together. </p>
