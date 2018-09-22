@@ -2,7 +2,7 @@
 date: "2018-09-09T11:00:00-08:00"
 title: "Splitting Logs: Serving"
 series: "splitting-logs"
-speaker: "Jake Goezte"
+speaker: "Jake Goetze"
 type: message
 podcast: https://arborchurch.com/podcast/splitting-logs-serving.m4a
 podcast_bytes: 24211998
