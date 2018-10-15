@@ -4,7 +4,7 @@ title: "Text: Study the Book"
 series: "text"
 speaker: "Bob Lee"
 type: message
-podcast: https://arborchurch.com/podcast/text-read-the-book.m4a
+podcast: https://arborchurch.com/podcast/text-study-the-book.m4a
 podcast_bytes: 27464102
 podcast_duration: 37:20
 ---
