@@ -4,7 +4,7 @@ title: "Text: Question the Book"
 series: "text"
 speaker: "Jake Goetze, Wally Kowalski"
 type: message
-podcast: https://arborchurch.com/podcast/text-read-the-book.m4a
+podcast: https://arborchurch.com/podcast/text-question-the-book.m4a
 podcast_bytes: 33207118
 podcast_duration: 45:10
 ---
