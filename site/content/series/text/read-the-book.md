@@ -1,13 +1,16 @@
 ---
-date: "2018-09-30T09:00:00-08:00"
-title: "Text: Read the Book"
+date: "2018-10-21T11:00:00-08:00"
+title: "Text: Question the Book"
 series: "text"
-speaker: "Jake Goetze"
+speaker: "Jake Goetze, Wally Kowalski"
 type: message
 podcast: https://arborchurch.com/podcast/text-read-the-book.m4a
-podcast_bytes: 22495830
-podcast_duration: 30:36
+podcast_bytes: 33207118
+podcast_duration: 45:10
 ---
 
-This week we start a new series called *Text*. It's about the Bible, and today and Jake exhorts us to actually open it up and read it, addressing one by one the 7 most common excuses people give for letting the dust gather on their Bibles. (#6 will shock you!)
+We're wrapping up our series on the Bible with the tough questions you sent in over the last few weeks. What do we mean
+when we say the Bible is *inerrant*--isn't it full of inconsistencies? How do we know the right books made it into the
+Bible? How can we reconcile the wrathful, genocidal tribal God of the Old Testament with the loving Father of the New
+Testament? Wally Kowalski joins us for a chat about these questions (and more!)
 
