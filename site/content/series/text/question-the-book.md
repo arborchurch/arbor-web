@@ -5,8 +5,8 @@ series: "text"
 speaker: "Jake Goetze, Wally Kowalski"
 type: message
 podcast: https://arborchurch.com/podcast/text-question-the-book.m4a
-podcast_bytes: 33207118
-podcast_duration: 45:10
+podcast_bytes: 38256528
+podcast_duration: 52:02
 ---
 
 We're wrapping up our series on the Bible with the tough questions you sent in over the last few weeks. What do we mean
