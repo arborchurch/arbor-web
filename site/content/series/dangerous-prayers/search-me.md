@@ -1,6 +1,6 @@
 ---
 date: "2018-10-28T09:00:00-08:00"
-title: "Dangerous Prayers: Search My Heart"
+title: "Dangerous Prayers: Search Me"
 series: "dangerous-prayers"
 speaker: "Jake Goetze"
 type: message
