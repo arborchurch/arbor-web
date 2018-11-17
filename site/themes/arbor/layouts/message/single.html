@@ -1,6 +1,4 @@
-{{ with .Site.GetPage (print "/series/" .Params.series)}}
-  {{ partial "content-header.html" . }}
-{{ end }}
+{{ partial "content-header.html" . }}
 
 <div class="message-details col-sm-12 col-md-8 col-sm-offset-0 col-md-offset-2">
   <h2>{{ .Title }}</h2>
