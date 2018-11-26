@@ -10,6 +10,6 @@ podcast_duration: 44:39
 ---
 
 Money is one of the biggest things we fight about, one of the most frequently discussed topics in the New Testament, and
-yet still somehow a taboo subject. You've probably felt overwhelmed by finances at least once in your life -- and ods
+yet still somehow a taboo subject. You've probably felt overwhelmed by finances at least once in your life -- and odds
 are you find them overwhelming now. So, today: straight talk about money, from a spiritual perspective (via Pastor Jake)
 and from a practical perspective (via our own Mr. Winter, a Certified Financial Planner). 
