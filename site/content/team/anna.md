@@ -5,7 +5,7 @@ position: "Childrens"
 image: "anna.jpg"
 email: "anna@arborchurch.com"
 emailname: Anna
-weight: 50
+weight: 20
 ---
 
 Raised in Big Sky Country, Anna made the Pacific Northwest home a dozen years ago with her childhood sweetheart, Kevin. Together they have succeeded in creating three sons with the most phenomenal eyelashes known to mankind: Riley, Liam, and Brecken.  

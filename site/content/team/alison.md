@@ -2,7 +2,7 @@
 date: "2017-01-01"
 title: "Alison Acone"
 position: "Community Care"
-weight: 20
+weight: 50
 email: "alison@arborchurchnw.org"
 emailname: Alison
 image: "alison.jpg"
