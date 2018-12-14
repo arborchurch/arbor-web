@@ -2,7 +2,7 @@
 date: "2017-01-01"
 title: "Garrett Birkeland"
 position: "Pastor"
-image: "staff-garrett.jpg"
+image: "garrett.jpg"
 email: "garrett@arborchurch.com"
 emailname: Garrett
 weight: 15

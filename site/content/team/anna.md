@@ -2,7 +2,7 @@
 date: "2017-07-02"
 title: "Anna Chadwick"
 position: "Childrens"
-image: "staff-anna.jpg"
+image: "anna.jpg"
 email: "anna@arborchurch.com"
 emailname: Anna
 weight: 50

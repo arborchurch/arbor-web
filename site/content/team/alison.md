@@ -5,7 +5,7 @@ position: "Community Care"
 weight: 20
 email: "alison@arborchurchnw.org"
 emailname: Alison
-image: "staff-alison.jpg"
+image: "alison.jpg"
 ---
 
 You probably could already tell from her tan, but Alison grew up on the sunny Southern California beaches before "seeing the light" and moving to the PNW (and no, that light was not the sun).

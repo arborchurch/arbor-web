@@ -2,10 +2,10 @@
 date: "2017-07-01"
 title: "Bob Lee"
 position: "Teaching"
-image: "staff-bob.jpg"
+image: "bob.jpg"
 email: "boblee101@live.com"
 emailname: Bob
-weight: 40
+weight: 60
 ---
 
 Bob is, next to Jake, the most frequent teacher at Arbor. We believe this is due to the fact that his red hair gives him an edge over all other speakers. He and his wife, Ruth, have been married for eleven years and have three young children: Avery, Wyatt, and Jack.
