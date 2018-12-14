@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 title: "Bryan Cobley"
-position: "Youth Pastor"
+position: "Student Pastor"
 image: "bryan.jpg"
 email: "bryan@arborchurchnw.org"
 emailname: Bryan
