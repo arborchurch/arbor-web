@@ -42,7 +42,7 @@ a:hover {
 .splash {
   background-color: #515151;
   /* background-image: url(../img/arbor-mast.jpg); */
-  background-image: url(../img/events/christmas-eve-2018.jpg);
+  background-image: url(../img/events/christmas-eve-home-2018.jpg);
   background-repeat: no-repeat;
   background-position: center 0px;
   background-size: cover;
@@ -273,10 +273,10 @@ ul.menu li {
   margin-right: auto;
   text-align: center;
   height: 100vh;
-  /* width: 360px; */
-  width: 75vw;
+  width: 360px;
   padding-bottom: 8rem;
   letter-spacing: 0.15em;
+  text-shadow: 0px 0px 4px rgba(1.0, 1.0, 1.0, 0.8);
 }
 
 .mast img {
@@ -293,15 +293,23 @@ ul.menu li {
   font-weight: 200;
 }
 
+.mast h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  font-weight: 200;
+}
+
 .mast a {
   font-family: Montserrat;
   text-decoration: none;
-  color: white;
+  color: black;
+  /* color: white; */
 }
 
 .mast .service-info,
 .mast .special-info {
-  color: white;
+  color: black;
   font-weight: 200;
 }
 
@@ -324,26 +332,6 @@ ul.menu li {
   text-transform: uppercase;
 }
 
-.special-service-info {
-  font-family: Montserrat;
-  color: white;
-  text-shadow: 0px 0px 4px rgba(0.3, 0.3, 0.3, 0.5);
-  font-size: 18pt;
-  letter-spacing: initial;
-  text-align: left;
-  padding-top: 40vh;
-}
-
-.special-service-info .description {
-  font-weight: light;
-  text-transform: uppercase;
-}
-
-.special-service-info .time {
-  font-weight: bold;
-  text-transform: uppercase;
-  padding-bottom: 30px;
-}
 /* ------------------------------------------------------------------------- */
 /* detail pages 
 /* ------------------------------------------------------------------------- */
