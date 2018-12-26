@@ -41,8 +41,7 @@ a:hover {
 
 .splash {
   background-color: #515151;
-  /* background-image: url(../img/arbor-mast.jpg); */
-  background-image: url(../img/events/christmas-eve-home-2018.jpg);
+  background-image: url(../img/arbor-mast.jpg);
   background-repeat: no-repeat;
   background-position: center 0px;
   background-size: cover;
@@ -288,26 +287,19 @@ ul.menu li {
   font-size: 2rem;
   margin-bottom: 1rem;
   margin-top: 1rem;
-  font-weight: 200;
-}
-
-.mast h2 {
-  font-size: 1.5rem;
-  margin-bottom: 1rem;
-  margin-top: 1rem;
+  text-transform: uppercase;
   font-weight: 200;
 }
 
 .mast a {
   font-family: Montserrat;
   text-decoration: none;
-  color: black;
-  /* color: white; */
+  color: white;
 }
 
 .mast .service-info,
 .mast .special-info {
-  color: black;
+  color: white;
   font-weight: 200;
 }
 
@@ -842,5 +834,4 @@ img.series-image {
     display: none;
   }
 }
-
 
