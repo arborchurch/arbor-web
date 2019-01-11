@@ -11,17 +11,18 @@ menu:
 <div class="col-md-8 col-md-offset-2">
 
 <div style="text-align: center; margin-bottom: 50px;">
-  <a href="https://arborchurch.churchcenter.com/groups" target="_blank">
-    <img src="/img/groups-button.png" width="285" height="110" />
+  <a href="https://anachadwick.wufoo.com/forms/m12qoas913vw3et/" target="_blank">
+    <div style="text-align: center; color: #ffffff; padding: 10px; font-size: 20pt; background-color: #000000; border-radius: 5px; width: 300px; margin-left: auto; margin-right: auto; font-family: Montserrat;">
+      <strong>Sign Up</strong> for a Group
+    </div>
   </a>
 </div>
 
 <div style="font-size: 20px;">
 
-<p>GROUPS are a great way to connect with your Arbor Family! Sharing time together builds bonds of connection, and yet with our busy lives, it's hard to carve that time out spontaneously.... the calendar pages may flip, but our bonds aren't strengthened unless we INTENTIONALLY create time together. </p>
- 
-<p>As you scroll through the group options, prayerfully consider taking that step of intentionality. Join a group this fall and start to connect with the family God has placed you in here at Arbor Church! </p>
- 
+<p>GROUPS are a great way to connect with your Arbor Family! Through our Groups Finder process, we invite you into the LIFE-TRANSFORMING community of Arbor.  Simply follow the link above, fill out your group preferences and we will be in touch soon with a great group tailored to fit exactly what you are looking for. </p>
+
+<p>Join a group this winter and start to connect with the family God has placed you in here at Arbor Church!</p>
 
 </div>
 </div>
