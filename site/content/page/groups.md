@@ -20,8 +20,9 @@ menu:
 
 <div style="font-size: 20px;">
 
-<p>Groups at Arbor all point in one direction.  We are making disciples… together.  This involves finding Jesus and following Jesus.  When you sign-up for an Arbor group, you will be walking through our “groups lifecycle” together in community.</p>  
+<p>Groups at Arbor all point in one direction.  We are making disciples together.  This involves finding Jesus and following Jesus.  When you sign-up for an Arbor group, you will be walking through our groups lifecycle together in community.</p>  
 
+<p></p> 
 <p>BELONG
 Your group begins by establishing TRUST with each other. </p>  
 
@@ -29,6 +30,7 @@ Your group begins by establishing TRUST with each other. </p>
 
 EXAMPLES: dinner conversation cards || sermon questions  || group activity</p>
 
+<p></p> 
 <p>BELIEVE
 After you have spent some time getting to know each other, you will EXPERIENCE the Good News of JESUS together </p>
 
@@ -36,6 +38,7 @@ After you have spent some time getting to know each other, you will EXPERIENCE t
 
 EXAMPLES: Video Bible Study || S.O.A.P Bible Reading Plan  || Book Bible Study</p>
 
+<p></p> 
 <p>BECOME
 We have spent time learning.  Now it is time to APPLY what we know. </p>  
 
