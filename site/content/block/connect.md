@@ -11,7 +11,7 @@ image: "block-connect.jpg"
 <div class="page-buttons">
   <a href="page/groups/">Groups</a>
   <img class="separator" src="img/nav-separator.png" />
-  <a href="serve/">Serve</a>
+  <a href="volunteer/">Volunteer</a>
   <img class="separator" src="img/nav-separator.png" />
   <a href="event/">Events</a>
 </div>

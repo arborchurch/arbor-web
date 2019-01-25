@@ -8,5 +8,5 @@ image: "block-give.jpg"
 ---
 
 <div class="page-buttons">
-  <a href="https://arborchurch.churchcenteronline.com/giving">How to Give</a>
+  <a href="https://arborchurch.churchcenteronline.com/giving">Give Online</a>
 </div>

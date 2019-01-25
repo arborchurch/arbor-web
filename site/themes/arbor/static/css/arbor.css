@@ -25,6 +25,7 @@ body {
   margin-right: 0px;
   margin-top: 0px;
   color: #303030;
+  font-size: 20px;
 }
 
 h1, h2 {
@@ -178,7 +179,7 @@ a:hover {
   color: white;
   text-transform: uppercase;
   letter-spacing: 0.15em;
-  border-top: 6px solid white;
+  border-top: 1px solid white;
   border-bottom: 1px solid white;
   border-right: 1px solid white;
   border-left: 1px solid white;
@@ -201,7 +202,7 @@ a:hover {
 }
 
 .page-buttons .separator {
-  width: 28px;
+  display: none;
 }
 
 .footer, .footer a {
@@ -285,7 +286,7 @@ ul.menu li {
 
 .mast h1 {
   font-size: 2rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   margin-top: 1rem;
   text-transform: uppercase;
   font-weight: 200;
@@ -301,11 +302,12 @@ ul.menu li {
 .mast .special-info {
   color: white;
   font-weight: 200;
+  font-size: 13px;
 }
 
 .mast .service-info {
   position: relative;
-  border-top: 6px solid white;
+  border-top: 1px solid white;
   border-bottom: 1px solid white;
   border-right: 1px solid white;
   border-left: 1px solid white;
@@ -422,7 +424,7 @@ ul.menu li {
   
 
 .detail .content {
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 
 .detail .email-link, a.page-button {
@@ -590,7 +592,6 @@ img.series-image {
 .message h3 {
   margin-top: 15px;
   color: #909090;
-  font-size: 15px;
   font-style: italic;
 }
 
@@ -760,6 +761,7 @@ img.series-image {
 
   ul.menu {
     margin-top: 20px;
+    white-space: nowrap;
   }
 
   ul.menu li {
@@ -768,6 +770,7 @@ img.series-image {
 
   ul.menu ul li {
     padding-left: 0px;
+    font-size: 11px;
   }
 
   ul.menu li.open {
@@ -788,7 +791,6 @@ img.series-image {
     padding-left: 5px;
     padding-right: 3px;
     padding-top: 3px;
-    font-size: 11px;
   }
 
   #nav-menu ul.menu li.open ul a:hover {
