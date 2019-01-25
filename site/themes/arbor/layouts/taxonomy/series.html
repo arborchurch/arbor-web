@@ -1,7 +1,9 @@
 {{ partial "content-header.html" . }}
 
-{{ range .Data.Pages }}
-  {{ .Render "list" }}
-{{ end }}
+<div class="row">
+  {{ range .Data.Pages.ByDate }}
+    {{ .Render "list" }}
+  {{ end }}
+</div>
 
 {{ partial "content-footer.html" . }}

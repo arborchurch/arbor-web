@@ -599,6 +599,7 @@ img.series-image {
   color: #707070;
 }
 
+.message p, 
 .message-details p {
   margin-top: 25px; 
   margin-bottom: 25px; 
@@ -834,6 +835,10 @@ img.series-image {
 
   .mobile-image {
     display: none;
+  }
+
+  .series {
+    margin-bottom: 30px;
   }
 }
 
