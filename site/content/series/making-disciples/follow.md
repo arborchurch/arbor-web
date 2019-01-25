@@ -1,6 +1,6 @@
 ---
 date: "2019-01-20T09:00:00-08:00"
-title: "Making Disciples: Find and Follow"
+title: "Making Disciples: Part 2"
 series: "making-disciples"
 speaker: "Scott Hetherington"
 type: message

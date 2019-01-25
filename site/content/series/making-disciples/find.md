@@ -1,6 +1,6 @@
 ---
 date: "2019-01-13T11:00:00-08:00"
-title: "Making Disciples: Find"
+title: "Making Disciples: Part 1"
 series: "making-disciples"
 speaker: "Jake Goetze"
 type: message

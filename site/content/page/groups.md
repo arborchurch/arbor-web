@@ -13,7 +13,7 @@ menu:
 <div style="text-align: center; margin-bottom: 50px;">
   <a href="https://anachadwick.wufoo.com/forms/m12qoas913vw3et/" target="_blank">
     <div style="text-align: center; color: #ffffff; padding: 10px; font-size: 20pt; background-color: #000000; border-radius: 5px; width: 300px; margin-left: auto; margin-right: auto; font-family: Montserrat;">
-      <strong>Sign Up</strong> for a Group
+      <strong>Sign Up</strong>
     </div>
   </a>
 </div>
