@@ -4,9 +4,9 @@ title: "What Would Jesus Undo: Spiritual Indifference"
 series: "what-would-jesus-undo"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/what-would-jesus-undo.m4a
-podcast_bytes: 26932163
-podcast_duration: 36:38
+podcast: https://arborchurch.com/podcast/what-would-jesus-undo-spiritual-indifference.m4a
+podcast_bytes: 28234964
+podcast_duration: 38:24
 ---
 
 If you were in the church scene in the 90's, you can't have missed the **WWJD** bracelets everyone was wearing -- *What
