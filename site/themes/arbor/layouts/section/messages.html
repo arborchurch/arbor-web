@@ -1,0 +1,12 @@
+{{ partial "content-header.html" . }}
+
+{{ range first 1 (where .Site.RegularPages "Type" "in" "message") }}
+  {{ .Render "latest" }}
+{{ end }}
+
+{{ range .Data.Pages }}
+  {{ .Render "single" }}
+{{ end }}
+
+{{ partial "content-footer.html" . }}
+
