@@ -1,9 +1,9 @@
 ---
 date: "2017-01-08"
 image: "page/series-path.jpg"
-title: "Series"
-menu:
+title: "Messages"
+menu: 
   main:
-    parent: 'Messages'
+    weight: 100
 ---
 
