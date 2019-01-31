@@ -7,7 +7,7 @@ menu:
   - Name: Give
     URL: https://arborchurch.churchcenteronline.com/giving?open-in-church-center-modal=true
     Identifier: Give
-    Weight: 110
+    Weight: 300
 taxonomies:
   series: "series"
 ---

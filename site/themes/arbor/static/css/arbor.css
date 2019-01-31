@@ -541,13 +541,6 @@ img.event-image {
   font-weight: 300;
 }
 
-/* series page */
-
-img.series-image {
-  width: 100%;
-  height: auto;
-}
-
 /* beliefs page */
 
 .belief-header {
@@ -751,6 +744,11 @@ img.series-image {
   .desktop-image {
     display: none;
   }
+
+  img.series-image {
+    width: 100%;
+    height: auto;
+  }
 }
 
 /* desktop */ 
@@ -843,8 +841,28 @@ img.series-image {
     display: none;
   }
 
-  .series {
-    margin-bottom: 30px;
+  img.series-image {
+    width: 100%;
+    height: auto;
   }
 }
 
+/* desktop wide */ 
+@media screen and (min-width: 992px) {
+
+  .series {
+    margin: 15px;
+    float: left;
+  }
+
+  .series-list {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  img.series-image {
+    width: 420px;
+    height: 152px;
+  }
+}

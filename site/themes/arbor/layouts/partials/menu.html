@@ -16,6 +16,10 @@
           {{ .Name }}
           <div class="expand-arrow"></div>
         </a>
+        {{ else if (lt .Weight 200) }}
+        <a href="{{ .URL }}">
+          {{ .Name }}
+        </a>
         {{ else }}
         <a href="{{ .URL }}" target="_blank">
           {{ .Name }}

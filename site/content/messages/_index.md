@@ -4,6 +4,6 @@ image: "page/series-path.jpg"
 title: "Messages"
 menu: 
   main:
-    weight: 100
+    weight: 150
 ---
 

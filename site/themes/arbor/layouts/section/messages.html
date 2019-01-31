@@ -4,9 +4,11 @@
   {{ .Render "latest" }}
 {{ end }}
 
+<div class="series-list">
 {{ range .Data.Pages }}
   {{ .Render "single" }}
 {{ end }}
+</div>
 
 {{ partial "content-footer.html" . }}
 
