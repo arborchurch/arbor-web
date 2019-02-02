@@ -10,6 +10,7 @@ branches:
 
 # install hugo
 install:
+  - apt-get install libstdc++6
   - wget https://github.com/gohugoio/hugo/releases/download/v0.51/hugo_extended_0.51_Linux-64bit.tar.gz
   - tar xzvf hugo_extended_0.51_Linux-64bit.tar.gz
 
