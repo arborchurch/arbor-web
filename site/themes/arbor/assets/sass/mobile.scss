@@ -1,0 +1,142 @@
+
+@media screen and (max-width: 768px) {
+  ul.menu {
+    display: none;
+    padding-top: 6rem;
+    padding-left: 20px;
+    background-color: #f5f5f5;
+    color: #404040;
+    font-size: 25px;
+  }
+
+  .home-logo, .menu-logo {
+    position: fixed;
+  }
+
+  #nav-menu a {
+    color: #404040;
+    display: block;
+  }
+  
+  .block h1 {
+    font-size: 50pt;
+  }
+
+  .block h2 {
+    font-size: 16pt;
+  }
+
+  #nav-menu li.open > a {
+    color: #83BA23;
+  }
+
+  ul.menu ul {
+    margin-left: 0px;
+    padding-left: 0px;
+    font-size: 20px;
+  }
+
+  #nav-menu > ul > li {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #404040;
+    margin-left: 0px;
+    padding-left: 20px;
+    margin-right: 10px;
+  }
+
+  #nav-menu .expand-arrow {
+    vertical-align: top;
+    position: absolute;
+    right: 2px;
+    margin-top: 5px;
+  }
+
+  li .expand-arrow {
+    background-image: url(../img/mobile-menu-contracted.png);
+    width: 25px;
+    height: 25px;
+  }
+
+  li.open .expand-arrow {
+    background-image: url(../img/mobile-menu-expanded.png);
+  }
+
+  #nav-menu.open {
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+    top: 0px;
+  }
+
+  #nav-menu.open ul.menu {
+    display: block;
+    position: fixed; 
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin-bottom: 0;
+    padding-left: 0;
+    z-index: 1;
+  }
+
+  #nav-menu.open .menu-logo {
+    display: block;
+    z-index: 2;
+  }
+
+  #nav-menu.open .hamburger {
+    color: #404040;
+  }
+
+  #nav-menu.open .hamburger .line {
+    background-color: #83BA23;
+  }
+
+  ul.menu li {
+    display: block;
+    margin-bottom: 1rem;
+  }
+
+  ul.menu li a {
+    color: #204020;
+  }
+
+  .page-buttons .separator {
+    display: none;
+  }
+
+  .page-buttons a {
+    margin-top: 0px;
+  }
+
+  .home-logo, .menu-logo {
+    top: 20px;
+    left: 20px;
+  }
+  
+  .summary {
+    margin-top: 10px;
+    padding-left: 10px;
+  }
+
+  .summary h2 {
+    margin-top: 0px;
+  }
+
+  .summary a.email-link {
+    position: relative;
+    top: 0px;
+    left: 0px;
+  }
+
+  .desktop-image {
+    display: none;
+  }
+
+  img.series-image {
+    width: 100%;
+    height: auto;
+  }
+}

@@ -1,0 +1,41 @@
+
+.message {
+
+  padding-bottom: 50px;
+
+  h2 {
+    margin-bottom: 0;
+  }
+
+  h2 a {
+    color: #404040;
+  }
+
+  h3 {
+    margin-top: 15px;
+    color: #909090;
+    font-style: italic;
+  }
+}
+
+.message-details h4 {
+  color: #707070;
+}
+
+.message-details h3 {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #40AF40;
+  font-family: "Montserrat";
+}
+
+.message p, 
+.message-details p {
+  margin-top: 25px; 
+  margin-bottom: 25px; 
+}
+
+.message-details audio {
+  margin-bottom: 50px;
+}
+

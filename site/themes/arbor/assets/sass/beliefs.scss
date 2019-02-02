@@ -1,0 +1,25 @@
+
+.belief-header {
+  padding-top: 30px;
+  text-align: center;
+  font-size: 26pt;
+  font-style: italic;
+}
+
+.belief-verses {
+  font-family: $body-font;
+  margin-top: 1em;
+  margin-left: 0.5em;
+  color: #B0B0B0;
+  font-style: italic;
+  display: inline;
+}
+
+.belief-body {
+  font-family: $header-font;
+  font-size: 10.5pt;
+  border-left: 4px solid black;
+  margin-bottom: 50px;
+  line-height: 180%;
+}
+

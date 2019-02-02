@@ -1,0 +1,37 @@
+.expand-arrow {
+  display: inline-block;
+  background-position: center;
+  background-size: contain;
+}
+
+ul.menu li {
+  padding-left: 0px;
+}
+
+ul.menu ul {
+  padding-top: 20px;
+  padding-bottom: 0px;
+  display: none;
+  overflow: hidden;
+}
+
+ul.menu li.open ul {
+  display: block;
+}
+
+.menu-background {
+  background-color: #83BA23;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  height: 60px;
+  display: none;
+}
+
+.detail-notice {
+  margin-bottom: 20px;
+  padding: 20px;
+  font-size: 16px;
+}
+

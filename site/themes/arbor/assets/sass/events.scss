@@ -1,0 +1,47 @@
+.event {
+  background-color: #000000;
+  align-items: center;
+  display: flex;
+  color: white;
+  position: relative;
+  margin-left: -15px;
+}
+
+.event h2 {
+  display: none;
+}
+
+img.event-image {
+  width: 100%;
+  height: auto;
+}
+
+.event-details {
+  margin-top: 1em;
+  font-family: $header-font;
+  font-size: 13pt;
+  margin-bottom: 5em;
+}
+
+.event-details h1 {
+  font-family: $header-font;
+  letter-spacing: normal;
+  text-align: left;
+  font-style: normal;
+}
+
+.event-details h2 {
+  font-weight: 300;
+}
+
+.event-details table td,
+.event-details table th
+{
+  padding: 4px;
+}
+
+.event-details p
+{
+  font-weight: 300;
+}
+

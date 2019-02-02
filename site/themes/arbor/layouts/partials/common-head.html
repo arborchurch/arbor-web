@@ -10,7 +10,8 @@
 <link href="{{ .Site.BaseURL }}img/arbor-logo-192x192.png" rel="icon" sizes="192x192" />
 <link href="{{ .Site.BaseURL }}img/arbor-logo-128x128.png" rel="icon" sizes="128x128" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/arbor.css" />
+{{ $style := resources.Get "sass/arbor.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">
 
 <!-- interaction observer polyfill and image lazy-loader -->
 <script src="{{ .Site.BaseURL }}js/intersection-observer.js"></script>
