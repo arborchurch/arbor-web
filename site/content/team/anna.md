@@ -1,7 +1,7 @@
 ---
 date: "2017-07-02"
 title: "Anna Chadwick"
-position: "Childrens & Groups"
+position: "Children & Groups"
 image: "anna.jpg"
 email: "anna@arborchurch.com"
 emailname: Anna
