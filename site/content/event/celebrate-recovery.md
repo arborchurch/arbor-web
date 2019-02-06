@@ -10,3 +10,5 @@ weight: 10
 
 Come for BBQ at 6pm before large group starts at 7pm. From there we'll break into small groups and wrap up by 9pm. Childcare is offered, too! We'll see you Monday. 
 
+For more information, reach out to cr@arborchurch.com. 
+
