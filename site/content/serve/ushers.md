@@ -7,6 +7,6 @@ email: "c.fenner@outlook.com"
 weight: 60
 ---
 
-Ushers have the privilege of welcoming people into the sanctuary every week. They are the friendly faces who help in a variety of ways: by handing out connection cards, finding folks a place to sit, receiving the offering, and administering communion. The only job requirement is that you like people!
+The true first impression of Arbor Church! From the parking lot, to greeting at the door, to serving fresh hot coffee… the Welcome Team exists to create an environment where every individual who walks in feels welcome! This is such a significant role in helping people have a positive experience.
 
 
