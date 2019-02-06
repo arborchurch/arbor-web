@@ -2,8 +2,8 @@
 date: "2017-01-01"
 title: "Welcome"
 image: "welcome.jpg"
-leader: "Jon & Kerri"
-email: "nojbeets@msn.com"
+leader: "Kristi"
+email: "kristikapi@yahoo.com"
 weight: 70
 ---
 
