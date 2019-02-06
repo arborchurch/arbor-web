@@ -7,5 +7,5 @@ email: "worship@arborchurch.com"
 weight: 80
 ---
 
-Whether it's on a Sunday morning or at a campfire on the beach, the Worship Team exists to lead our church into the presence of God through song. God grants a multitude of musical talents including singing and the playing of instruments. This team is made up of those individuals who have not only been blessed with talent, but a heart for worship as well. Auditions for the team happen on a rolling basis. 
+The Worship Team exists to lead our church into the presence of God through song. God grants a multitude of musical talents including singing and the playing of instruments. This team is made up of those individuals who have not only been blessed with talent, but a heart for worship as well. Auditions happen on a rolling basis. 
 
