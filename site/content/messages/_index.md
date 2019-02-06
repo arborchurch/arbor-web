@@ -1,6 +1,6 @@
 ---
 date: "2017-01-08"
-image: "page/series-path.jpg"
+image: "page/series.jpg"
 title: "Messages"
 menu: 
   main:

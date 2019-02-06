@@ -1,6 +1,6 @@
 ---
 date: "2017-01-01"
-image: "page/serve-leaf.jpg"
+image: "page/serve.jpg"
 title: Volunteer
 weight: 20
 menu:

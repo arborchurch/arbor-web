@@ -1,7 +1,7 @@
 ---
 date: "2017-01-25"
 title: "Contact"
-image: "page/contact-stump.jpg"
+image: "page/contact.jpg"
 menu:
   main:
     parent: 'About'
