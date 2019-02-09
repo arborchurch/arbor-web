@@ -4,5 +4,8 @@ title: "Messages"
 resources:
 - name: header
   src: messages.jpg
+menu:
+  main:
+    weight: 150
 ---
 
