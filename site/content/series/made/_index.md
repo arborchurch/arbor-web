@@ -1,5 +1,7 @@
 ---
 date: "2018-04-29"
-image: "series/made.jpg"
+resources:
+- name: header
+  src: made.jpg
 ---
 

@@ -1,5 +1,7 @@
 ---
 date: "2017-01-29"
-image: "series/why-were-here.jpg"
+resources: 
+- name: header
+  src: why-were-here.jpg
 ---
 

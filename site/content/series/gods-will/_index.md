@@ -1,5 +1,7 @@
 ---
 date: "2017-04-08"
-image: "series/gods-will.jpg"
+resources:
+- name: header
+  src: gods-will.jpg
 ---
 

@@ -1,5 +1,7 @@
 ---
 date: "2018-03-11"
-image: "series/helping-the-hurting.jpg"
+resources:
+- name: header
+  src: helping-the-hurting.jpg
 ---
 

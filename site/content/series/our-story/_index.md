@@ -1,5 +1,7 @@
 ---
 date: "2017-01-01"
-image: "series/our-story.jpg"
+resources: 
+- name: header
+  src: our-story.jpg
 ---
 

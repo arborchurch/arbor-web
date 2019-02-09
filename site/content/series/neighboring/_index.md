@@ -1,5 +1,7 @@
 ---
 date: "2017-03-19"
-image: "series/neighboring.jpg"
+resources: 
+- name: header
+  src: neighboring.jpg
 ---
 

@@ -1,5 +1,7 @@
 ---
 date: "2018-02-04"
-image: "series/sermon-on-the-mount.jpg"
+resources: 
+- name: header
+  src: sermon-on-the-mount.jpg
 ---
 

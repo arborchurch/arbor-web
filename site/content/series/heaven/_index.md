@@ -1,5 +1,7 @@
 ---
 date: "2017-04-23"
-image: "series/heavens-shore.jpg"
+resources:
+- name: header
+  src: heaven.jpg
 ---
 

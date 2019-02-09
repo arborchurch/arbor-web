@@ -1,5 +1,7 @@
 ---
 date: "2017-11-19"
-image: "series/balance.jpg"
+resources: 
+- name: header
+  src: balance.jpg
 ---
 
