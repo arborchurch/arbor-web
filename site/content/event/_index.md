@@ -1,7 +1,9 @@
 ---
 date: "2017-01-08"
-image: "page/events.jpg"
 title: "Events"
+resources:
+- name: header
+  src: events.jpg
 weight: 30
 menu:
   main:

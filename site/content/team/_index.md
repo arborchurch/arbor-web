@@ -1,7 +1,9 @@
 ---
 date: "2017-01-01"
-image: "page/team.jpg"
 title: "Team"
+resources:
+- name: header
+  src: team.jpg
 menu:
   main:
     parent: 'About'

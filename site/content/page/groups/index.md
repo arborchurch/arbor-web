@@ -1,7 +1,9 @@
 ---
 date: "2017-08-29T22:07:46-08:00"
 title: "Groups"
-image: "page/groups.jpg"
+resources:
+- name: header
+  src: groups.jpg
 weight: 10
 menu:
   main:
