@@ -1,14 +1,8 @@
 {{ partial "content-header.html" . }}
 
-{{ range first 1 (where .Site.RegularPages "Type" "in" "message") }}
-  {{ .Render "latest" }}
+{{ range .Data.Pages.ByDate }}
+  {{ .Render "list" }}
 {{ end }}
-
-<div class="series-list">
-{{ range .Sections }}
-  {{ .Render "single" }}
-{{ end }}
-</div>
 
 {{ partial "content-footer.html" . }}
 
