@@ -9,8 +9,10 @@
 {{ partial "menu.html" . }}
 
 <div class="header">
-  <img class="desktop-image" src="{{ .Site.BaseURL }}img/{{ .Params.image }}" />
-  <div class="mobile-image" style="background-image: url({{ .Site.BaseURL }}img/{{ .Params.image }});"></div>
+  {{ range .Resources.Match "header" }}
+    <img class="desktop-image" src=" {{ .RelPermalink }}" />
+    <div class="mobile-image" style="background-image: url( {{ .RelPermalink }});"></div>
+  {{ end }}
   <div class="header-content">
     <div>
       <h1>{{ .Title }}</h1>

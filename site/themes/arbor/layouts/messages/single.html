@@ -1,0 +1,9 @@
+
+<div class="series">
+  <a href="{{ .RelPermalink }}">
+  {{ range .Page.Resources.Match "header" }}
+    {{ $img := .Resize "840x" }}
+    <img class="series-image lozad" data-src="{{ $img.RelPermalink }}" />
+  {{ end }}
+  </a>
+</div>

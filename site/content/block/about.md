@@ -9,7 +9,7 @@ image: "block-about.jpg"
 ---
 
 <div class="page-buttons">
-  <a href="{{< relref "whoweare.md" >}}">Who We Are</a>
+  <a href="page/who-we-are/">Who We Are</a>
   <img class="separator" src="img/nav-separator.png" />
   <a href="team/">Team</a>
 </div>

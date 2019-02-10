@@ -1,8 +1,10 @@
 ---
-date: "2017-01-08"
-image: "page/series.jpg"
+date: "2017-10-28"
 title: "Messages"
-menu: 
+resources:
+- name: header
+  src: messages.jpg
+menu:
   main:
     weight: 150
 ---
