@@ -1,5 +1,7 @@
 ---
 date: "2018-03-30"
 type: messages
-image: "series/good-friday-2018.jpg"
+resources:
+- name: header
+  src: good-friday.jpg
 ---
