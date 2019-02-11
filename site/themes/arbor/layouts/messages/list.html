@@ -5,7 +5,7 @@
 {{ end }}
 
 <div class="series-list">
-{{ range .Sections }}
+{{ range .Sections.ByDate.Reverse }}
   {{ .Render "single" }}
 {{ end }}
 </div>
