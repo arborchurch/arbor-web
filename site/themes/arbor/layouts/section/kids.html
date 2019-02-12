@@ -1,0 +1,28 @@
+{{ partial "content-header.html" . }}
+
+<div class="col-sm-12 col-md-8 col-sm-offset-0 col-md-offset-2">
+
+{{ .Content }}
+
+
+{{ range .Data.Pages }}
+
+  <h2>{{ .Title }}</h2> 
+  {{ .Content }}
+  {{ range .Resources.Match "photo" }}
+    <img src="{{ .RelPermalink }}" style="max-width: 100%; margin-bottom: 60px;" />
+  {{ end }}
+{{ end }}
+
+<p>If you’d like more information about Arbor Kids, feel free to email Anna.</p>
+
+{{ range .Page.Resources.Match "leader" }}
+  <img src="{{ .RelPermalink }}" style="max-width: 100%; margin-top: 30px; margin-bottom: 30px;" />
+{{ end }}
+
+<a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a>
+
+</div>
+
+
+{{ partial "content-footer.html" . }}
