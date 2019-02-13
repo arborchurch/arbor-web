@@ -3,13 +3,12 @@
 <div class="col-sm-12 col-md-8 col-sm-offset-0 col-md-offset-2">
 {{ .Content }}
 
-{{ range .Page.Resources.Match "leader" }}
-  <img src="{{ .RelPermalink }}" style="max-width: 100%; margin-top: 30px; margin-bottom: 30px;" />
-{{ end }}
-
 <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a>
 
-</div>
+{{ range .Page.Resources.Match "leader" }}
+  <img src="{{ .RelPermalink }}" class="leader-image" />
+{{ end }}
 
+</div>
 
 {{ partial "content-footer.html" . }}
