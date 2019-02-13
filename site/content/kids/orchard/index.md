@@ -7,6 +7,5 @@ resources:
 weight: 40
 ---
 
-Where FRUIT is formed in ELEMENTARY kids.<br />
-(1 st grade thru 5 th grade)
+Where FRUIT is formed in ELEMENTARY kids.
 

@@ -7,5 +7,5 @@ resources:
 weight: 20
 ---
 
-Where ROOTS are established in TODDLERS.<br />
-(walking thru 3-years old)
+Where ROOTS are established in TODDLERS.
+

@@ -4,25 +4,31 @@
 
 {{ .Content }}
 
-
-{{ range .Data.Pages }}
-
-  <h2>{{ .Title }}</h2> 
-  {{ .Content }}
-  {{ range .Resources.Match "photo" }}
-    <img src="{{ .RelPermalink }}" style="max-width: 100%; margin-bottom: 60px;" />
-  {{ end }}
-{{ end }}
-
-<p>If you’d like more information about Arbor Kids, feel free to email Anna.</p>
-
-{{ range .Page.Resources.Match "leader" }}
-  <img src="{{ .RelPermalink }}" style="max-width: 100%; margin-top: 30px; margin-bottom: 30px;" />
-{{ end }}
-
-<a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a>
-
 </div>
 
+{{ range $i,$p := .Data.Pages }}
+  {{ if modBool $i 2 }}
+     <div class="col-sm-12 col-md-5 col-md-offset-1">
+  {{ else }}
+     <div class="col-sm-12 col-md-5">
+  {{ end }}
+    <h2>{{ .Title }}</h2> 
+    <small>{{ .Content }}</small>
+    {{ range .Resources.Match "photo" }}
+      <img src="{{ .RelPermalink }}" style="max-width: 100%; margin-bottom: 60px;" />
+    {{ end }}
+  </div>
+{{ end }}
+
+<div class="col-sm-12 col-md-8 col-sm-offset-0 col-md-offset-2">
+
+<p>If you'd like more information about Arbor Kids, feel free to email Anna.</p>
+<p><a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></p>
+
+{{ range .Page.Resources.Match "leader" }}
+  <img src="{{ .RelPermalink }}" class="leader-image" />
+{{ end }}
+
+</div>
 
 {{ partial "content-footer.html" . }}

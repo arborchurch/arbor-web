@@ -7,5 +7,5 @@ resources:
 weight: 10
 ---
 
-Where SEEDS are sown in BABIES.<br />
-(infants thru walking)
+Where SEEDS are sown in BABIES.
+

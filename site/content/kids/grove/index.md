@@ -7,5 +7,5 @@ resources:
 weight: 30
 ---
 
-Where GROWTH is nurtured in PRESCHOOLERS<br />
-(3-years old thru kindergarten)
+Where GROWTH is nurtured in PRESCHOOLERS.
+
