@@ -12,7 +12,7 @@ menu:
     parent: 'Connect'
 ---
 
-<h2>Sundays Mornings</h2> at both our 9 and 11am services.
+<h2>Sunday Mornings</h2> at both our 9 and 11am services.
 
 Arbor Kids is purposely designed to HELP FAMILIES RAISE DISCIPLES. We do this by providing environments where kids have the freedom to be themselves, connect with others, and learn about Jesus. Adult leaders are the heart and soul of how this happens... through relational ministry. They SHOW UP consistently, SHOW CARE relationally, and SHARE GOD'S STORY intentionally. We work hard to create a place where kids feel cared for and where parents know they're safe.
 
