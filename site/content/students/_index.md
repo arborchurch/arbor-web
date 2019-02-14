@@ -22,6 +22,6 @@ Every Thursday, middle school and high school students combine for crazy games a
 
 Bottom line, we want students to feel like part of the family... because they are! Students aren't the next generation to come. They are the generation of here and now, and we want to love, invest, and point them to Jesus.
 
-Check out [INSTAGRAM](https://www.instagram.com/arborstudents/) and [FACEBOOK](https://www.facebook.com/arborSTUDENTS/) for more info, or feel free to email Bryan if you have a question.
+Check out [Instagram](https://www.instagram.com/arborstudents/) and [Facebook](https://www.facebook.com/arborSTUDENTS/) for more info, or feel free to email Bryan if you have a question.
 
 
