@@ -50,7 +50,7 @@ We choose to call the church 'Arbor' because of its meaning. When most people he
 
 Our roots stem from the soil of loss, which makes us uniquely shaped to help the hurting.  And it's from that foundational place that we form a group of people, growing up and together, to create a pathway which points straight to the hope of heaven through Jesus Christ.
 
-If I'm honest, I yearn for the day when I’ll see and hug my daughter again. But in the meantime, while we’re breathing, why not do our part to build God's Church? Together we continue Christ's great commission of making disciples, which means helping anyone and everyone find and follow Jesus. In many ways, I feel like we’re just getting started!
+If I'm honest, I yearn for the day when I'll see and hug my daughter again. But in the meantime, while we're breathing, why not do our part to build God's Church? Together we continue Christ's great commission of making disciples, which means helping anyone and everyone find and follow Jesus. In many ways, I feel like we're just getting started!
 
 <br />
 
