@@ -130,8 +130,8 @@
             return;
 
           // see where the mouse is headed (so we don't close when moving to a submenu)
-          var e = event.toElement || event.relatedTarget;
-          if (e.className === "menu") {
+          var target = e.toElement || e.relatedTarget;
+          if (target.className === "sub-menu") {
             return;
           }
 
