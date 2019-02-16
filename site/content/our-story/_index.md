@@ -40,7 +40,7 @@ I'm not sure if it's possible to walk the path we've walked and not be forever c
 
 {{< img-full "teaching" >}}
 
-People came out of the woodwork to help. It was incredible! God provided everything we needed to get started, including a space to meet smack-dab in the middle of Woodinville.  And on January 29, 2017, the seed of Arbor Church was planted with a bang. We sprouted quickly... really quickly! God was clearly blessing us as we did our best to build a church for His name's sake.
+People came out of the woodwork to help. It was incredible! God provided everything we needed to get started, including a space to meet smack-dab in the middle of Woodinville.  And on January 29, 2017, the seed of Arbor Church was planted with a bang. We sprouted quickly... *really quickly!* God was clearly blessing us as we did our best to build a church for His name's sake.
 
 {{< img-full "greeting" >}}
 
