@@ -6,13 +6,12 @@ resources:
   src: students.jpg
 - name: leader
   src: bryan.jpg
-email: bryan@arborchurch.com
 menu:
   main:
     parent: 'Connect'
 ---
 
-## Thursdays Nights
+## Thursday Nights
 
 from 7-9pm at Arbor.
 
@@ -24,4 +23,7 @@ Bottom line, we want students to feel like part of the family... because they ar
 
 Check out [Instagram](https://www.instagram.com/arborstudents/) and [Facebook](https://www.facebook.com/arborSTUDENTS/) for more info, or feel free to email Bryan if you have a question.
 
+<bryan@arborchurch.com>
+
+{{< img-partial "leader" >}}
 
