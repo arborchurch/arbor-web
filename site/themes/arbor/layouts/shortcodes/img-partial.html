@@ -1,0 +1,5 @@
+{{ $img := $.Page.Resources.GetMatch (.Get 0)}}
+{{ $resized := $img.Resize "1536x" }}
+
+<img src="{{ $resized.RelPermalink }}" alt="{{ $img.Title }}" class="img-partial" />
+

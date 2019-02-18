@@ -1,5 +1,5 @@
 {{ $img := $.Page.Resources.GetMatch (.Get 0)}}
-{{ $resized := $img.Resize "1024x" }}
+{{ $resized := $img.Resize "2048x" }}
 
 <img src="{{ $resized.RelPermalink }}" alt="{{ $img.Title }}" class="img-full" />
 

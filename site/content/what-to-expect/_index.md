@@ -19,6 +19,6 @@ Our kids do the same thing in their classrooms except for the added bonus of fis
 
 Looking forward to seeing you on Sunday!
 
-{{< img-full "jake" >}}
+{{< img-partial "jake" >}}
 
 

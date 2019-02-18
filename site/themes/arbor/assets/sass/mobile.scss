@@ -1,5 +1,9 @@
 
 @media screen and (max-width: 768px) {
+  body {
+    font-size: 18px;
+  }
+
   ul.menu {
     display: none;
     padding-top: 6rem;
@@ -140,7 +144,7 @@
     height: auto;
   }
 
-  img.leader-image {
+  img.img-partial {
     display: block;
     max-width: 100%;
     margin-top: 30px;

@@ -26,7 +26,7 @@
 <p><a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></p>
 
 {{ range .Page.Resources.Match "leader" }}
-  <img src="{{ .RelPermalink }}" class="leader-image" />
+  <img src="{{ .RelPermalink }}" class="img-partial" />
 {{ end }}
 
 </div>
