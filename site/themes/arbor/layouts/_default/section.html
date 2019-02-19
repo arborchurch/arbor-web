@@ -1,10 +1,8 @@
 {{ partial "content-header.html" . }}
 
-<div class="col-sm-12 col-md-8 col-sm-offset-0 col-md-offset-2">
-
-{{ .Content }}
-
-</div>
+{{ range .Data.Pages }}
+  {{ .Render "single" }}
+{{ end }}
 
 {{ partial "content-footer.html" . }}
 

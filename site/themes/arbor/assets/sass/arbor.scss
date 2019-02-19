@@ -67,6 +67,21 @@ a:hover {
   display: none;
 }
 
+.splash-footer {
+  background-color: #f0f0f0;
+  border-bottom: 1px solid #a0a0a0;
+}
+
+.splash-footer p {
+  font-family: $header-font;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+.splash-footer a {
+   color: black;
+}
+
 .footer {
   padding-top: 2rem;
   padding-bottom: 3rem;

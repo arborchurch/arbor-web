@@ -1,9 +1,10 @@
 <div class="footer">
   <ul class="footer-menu">
   {{ $baseUrl := .Site.BaseURL }}
-  {{ range .Site.Menus.main }}
-    <li><a href="{{ $baseUrl }}#block_{{.Name}}">{{ .Name }}</a></li>
-  {{ end }}
+    <li><a href="{{ $baseUrl }}#block_About">About</a></li>
+    <li><a href="{{ $baseUrl }}#block_Connect">Connect</a></li>
+    <li><a href="{{ $baseUrl }}/messages">Messages</a></li>
+    <li><a href="https://arborchurch.churchcenteronline.com/giving?open-in-church-center-modal=true">Give</a></li>
   </ul>
   <img src="{{ .Site.BaseURL }}img/social-mail-on.png" style="display: none;" />
   <img src="{{ .Site.BaseURL }}img/social-facebook-on.png" style="display: none;" />
