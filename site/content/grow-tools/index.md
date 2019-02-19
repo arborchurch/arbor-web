@@ -4,27 +4,29 @@ title: Grow Tools
 resources:
 - name: header
   src: grow-tools.jpg
+- name: signature
+  src: siggy.png
 ---
 
 A note from Pastor Jake:
 
 *I am thrilled you're looking into Grow Tools. We have designed them to help you with a core part of our faith -- reading the Bible. Because it is easy to feel intimidated and questions are bound to pop up, our desire is to provide you with a tool box stocked with the necessary tools to build a solid faith foundation. Even if your tool box is well-stocked and you have been reading your Bible for years, we think you may enjoy this classic approach to your time with God.*
 
-Growing in faith together,
+*Growing in faith together,*
 
-(PIC -- Signature)
+{{< img-raw "signature" >}}
 
 ## S - SCRIPTURE
-What am I reading?
+*What am I reading?*
 
 ## O - OBSERVE
-What do I see?
+*What do I see?*
 
 ## A - APPLY
-Identify &amp; Apply the timeless truths?
+*Identify & Apply the timeless truths?*
 
 ## P - PRAY
-Talk with God.
+*Talk with God.*
 
 ## TIME WITH GOD
 
