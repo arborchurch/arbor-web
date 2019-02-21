@@ -40,12 +40,12 @@ Now copy the resultant m4a file to the podcast directory of the website like so:
 
 ### Update website and podcast
 
-Now that the audio is online, you just need to let the website know where it is. You do this by adding a file in `site/content/series/name-of-sermon-series`. For instance, if you were adding a sermon called "The Promise" in the series "Acts: Birth of a Church", you'd create `the-promise.md` and put it here:
+Now that the audio is online, you just need to let the website know where it is. You do this by adding a file in `site/content/messages/name-of-sermon-series`. For instance, if you were adding a sermon called "The Promise" in the series "Acts: Birth of a Church", you'd create `the-promise.md` and put it here:
 
     .
     ├── site
     │   ├── content
-    │   │   ├── series
+    │   │   ├── messages
     │   │   │   ├── _index.md
     │   │   │   ├── acts-birth-of-a-church
     │   │   │   │   ├── _index.md
