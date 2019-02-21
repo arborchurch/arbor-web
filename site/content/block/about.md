@@ -9,7 +9,7 @@ image: "block-about.jpg"
 ---
 
 <div class="page-buttons">
-  <a href="page/who-we-are/">Who We Are</a>
+  <a href="our-story/">Our Story</a>
   <img class="separator" src="img/nav-separator.png" />
   <a href="team/">Team</a>
 </div>

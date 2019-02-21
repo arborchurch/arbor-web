@@ -5,6 +5,7 @@ resources:
 - name: header
   src: groups.jpg
 weight: 10
+type: page
 menu:
   main:
     parent: 'Connect'
