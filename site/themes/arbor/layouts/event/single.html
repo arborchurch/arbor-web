@@ -1,6 +1,7 @@
 
 <div class="event">
-  <img class="event-image" src="{{ .Site.BaseURL }}img/{{ .Params.image }}" />
+  {{ $img := $.Page.Resources.GetMatch "header" }}
+  <img class="event-image" src="{{ $img.RelPermalink }}" />
 </div>
 
 <div class="row">
