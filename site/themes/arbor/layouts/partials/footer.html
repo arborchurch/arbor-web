@@ -6,22 +6,9 @@
     <li><a href="{{ $baseUrl }}/messages">Messages</a></li>
     <li><a href="https://arborchurch.churchcenteronline.com/giving?open-in-church-center-modal=true">Give</a></li>
   </ul>
-  <img src="{{ .Site.BaseURL }}img/social-mail-on.png" style="display: none;" />
-  <img src="{{ .Site.BaseURL }}img/social-facebook-on.png" style="display: none;" />
-  <img src="{{ .Site.BaseURL }}img/social-twitter-on.png" style="display: none;" />
-  <img src="{{ .Site.BaseURL }}img/social-instagram-on.png" style="display: none;" />
-  <a class="social social-mail" href="{{ .Site.BaseURL }}page/contact/"></a>
-  <a class="social social-facebook" href="https://www.facebook.com/arborchurchnw/"></a>
-  <a class="social social-twitter" href="https://www.twitter.com/arborchurchnw/"></a>
-  <a class="social social-instagram" href="https://www.instagram.com/arborchurchnw/"></a>
-
-  <div class="copyright">
-    Copyright &copy; 2019 Arbor Church.
-  </div>
+{{ partial "social-buttons.html" . }}
 </div>
 </body>
-<script src="{{ .Site.BaseURL }}js/zenscroll-min.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+{{ partial "script-libraries.html" . }}
 </html>
 
