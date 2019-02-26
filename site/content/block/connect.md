@@ -13,6 +13,6 @@ image: "block-connect.jpg"
   <img class="separator" src="img/nav-separator.png" />
   <a href="groups/">Groups</a>
   <img class="separator" src="img/nav-separator.png" />
-  <a href="serve/">Volunteer</a>
+  <a href="volunteer/">Volunteer</a>
 </div>
 

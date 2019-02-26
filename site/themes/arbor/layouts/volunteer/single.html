@@ -1,11 +1,12 @@
 
 <div class="row detail">
-  <div class="col-sm-8 col-md-8">
+  <div class="col-sm-7 col-md-7">
     <div class="photocell">
-      <img class="photo" src="{{ .Site.BaseURL }}img/serve/{{ .Params.image }}">
+      {{ $img := $.Page.Resources.GetMatch "header" }}
+      <img class="photo" src="{{ $img.RelPermalink }}">
     </div>
   </div>
-  <div class="col-sm-4 col-md-4">
+  <div class="col-sm-5 col-md-5">
     <div class="summary">
       <h2>{{ .Title }}</h2>
       <h3>Lead: {{ .Params.leader }}</h3>

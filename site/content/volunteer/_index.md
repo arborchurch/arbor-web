@@ -4,7 +4,7 @@ title: Volunteer
 weight: 20
 resources:
 - name: header
-  src: serve.jpg
+  src: volunteer.jpg
 menu:
   main:
     parent: 'Connect'
