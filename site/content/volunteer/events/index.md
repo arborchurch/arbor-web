@@ -1,8 +1,8 @@
 ---
 date: "2019-02-25"
 title: "Events"
-leader: "Jake"
-email: "jake@arborchurch.com"
+leader: "Alisa"
+email: "alisamckenzie@frontier.com "
 weight: 30
 resources:
 - name: header
