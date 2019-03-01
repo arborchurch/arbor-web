@@ -71,11 +71,11 @@ We believe everyone is created to live forever. We will either exist eternally s
 
 ## How We Approach Beliefs
 
-In essential beliefs, we have UNITY.
+In essential beliefs, we have UNITY.
 
 We define the 'essential beliefs' as the foundational statements above. 
 
-In non-essential beliefs, we have LIBERTY.
+In non-essential beliefs, we have LIBERTY.
 
 Our leadership has convictions and beliefs in many other areas, and we assume you do too! Jesus came to take away our sin, not our minds. We don't expect everyone at Arbor to believe the same thing about the many expressions of Scripture and faith that make the Church so beautifully diverse. We refuse to whittle down our unity by demanding we all think "alike" in every area. Unity isn't believing the same thing, it's serving the same purpose. And our purpose is Making Disciples... together.
 
