@@ -1,6 +1,6 @@
 ---
 date: "2017-01-01"
-title: "Garrett Birkeland"
+title: "Poodles"
 position: "Pastor"
 image: "garrett.jpg"
 email: "garrett@arborchurch.com"
