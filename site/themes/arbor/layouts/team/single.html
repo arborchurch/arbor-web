@@ -1,7 +1,8 @@
 <div class="row detail">
   <div class="col-sm-7 col-md-7">
     <div class="photocell">
-      <img class="photo" src="{{ .Site.BaseURL }}img/staff/{{ .Params.image }}">
+      {{ $img := $.Page.Resources.GetMatch "photo" }}
+      <img class="photo" src="{{ $img.RelPermalink }}">
     </div>
   </div>
   <div class="col-sm-5 col-md-5 detail-summary">

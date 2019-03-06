@@ -2,10 +2,12 @@
 date: "2017-01-01"
 title: "Jake Goetze"
 position: "Pastor"
-image: "jake.jpg"
 email: "jake@arborchurch.com"
 emailname: Jake
 weight: 10
+resources:
+- name: "photo"
+  src: "jake.jpg"
 ---
 Jake is a Pacific Northwest native: a flannel, trucks, and country music guy raised in the small town of Eatonville. When he's not fishing, he's hanging out with his wife and kids, hopefully at Disneyland.
 

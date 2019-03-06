@@ -2,10 +2,12 @@
 date: "2017-07-02"
 title: "Cara and Jack Werner"
 position: "Worship"
-image: "werners.jpg"
 email: "worship@arborchurch.com"
 emailname: "Cara and Jack"
 weight: 80
+resources: 
+- name: photo
+  src: "werners.jpg"
 ---
 
 Once upon a time, Cara and Jack met on a worship team and fell in love. They decided to permanently make beautiful music together in 2009. Since then, God has increased their "band" by adding to it 4 children: Leroy, Owen, Chance and Harley. 

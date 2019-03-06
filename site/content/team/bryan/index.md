@@ -2,10 +2,12 @@
 date: "2017-01-01"
 title: "Bryan Cobley"
 position: "Student Pastor"
-image: "bryan.jpg"
 email: "bryan@arborchurch.com"
 emailname: Bryan
 weight: 55
+resources:
+- name: photo
+  src: "bryan.jpg"
 ---
 
 Bryan grew up in Modesto, California, but he could not take the sunshine any more, so he decided to move to the Pacific Northwest. His favorite things include: Football, Food, Family, and Friends (in that order). 

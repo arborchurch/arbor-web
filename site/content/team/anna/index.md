@@ -2,10 +2,12 @@
 date: "2017-07-02"
 title: "Anna Chadwick"
 position: "Kids & Groups"
-image: "anna.jpg"
 email: "anna@arborchurch.com"
 emailname: Anna
 weight: 20
+resources:
+- name: photo
+  src: "anna.jpg"
 ---
 
 Raised in Big Sky Country, Anna made the Pacific Northwest home a dozen years ago with her childhood sweetheart, Kevin. Together they have succeeded in creating three sons with the most phenomenal eyelashes known to mankind: Riley, Liam, and Brecken.  
