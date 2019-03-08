@@ -4,8 +4,8 @@ title: What To Expect
 resources:
 - name: header
   src: what-to-expect.jpg
-- name: jake
-  src: jake.jpg
+- name: garrett
+  src: garrett.jpg
 menu:
   main:
     parent: 'About'
@@ -19,6 +19,6 @@ Our kids do the same thing in their classrooms except for the added bonus of fis
 
 Looking forward to seeing you on Sunday!
 
-{{< img-partial "jake" >}}
+{{< img-partial "garrett" >}}
 
 
