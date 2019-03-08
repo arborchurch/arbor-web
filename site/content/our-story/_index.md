@@ -56,3 +56,13 @@ If I'm honest, I yearn for the day when I'll see and hug my daughter again. But 
 
 {{< img-raw "signature" >}}
 
+<br />
+
+This is a message I gave a few months after Maggie went to heaven. It's the story of what we walked through, what we learned, and why we left to plant Arbor Church. 
+
+<br />
+
+<video controls style="max-width: 100%">
+  <source src="https://www.arborchurch.com/video/our-story.mov" type="video/quicktime" />
+</video>
+
