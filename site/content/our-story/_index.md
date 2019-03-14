@@ -22,6 +22,7 @@ resources:
 menu:
   main:
     parent: 'About'
+    weight: 10
 ---
 
 ## Our Story

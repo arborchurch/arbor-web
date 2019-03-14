@@ -9,6 +9,7 @@ resources:
 menu:
   main:
     parent: 'About'
+    weight: 20
 ---
 
 Arbor is a place where people come as they are. You're welcome to wear whatever you want... just as long as it's flannel. The coffee is hot and not that bad for being free. The people are also friendly so someone will most likely say hello.

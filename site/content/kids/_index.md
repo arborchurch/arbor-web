@@ -10,6 +10,7 @@ email: anna@arborchurch.com
 menu:
   main:
     parent: 'Connect'
+    weight: 20
 ---
 
 <h2>Sunday Mornings</h2> at both our 9 and 11am services.

@@ -7,6 +7,7 @@ resources:
 menu:
   main:
     parent: 'Connect'
+    weight: 40
 ---
 
 ## Monday Nights 

@@ -9,6 +9,7 @@ type: page
 menu:
   main:
     parent: 'Connect'
+    weight: 10
 ---
 
 <div style="text-align: center; margin-bottom: 50px;">

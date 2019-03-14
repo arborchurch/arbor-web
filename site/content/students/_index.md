@@ -9,6 +9,7 @@ resources:
 menu:
   main:
     parent: 'Connect'
+    weight: 30
 ---
 
 ## Thursday Nights

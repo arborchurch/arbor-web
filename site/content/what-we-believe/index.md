@@ -9,6 +9,7 @@ resources:
 menu:
   main:
     parent: "About"
+    weight: 30
 ---
 
 <div class="text-center">
