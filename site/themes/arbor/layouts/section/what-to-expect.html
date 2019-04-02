@@ -4,6 +4,22 @@
 
 {{ .Content }}
 
+<p>&nbsp;</p>
+
 </div>
+
+
+{{ range $i,$p := .Data.Pages }}
+  {{ if modBool $i 2 }}
+     <div class="col-sm-12 col-md-5 col-md-offset-1">
+  {{ else }}
+     <div class="col-sm-12 col-md-5">
+  {{ end }}
+    <small>{{ .Content }}</small>
+    {{ range .Resources.Match "photo" }}
+      <img src="{{ .RelPermalink }}" style="max-width: 100%; margin-bottom: 60px;" />
+    {{ end }}
+  </div>
+{{ end }}
 
 {{ partial "content-footer.html" . }}
