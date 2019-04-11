@@ -25,7 +25,7 @@ menu:
     weight: 10
 ---
 
-<p style="font-style: italic; font-size: 22pt;">a letter from Pastor Jake </p>
+<p style="font-style: italic; font-size: 22pt; margin-bottom: 30px;">a letter from Pastor Jake </p>
 
 Arbor began out of heartbreak.
 

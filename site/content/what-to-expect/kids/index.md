@@ -7,5 +7,5 @@ resources:
 weight: 40
 ---
 
-Age appropriate classes are offered for birth through 5th grade with volunteers who really care. 
+Age appropriate CLASSES are offered for birth through 5th grade with volunteers who really care. 
 

@@ -7,5 +7,5 @@ resources:
 weight: 20
 ---
 
-We'll sing a few songs to kick-off the service. 
+We'll sing a few SONGS to kick-off the service. 
 

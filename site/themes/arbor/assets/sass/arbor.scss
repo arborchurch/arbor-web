@@ -68,8 +68,6 @@ a:hover {
 }
 
 .splash-footer {
-  background-color: #f0f0f0;
-  border-bottom: 1px solid #a0a0a0;
   margin-bottom: 30px;
 }
 
@@ -488,6 +486,10 @@ ul.footer-menu li {
 .tight-header {
   display: inline-block;
   margin-right: 10px;
+}
+
+.soap-header {
+  margin-bottom: 0;
 }
 
 @import 'events';

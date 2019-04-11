@@ -7,5 +7,5 @@ resources:
 weight: 10
 ---
 
-You'll be greeted by friendly people who are excited to see you!
+You'll be GREETED by friendly people who are excited to see you!
 

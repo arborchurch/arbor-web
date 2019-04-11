@@ -7,5 +7,5 @@ resources:
 weight: 30
 ---
 
-You'll hear a message that's encouraging, relevant to your life, and in terms that make sense.
+You'll hear a MESSAGE that's encouraging, relevant to your life, and in terms that make sense.
 
