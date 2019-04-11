@@ -9,9 +9,9 @@ image: "block-connect.jpg"
 ---
 
 <div class="page-buttons">
-  <a href="event/">Events</a>
-  <img class="separator" src="img/nav-separator.png" />
   <a href="groups/">Groups</a>
+  <img class="separator" src="img/nav-separator.png" />
+  <a href="event/">Events</a>
   <img class="separator" src="img/nav-separator.png" />
   <a href="volunteer/">Volunteer</a>
 </div>

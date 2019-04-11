@@ -1,7 +1,7 @@
 ---
 date: "2019-03-24T11:00:00-08:00"
 title: "Tested: Jesus"
-series: "balance"
+series: "tested"
 speaker: "Jake Goetze"
 type: message
 podcast: https://arborchurch.com/podcast/tested-jesus.m4a

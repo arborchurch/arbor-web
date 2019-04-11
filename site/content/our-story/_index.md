@@ -25,9 +25,7 @@ menu:
     weight: 10
 ---
 
-## Our Story
-
-*a letter from Pastor Jake*
+<p style="font-style: italic; font-size: 22pt;">a letter from Pastor Jake </p>
 
 Arbor began out of heartbreak.
 
@@ -47,9 +45,9 @@ People came out of the woodwork to help. It was incredible! God provided everyth
 
 We choose to call the church 'Arbor' because of its meaning. When most people hear the word, they typically think of the wooden structure people get married under. But there is second definition, which is my favorite. An 'arbor' is also a grouping of trees that grow up and together to create a pathway... and that's exactly what we want to be!
 
-{{< img-full "worship" >}}
-
 Our roots stem from the soil of loss, which makes us uniquely shaped to help the hurting.  And it's from that foundational place that we form a group of people, growing up and together, to create a pathway which points straight to the hope of heaven through Jesus Christ.
+
+{{< img-full "worship" >}}
 
 If I'm honest, I yearn for the day when I'll see and hug my daughter again. But in the meantime, while we're breathing, why not do our part to build God's Church? Together we continue Christ's great commission of making disciples, which means helping anyone and everyone find and follow Jesus. In many ways, I feel like we're just getting started!
 
@@ -63,7 +61,9 @@ This is a message I gave a few months after Maggie went to heaven. It's the stor
 
 <br />
 
-<video controls style="max-width: 100%">
-  <source src="https://www.arborchurch.com/video/our-story.mov" type="video/quicktime" />
-</video>
+<div class="text-center">
+  <video controls style="width: 650px; max-width: 100%">
+    <source src="https://www.arborchurch.com/video/our-story.mov" type="video/quicktime" />
+  </video>
+</div>
 

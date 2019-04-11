@@ -1,6 +1,6 @@
-$body-font: Baskerville, Libre Baskerville, serif;
-$header-font: Montserrat, sans-serif;
-
+  $body-font: Baskerville, Libre Baskerville, serif;
+  $header-font: Montserrat, sans-serif;
+  
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700');
 
 @font-face {
@@ -481,8 +481,13 @@ ul.footer-menu li {
   margin-bottom: 2em;
 }
 
-.detail-container small {
-  color: #909090;
+.gallery, .gallery p {
+  line-height: 1.2em;
+}
+
+.tight-header {
+  display: inline-block;
+  margin-right: 10px;
 }
 
 @import 'events';

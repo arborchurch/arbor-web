@@ -11,11 +11,11 @@
 
 {{ range $i,$p := .Data.Pages }}
   {{ if modBool $i 2 }}
-     <div class="col-sm-12 col-md-5 col-md-offset-1">
+     <div class="col-sm-12 col-md-5 col-md-offset-1 gallery">
   {{ else }}
-     <div class="col-sm-12 col-md-5">
+     <div class="col-sm-12 col-md-5 gallery">
   {{ end }}
-    <small>{{ .Content }}</small>
+    <p>{{ .Content }}</p>
     {{ range .Resources.Match "photo" }}
       <img src="{{ .RelPermalink }}" style="max-width: 100%; margin-bottom: 60px;" />
     {{ end }}

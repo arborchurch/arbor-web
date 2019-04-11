@@ -12,9 +12,7 @@ menu:
     weight: 30
 ---
 
-## Thursday Nights
-
-from 7-9pm at Arbor.
+<h2 class="tight-header">Thursday Nights</h2> from 7-9pm at Arbor.
 
 At Arbor WE LOVE STUDENTS! We are determined to provide a place for teenagers to connect with God, other students, and older committed leaders who are dedicated to seeing them grow closer to Christ. It's a safe place to learn about Jesus, make some life-long friends, and of course, have fun.
 

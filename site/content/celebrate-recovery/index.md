@@ -10,8 +10,7 @@ menu:
     weight: 40
 ---
 
-## Monday Nights 
-from 6-9pm at Arbor
+<h2 class="tight-header">Monday Nights</h2> from 6-9pm at Arbor
 
 [Celebrate Recovery](https://www.celebraterecovery.com/) is a faith-based, 12 step program for those struggling with hurt, pain or addiction of any kind. It's a safe place to find community and freedom from the issues that are controlling our lives. Our hope is to provide the atmosphere of support and encouragement needed in recovery.
 

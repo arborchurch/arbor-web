@@ -1,7 +1,7 @@
 ---
 date: "2019-03-31T11:00:00-08:00"
 title: "Tested: Rich Young Ruler"
-series: "balance"
+series: "tested"
 speaker: "Jake Goetze"
 type: message
 podcast: https://arborchurch.com/podcast/tested-rich-young-ruler.m4a

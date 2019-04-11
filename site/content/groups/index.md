@@ -22,13 +22,19 @@ menu:
 
 Groups have one simple purpose: TO BRING PEOPLE TOGETHER. We believe God designed us to live in relationship with others and only then can we live the full life He intends for us.
 
+<br />
+
 ## GROUP DESIGN
 
 Not all groups look alike, but their intention is the same, which is to BELONG, BELIEVE, and BECOME. We call this our purposeful pathway. This path takes us from a time of bonding and building trust into a season of growing in our faith... which leads to expressing our faith outwardly in acts of service and generosity. Our connection to each other and Christ will continue to strengthen and flourish as time goes by.
 
+<br />
+
 ## GROUP RHYTHMS
 
 Groups meet in 9-week chunks called trimesters. When you join a group, you're committing to that particular trimester with the option to re-up as many times as you choose. The 3-week breaks in-between trimesters give new members a chance to join and leaders time to catch their breath.
+
+<br />
 
 ## GROUP SIGN UPS
 
