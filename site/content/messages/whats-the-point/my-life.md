@@ -9,5 +9,5 @@ podcast_bytes: 26516762
 podcast_duration: 36:04
 ---
 
-Is the point of our life to be happy? Maybe there’s something more than just that. How do we discover our specific purpose in life? A good place to start is by listening to this podcast.
+Is the point of our life to be happy? Maybe there's something more than just that. How do we discover our specific purpose in life? A good place to start is by listening to this podcast.
 
