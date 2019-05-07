@@ -4,7 +4,7 @@ title: "What's the Point: The Church"
 series: "whats-the-point"
 speaker: "Nate Hettinga"
 type: message
-podcast: https://arborchurch.com/podcast/whats-the-point-my-life.m4a
+podcast: https://arborchurch.com/podcast/whats-the-point-the-church.m4a
 podcast_bytes: 24270115
 podcast_duration: 33:00
 ---
