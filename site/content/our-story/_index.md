@@ -19,6 +19,9 @@ resources:
 - name: signature
   src: siggy.png
   title: Jake
+- name: thumbnail
+  src: our-story-thumbnail.jpg
+  title: Thumbnail
 menu:
   main:
     parent: 'About'
@@ -62,7 +65,7 @@ This is a message I gave a few months after Maggie went to heaven. It's the stor
 <br />
 
 <div class="text-center">
-  <video controls style="width: 650px; max-width: 100%">
+  <video controls style="width: 650px; max-width: 100%" poster="{{< img-link "thumbnail" >}}">
     <source src="https://www.arborchurch.com/video/our-story.mov" type="video/quicktime" />
   </video>
 </div>
