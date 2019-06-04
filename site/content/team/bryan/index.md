@@ -12,5 +12,5 @@ resources:
 
 Bryan grew up in Modesto, California, but he could not take the sunshine any more, so he decided to move to the Pacific Northwest. His favorite things include: Football, Food, Family, and Friends (in that order). 
 
-Bryan and his wife Audra are expecting their first child and are excited for the new adventure that God has them on. New city, New church, New kid, No problem!
+Bryan and his wife Audra just had their first son, Kade, and are excited for the new adventure that God has them on. New city, New church, New kid, No problem!
 
