@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 title: "Hayden Wright"
-position: "Worship Leader"
+position: "Worship"
 email: "hayden@arborchurch.com"
 emailname: Hayden
 weight: 60
