@@ -5,7 +5,7 @@ where: "Wednesday Nights from 6:30-8:30pm at Arbor"
 resources:
 - name: header
   src: griefshare.jpg
-weight: 10
+weight: 20
 ---
 
 

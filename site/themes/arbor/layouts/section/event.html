@@ -2,7 +2,7 @@
 {{ partial "content-header.html" . }}
 
 <!-- render events in reverse order -->
-{{ range .Data.Pages.ByDate }}
+{{ range .Data.Pages }}
   {{ .Render "single" }}
 {{ end }}
 
