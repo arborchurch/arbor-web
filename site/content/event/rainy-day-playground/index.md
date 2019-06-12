@@ -1,5 +1,5 @@
 ---
-date: "2019-02-20"
+date: "2019-09-01"
 title: "Rainy Day Playground"
 where: "Mondays 9:30-11am in Arbor's Grove"
 resources:
