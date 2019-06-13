@@ -10,7 +10,7 @@ resources:
   src: "anna.jpg"
 ---
 
-Raised in Big Sky Country, Anna made the Pacific Northwest home a dozen years ago with her childhood sweetheart, Kevin. Together they have succeeded in creating three sons with the most phenomenal eyelashes known to mankind: Riley, Liam, and Brecken.  
+Raised in Big Sky Country, Anna made Seattle home a dozen years ago with her childhood sweetheart, Kevin. Together they have succeeded in creating three sons with phenomenal eyelashes and prowess on the ballfield.  
 
-Anna's education as an elementary school teacher has given her great insight in creating our kids' program here at Arbor.  We love that God also prepared her for this position with leadership experience in MOPS and women's ministries. But most of all, we love that He gave Anna a heart for discipleship, a gentle sense of humor, a work ethic that won't quit and world-class s'more making skills.  
+Having a heart for discipleship means she loves seeing lives transformed by the power of Jesus, whether for children in ArborKids, or adults in ArborGroups. If life transformation weren't enough, though, she also is available to help transform your campfire or s'more experience as well! We clearly cover all the important things here.
  
