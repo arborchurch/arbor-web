@@ -12,5 +12,3 @@ resources:
 You probably could already tell from her tan, but Alison grew up on the sunny Southern California beaches before she and her husband relocated to the slower pace of life found in... Bellevue. Yes. Ironic. 
 
 The smile lines on her face are brought to you by many years in youth ministry and her two little granddaughters. The silver hair? Brought to you by many years in youth ministry as well.
-
-Alison is Arbor's first line responder if you have a need for care or prayer. In addition to the email below, she's also embarrassingly easy to find across the social media platforms if that is more your jam. 
