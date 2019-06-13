@@ -10,7 +10,7 @@ resources:
   src: "garrett.jpg"
 ---
 
-Born and raised in the PNW, Garrett's a little bit city, a little bit country. A connoisseur of slapstick comedy, great food and a love for adventure, you can find him on the river scaring away the fish as he's slipping, filling his waders with water and laughing too hard to stand back up. 
+Garrett happens to be the only staff member who grew up in Arbor's backyard, which makes him both a great connector of people and connoisseur of local restaurants. Serving in many area ministries has given him the experience and context that is a tremendous asset for our young church. 
 
-Experiencing God & spending time with his wife & three kids are his two greatest passions. God is great and His love displayed through the local church can change the world!
+Experiencing God & spending time with his wife & three kids are his two greatest passions. Garrett loves adventure, but the best adventure of all is seeing God's love displayed through the local church! It can change the world! 
 
