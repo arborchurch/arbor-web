@@ -9,8 +9,8 @@ resources:
 - name: photo
   src: "alison.jpg"
 ---
-You probably could already tell from her tan, but Alison grew up on the sunny Southern California beaches before relocating to Bellevue in 1990. Together with her high school sweetheart, they raised three kids - one of whom you may have seen on KOMO News. 
+You probably could already tell from her tan, but Alison grew up on the sunny Southern California beaches before she and her husband relocated to the slower pace of life found in... Bellevue. Yes. Ironic. 
 
 The smile lines on her face are brought to you by many years in youth ministry and her two little granddaughters. The silver hair? Brought to you by many years in youth ministry as well.
 
-If you are in need of care, prayer or help, Alison wants to know so she can meet your need. She'd also love to connect you to a serving opportunity if you have been blessed to be a blessing!
+Alison is Arbor's first line responder if you have a need for care or prayer. In addition to the email below, she's also embarrassingly easy to find across the social media platforms if that is more your jam. 
