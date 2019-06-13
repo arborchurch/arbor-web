@@ -10,7 +10,7 @@ resources:
   src: "anna.jpg"
 ---
 
-Raised in Big Sky Country, Anna made Seattle home a dozen years ago with her childhood sweetheart, Kevin. Together they have succeeded in creating three sons with phenomenal eyelashes and prowess on the ballfield.  
+Raised in Big Sky Country, Anna made Seattle home a dozen years ago with her childhood sweetheart, Kevin. Together they have created three sons with phenomenal eyelashes and prowess on the ballfield.  
 
-Having a heart for discipleship means she loves seeing lives transformed by the power of Jesus, whether for children in ArborKids, or adults in ArborGroups. If life transformation weren't enough, though, she also is available to help transform your campfire or s'more experience as well! We clearly cover all the important things here.
+Having a heart for discipleship means she loves seeing lives transformed by the power of Jesus. If that weren't enough, though, she can help transform your campfire or s'more experience as well! We clearly cover all the important things here.
  
