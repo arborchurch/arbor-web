@@ -32,6 +32,11 @@ img.event-image {
   font-weight: 300;
 }
 
+.event-details h3 {
+  font-family: $header-font;
+  font-weight: bold;
+}
+
 .event-details table td,
 .event-details table th
 {
