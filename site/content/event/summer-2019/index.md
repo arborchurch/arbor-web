@@ -14,7 +14,7 @@ July 13th @ Edmonds/Kingston Ferry<br />
 July 20th @ Seattle Underground Tour<br />
 July 27th @ Lake Washington Cruise
 
-There is no better place to adventure than in the Pacific Northwest. Ladies, grab your friends and join us for one of these fun day trips. Times varies, must sign-up ahead of time for tickets, etc.
+There is no better place to adventure than in the Pacific Northwest! Ladies, grab your friends and join us for one of these fun day trips. The times vary, and sometimes there's a need to get tickets ahead of time... so ping info@arborchurch.com to be put on the email list for info!
 
 ### Wednesday Playdates at the Park
 
@@ -23,20 +23,20 @@ July 24th @10:30am Cedar Grove Park<br />
 August 7th @ 10:30am 1332nd Park<br />
 August 21st 10:30am @ Miner's Corner Park
 
-Sun drenched summer days are best spent TOGETHER at the park!  Bring your kids and invite your neighbors as we explore area parks together. Connect with the "Arbor Mom's" Facebook page and our mailing list through the tear-off below for last minute updates.
+Sun drenched summer days are best spent TOGETHER at the park!  Bring your kids and invite your neighbors as we explore area parks together. Connect with the "Arbor Moms" Facebook page or get on the mailing list (info@arborchurch.com) for last minute updates.
 
 ### Mariners Game
 
 July 26 @ 7:10pm T-Mobile Park
 
-Let's do a ballgame TOGETHER! On July 26th, we are heading to T-Mobile Park to watch the Mariners take on the Detroit Tigers. We'd love for you to come with us! Tickets are $15 each & must be purchased no later than June 30th.
+Let's do a ballgame TOGETHER! On July 26th, we are heading to T-Mobile Park to watch the Mariners take on the Detroit Tigers. We'd love for you to come with us! Tickets are $15 each & must be purchased no later than June 30th. See below for the link to reserve tickets.
 
 ### Hiking Group
 
 August 10th @ 8:00am Cutter to River Trail</br>
 August 24th @ 8:00am Wallace Falls
 
-No experience required...just a love for the outdoors & adventure! Three different hikes in three different areas to experience the diverseness & beauty of the PNW...and get a bit of exercise while we're at it. Carpooling from Arbor leaves at 7:30am.
+No experience required...just a love for the outdoors & adventure! Three different hikes in three different areas to experience the diverseness & beauty of the PNW...and get a bit of exercise while we're at it. Carpooling from Arbor leaves at 7:30am. Let us know if you want further information (info@arborchurch.com).
 
 ### All-Church Picnic
 
