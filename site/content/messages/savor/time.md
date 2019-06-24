@@ -2,7 +2,7 @@
 date: "2019-06-23T09:00:00-08:00"
 title: "Savor: Time"
 series: "savor"
-speaker: "Jake Goeze"
+speaker: "Jake Goetze"
 type: message
 podcast: https://arborchurch.com/podcast/savor-time.m4a
 podcast_bytes: 32547817
