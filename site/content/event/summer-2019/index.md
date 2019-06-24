@@ -19,9 +19,9 @@ There is no better place to adventure than in the Pacific Northwest! Ladies, gra
 ### Wednesday Playdates at the Park
 
 July 7th @ 10:30am Bothell Landing Park<br />
-July 24th @10:30am Cedar Grove Park<br />
+July 24th @ 10:30am Cedar Grove Park<br />
 August 7th @ 10:30am 1332nd Park<br />
-August 21st 10:30am @ Miner's Corner Park
+August 21st @ 10:30am  Miner's Corner Park
 
 Sun drenched summer days are best spent TOGETHER at the park!  Bring your kids and invite your neighbors as we explore area parks together. Connect with the "Arbor Moms" Facebook page or get on the mailing list (info@arborchurch.com) for last minute updates.
 
