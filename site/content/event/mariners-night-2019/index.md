@@ -1,6 +1,6 @@
 ---
 date: "2019-06-12"
-expirydate: "2019-07-26"
+expirydate: "2019-07-02"
 title: "Mariners Night"
 where: "July 26 @ Safeco Field"
 resources:
