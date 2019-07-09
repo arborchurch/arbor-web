@@ -25,12 +25,6 @@ August 21st @ 10:30am  Miner's Corner Park
 
 Sun drenched summer days are best spent TOGETHER at the park!  Bring your kids and invite your neighbors as we explore area parks together. Connect with the "Arbor Moms" Facebook page or get on the mailing list (info@arborchurch.com) for last minute updates.
 
-### Mariners Game
-
-July 26 @ 7:10pm T-Mobile Park
-
-Let's do a ballgame TOGETHER! On July 26th, we are heading to T-Mobile Park to watch the Mariners take on the Detroit Tigers. We'd love for you to come with us! Tickets are $15 each & must be purchased no later than June 30th. See below for the link to reserve tickets.
-
 ### Hiking Group
 
 August 10th @ 8:00am Cutter to River Trail</br>
