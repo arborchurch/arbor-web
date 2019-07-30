@@ -1,6 +1,6 @@
 ---
 date: "2019-07-14T11:00:00-08:00"
-title: "Psalms 42 & 43"
+title: "Psalms: Psalm 42 & 43"
 series: "Psalms"
 speaker: "Garrett Birkeland"
 type: message
