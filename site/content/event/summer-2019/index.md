@@ -1,6 +1,6 @@
 ---
 date: "2019-06-21"
-expirydate: "2019-07-26"
+expirydate: "2019-09-03"
 resources:
 - name: header
   src: summer-2019.jpg
