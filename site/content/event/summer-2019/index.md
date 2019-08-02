@@ -7,19 +7,9 @@ resources:
 weight: 1
 ---
 
-### Women's Adventure Group
-
-July 6th @ Japanese Garden<br />
-July 13th @ Edmonds/Kingston Ferry<br />
-July 20th @ Seattle Underground Tour<br />
-July 27th @ Lake Washington Cruise
-
-There is no better place to adventure than in the Pacific Northwest! Ladies, grab your friends and join us for one of these fun day trips. The times vary, and sometimes there's a need to get tickets ahead of time... so ping info@arborchurch.com to be put on the email list for info!
 
 ### Wednesday Playdates at the Park
 
-July 7th @ 10:30am Bothell Landing Park<br />
-July 24th @ 10:30am Cedar Grove Park<br />
 August 7th @ 10:30am 132nd Park<br />
 August 21st @ 10:30am  Miner's Corner Park
 
