@@ -12,4 +12,4 @@ scripture: "Psalm 23"
 
 *"The Lord is my shepherd..."* Thus begins David's 23rd Psalm, one of the most oft-quoted and beloved Psalms in the
 Bible; a comfort to martyrs, cited by presidents, simple enough for a child, yet full of theological depth. Garrett
-helps us understand this beautiful poem.
+helps us understand the rich imagery in this beautiful poem.
