@@ -1,8 +1,8 @@
 ---
 date: "2017-01-01"
 title: "Worship"
-leader: "Jack and Cara"
-email: "worship@arborchurch.com"
+leader: "Hayden"
+email: "hayden@arborchurch.com"
 weight: 100
 resources:
 - name: header
