@@ -1,8 +1,8 @@
 ---
 date: "2017-01-01"
 title: "Welcome"
-leader: "Kristi"
-email: "kristikapi@yahoo.com"
+leader: "Katie"
+email: "katiemwinter@gmail.com"
 weight: 90
 resources:
 - name: header
