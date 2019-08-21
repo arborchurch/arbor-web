@@ -1,8 +1,8 @@
 ---
 date: "2017-01-01"
 title: "Photography"
-leader: "Breanna & Kevin"
-email: "breannamariephoto@outlook.com"
+leader: "Breanna + Kevin"
+email: "hello@breannapluskevin.com"
 weight: 60
 resources:
 - name: header
