@@ -1,5 +1,6 @@
 ---
 date: "2019-09-01"
+expirydate: "2019-09-24"
 title: "Rainy Day Playground"
 where: "Mondays 9:30-11am in Arbor's Grove"
 resources:
