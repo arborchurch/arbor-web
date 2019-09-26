@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 title: "Jake Goetze"
-position: "Pastor"
+position: "Lead Pastor"
 email: "jake@arborchurch.com"
 emailname: Jake
 weight: 10

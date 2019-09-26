@@ -1,7 +1,7 @@
 ---
 date: "2017-07-02"
 title: "Anna Chadwick"
-position: "Kids & Groups"
+position: "Executive Pastor"
 email: "anna@arborchurch.com"
 emailname: Anna
 weight: 20

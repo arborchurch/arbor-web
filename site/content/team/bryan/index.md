@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 title: "Bryan Cobley"
-position: "Students"
+position: "Student Director"
 email: "bryan@arborchurch.com"
 emailname: Bryan
 weight: 55
