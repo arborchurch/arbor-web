@@ -1,5 +1,5 @@
 ---
-date: "2017-09-29T11:00:00-08:00"
+date: "2019-09-29T11:00:00-08:00"
 title: "Ghost: the Person of"
 series: "ghost"
 speaker: "Jake Goetze"
