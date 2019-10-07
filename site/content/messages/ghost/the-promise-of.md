@@ -1,5 +1,5 @@
 ---
-date: "2019-10-03T11:00:00-08:00"
+date: "2019-10-06T11:00:00-08:00"
 title: "Ghost: the Promise of"
 series: "ghost"
 speaker: "Jake Goetze"
