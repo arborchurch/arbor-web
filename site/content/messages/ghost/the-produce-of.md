@@ -9,4 +9,4 @@ podcast_bytes: 28911714
 podcast_duration: 38:50
 ---
 
-You've heard it called "the Fruit of the Spirit," we're calling it the Produce, and one translation even calls it the Harvest of the Spirit. No matter what you call it, Paul's famoust list helps understand what it means to live a Spirit-filled and Spirit-led life. Bonus: *lessons from a French Press*.
+You've heard it called "the Fruit of the Spirit," we're calling it the Produce, and one translation even calls it the Harvest of the Spirit. No matter what you call it, Paul's famous list helps understand what it means to live a Spirit-filled and Spirit-led life. Bonus: *lessons from a French Press*.
