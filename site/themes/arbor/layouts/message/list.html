@@ -1,11 +1,13 @@
 
 <div class="message col-xs-12 col-md-8 col-md-offset-2">
   <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  <h4>{{ .Params.speaker }} | {{ .Date.Format "Monday, January 2, 2006" }}</h4>
+  <h3>{{ .Params.speaker }} | {{ .Date.Format "Monday, January 2, 2006" }}</h3>
 
   {{ if isset .Params "youtube_id" }}
     <!-- TODO: https://css-tricks.com/aspect-ratio-boxes/ -->
-    <iframe class="youtube" src="https://www.youtube.com/embed/{{ .Params.youtube_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="message-video-16-9">
+      <iframe class="youtube" src="https://www.youtube.com/embed/{{ .Params.youtube_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
   {{ end }}
   <p>{{ .Content }}</p>
 
