@@ -1,0 +1,23 @@
+
+.collapsible {
+    input[type='checkbox'] {
+        display: none;
+    }
+
+    .label {
+        display: block;
+        transition: all 0.50s ease-out;
+        color: #404040;
+        cursor: pointer;
+    }
+
+    .content {
+        max-height: 0px;
+        overflow: hidden;
+        transition: max-height 0.50s ease-out;
+    }
+
+    .toggle:checked + .label + .content {
+       max-height: 2em;
+    }
+}

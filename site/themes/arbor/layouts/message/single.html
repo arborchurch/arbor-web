@@ -6,6 +6,12 @@
   <h2>{{ .Title }}</h2>
   <h4>{{ .Params.Speaker }} | {{ .Date.Format "Monday, January 2, 2006" }}</h4>
 
+  {{ if isset .Params "youtube_id" }}
+    <div class="message-video-16-9">
+      <iframe class="youtube" src="https://www.youtube.com/embed/{{ .Params.youtube_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  {{ end }}
+
   <p>{{ .Content }}</p>
 
   <audio src="{{ .Params.podcast }}" controls="controls">
