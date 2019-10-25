@@ -1,15 +1,31 @@
 
 <div class="message col-xs-12 col-md-8 col-md-offset-2">
   <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  <h3>{{ .Params.speaker }} | {{ .Date.Format "Monday, January 2, 2006" }}</h3>
+  <h4>{{ .Params.speaker }} | {{ .Date.Format "Monday, January 2, 2006" }}</h4>
 
   {{ if isset .Params "youtube_id" }}
-    <!-- TODO: https://css-tricks.com/aspect-ratio-boxes/ -->
     <div class="message-video-16-9">
       <iframe class="youtube" src="https://www.youtube.com/embed/{{ .Params.youtube_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   {{ end }}
   <p>{{ .Content }}</p>
 
-  <audio src="{{ .Params.podcast }}" controls="controls"></audio>
+  {{ if isset .Params "youtube_id" }}
+    <button type="button" 
+            class="btn btn-default"
+            data-toggle="collapse" 
+            data-target="#message_audio" 
+            aria-expanded="false" 
+            aria-controls="message_audio_{{ .Params.youtube_id}}">
+       <span class="glyphicon glyphicon-headphones" aria-hidden="true"></span>
+       &nbsp;
+       Audio Version
+    </button>
+
+    <audio class="collapse" 
+           id="message_audio_{{ .Params.youtube_id }}"
+           src="{{ .Params.podcast }}" controls="controls"></audio>
+  {{ else }}
+    <audio src="{{ .Params.podcast }}" controls="controls"></audio>
+  {{ end }}
 </div>
