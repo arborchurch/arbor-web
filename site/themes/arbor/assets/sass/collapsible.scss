@@ -1,23 +1,40 @@
-
 .collapsible {
+    padding-top: 15px;
+
     input[type='checkbox'] {
         display: none;
     }
 
     .label {
-        display: block;
         transition: all 0.50s ease-out;
         color: #404040;
         cursor: pointer;
     }
 
+    .button {
+        border: 1px solid #909090;
+        border-radius: 3px;
+        display: inline-block;
+        color: black;
+        font-size: 12px;
+        font-weight: bold;
+        padding: 0.4em;
+        box-sizing: border-box;
+        line-height: 1;
+    }
+
     .content {
+        padding-top: 15px;
         max-height: 0px;
         overflow: hidden;
         transition: max-height 0.50s ease-out;
     }
 
-    .toggle:checked + .label + .content {
-       max-height: 2em;
+    .toggle:checked + .button {
+        background-color: #e0e0e0;
+    }
+
+    .toggle:checked + .button + .button + .content {
+       max-height: 4em;
     }
 }
