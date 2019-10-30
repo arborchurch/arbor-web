@@ -55,3 +55,31 @@ Now that the audio is online, you just need to let the website know where it is.
 Use one of the existing `.md` files as a template (it should be very clear what needs to go in each of the fields).  Commit and push the change.
 
 Once your change is committed, Travis CI will rebuild the site. This will post the sermon on the website, and will also update the [Arbor Church podcast feedburner](https://feeds.feedburner.com/ArborChurch), which will in turn update the [Arbor Church podcast on iTunes](https://itunes.apple.com/us/podcast/arbor-church/id1204135740). 
+
+### Adding a video
+
+You can add a YouTube video to a message as follows:
+
+#### Get the YouTube ID of the video
+
+This can be found by going to the YouTube video and copying the portion of the URL after `v=`. For example, in this URL:
+
+    https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+the YouTube ID is `dQw4w9WgXcQ`. If there is an ampersand (`&`) in the URL, it signals the end of the YouTube ID
+
+#### Add the YouTube ID to the message metadata
+
+Once you have the YouTube ID, add it as the `youtube_id` in the front matter at the beginning of the message's .md file.  For example:
+
+    ---
+    date: "2019-12-03T11:00:00-08:00"
+    title: "Promises: Never Gonna Give You Up"
+    series: "promises"
+    speaker: "Jake Goetze"
+    type: message
+    youtube_id: dQw4w9WgXcQ
+    ...
+    ---
+
+
