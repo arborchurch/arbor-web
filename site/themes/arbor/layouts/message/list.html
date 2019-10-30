@@ -1,29 +1,31 @@
+<h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+<h4>{{ .Params.speaker }} | {{ .Date.Format "Monday, January 2, 2006" }}</h4>
 
-<div class="message col-xs-12 col-md-8 col-md-offset-2">
-  <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  <h4>{{ .Params.speaker }} | {{ .Date.Format "Monday, January 2, 2006" }}</h4>
+{{ if isset .Params "youtube_id" }}
+  <div class="message-video-16-9">
+    <iframe class="youtube" src="https://www.youtube.com/embed/{{ .Params.youtube_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div class="collapsible">
+    <input id="collapse_{{ .UniqueID }}" class="toggle" type="checkbox" />
+    <label for="collapse_{{ .UniqueID }}" class="label button" class="btn btn-default">
+      <span class="glyphicon glyphicon-headphones" aria-hidden="true"></span>
+      &nbsp;
+      Audio Version
+    </label>
+    <a download="" href="{{ .Params.podcast }}" class="button">
+      <span class="glyphicon glyphicon-download" aria-hidden="true"></span>
+      &nbsp;
+      Download
+    </a>
 
-  {{ if isset .Params "youtube_id" }}
-    <div class="message-video-16-9">
-      <iframe class="youtube" src="https://www.youtube.com/embed/{{ .Params.youtube_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="content">
+      <audio src="{{ .Params.podcast }}" controls="controls"></audio>
     </div>
-  {{ end }}
-  <p>{{ .Content }}</p>
+  </div>
+{{ end }}
 
-  {{ if isset .Params "youtube_id" }}
-    <div class="collapsible">
-      <input id="collapse_{{ .UniqueID }}" class="toggle" type="checkbox">
-      <label for="collapse_{{ .UniqueID }}" class="label" class="btn btn-default">
-        <span class="glyphicon glyphicon-headphones" aria-hidden="true"></span>
-        &nbsp;
-        Audio Version
-      </label>
+<p>{{ .Content }}</p>
 
-      <div class="content">
-        <audio src="{{ .Params.podcast }}" controls="controls"></audio>
-      </div>
-    </div>
-  {{ else }}
-    <audio src="{{ .Params.podcast }}" controls="controls"></audio>
-  {{ end }}
-</div>
+{{ if not (isset .Params "youtube_id") }}
+  <audio src="{{ .Params.podcast }}" controls="controls"></audio>
+{{ end }}

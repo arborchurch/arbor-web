@@ -15,12 +15,14 @@
         border: 1px solid #909090;
         border-radius: 3px;
         display: inline-block;
-        color: black;
+        color: #404040;
         font-size: 12px;
-        font-weight: bold;
+        font-family: $header-font;
+        font-weight: normal;
         padding: 0.4em;
         box-sizing: border-box;
         line-height: 1;
+        margin-right: 1em;
     }
 
     .content {
