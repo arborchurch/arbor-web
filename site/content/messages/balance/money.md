@@ -5,7 +5,6 @@ series: "balance"
 speaker: "Jake Goetze"
 type: message
 podcast: https://arborchurch.com/podcast/balance-money.m4a
-youtube_id: Kjgwjh4H7wg
 podcast_bytes: 32657984
 podcast_duration: 43:46
 ---
