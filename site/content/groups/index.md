@@ -38,5 +38,5 @@ Groups meet in 9-week chunks called trimesters. When you join a group, you're co
 
 ## GROUP SIGN UPS
 
-Signing up for a group is easy! Simply click the link above and fill out the online form. Feel free to check as many preferences as you like so we can find the best fit for you. From there, we’ll give you a couple of great group options to choose from. Once you select a group, all you have to do is show up! 
+Signing up for a group is easy! Simply click the link above and fill out the online form. Feel free to check as many preferences as you like so we can find the best fit for you. From there, we'll give you a couple of great group options to choose from. Once you select a group, all you have to do is show up! 
 
