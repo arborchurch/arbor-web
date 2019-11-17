@@ -7,6 +7,7 @@ type: message
 podcast: https://arborchurch.com/podcast/baggage-resentment.m4a
 podcast_bytes: 27059951
 podcast_duration: 36:47
+youtube_id: tiGji3y1zSw
 ---
 
 Resentment isn't easy baggage to put down. It often weighs us down for years and years, sometimes to the point where we
