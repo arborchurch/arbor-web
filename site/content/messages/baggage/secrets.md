@@ -7,6 +7,7 @@ type: message
 podcast: https://arborchurch.com/podcast/baggage-secrets.m4a
 podcast_bytes: 28376444
 podcast_duration: 38:36
+youtube_id: 5oOVCSsIoDo
 ---
 
 Our new series is all about *baggage*. Our hope is to identify the different kinds of baggage we're carrying -- and how to drop it. Jake opens the series by talking about the heavy burden of secrets.
