@@ -7,6 +7,7 @@ type: message
 podcast: https://arborchurch.com/podcast/baggage-debt.m4a
 podcast_bytes: 28285617
 podcast_duration: 38:27
+youtube_id: IDcH1AnvzAo
 ---
 
 What does the Scripture have to say about debt? How should we prioritize our spending when there doesn't seem to be

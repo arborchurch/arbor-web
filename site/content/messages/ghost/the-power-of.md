@@ -10,4 +10,4 @@ podcast_duration: 47:06
 youtube_id: XZziesMP3-M
 ---
 
-Jesus said that we would "receive power" from the Holy Spirit (Acts 1:8)... but what *kind* of power, exactly, does the Spirit give us? What's a *spiritual gift*, and how is it diffent from the Fruit (or, of you will, Produce) of the Spirit? Jake tackles these tough questions and more in the conclusion to our series on the Holy Ghost.
+Jesus said that we would "receive power" from the Holy Spirit (Acts 1:8)... but what *kind* of power, exactly, does the Spirit give us? What's a *spiritual gift*, and how is it different from the Fruit (or, of you will, Produce) of the Spirit? Jake tackles these tough questions and more in the conclusion to our series on the Holy Ghost.
