@@ -4,7 +4,7 @@ title: "Hayden Wright"
 position: "Worship Director"
 email: "hayden@arborchurch.com"
 emailname: Hayden
-weight: 60
+weight: 30
 resources:
 - name: photo
   src: "hayden.jpg"

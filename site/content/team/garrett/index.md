@@ -4,7 +4,7 @@ title: "Garrett Birkeland"
 position: "Pastor"
 email: "garrett@arborchurch.com"
 emailname: Garrett
-weight: 15
+weight: 70
 resources:
 - name: photo 
   src: "garrett.jpg"

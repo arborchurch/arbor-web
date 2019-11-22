@@ -4,7 +4,7 @@ title: "Scott Hetherington"
 position: "Teaching"
 email: "hetheringtons@bsd405.org"
 emailname: Scott
-weight: 70
+weight: 80
 resources:
 - name: photo
   src: "scott.jpg"

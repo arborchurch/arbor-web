@@ -4,7 +4,7 @@ title: "Bryan Cobley"
 position: "Student Director"
 email: "bryan@arborchurch.com"
 emailname: Bryan
-weight: 55
+weight: 50
 resources:
 - name: photo
   src: "bryan.jpg"
