@@ -8,6 +8,8 @@ menu:
   main:
     parent: 'Connect'
     weight: 40
+menustyle: inverted
+logostyle: inverted
 ---
 
 <h2 class="tight-header">Monday Nights</h2> from 6:15-9pm at Arbor

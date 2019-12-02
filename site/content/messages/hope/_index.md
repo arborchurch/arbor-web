@@ -4,5 +4,7 @@ type: series
 resources:
 - name: header
   src: hope.jpg
+logostyle: inverted
+menustyle: inverted
 ---
 

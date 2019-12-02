@@ -34,3 +34,17 @@ ul.menu li.open ul {
   padding: 20px;
 }
 
+.home-logo {
+  .find-us, .find-us a {
+    color: white;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    font-family: $header-font;
+  }
+}
+
+.home-logo.inverted {
+  .find-us, .find-us a {
+    color: #000000;
+  }
+}

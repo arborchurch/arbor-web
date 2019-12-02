@@ -4,5 +4,7 @@ type: series
 resources:
 - name: header
   src: gods-will.jpg
+menustyle: inverted
+logostyle: inverted
 ---
 
