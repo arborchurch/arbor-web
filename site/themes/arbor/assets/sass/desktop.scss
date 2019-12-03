@@ -76,8 +76,15 @@
     display: block;
   }
 
-  .navigation .hamburger {
-    display: none;
+  .navigation {
+
+    .hamburger {
+      display: none;
+    }
+
+    .mobile-menu-footer {
+      display: none;
+    }
   }
 
   .desktop-expand {
