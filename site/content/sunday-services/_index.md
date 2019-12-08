@@ -1,6 +1,6 @@
 ---
 date: "2019-02-15"
-title: What To Expect
+title: "Sunday Services"
 resources:
 - name: header
   src: what-to-expect.jpg

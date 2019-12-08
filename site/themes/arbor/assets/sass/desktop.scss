@@ -135,35 +135,3 @@
     height: 236px;
   }
 }
-
-.inverted {
-
-  ul.menu li.open {
-    background-color: black;
-  }
-
-  #nav-menu ul.menu li.open a {
-    color: #E0E0E0;
-  }
-
-  #nav-menu ul.menu li.open ul a {
-    transition: background-color 0.5s linear;
-    display: block;
-    background-color: black;
-    color: #E0E0E0;
-  }
-
-  #nav-menu ul.menu li.open ul a:hover {
-    color: black;
-    background-color: white;
-    transition: background-color 0.5s linear;
-  }
-
-  #nav-menu ul.menu li.open ul li:hover a {
-    color: black;
-  }
-
-  #nav-menu a {
-    color: black;
-  }
-}
