@@ -9,8 +9,16 @@ resources:
 menu:
   main:
     parent: 'About'
-    weight: 20
+    weight: 10
 ---
+
+<h3>
+  SUNDAYS at 9 & 11am 
+  &nbsp; | &nbsp;
+  <a href="https://www.google.com/maps/place/19011+Woodinville+Snohomish+Rd,+Woodinville,+WA+98072/@47.7657651,-122.1576943,17z/data=!3m1!4b1!4m5!3m4!1s0x54900e9a33e7f0d3:0x2d8ffaf8fde7a709!8m2!3d47.7657651!4d-122.1555003">DIRECTIONS</a>
+</h3>
+
+&nbsp;
 
 Arbor is a place where people come as they are. You're welcome to wear whatever you want... just as long as it's flannel. The coffee is hot and not that bad for being free. The people are also friendly so someone will most likely say hello.
 

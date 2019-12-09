@@ -35,9 +35,14 @@ ul.menu li.open ul {
 }
 
 .home-logo {
+  .find-us {
+    display: block;
+    float: right;
+    margin-top: 10px;
+  }
   .find-us, .find-us a {
     color: white;
-    font-size: 12px;
+    font-size: 14px;
     letter-spacing: 0.1em;
     font-family: $header-font;
   }
