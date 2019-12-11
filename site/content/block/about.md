@@ -11,7 +11,7 @@ image: "block-about.jpg"
 <div class="page-buttons">
   <a href="our-story/">Our Story</a>
   <img class="separator" src="img/nav-separator.png" />
-  <a href="team/">Team</a>
+  <a href="team/">The Team</a>
 </div>
 
 
