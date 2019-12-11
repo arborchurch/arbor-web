@@ -7,6 +7,7 @@ type: message
 podcast: https://arborchurch.com/podcast/just-like-jesus-prayed.m4a
 podcast_bytes: 32155517
 podcast_duration: 42:56
+youtube_id: PnmWqWYjzbc
 ---
 
 *This, then, is how you should pray,* said Jesus, and what follows is the most famous prayer in all of Scripture. Today, rather than turn it into a formula or checklist, we walk through each of its verses and phrases, looking for the heart and intent as we study how Jesus taught us to talk to our Father.
