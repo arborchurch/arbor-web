@@ -8,5 +8,6 @@ podcast: https://arborchurch.com/podcast/just-like-jesus-preached.m4a
 podcast_bytes: 30432689
 podcast_duration: 40:35
 youtube_id: BX_Xl0Zaa9k
+---
 
 Jesus may be the most famous preacher ever to have lived. And if you don't think of yourself as a *preacher*, that's okay... because telling the story of Jesus is something anyone can do. Today, we learn from how He did it.
