@@ -7,7 +7,7 @@ type: message
 podcast: https://arborchurch.com/podcast/just-like-jesus-forgave.m4a
 podcast_bytes: 36070721
 podcast_duration: 48:00
-youtube_id: W0K2mLppXck
+youtube_id: Rg2ia8gIzB4
 ---
 
 Garrett closes our series with a look at how Jesus taught us to forgive -- and not just in the Sunday school sins-of-the-world sense, but in a part of his teaching about prayer that's often overlooked.
