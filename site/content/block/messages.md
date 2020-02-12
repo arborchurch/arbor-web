@@ -8,6 +8,6 @@ image: "block-messages.jpg"
 ---
 
 <div class="page-buttons">
-  <a href="messages/">Listen</a>
+  <a href="messages/">Watch</a>
 </div>
 
