@@ -11,3 +11,5 @@ youtube_id: E2v_nL7JUbU
 ---
 
 Last week we talked about *why* Arbor exists, and now we're answering the next big question: *what* is our purpose? The answer is a simple phrase ...  but sometimes even a simple phrase can mean different things to different people, so today we're going deep and talking practically about how we live out our purpose.
+
+<a href="https://arborchurch.com/downloads/discover-week-2.pdf"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> Week 2 Booklet</a>  (PDF)
