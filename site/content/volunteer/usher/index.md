@@ -1,8 +1,8 @@
 ---
 date: "2017-01-15"
 title: "Usher"
-leader: "Chris"
-email: "c.fenner@outlook.com"
+leader: "Ryan"
+email: "info@arborchurch.com"
 weight: 80
 resources:
 - name: header
