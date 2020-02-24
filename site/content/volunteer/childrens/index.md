@@ -1,8 +1,8 @@
 ---
 date: "2017-01-01"
 title: "Childrens"
-leader: "Anna"
-email: "anna@arborchurch.com"
+leader: "Michael"
+email: "michael@arborchurch.com"
 weight: 20
 resources:
 - name: header
