@@ -7,6 +7,7 @@ type: message
 podcast: https://arborchurch.com/podcast/discover-the-who.m4a
 podcast_bytes: 26697227
 podcast_duration: 35:39
+youtube_id: A_gpp1wCPZg
 ---
 
 It's graduation day! In the final week of our class, we're completing our discussion of Arbor's purpose by talking about WHO accomplishes that purpose. 
