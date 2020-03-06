@@ -1,7 +1,7 @@
 ---
 date: "2020-02-05"
 title: "Discover Class"
-where: "Sundays Mornings, 11am at Arbor"
+where: "April 5, 11am at Arbor"
 resources:
 - name: header
   src: Discover.jpg
