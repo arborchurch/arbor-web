@@ -1,6 +1,5 @@
 ---
 date: "2019-10-14"
-expirydate: "2020-04-13"
 title: "Easter"
 where: "Sunday, April 12th at 8, 9:30 & 11am"
 resources:
