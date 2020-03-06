@@ -1,5 +1,5 @@
 ---
-date: "2020-03-01"
+date: "2020-02-01"
 title: "Celebrate Recovery"
 where: "Monday Nights, 6:15-9pm at Arbor"
 resources:
