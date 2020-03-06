@@ -1,5 +1,5 @@
 ---
-date: "2020-05-01"
+date: "2020-05-03"
 title: "Men's Bible Study"
 where: "Wednesday mornings, 6am at Arbor"
 resources:
