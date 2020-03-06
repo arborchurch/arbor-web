@@ -1,6 +1,5 @@
 ---
 date: "2019-12-10"
-expirydate: "2020-04-11"
 title: "Good Friday"
 where: "Friday, April 10th, 7pm at Arbor"
 resources:
