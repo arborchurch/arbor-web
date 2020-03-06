@@ -5,7 +5,7 @@ where: "Sundays Mornings, 11am at Arbor"
 resources:
 - name: header
   src: Discover.jpg
-weight: 6
+weight: 3
 ---
 
 Many churches have "membership," but we have our own take on that. The Discover Class is your passport to knowing ALL THINGS ARBOR: our history, our beliefs, and our goals. It's also the trailhead for connection and how to get started around here. 
