@@ -8,7 +8,7 @@ resources:
 weight: 10
 ---
  
-The day has come to celebrate! Easter Sunday is a beautiful time for joy as we praise God for the hope of the empty tomb. Families are invited to worship together, or kids (birth through 5th grade) can enjoy the morning with ArborKids.  
+The day has come to celebrate! Easter Sunday is a beautiful time for joy as we praise God for the hope of the empty tomb. Families are invited to worship together, or kids (birth through 5th grade) can enjoy the morning with ArborKids.
 
 For more information about our ArborKids program, click here to read.
 
