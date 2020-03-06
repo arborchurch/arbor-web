@@ -1,7 +1,7 @@
 ---
 date: "2019-12-10"
 title: "Good Friday"
-where: "Friday, April 10th, 7pm at Arbor"
+where: "Friday, April 10th, 7pm"
 resources:
 - name: header
   src: Good Friday.jpg
