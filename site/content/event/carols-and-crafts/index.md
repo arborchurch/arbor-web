@@ -4,7 +4,7 @@ title: "Easter"
 where: "Sunday, April 12th at 8, 9:30 & 11am"
 resources:
 - name: header
-  src: Women's Bible Study.jpg
+  src: Easter.jpg
 weight: 10
 ---
  
