@@ -1,5 +1,5 @@
 ---
-date: "2020-05-05"
+date: "2020-03-05"
 title: "Discover Class"
 where: "Sundays Mornings, 11am at Arbor"
 resources:
