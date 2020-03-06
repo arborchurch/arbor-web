@@ -1,5 +1,5 @@
 ---
-date: "2020-05-07"
+date: "2020-03-07"
 title: "Easter"
 where: "Sunday, April 12th at 8, 9:30 & 11am"
 resources:
