@@ -1,15 +1,13 @@
 ---
 date: "2019-12-10"
-expirydate: "2019-12-25"
-title: "Christmas Eve"
-where: "December 24th @ 2:30 and 4:30pm"
+expirydate: "2020-04-11"
+title: "Good Friday"
+where: "Friday, April 10th, 7pm at Arbor"
 resources:
 - name: header
   src: christmas-eve.jpg
 weight: 10
 ---
 
-We warmly welcome you to join us on Christmas Eve for a candlelit time of worship and celebrating Christ's birth. 
-
-Childcare is available birth through kindergarten. We hope your older children will join your family in the sanctuary for this memorable tradition. Hope to see you at 2:30 or 4:30pm.
+Before we celebrate the joy of Easter morning, we acknowledge the sorrow of the cross. Rescuing us from the grip of sin was not without pain. This unique worship service provides space for us to remember Jesus' sacrifice and to express our gratitude. Due to the somber nature of the evening, childcare is offered for those under 10 years old.
 
