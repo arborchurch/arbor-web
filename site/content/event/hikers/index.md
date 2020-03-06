@@ -1,14 +1,14 @@
 ---
-date: "2019-09-22"
+date: "2019-02-20"
 title: "Men's Bible Study"
+where: "Wednesday mornings, 6am at Arbor"
 resources:
 - name: header
   src: Men's Bible Study.jpg
-weight: 10
+weight: 5
 ---
 
+Before the sun rises, there’s a group of guys gathering over coffee and breakfast to study scripture. Led by Phil Pierson and Jonathan McPherson, men of all ages are welcome to drop by for time in the Word and hearty conversation. Currently we’re walking through the gospel of John. 
 
-It stands to reason that with a church named Arbor there would be some hikers in our crowd! They've not only found each other to hit the trails with, they want to invite YOU to join them! From Lake Serene to Wallace Falls to Annette Lake and beyond, the Arbor Hikers are heading out for adventure a couple Saturdays a month this year. 
-
-Connect with Annette at <annettesternberg10@gmail.com> for more info. See you on the trail!
+For more information, reach out to groups@arborchurch.com.
 
