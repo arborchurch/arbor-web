@@ -4,7 +4,7 @@ title: "Women's Bible Study"
 where: "Wednesday mornings from 9:30-11am at Arbor"
 resources:
 - name: header
-  src: carols-and-crafts.jpg
+  src: Women's Bible Study.jpg
 weight: 10
 ---
  
