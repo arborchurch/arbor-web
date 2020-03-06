@@ -1,10 +1,9 @@
 ---
 date: "2019-09-22"
-expirydate: "2020-02-01"
-title: "Arbor Hikers"
+title: "Men's Bible Study"
 resources:
 - name: header
-  src: hikers.jpg
+  src: Men's Bible Study.jpg
 weight: 10
 ---
 
