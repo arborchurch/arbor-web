@@ -1,5 +1,5 @@
 ---
-date: "2020-03-02"
+date: "2020-02-02"
 title: "Griefshare"
 where: "Wednesday Nights from 6:30-8:30pm at Arbor"
 resources:
