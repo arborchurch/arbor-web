@@ -5,7 +5,7 @@ title: "Good Friday"
 where: "Friday, April 10th, 7pm at Arbor"
 resources:
 - name: header
-  src: christmas-eve.jpg
+  src: Good Friday.jpg
 weight: 10
 ---
 
