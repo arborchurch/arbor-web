@@ -1,6 +1,5 @@
 ---
 date: "2019-10-14"
-expirydate: "2019-12-08"
 title: "Carols & Crafts"
 where: "Tuesday, December 3rd from 6:30-7:30pm at St Josephs in Bellevue"
 resources:
