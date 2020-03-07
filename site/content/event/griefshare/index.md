@@ -1,11 +1,11 @@
 ---
-date: "2019-09-01"
+date: "2020-02-02"
 title: "Griefshare"
 where: "Wednesday Nights from 6:30-8:30pm at Arbor"
 resources:
 - name: header
   src: griefshare.jpg
-weight: 20
+weight: 9
 ---
 
 
