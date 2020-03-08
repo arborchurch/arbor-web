@@ -1,8 +1,12 @@
-<div style="position: relative; background-color: #a0a0a0; height: 40px; color: white; width: 100%; display: flex; align-items: center; font-size: 18px; justify-content: center; font-family: Montserrat;">
-  COVID-19 update (ONLINE SERVICES only - march 8th)
-  <a href="/covid-19/" style="color: #a0a0a0; border-radius: 10px; margin-left: 20px; background-color: white; padding-left: 10px; padding-right: 10px;">
-    Read more
-  </a>
+<div class="visible-sm-block visible-md-block visible-lg-block" style="position: relative; background-color: #a0a0a0; height: 40px; color: white; width: 100%; font-size: 18px; font-family: Montserrat;">
+  <div style="display: flex; align-items: center; justify-content: center; height: 100%;">
+    <div style="overflow: hidden;">
+    COVID-19 update (ONLINE SERVICES only - March 8th)
+    <a href="/covid-19/" style="color: #a0a0a0; border-radius: 10px; margin-left: 20px; background-color: white; padding-left: 10px; padding-right: 10px;">
+      Read more
+    </a>
+    </div>
+  </div>
 </div>
 <div style="position: relative;"> <!-- COVID_19 -->
 
@@ -47,6 +51,11 @@
       {{ end }}
       </li>
     {{ end }}
+    <li>
+      <div class="visible-xs-block"> 
+          <a href="/covid-19/">COVID-19 Update</a>
+      </div>
+    </li>
     </ul>
     <div class="menu-logo">
       <a href="{{ .Site.BaseURL }}">
