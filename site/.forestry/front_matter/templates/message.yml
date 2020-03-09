@@ -1,0 +1,31 @@
+---
+label: Message
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: text
+  name: series
+  label: series
+- type: text
+  name: speaker
+  label: speaker
+- type: text
+  name: type
+  label: type
+- type: text
+  name: podcast
+  label: podcast
+- type: number
+  name: podcast_bytes
+  label: podcast_bytes
+- type: number
+  name: podcast_duration
+  label: podcast_duration
+- type: text
+  name: youtube_id
+  label: youtube_id
