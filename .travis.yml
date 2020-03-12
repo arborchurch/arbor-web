@@ -13,8 +13,8 @@ branches:
 
 # install hugo
 install:
-  - wget https://github.com/gohugoio/hugo/releases/download/v0.57.2/hugo_extended_0.57.2_Linux-64bit.tar.gz
-  - tar xzvf hugo_extended_0.57.2_Linux-64bit.tar.gz
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.67.0/hugo_extended_0.67.0_Linux-64bit.tar.gz
+  - tar xzvf hugo_extended_0.67.0_Linux-64bit.tar.gz
 
 # build the site
 script: 

@@ -8,4 +8,8 @@ menu:
     URL: https://arborchurch.churchcenteronline.com/giving?open-in-church-center-modal=true
     Identifier: Give
     Weight: 300
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 ---
