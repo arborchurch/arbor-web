@@ -1,0 +1,107 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+sections:
+- type: directory
+  path: site/content
+  label: Pages
+  create: all
+  match: "*"
+- type: directory
+  path: site/content/messages
+  label: Messages
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/podcast
+  label: Podcast
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/page
+  label: Page
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/groups
+  label: Groups
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/students
+  label: Students
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/team
+  label: Team
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/event
+  label: Event
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/volunteer
+  label: Volunteer
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/kids
+  label: Kids
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/block
+  label: Block
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/our-story
+  label: Our story
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/sunday-services
+  label: Sunday services
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/celebrate-recovery
+  label: Celebrate recovery
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/what-we-believe
+  label: What we believe
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/covid-19
+  label: Covid 19
+  create: all
+  match: "**/*"
+- type: directory
+  path: site/content/grow-tools
+  label: Grow tools
+  create: all
+  match: "**/*"
+upload_dir: site/static/uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.67.0
+  preview_output_directory: public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: cd site && hugo server -D -F --port 8080 --bind 0.0.0.0
+    --renderToDisk -d public --theme arbor
+version: 0.57.2
