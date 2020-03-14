@@ -1,5 +1,5 @@
 ---
-date: "2020-03-13T22:07:46-08:00"
+date: "2020-03-13T12:07:46-08:00"
 title: "COVID-19 update"
 resources:
 - name: header
