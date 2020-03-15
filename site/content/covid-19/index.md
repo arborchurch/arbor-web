@@ -20,7 +20,7 @@ Clearly, the **SENIOR POPULATION** is deeply impacted by this pandemic. We are p
 
 Paychecks are taking a hit for many in our local area, so we have established a **TEXT TO GIVE** opportunity to help out. 100% of your donation will go to families being impacted by income loss... simply text in a dollar amount to **84321**.
 
-Lastly, food scarcity is a reality for many children in our backyard. The schools that have been a nourishment bridge to hungry families is now disrupted. Filling the **FOOD BANK** at Woodin Elementary School fills a critical void. Donations may be dropped off at Arbor during office hours and volunteers will deliver them to the school. A suggested donation list is below.
+Lastly, food scarcity is a reality for many children in our backyard. The schools that have been a nourishment bridge to hungry families is now disrupted. Filling the **FOOD BANK** at Woodin Elementary School fills a critical void. Donations may be dropped off at Arbor during office hours and volunteers will deliver them to the school. Suggested donations would be soups, canned protein (tuna, chicken), pasta & rice, diapers, wipes, cereal, gatorade, TP and paper towels.
 
 Know we are praying for **YOU** in this. Your faith is giving you a resilience and hope that cannot be found on a grocery store shelf. Thank you for stepping in to help; you are making an impact for God's glory and the good of others. Take rest in the perspective of 2 Corinthians 4:17: *This light momentary affliction is preparing for us an eternal weight of glory beyond all comparison.*
 
