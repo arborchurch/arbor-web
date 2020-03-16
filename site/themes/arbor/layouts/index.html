@@ -1,21 +1,27 @@
 {{ partial "header.html" . }}
 
-<div class="splash parallax">
-    <div class="mast">
-    <div>
-      <img src="img/arbor-logo-landing.png" />
-      <div class="mission-statement">
-        <h1>People Helping People</h1> 
-        <h1>FIND and FOLLOW Jesus</h1> 
+{{ if .Site.Params.livestream }}
+  <div class="splash parallax livestream">
+    {{ partial "livestream.html" . }}
+  </div>
+{{ else }}
+  <div class="splash parallax">
+      <div class="mast">
+      <div>
+        <img src="img/arbor-logo-landing.png" />
+        <div class="mission-statement">
+          <h1>People Helping People</h1> 
+          <h1>FIND and FOLLOW Jesus</h1> 
+        </div>
       </div>
-    </div>
-    </div>
-  <a href="https://www.facebook.com/arborchurchnw/"><i class="fa fa-facebook-square"></i></a>
-  &nbsp; &nbsp;
-  <a href="https://www.instagram.com/arborchurchnw/"><i class="fa fa-instagram"></i></a>
-  &nbsp; &nbsp;
-  <a href="https://www.twitter.com/arborchurchnw/"><i class="fa fa-twitter-square"></i></a>
-</div>
+      </div>
+    <a href="https://www.facebook.com/arborchurchnw/"><i class="fa fa-facebook-square"></i></a>
+    &nbsp; &nbsp;
+    <a href="https://www.instagram.com/arborchurchnw/"><i class="fa fa-instagram"></i></a>
+    &nbsp; &nbsp;
+    <a href="https://www.twitter.com/arborchurchnw/"><i class="fa fa-twitter-square"></i></a>
+  </div>
+{{ end }}
 
 {{ range .Site.RegularPages }}
   {{ if eq .Type "block" }}

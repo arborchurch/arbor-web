@@ -12,4 +12,6 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+params:
+  livestream: false
 ---
