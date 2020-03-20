@@ -1,30 +1,43 @@
 ---
-date: "2020-03-13T12:07:46-08:00"
+date: "2020-03-19T12:07:46-08:00"
 title: "COVID-19 update"
 resources:
 - name: header
   src: trees.jpg
+- name: online-services
+  src: online-services.jpg
+- name: ways-to-give
+  src: ways-to-give.jpg
+- name: food-bank
+  src: food-bank.jpg
 ---
 
-Hello Arbor Family, 
+Dear Arbor Family,
 
-Like so many others this week, we are flexing the way we do things... at least for the time being. We aren't **CANCELING** church, we're just **CHANGING** the way we do it!
+There's been a lot of change recently, and you're doing a great job flexing with each day's news. You're working from home, schooling your kids, and staying six feet apart. We have been praying for you in this isolating season to sense Jesus nearer than ever, strengthening and equipping you... and keeping you safe.
 
-Last week we hosted hundreds of you via **LIVESTREAM** and yes... it was a little rough. The audio wasn't in sync, and we were bumped offline for a few minutes, but we prevailed and finished strong. Not only do we feel we fixed these issues, we spent the week improving the quality of what you'll see. You'll find out along with the rest of us how well we did at 9 and 11am! We'll broadcast on our services on our website, on our [YouTube channel](https://www.youtube.com/channel/UCRe_QiHhuGwlIY43ECFopNQ), and on our [Facebook page](https://www.facebook.com/arborchurchnw/).
+{{< img-full "online-services" >}}
 
-Any kids in the crowd? We'll also have activities for them on our livestream link as well. 
+We've made some changes at Arbor as well. We're going to mesh our regular two Sunday services into only **ONE LIVESTREAM SERVICE at 9:30am.** This virtually brings our whole Arbor family together at once, which feels all the more meaningful given the circumstances. You can find our livestream on our [Facebook Page](https://www.facebook.com/arborchurchnw), on our [YouTube channel](https://www.youtube.com/channel/UCRe_QiHhuGwlIY43ECFopNQ), or here on our website. Don't forget to submit prayer requests or care needs on the [Connection Card](https://arborchurch.churchcenter.com/people/forms/110195) as well! We want to stay in touch.
 
-Church is more than Sunday services, as you know... it is the expression of God's love to the people who surround us. We want to **BE THE CHURCH** to those in need, and you are invited to join us in that effort.
+{{< img-full "ways-to-give" >}}
 
-Clearly, the **SENIOR POPULATION** is deeply impacted by this pandemic. We are providing weekly blessing baskets for the staffs at Lakeview and Vineyard Park; ArborGroups will also be creating care packages for the residents there. It's hard to be quarantined even when you're young and can figure out how to work your remote control! They could use some love from the outside world.
+When the whole world pushes the **STOP** button because of crisis, the local church pushes **PLAY**. Pain, fear, lack, and panic have a remedy... and the church is ready to be the expression of Christ to those around us. We are creating SENIOR CARE PACKAGES for residents in two assisted living facilities, filling the local FOOD BANK, providing FINANCES to those who've lost paychecks, and delivering STAFF BLESSING BASKETS to schools and senior facilities. It's never been more important for Arbor to faithfully continue to give than right now so we meet the needs around us.
 
-Paychecks are taking a hit for many in our local area, so we have established a **TEXT TO GIVE** opportunity to help out. 100% of your donation will go to families being impacted by income loss... simply text in a dollar amount to **84321**.
+Banks can set up **AUTOMATIC** payments in a snap, or **ONLINE** gifts can be made here on website (click Give in the upper right). Have a check, an envelope, and a stamp? Combine those and pop them in the **MAIL** to:
 
-Lastly, food scarcity is a reality for many children in our backyard. The schools that have been a nourishment bridge to hungry families is now disrupted. Filling the **FOOD BANK** at Woodin Elementary School fills a critical void. Donations may be dropped off at Arbor during office hours and volunteers will deliver them to the school. Suggested donations would be soups, canned protein (tuna, chicken), pasta & rice, diapers, wipes, cereal, gatorade, TP and paper towels.
+>  19011 Woodinville Snohomish Road NE, Suite 210, Woodinville WA 98072.
 
-Know we are praying for **YOU** in this. Your faith is giving you a resilience and hope that cannot be found on a grocery store shelf. Thank you for stepping in to help; you are making an impact for God's glory and the good of others. Take rest in the perspective of 2 Corinthians 4:17: *This light momentary affliction is preparing for us an eternal weight of glory beyond all comparison.*
+{{< img-full "food-bank" >}}
 
-May it be so! See you online Sunday.
+One expression of love we are giving to our community comes in the form of **FOOD**. Our local school, Woodin Elementary, has a food bank that provides nourishment to the families directly in our back yard. Now more than ever, food scarcity is a concern! Targeting this need to meet is a practical and essential form of support.
+
+As we've learned, families using food stamps cannot purchase the very things most of us have stocked up on: TP, diapers, wipes, hygiene, and cleaning products. This week's shopping list features these products in addition to non-perishable pantry items. Cookies are on the list after a food resource consultant reminded us of the comfort a sweet can give a child in crisis. We can all relate to that, can't we?
+
+Thank you for your lavish love and generosity! Donations can be dropped during office hours.
+
+"See you" Sunday morning at 9:30!
+
+Keep washing those hands!
 
 The Arbor Team
- 
