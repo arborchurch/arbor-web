@@ -1,7 +1,7 @@
 ---
 date: "2020-03-15T09:00:00-08:00"
 title: "Peter: The Ordinary"
-series: "ruth"
+series: "peter"
 speaker: "Jake Goetze"
 type: message
 podcast: https://arborchurch.com/podcast/peter-the-ordinary.m4a
