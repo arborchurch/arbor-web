@@ -1,13 +1,67 @@
-<div class="shadowed">
-  <div class="widget">
-    <iframe src="https://embed.restream.io/player/index.html?token=bd58ab9429c90295042d16185dbfbf2d" frameborder="0" allowfullscreen></iframe>
+<div class="livestream" id="livestream_wrapper">
+  <div id="livestream_link" style="display: none;">
+    <a href="https://youtu.be/{{ .Site.Params.livestream.youtube_id }}">WATCH LIVE SERVICE</a>
   </div>
-  <div class="announcement">
+  <div id="livestream_countdown">
+     <div class="soon">
+        SERVICE BEGINS IN
+     </div>
+     <code class="countdown" id="livestream_timer">
 
-    So glad you're joining us this morning! Please fill out your <a href="https://arborchurch.churchcenter.com/people/forms/109812" >CONNECTION CARD</a>. <br/>
-
-    Here are some additional resources to watch with your kids. (<a href="https://youtu.be/3ojLcyKEHaw">PRESCHOOL</a> / <a href="https://youtu.be/iiInjD0Wr5Q">ELEMENTARY</a>) <br />
-
-    If you'd like to help those impacted by COVID-19, please text a dollar amount to 84321.
+     </code>
   </div>
 </div>
+
+<div class="mission-statement" id="livestream_over" style="display: none;">
+  <h1>People Helping People</h1> 
+  <h1>FIND and FOLLOW Jesus</h1> 
+</div>
+
+<script>
+  var day = 0;     // Sunday
+  var hour = 9;    // 9am
+  var minute = 25; // + 25 minutes
+
+  // thank you Stack Overflow
+  Number.prototype.pad = function(size) {
+    var s = String(this);
+    while (s.length < (size || 2)) {s = "0" + s;}
+    return s;
+  }
+
+  // compute the target time
+  var target = new Date();
+  target.setHours(hour);
+  target.setMinutes(minute);
+
+  var tick = function() {
+    // get current date/time
+    var d = new Date();
+    if (d.getDay() === day) {
+      // it's the day for the countdown
+      if (d.getTime() >= target.getTime()) {
+        // it's time! hide the countdown and show the link
+        document.getElementById("livestream_countdown").style.display = "none";
+        document.getElementById("livestream_link").style.display = "block";
+      } else {
+        // compute remaining time in seconds
+        var diff = Math.ceil((target.getTime() - d.getTime()) / 1000);
+        var hours = Math.floor(diff / (60 * 60));
+        var minutes = Math.floor(diff / 60);
+        var seconds = diff % 60;
+        
+        document.getElementById("livestream_timer").innerText = 
+          hours.pad(2) + ":" + minutes.pad(2) + ":" + seconds.pad(2);
+        
+        // try again in 1s
+        window.setTimeout(tick, 1000);
+      }
+    } else {
+      // not the day for the countdown
+        document.getElementById("livestream_wrapper").style.display = "none";
+        document.getElementById("livestream_over").style.display = "block";
+    }
+  }
+
+  tick();
+</script>

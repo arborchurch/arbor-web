@@ -1,44 +1,20 @@
 .livestream {
+  border: 1px solid white;
+  font-family: $header-font;
+  color: white;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.2);
 
-  display: flex; 
-  align-items: center; 
-  justify-content: center;
-
-  .widget {
-    overflow: hidden;
-    height: 0;
-    padding-top: 58.33%;
-    position: relative;
-
-    iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-    }
+  background-
+  a {
+    color: white;
+    text-decoration: none;
   }
 
-  .shadowed {
-    box-shadow: 0px 0px 10px black; 
-    background-color: rgba(0, 0, 0, 0.5); 
-    position: relative; 
-    overflow: hidden; 
-    padding: 20px;
-  }
-
-  .announcement {
-     color: white; 
-     font-size: 20px; 
-     font-family: Montserrat; 
-     font-weight: 300; 
-     padding-top: 10px; 
-     text-align: center;
-
-     a {
-        color: white; 
-        font-weight: bold; 
-        font-size: 19px;
-     }
+  code {
+    color: white;
+    font-size: 22px;
+    font-weight: normal;
+    background: none;
   }
 }
