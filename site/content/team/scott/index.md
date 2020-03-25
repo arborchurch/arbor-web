@@ -2,7 +2,7 @@
 date: "2017-01-01"
 title: "Scott Hetherington"
 position: "Teaching"
-email: "hetheringtons@bsd405.org"
+email: "scott@youthaxiom.com"
 emailname: Scott
 weight: 80
 resources:
