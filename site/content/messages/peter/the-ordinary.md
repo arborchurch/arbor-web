@@ -7,6 +7,7 @@ type: message
 podcast: https://arborchurch.com/podcast/peter-the-ordinary.m4a
 podcast_bytes: 23887894
 podcast_duration: 32:33
+youtube_id: FH5WCBR29YA
 ---
 
 This week we start a new 10 week (yes, 10 week!) series on Peter. He was just an ordinary man who lived what was in most
