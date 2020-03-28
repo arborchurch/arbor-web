@@ -4,7 +4,7 @@
   </div>
   <div id="livestream_countdown">
      <div class="soon">
-        SERVICE BEGINS IN
+        STREAM BEGINS IN
      </div>
      <code class="countdown" id="livestream_timer">
 
@@ -18,9 +18,14 @@
 </div>
 
 <script>
+  // the time to count down to
   var day = 0;      // Sunday
   var hour = 9;     // 9am
   var minute = 30;  // + 30 minutes
+
+  // the time at which to show the link
+  var show_hour = 9;
+  var show_minute = 15;
 
   // thank you Stack Overflow
   Number.prototype.pad = function(size) {
@@ -35,12 +40,17 @@
   target.setMinutes(minute);
   target.setSeconds(0);
 
+  var show_target = new Date();
+  show_target.setHours(show_hour);
+  show_target.setMinutes(show_minute);
+  show_target.setSeconds(0);
+
   var tick = function() {
     // get current date/time
     var d = new Date();
     if (d.getDay() === day) {
       // it's the day for the countdown
-      if (d.getTime() >= target.getTime()) {
+      if (d.getTime() >= show_target.getTime()) {
         // it's time! hide the countdown and show the link
         document.getElementById("livestream_countdown").style.display = "none";
         document.getElementById("livestream_link").style.display = "block";
