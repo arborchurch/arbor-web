@@ -14,6 +14,6 @@ markup:
       unsafe: true
 params:
   livestream: 
-    enabled: false
-    youtube_id: 48ObHPZd63Q
+    enabled: true
+    youtube_id: TsjRKN44afs
 ---
