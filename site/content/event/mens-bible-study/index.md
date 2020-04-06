@@ -1,7 +1,7 @@
 ---
 date: "2020-02-03"
 title: "Men's Bible Study"
-where: "Restarting Wednesdays in May, 6am on Zoom"
+where: "Wednesdays in May, 6am on Zoom"
 resources:
 - name: header
   src: mens-bible-study.jpg
