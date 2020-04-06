@@ -5,7 +5,7 @@ resources:
 - name: header
   src: childrens.jpg
 - name: leader
-  src: anna.jpg
+  src: michael.jpg
 email: michael@arborchurch.com
 menu:
   main:
