@@ -6,7 +6,7 @@ resources:
   src: childrens.jpg
 - name: leader
   src: anna.jpg
-email: anna@arborchurch.com
+email: michael@arborchurch.com
 menu:
   main:
     parent: 'Connect'
