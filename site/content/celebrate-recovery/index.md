@@ -11,7 +11,6 @@ menu:
 ---
 logostyle: inverted
 ---
-
 <h2 class="tight-header">Monday Nights at 8pm via Zoom<h2 class="tight-header">
 
 ---
