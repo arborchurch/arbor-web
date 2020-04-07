@@ -8,7 +8,7 @@ resources:
 weight: 7
 ---
 
-Celebrate Recovery is a faith-based, 12 step program for those struggling with hurt, pain or addiction of any kind. It's a safe place to find community and freedom from the issues that are controlling our lives. Our hope is to provide the atmosphere of support and encouragement needed in recovery.  Come for a dinner at 6:15pm before large group starts at 7pm. After a time of music and teaching, we'll break into groups and wrap up by 9pm. Childcare is offered for those who need it. We'll see you Monday!
+Celebrate Recovery is staying connected via the ArborCR Facebook page.  Please friend us or follow us for devotions, lessons, and live worship. We also meet every Monday evening at 8pm via Zoom for open share groups... One meeting for men and one for women. Newly implemented guidelines from Celebrate Recovery will be followed to ensure a safe online sharing environment. 
 
 For more information, reach out to cr@arborchurch.com.
 
