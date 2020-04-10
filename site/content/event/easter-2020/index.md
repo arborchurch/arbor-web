@@ -1,7 +1,7 @@
 ---
 date: "2020-02-07"
 title: "Easter"
-where: "Sunday, April 12th at 9:30"
+where: "Sunday, April 12th at 9:30am"
 resources:
 - name: header
   src: easter.jpg
