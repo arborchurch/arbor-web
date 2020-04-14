@@ -2,6 +2,7 @@
 date: "2020-02-06"
 title: "Good Friday"
 where: "Friday, April 10th, 8pm"
+expirydate: "2020-04-11"
 resources:
 - name: header
   src: good-friday.jpg

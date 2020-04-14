@@ -2,6 +2,7 @@
 date: "2020-02-07"
 title: "Easter"
 where: "Sunday, April 12th at 9:30am"
+expirydate: "2020-04-13"
 resources:
 - name: header
   src: easter.jpg
