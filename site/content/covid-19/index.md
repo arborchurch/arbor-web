@@ -1,45 +1,37 @@
 ---
-date: "2020-03-27T12:07:46-08:00"
-title: "latest updates"
+date: "2020-04-18T12:07:46-08:00"
+title: "Latest Updates"
 resources:
 - name: header
   src: trees.jpg
-- name: senior-care
-  src: senior-care.jpg
-- name: daily-devotionals
-  src: daily-devotionals.jpg
-- name: easter
-  src: easter.jpg
+- name: groups
+  src: groups.jpg
+- name: food-bank
+  src: food-bank.jpg
+- name: youtube
+  src: youtube.jpg
 ---
 
-Hello Arbor Family,
+{{< img-full "groups" >}}
 
-We have been completely amazed by the outpouring of your generosity the past couple of weeks! Times have been hard, but
-you have rallied to provide for not just your church home, but to the neighbors surrounding it. Major needs have been
-met, such as providing supplemental food to the free/reduced lunch families at Woodin Elementary School. Because of the
-Stay At Home order, we are the sole supplier to their **FOOD BANK**. Each Thursday, carloads full of food, toiletries,
-paper goods, and diapers have gone directly from Arbor into the hands of needy families.
+You are missed, Arbor Family! Distancing is clearly not how the church is meant to live long term; we can't wait till we're together again. On the horizon is our next **GROUPS** trimester, however! Granted, we'll be on Zoom, but we'll still be able to grow in our faith and friendships. I think by this time of coronavirus we 100% agree those are two values to cultivate!
 
-{{< img-full "senior-care" >}}
+To join a group that begins in May, fill out the **GROUPFINDER CARD** [here](https://anachadwick.wufoo.com/forms/m12qoas913vw3et/). Social distancing doesn't have to mean isolation! Let's flex how we roll and make the best of our situation... let's be TOGETHER however we can!
+ 
+{{< img-full "food-bank" >}}
 
-Your financial donations are also directly supporting two local **SENIOR FACILITIES**, a demographic heavily impacted by this crisis. Boredom compounds the isolation and concern these residents have, so we are delivering "love in a box" to boost their morale. Puzzles, books, DVDs, and snacks are safely arriving to their doorstep, along with homemade cards from ArborKids. We know the facility staff works extra hard in such a season, so they are also receiving weekly baskets full of special foods and beverages.
+Our little **FOOD BANK** has been quite the source of surprise lately! It started as a supplemental stream of groceries to bolster Woodin Elementary's free and reduced lunch families... and then, due to your massive generosity, it has ballooned to a system that helps feed and support nearly 30 families from the school! Woodin's pantry is wiped out every week due to increased numbers in need.
 
-Staying at home is one way to benefit the community; donating financial resources is another. Click [ONLINE GIVING](https://arborchurch.churchcenteronline.com/giving?open-in-church-center-modal=true) to donate a one time gift or set up regular giving. Thank you, Arbor!
+What this means is that **EVERY WEEK** we need to generate the donations to sustain supplies. Every week, families use up the pasta you put in the bin. Every week, families eat up all their tuna. Every week, kids eat the last cookie in the box. You know this because you experience it yourself at home; the difference is we're often able to restock our own pantries. We have enough in the bank. But not everyone does.
 
-{{< img-full "daily-devotionals" >}}
+If you are able, we invite you to partner with us as we feed hungry families in our backyard. The bin is outside Arbor for donations during office hours, Monday through Thursday. All pantry staples are welcome; the most urgently needed are on the graphic above. Thank you for your **WEEKLY** generosity!
+ 
+{{< img-full "youtube" >}}
 
-We know you've been making a lot of changes in your daily life recently.... some that have added a bit of stress. The newsfeeds can be discouraging, and yet we need to turn online for the social nearness that we miss.
+We're getting our groove with these online services, aren't we? By the time we settle on the couch **Sundays at 9:30**, we're holding our favorite mug of coffee and our favorite slippers are on. We sing out loud with worship and laugh just as loudly at Jake's dad jokes. The one thing we could improve is quickly and easily finding where the service is broadcasting.
 
-Arbor wants to meet you in that space as a way to offer encouragement. Every morning at 8am, look for a DAILY DEVO on Arbor's [Facebook](https://www.facebook.com/arborchurchnw/) and [Instagram](https://www.instagram.com/arborchurchnw/) accounts. There you'll find some familiar faces... but even better, you'll find the kind of news that feeds your soul. 
+By **SUBSCRIBING** to our **[YouTube channel](https://www.youtube.com/channel/UCRe_QiHhuGwlIY43ECFopNQ)**, you will be able to find our livestream easily on the left sidebar of your YouTube homepage. You will be notified of Sunday's broadcast and be able to access it without struggle. Try it out this weekend!
 
-{{< img-full "easter" >}}
-
-Easter is just around the corner! Though we're planning to celebrate **ONLINE** with you, we're having fun creating special elements that will make the morning memorable.
-
-Plan to meet us at **9:30am on April 12th** from your favorite virtual worship venue - couch, kitchen table, or exercise bike! Easter bonnets optional.
-
-We'll see you 9:30am this Sunday as well! Find and follow us on [Facebook](https://www.facebook.com/arborchurchnw/) or [YouTube](https://www.youtube.com/channel/UCRe_QiHhuGwlIY43ECFopNQ) for front row seats.
-
-Praying wellness in all ways for you,
+Continuing to hold you up in prayer, family. Praying the joy of Easter has continued to fill your spirits with hope. God's grace is covering and carrying us until we're together again!
 
 The Arbor Team
