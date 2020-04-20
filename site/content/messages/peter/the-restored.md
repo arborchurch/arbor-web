@@ -9,4 +9,4 @@ podcast_bytes: 25824337
 podcast_duration: 34:29
 ---
 
-After Jesus' resurrection, John chapter 21 tells the story of Peter's restoration. How could the man who denied Jesus in his darkest hour possibly be restored to His side?
+After Jesus' resurrection, John chapter 21 tells the story of Peter's restoration. How could the man who denied Jesus in His darkest hour possibly be restored to His side?
