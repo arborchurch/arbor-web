@@ -20,7 +20,7 @@ menu:
   </a>
 </div>
 
-Groups have one simple purpose: TO BRING PEOPLE TOGETHER. We believe God designed us to live in relationship with others and only then can we live the full life He intends for us.
+Groups have one simple purpose: TO BRING PEOPLE TOGETHER. For some, social distancing can feel like isolation; so, we think connection is more important now than ever.  While the process to get and stay connected to a group is still the same, the platform has moved.  For the Spring trimester of Groups, we will be meeting online in our new virtual living rooms. Fill out a Group Finder Card today, and we will find a really great-fit group for you.  
 
 <br />
 
