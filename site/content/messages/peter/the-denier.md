@@ -7,6 +7,7 @@ type: message
 podcast: https://arborchurch.com/podcast/peter-the-denier.m4a
 podcast_bytes: 18467775
 podcast_duration: 24:43
+youtube_id: JJxpmgrQgJo
 ---
 
 In this special Good Friday message, we remember and reflect on a blood-stained cross, and enter the next chapter of Peter's story: the awful truth of the three times he denied Jesus.
