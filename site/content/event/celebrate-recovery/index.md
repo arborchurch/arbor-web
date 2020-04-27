@@ -1,7 +1,7 @@
 ---
 date: "2020-02-01"
 title: "Celebrate Recovery"
-where: "Monday Nights, 6:15-9pm at Arbor"
+where: "Monday Nights, 6:15-9pm on Zoom"
 resources:
 - name: header
   src: celebrate-recovery.jpg
