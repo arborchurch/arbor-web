@@ -1,6 +1,6 @@
 ---
 date: "2020-04-10T20:00:00-08:00"
-title: "Peter: The Denier"
+title: "Peter: The Failure"
 series: "peter"
 speaker: "Jake Goetze"
 type: message
