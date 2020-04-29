@@ -1,6 +1,6 @@
 ---
 date: "2020-04-12T09:30:00-08:00"
-title: "Peter: Resurrection"
+title: "Peter: The Forgiven"
 series: "peter"
 speaker: "Jake Goetze"
 type: message
