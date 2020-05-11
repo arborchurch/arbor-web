@@ -7,7 +7,7 @@ type: message
 podcast: https://arborchurch.com/podcast/peter-the-rock.m4a
 podcast_bytes: 21394908
 podcast_duration: 29:06
-youtube_id: MRCEmyVJRO4
+youtube_id: CaoHDilpHLc
 ---
 
 This week, we discuss what Jesus meant when he referred to Peter as *the Rock*, and Peter's answer to the most important
