@@ -7,7 +7,7 @@ type: message
 podcast: https://arborchurch.com/podcast/peter-the-dreamer.m4a
 podcast_bytes: 20091783
 podcast_duration: 27:06
-youtube_id: OytMydIAjCY
+youtube_id: WSVNLuWllXk
 ---
 
 Today, from Acts 10, Scott recounts the story of Peter's bizarre dream at Simon's house: a sheet full of animals is lowered from heaven, three times. What did it mean for Peter? ... And does it mean anything for us?
