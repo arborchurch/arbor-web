@@ -4,34 +4,34 @@ title: "LATEST UPDATES"
 resources:
 - name: header
   src: trees.jpg
-- name: groups
-  src: groups.jpg
+- name: family-meeting
+  src: family-meeting.jpg
 - name: food-bank
   src: food-bank.jpg
-- name: youtube
-  src: youtube.jpg
+- name: change
+  src: change.jpg
 ---
 
-{{< img-full "groups" >}}
+Arbor Family...
 
-You are missed, Arbor Family! Distancing is clearly not how the church is meant to live long term; we can't wait till we're together again. On the horizon is our next **GROUPS** trimester, however! Granted, we'll be on Zoom, but we'll still be able to grow in our faith and friendships. I think by this time of coronavirus we 100% agree those are two values to cultivate!
+It seems these "unprecedented days" are continuing to get even more uprecedented, aren't they? Underlying racial tensions across the country emerge amidst pandemic concerns; protests and violence have landed in our own backyard. Our attention is captured, our spirits convicted... we have a lot to learn about racial reconciliation.
 
-To join a group that begins in May, fill out the **GROUPFINDER CARD** [here](https://anachadwick.wufoo.com/forms/m12qoas913vw3et/). Social distancing doesn't have to mean isolation! Let's flex how we roll and make the best of our situation... let's be TOGETHER however we can!
+{{< img-full "change" >}}
+
+To that end, we are pivoting this Sunday to address the subject of racism. Scott Hetherington was already slated to speak in our BEGIN AGAIN series, but as the week's events unfolded, he scrapped his old sermon and began again. Only God could have presecheduled a pastor who serves on a diversity and equity committee to speak this week! Scott is well versed in the subject at hand, and it will be impactful for him to lead us in the conversation. 
+ 
+{{< img-full "family-meeting" >}}
+
+On JUNE 14th we're hosting a FAMILY MEETING to share some churchwide updates, among them our plans to reopen the building. It's been a long time since we've "met" together! Though it's just through a Zoom screen, we're excited to see your faces starting at 7pm. We can't wait to be current and talk about the work God is doing in and through Arbor.
+
+We'll send the Zoom link just prior to the meeting that night; simply reply to this email now to be included. 
  
 {{< img-full "food-bank" >}}
 
-Our little **FOOD BANK** has been quite the source of surprise lately! It started as a supplemental stream of groceries to bolster Woodin Elementary's free and reduced lunch families... and then, due to your massive generosity, it has ballooned to a system that helps feed and support nearly 30 families from the school! Woodin's pantry is wiped out every week due to increased numbers in need.
+We still marvel every week that God has placed our little church in the FOOD BANK business! We think Arbor is particularly suited to this pandemic-time ministry; we're small enough to be nimble, generous enough to be impactful. Every week we've consistently generated a sizable pantry for the 30 families at Woodin Elementary to draw from. Not only do we provide the basics, we've also been able to bless with homemade cloth masks, children's crafts, and Mother Day treats. 
 
-What this means is that **EVERY WEEK** we need to generate the donations to sustain supplies. Every week, families use up the pasta you put in the bin. Every week, families eat up all their tuna. Every week, kids eat the last cookie in the box. You know this because you experience it yourself at home; the difference is we're often able to restock our own pantries. We have enough in the bank. But not everyone does.
+Thank you for continuing to support this ongoing work! As you know, tummies are ever-hungry, and food insecurity is the #1 concern in our community at this time. As you grocery shop, throw something into your cart for the bank and drop it at Arbor 24/7! Your participation is hugely appreciated.
 
-If you are able, we invite you to partner with us as we feed hungry families in our backyard. The bin is outside Arbor for donations during office hours, Monday through Thursday. All pantry staples are welcome; the most urgently needed are on the graphic above. Thank you for your **WEEKLY** generosity!
- 
-{{< img-full "youtube" >}}
-
-We're getting our groove with these online services, aren't we? By the time we settle on the couch **Sundays at 9:30**, we're holding our favorite mug of coffee and our favorite slippers are on. We sing out loud with worship and laugh just as loudly at Jake's dad jokes. The one thing we could improve is quickly and easily finding where the service is broadcasting.
-
-By **SUBSCRIBING** to our **[YouTube channel](https://www.youtube.com/channel/UCRe_QiHhuGwlIY43ECFopNQ)**, you will be able to find our livestream easily on the left sidebar of your YouTube homepage. You will be notified of Sunday's broadcast and be able to access it without struggle. Try it out this weekend!
-
-Continuing to hold you up in prayer, family. Praying the joy of Easter has continued to fill your spirits with hope. God's grace is covering and carrying us until we're together again!
+Gratefully,
 
 The Arbor Team
