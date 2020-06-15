@@ -11,7 +11,7 @@ youtube_id: QTck3oZ_TZQ
 ---
 
 This is the story of the most famous verse of the Bible, John 3:16. It's the story of that verse in its proper context,
-a nighttime conversation with a certain Pharise, who had some questions about the kind of Beginning Again Jesus had been
+a nighttime conversation with a certain Pharisee, who had some questions about the kind of Beginning Again Jesus had been
 talking about. Jake takes 5 truths from Jesus' answers ... and one simple question.
 
 
