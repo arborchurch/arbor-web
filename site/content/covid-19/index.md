@@ -4,34 +4,38 @@ title: "LATEST UPDATES"
 resources:
 - name: header
   src: trees.jpg
-- name: family-meeting
-  src: family-meeting.jpg
-- name: food-bank
-  src: food-bank.jpg
-- name: change
-  src: change.jpg
+- name: arbor-adventures
+  src: arbor-adventures.jpg
+- name: tent-church
+  src: tent-church.jpg
+- name: students-service
+  src: students-service.jpg
 ---
 
 Arbor Family...
 
-It seems these "unprecedented days" are continuing to get even more uprecedented, aren't they? Underlying racial tensions across the country emerge amidst pandemic concerns; protests and violence have landed in our own backyard. Our attention is captured, our spirits convicted... we have a lot to learn about racial reconciliation.
+If you joined us for last week's FAMILY MEETING, you got a sneak peak on the plans to regather as a church family. God has provided a way for us to be together on Sunday mornings this summer... we are calling it TENT CHURCH!
 
-{{< img-full "change" >}}
+{{< img-full "tent-church" >}}
 
-To that end, we are pivoting this Sunday to address the subject of racism. Scott Hetherington was already slated to speak in our BEGIN AGAIN series, but as the week's events unfolded, he scrapped his old sermon and began again. Only God could have presecheduled a pastor who serves on a diversity and equity committee to speak this week! Scott is well versed in the subject at hand, and it will be impactful for him to lead us in the conversation. 
+We're creating a summer full of connection opportunities while adhering to health and safety guidelines, and Tent Church is the cornerstone. An Arbor family has generously lent their property to create our outdoor sanctuary, and we're working overtime to prepare a place for you. More details will be forthcoming, but mark your calendar for Sundays at 9:30am, beginning JULY 12th. We will be masked, we will be 6 feet apart... but we will be TOGETHER! For those who feel unready to gather, services will continue indefinitely online on both YouTube and Facebook. 
+
+If you missed the Family Meeting and would love the nitty gritty details about how we arrived at this solution, you can listen to the recording HERE. 
+
+{{< img-full "arbor-adventures" >}}
+
+As families know, kids are fairly impossible to social distance with, and mask rules are hard to keep. Thus, Children's Ministry won't resume for awhile on Sunday mornings; kiddos can either join their parents at Tent Church and or come along on ARBOR'S ADVENTURES FOR KIDS! 
+
+Each Sunday at noon you'll journey with ArborKids and their leaders, zooming through Genesis and Exodus. Games, crafts, worship and breakout sessions will be led in familiar places like the Orchard and Grove, helping kids make connections to their church home turf.
+
+The fun starts THIS SUNDAY, and can be found at this link: www.arborkidszoom. Questions? Email Michael here, or join the ArborKids Facebook group for all the breaking news. Can't wait to adventure with you!
  
-{{< img-full "family-meeting" >}}
+{{< img-full "students-service" >}}
 
-On JUNE 14th we're hosting a FAMILY MEETING to share some churchwide updates, among them our plans to reopen the building. It's been a long time since we've "met" together! Though it's just through a Zoom screen, we're excited to see your faces starting at 7pm. We can't wait to be current and talk about the work God is doing in and through Arbor.
+Arbor Students, we haven't forgotten about you! Starting NEXT THURSDAY and running through the summer, incoming 6th-12th graders are invited to OUTSIDE SERVICE at Mindy's house! The fun starts at 7pm, and parents can pick between 8:30-9pm.
 
-We'll send the Zoom link just prior to the meeting that night; simply reply to this email now to be included. 
- 
-{{< img-full "food-bank" >}}
+Directions are HERE and any questions can be emailed to Bryan. Yes, masks will be required, and yes, social distancing respected! We want to be good stewards of this opportunity to gather... something we're incredibly grateful for!
 
-We still marvel every week that God has placed our little church in the FOOD BANK business! We think Arbor is particularly suited to this pandemic-time ministry; we're small enough to be nimble, generous enough to be impactful. Every week we've consistently generated a sizable pantry for the 30 families at Woodin Elementary to draw from. Not only do we provide the basics, we've also been able to bless with homemade cloth masks, children's crafts, and Mother Day treats. 
-
-Thank you for continuing to support this ongoing work! As you know, tummies are ever-hungry, and food insecurity is the #1 concern in our community at this time. As you grocery shop, throw something into your cart for the bank and drop it at Arbor 24/7! Your participation is hugely appreciated.
-
-Gratefully,
+Looking forward to an amazing summer!
 
 The Arbor Team
