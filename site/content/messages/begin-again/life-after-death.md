@@ -7,7 +7,7 @@ type: message
 podcast: https://arborchurch.com/podcast/begin-again-life-after-death.m4a
 podcast_bytes: 28003050
 podcast_duration: 38:05
-youtube_id: QTck3oZ_TZQ
+youtube_id: bvhQO54MRk0
 ---
 
 This is the story of the most famous verse of the Bible, John 3:16. It's the story of that verse in its proper context,
