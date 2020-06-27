@@ -8,34 +8,55 @@ resources:
   src: arbor-adventures.jpg
 - name: tent-church
   src: tent-church.jpg
-- name: students-service
-  src: students-service.jpg
+- name: offline-sunday
+  src: offline-sunday.jpg
 ---
 
-Arbor Family...
-
-If you joined us for last week's FAMILY MEETING, you got a sneak peak on the plans to regather as a church family. God has provided a way for us to be together on Sunday mornings this summer... we are calling it TENT CHURCH!
+Arbor Family,
 
 {{< img-full "tent-church" >}}
 
-We're creating a summer full of connection opportunities while adhering to health and safety guidelines, and Tent Church is the cornerstone. An Arbor family has generously lent their property to create our outdoor sanctuary, and we're working overtime to prepare a place for you. More details will be forthcoming, but mark your calendar for Sundays at 9:30am, beginning JULY 12th. We will be masked, we will be 6 feet apart... but we will be TOGETHER! For those who feel unready to gather, services will continue indefinitely online on both YouTube and Facebook. 
+It's fun to see plans becoming reality for TENT CHURCH. The state guidelines have been studied, the tents are ordered,
+and soon the stage will be set for weekly gatherings starting JULY 12. For those who are ready to connect in person,
+these Sunday viewing services will meet the need! We have a seat for you, and even a mask if you forget yours, but
+definitely bring your own coffee. You'll love the outdoor sanctuary... the grassy yard is ringed with evergreen trees
+and there's even a campfire in the middle... it feels very "on brand" for Arbor! 
 
-If you missed the Family Meeting and would love the nitty gritty details about how we arrived at this solution, you can listen to the recording [HERE](https://www.youtube.com/watch?v=OMMjJyRiTJc&t=1462s). 
+Since many aren't feeling quite ready for this in-person experience, our online services will continue indefinitely! As
+much as we can, we want to be a both/and church in this season. Stream us on Facebook and YouTube from your own campfire
+for optimal results.
 
+If you are able to VOLUNTEER on Sunday mornings, we want you. Help with parking, greeting, and seating are the major
+needs.... email <info@arborchurch.com> to sign up!
+ 
 {{< img-full "arbor-adventures" >}}
 
-As families know, kids are fairly impossible to social distance with, and mask rules are hard to keep. Thus, Children's Ministry won't resume for awhile on Sunday mornings; kiddos can either join their parents at Tent Church and or come along on ARBOR'S ADVENTURES FOR KIDS! 
+Last weekend was our launch of ARBOR ADVENTURES for KIDS, and if you're a kid, we want you to invite you along. Every
+Sunday at noon, we're zooming through Genesis and Exodus, enjoying crafts, stories, and worship filmed inside the
+Orchard, Grove and Thicket! You'll see your favorite leaders there, and breakout rooms will be fun hangout times with
+your friends. 
 
-Each Sunday at noon you'll journey with ArborKids and their leaders, zooming through Genesis and Exodus. Games, crafts, worship and breakout sessions will be led in familiar places like the Orchard and Grove, helping kids make connections to their church home turf.
+Keeping kids connected to their faith community is important, which is why we created this space and time. Arbor
+Adventures will help your child bridge the distance until we're back together again. 
 
-The fun starts THIS SUNDAY, and can be found at this link: <https://tinyurl.com/arborkidszoom>. Questions? Email Michael, or join the [ArborKids Facebook group](https://www.facebook.com/groups/220241272570039/?post_id=262245965036236) for all the breaking news. Can't wait to adventure with you!
+Zoom at noon here: <https://tinyurl.com/arborkidszoom>. See you there!
  
-{{< img-full "students-service" >}}
+{{< img-full "offline-sunday" >}}
 
-Arbor Students, we haven't forgotten about you! Starting NEXT THURSDAY and running through the summer, incoming 6th-12th graders are invited to OUTSIDE SERVICE at Mindy's house! The fun starts at 7pm, and parents can pick between 8:30-9pm.
+They say this season is "unprecedented," and in keeping with that trend, we are going OFFLINE over the July 4th weekend.
+The staff is hitting the pause button with our families before we pivot into Tent Church, so there will be no service
+online. 
 
-[Directions are HERE](https://goo.gl/maps/ct3KnZRdEpqwbPpLA) and any questions can be emailed to Bryan. Yes, masks will be required, and yes, social distancing respected! We want to be good stewards of this opportunity to gather... something we're incredibly grateful for!
+Thank you for your understanding in this, Arbor! Ordinarily, our team staggers time off in the summer, but the current
+workflow doesn't permit that. We need to be ALL IN or ALL OUT for our current ministry framework, so it made sense to
+break over the holiday.
 
-Looking forward to an amazing summer!
+God seems to have wired us for seasons of rest, hasn't He? Our hope is that each of YOU also finds time soon for that
+and your soul would be refreshed. This summer seems we need it more than ever!
+
+See you Sunday,
 
 The Arbor Team
+
+
+
