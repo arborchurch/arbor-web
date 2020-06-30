@@ -7,7 +7,7 @@ type: message
 podcast: https://arborchurch.com/podcast/unity-unity.m4a
 podcast_bytes: 22363462
 podcast_duration: 30:56
-youtube_id: nZ_nvLNo2yI
+youtube_id: CKXJEmC7iGE
 ---
 
 Somehow, in the midst of a global pandemic, the church has -- instead of facing the challenge together -- become more
