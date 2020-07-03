@@ -35,7 +35,7 @@ Yes! Families of all shapes and sizes are welcome. We will have seating in place
 
 We thought you'd never ask :) Send an email to <kelly@willowandoaksolutions.com> and she'll give you the low-down on volunteer opportunities and plug you in.
 
-## WHY AREN’T WE MEETING INSIDE THE CHURCH?
+## WHY AREN'T WE MEETING INSIDE THE CHURCH?
 
 We've opted for outdoor services for a few reasons: First, by hosting Tent Church outside we can accomodate more people than if we were indoors. Secondly, by meeting outdoors, we obviously have better ventilation and reduce our exposure to high touch surfaces (like doorknobs and elevator buttons, for example)
 
@@ -59,7 +59,7 @@ Nope! We're trying to make attending church as easy and seamless as possible for
 
 Because we're committed to providing a great experience for our online viewers as well, we will continue to pre-record our messages, as well as the worship portion. We will show our messages, including the worship portion, at tent church on a large screen. Imagine a socially-distant, outdoor viewing party. 
 
-## WHAT’S THE BATHROOM AND HANDWASHING SITUATION?
+## WHAT'S THE BATHROOM AND HANDWASHING SITUATION?
 
 We will have two Honey Buckets onsite as well as a hand washing station with running water. We have taken measures to ensure our handwashing stations meet the criteria as stated in the requirements. 
 
