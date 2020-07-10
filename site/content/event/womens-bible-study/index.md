@@ -1,5 +1,6 @@
 ---
 date: "2020-02-04"
+expirydate: "2020-07-08"
 title: "Women's Bible Study"
 where: "Starting May on Zoom"
 resources:
