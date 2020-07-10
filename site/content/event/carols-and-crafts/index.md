@@ -1,16 +1,16 @@
 ---
-date: "2019-10-14"
-expirydate: "2019-12-08"
-title: "Carols & Crafts"
-where: "Tuesday, December 3rd from 6:30-7:30pm at St Josephs in Bellevue"
+date: "2020-07-09"
+expirydate: "2020-08-06"
+title: "Bonfires"
+where: "Starting Wednesday, July 15th at 7:00pm 19126 Washington 9 Snohomish, WA 98296"
 resources:
 - name: header
   src: carols-and-crafts.jpg
 weight: 10
 ---
  
-Carols & Crafts is a time to share the joy of Christmas with others. Having friends of all ages can lift the spirits of seniors, so infants, children, teens, and adults are invited to spend the evening with the Sisters of St Joseph. Crafts, caroling, and conversation will create a significant time as we step away from the rush of the season and seek to bless these nuns. 
+This summer we are so excited to be able to actually see you all again! As well as Tent Church every Sunday, we are going to be having Bonfires. This will be a time where we can talk around the fire, eat s'mores, and enjoy some much needed fellowship. We understand taking the whole family out during COVID can be challenging, so we are going to have Bonfires for guys and ladies on different dates. 
 
-Space allows for 20 cars on site, and 30 humans max. To sign up, email <info@arborchurch.com>. 
+We ask that everyone who attends wears a face mask and respects the safety of those around.
 
 
