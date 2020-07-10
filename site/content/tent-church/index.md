@@ -2,7 +2,7 @@
 date: "2020-07-02T12:00:00-08:00"
 resources:
 - name: header
-  src: tent-church.jpg
+  src: Tent Church.jpg
 ---
 <style>
   h2 {
