@@ -21,12 +21,14 @@ menu:
 &nbsp;
 
 ONLINE SERVICES
-The world has changed and so we're rolling with the punches. The biggest adjustment is Sunday mornings… they are now online! We welcome you to engage with what’s happening around Arbor from the comfort of your own living room. Join us on Facebook or on our  &nbsp; | &nbsp;
+
+The world has changed and so we're rolling with the punches. The biggest adjustment is Sunday mornings... they are now online! We welcome you to engage with what's happening around Arbor from the comfort of your own living room. Join us on Facebook or on our  &nbsp; | &nbsp;
   <a href="https://www.youtube.com/channel/UCRe_QiHhuGwlIY43ECFopNQ ">YOUTUBE CHANNEL</a>
 </h3> 
 
 IN-PERSON SERVICES
-This summer we’re finally gathering together again! We’re calling it Tent Church. We’ve taken all of the precautions to keep everyone safe and provide a way to connect face-to-face. We’ll take care of the hand sanitizer, but don’t forget to bring your face mask and your coffee from home. While children’s ministry remains online at noon, the whole family is welcome to attend service together. Looking forward to seeing you on Sunday!
+
+This summer we're finally gathering together again! We're calling it Tent Church. We've taken all of the precautions to keep everyone safe and provide a way to connect face-to-face. We'll take care of the hand sanitizer, but don't forget to bring your face mask and your coffee from home. While children's ministry remains online at noon, the whole family is welcome to attend service together. Looking forward to seeing you on Sunday!
 
 
 
