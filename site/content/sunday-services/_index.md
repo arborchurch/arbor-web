@@ -15,7 +15,6 @@ menu:
 <h3>
   SUNDAYS at 9:30am
   &nbsp; | &nbsp;
-  
   <a href="https://www.google.com/maps?ll=47.823842,-122.137331&z=16&t=m&hl=en-US&gl=US&mapclient=embed&q=19126+WA-9+Snohomish,+WA+98296">DIRECTIONS</a>
 </h3>
 
