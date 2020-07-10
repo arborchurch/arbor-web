@@ -1,5 +1,6 @@
 ---
 date: "2020-02-01"
+expirydate: "2020-07-08"
 title: "Celebrate Recovery"
 where: "Monday Nights, 6:15-9pm on Zoom"
 resources:
