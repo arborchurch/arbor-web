@@ -1,5 +1,6 @@
 ---
 date: "2020-02-02"
+expirydate: "2020-07-08"
 title: "Griefshare"
 where: "Wednesday Nights from 6:30-8:30pm on Zoom"
 resources:
