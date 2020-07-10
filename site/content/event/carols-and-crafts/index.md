@@ -5,7 +5,7 @@ title: "Bonfires"
 where: "Starting Wednesday, July 15th at 7:00pm 19126 Washington 9 Snohomish, WA 98296"
 resources:
 - name: header
-  src: Bonfires Event Page.jpg
+  src: Bonfires - Event Page.jpg
 weight: 10
 ---
  
