@@ -15,18 +15,16 @@ menu:
 <h3>
   SUNDAYS at 9:30am
   &nbsp; | &nbsp;
-  <a href="https://www.google.com/maps/place/19011+Woodinville+Snohomish+Rd,+Woodinville,+WA+98072/@47.7657651,-122.1576943,17z/data=!3m1!4b1!4m5!3m4!1s0x54900e9a33e7f0d3:0x2d8ffaf8fde7a709!8m2!3d47.7657651!4d-122.1555003">DIRECTIONS</a>
+  <a href="https://www.google.com/maps?ll=47.823842,-122.137331&z=16&t=m&hl=en-US&gl=US&mapclient=embed&q=19126+WA-9+Snohomish,+WA+98296">DIRECTIONS</a>
 </h3>
 
 &nbsp;
 
-Arbor is a place where people come as they are. You're welcome to wear whatever you want... just as long as it's flannel. The coffee is hot and not that bad for being free. The people are also friendly so someone will most likely say hello.
+ONLINE SERVICES
+The world has changed and so we’re rolling with the punches. The biggest adjustment is Sunday mornings… they are now online! We welcome you to engage with what’s happening around Arbor from the comfort of your own living room. Join us on Facebook or on our YouTube channel: https://www.youtube.com/channel/UCRe_QiHhuGwlIY43ECFopNQ 
 
-Our services typically run about an hour. There's a little bit of singing, a chance to connect, and a meaningful message centered around Jesus. You're welcome to participate in as much or as little as you like.
-
-Our kids do the same thing in their classrooms except for the added bonus of fishy crackers! If it's your first time visiting and you have kids, we suggest arriving 15 minutes early to check them in.  
-
-Looking forward to seeing you on Sunday!
+IN-PERSON SERVICES
+This summer we’re finally gathering together again! We’re calling it Tent Church. We’ve taken all of the precautions to keep everyone safe and provide a way to connect face-to-face. We’ll take care of the hand sanitizer, but don’t forget to bring your face mask and your coffee from home. While children’s ministry remains online at noon, the whole family is welcome to attend service together. Looking forward to seeing you on Sunday!
 
 
 
