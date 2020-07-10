@@ -23,6 +23,6 @@ Our summer program is called ARBOR ADVENTURES and at this time, we are taking an
 
 Join us on Zoom or enter our Zoom room number: 5095540648
 
-Parent’s: if you add your child’s name and age number before signing on, we can better place your kids with other kids that are friends or kids closer to their age!
+Parent's: if you add your child's name and age number before signing on, we can better place your kids with other kids that are friends or kids closer to their age!
 
 For example:
