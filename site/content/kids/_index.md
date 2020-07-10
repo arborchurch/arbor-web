@@ -21,7 +21,7 @@ To continue connecting with kids in this season of Covid-19, we are now meeting 
 
 Our summer program is called ARBOR ADVENTURES and at this time, we are taking an adventure through Genesis and Exodus where we learn about God, join into exciting worship together, and have a bunch of fun connecting through online games, challenges and sharing!
 
-Join us on <a href="https://us02web.zoom.us/j/5095540648">Zoom</a>. or enter our Zoom room number: 5095540648
+Join us on <a href="https://us02web.zoom.us/j/5095540648">Zoom</a> or enter our Zoom room number: 5095540648
 
 Parent's: if you add your child's name and age number before signing on, we can better place your kids with other kids that are friends or kids closer to their age!
 
