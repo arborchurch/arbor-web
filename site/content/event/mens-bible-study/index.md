@@ -1,5 +1,6 @@
 ---
 date: "2020-02-03"
+expirydate: "2020-07-08"
 title: "Men's Bible Study"
 where: "Wednesdays in May, 6am on Zoom"
 resources:
