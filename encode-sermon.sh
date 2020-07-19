@@ -13,8 +13,14 @@ ffmpeg -i "$3" \
        -movflags +faststart \
        "$4"
 
-# emit useful information
-stat "$4"
+# calculate duration and file size for metadata
+DURATION=$(ffprobe -i "$3" -show_entries format=duration -v quiet -of csv="p=0" -sexagesimal | sed -e 's/\..*//')
+BYTES=$(stat -c "%s" "$4")
+
+echo "---"
+echo "podcast_bytes: $BYTES"
+echo "podcast_duration: $DURATION"
+echo "---"
 
 # upload encoded version to web host
 scp "$4" arborchurch@arborchurch.com:arborchurch.com/podcast
