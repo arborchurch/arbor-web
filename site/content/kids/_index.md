@@ -15,6 +15,7 @@ menu:
 
 <h2 class="tight-header">Sunday Mornings</h2> at noon.
 
+
 Arbor Kids is purposely designed to HELP FAMILIES RAISE DISCIPLES. We do this by providing environments where kids have the freedom to be themselves, connect with others, and learn about Jesus. Adult leaders are the heart and soul of how this happens... through relational ministry. They SHOW UP consistently, SHOW CARE relationally, and SHARE GOD'S STORY intentionally. We work hard to create a place where kids feel cared for and where parents know they're safe.
 
 To continue connecting with kids in this season of Covid-19, we are now meeting online through ZOOM. Meeting online allows us to once again safely SHOW UP consistently, SHOW CARE relationally, and SHARE GOD'S STORY intentionally.
