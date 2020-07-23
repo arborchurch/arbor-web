@@ -14,7 +14,8 @@ menu:
 
 <h2 class="tight-header">Thursday Nights</h2> from 7-9pm.
 
-At Arbor WE LOVE STUDENTS! We are determined to provide a place for teenagers to connect with God, other students, and older committed leaders who are dedicated to seeing them grow closer to Christ. It's a safe place to learn about Jesus, make some life-long friends, and of course, have fun.
+
+WE LOVE STUDENTS! We are determined to provide a place for teenagers to connect with God, other students, and older committed leaders who are dedicated to seeing them grow closer to Christ. It's a safe place to learn about Jesus, make some life-long friends, and of course, have fun.
 
 Every Thursday at 7pm this summer, middle school and high school students combine for crazy games and an interactive message about Jesus at a location outside. We have outside games and a fire pit to roast s'mores. Students can bring their own lawn chairs to sit comfortably and show off the best ones! There is plenty of space outside for everyone to invite their friends so they can have outside safely!
 
