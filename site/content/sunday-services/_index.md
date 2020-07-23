@@ -18,11 +18,11 @@ menu:
   <a href="https://www.google.com/maps?ll=47.823842,-122.137331&z=16&t=m&hl=en-US&gl=US&mapclient=embed&q=19126+WA-9+Snohomish,+WA+98296">TENT CHURCH DIRECTIONS</a>
 </h3>
 
-</h3>
+<br>
 </h3>
 ONLINE SERVICES
 </h3>
-</h3>
+<br>
 
 
 
@@ -30,11 +30,11 @@ The world has changed and so we're rolling with the punches. The biggest adjustm
   <a href="https://www.youtube.com/channel/UCRe_QiHhuGwlIY43ECFopNQ ">YouTube channel</a>.
 
 
-</h3>
+<br>
 </h3>
 IN-PERSON SERVICES
 </h3>
-</h3>
+<br>
 
 
 This summer we're finally gathering together again! We're calling it Tent Church. We've taken all of the precautions to keep everyone safe and provide a way to connect face-to-face. We'll take care of the hand sanitizer, but don't forget to bring your face mask and your coffee from home. While children's ministry remains online at noon, the whole family is welcome to attend service together. Looking forward to seeing you on Sunday!
