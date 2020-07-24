@@ -4,8 +4,8 @@ title: Greeting
 resources:
 - name: photo
   src: greeting.jpg
-weight: 10
+weight: 40
 ---
 
-You'll be GREETED by friendly people who are excited to see you!
+There's room to spread out and safely enjoy the morning! We'd love to have you join us this Sunday. 
 

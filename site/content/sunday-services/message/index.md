@@ -7,5 +7,5 @@ resources:
 weight: 30
 ---
 
-You'll hear a MESSAGE that's encouraging, relevant to your life, and in terms that make sense.
+Live teaching adds impact to our faith experience.
 

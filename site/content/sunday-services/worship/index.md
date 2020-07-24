@@ -7,5 +7,5 @@ resources:
 weight: 20
 ---
 
-We'll sing a few SONGS to kick-off the service. 
+We also deeply appreciate the privilege of worshiping together!
 

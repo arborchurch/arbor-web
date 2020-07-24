@@ -4,8 +4,8 @@ title: Kids
 resources:
 - name: photo
   src: kids.jpg
-weight: 40
+weight: 10
 ---
 
-Age appropriate CLASSES are offered for birth through 5th grade with volunteers who really care. 
+We didn't realize how much we missed seeing people in real life.
 
