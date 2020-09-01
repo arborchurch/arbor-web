@@ -7,7 +7,7 @@ type: message
 podcast: https://arborchurch.com/podcast/worship-in-heaven.m4a
 podcast_bytes: 24390510
 podcast_duration: 32:43
-youtube_id: 4lk6WEKLuy8
+youtube_id: 9bKQFPtzssQ
 ---
 
 Alison Acone makes her debut with a message about what worship is like in Heaven.
