@@ -7,7 +7,7 @@ type: message
 podcast: https://arborchurch.com/podcast/worship-why-are-you-here.m4a
 podcast_bytes: 19636304
 podcast_duration: 26:10
-youtube_id: XZOs4y0pjoM
+youtube_id: wGd7fd1IGiQ
 ---
 
 Scott Hetherington takes us through two different accounts of the story of Jesus' cleansing of the Temple, where He overturned tables and fulfilled prophecy. What would the Temple be today?
