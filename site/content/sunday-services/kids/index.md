@@ -7,5 +7,5 @@ resources:
 weight: 10
 ---
 
-We didn't realize how much we missed seeing people in real life.
+This summer's Tent Church was a breath of fresh air.
 
