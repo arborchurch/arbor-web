@@ -6,7 +6,7 @@ resources:
   src: volunteer.jpg
 menu:
   main:
-    parent: 'Connect'
+    parent: 'Getting Involved'
     weight: 60
 ---
 

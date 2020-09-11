@@ -1,6 +1,6 @@
 ---
 date: "2017-01-01"
-title: "The Team"
+title: "Meet the Team"
 resources:
 - name: header
   src: team.jpg

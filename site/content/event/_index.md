@@ -6,6 +6,6 @@ resources:
   src: events.jpg
 menu:
   main:
-    parent: 'Connect'
+    parent: 'Getting Involved'
     weight: 50
 ---

@@ -8,7 +8,7 @@ weight: 10
 type: page
 menu:
   main:
-    parent: 'Connect'
+    parent: 'Getting Involved'
     weight: 10
 ---
 

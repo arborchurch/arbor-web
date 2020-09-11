@@ -8,7 +8,7 @@ resources:
   src: bryan.jpg
 menu:
   main:
-    parent: 'Connect'
+    parent: 'Getting Involved'
     weight: 30
 ---
 
