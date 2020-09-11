@@ -6,6 +6,5 @@ resources:
   src: greeting.jpg
 weight: 40
 ---
-
-There's room to spread out and safely enjoy the morning! We'd love to have you join us this Sunday. 
+We will never forget the blessing of Tent Church this past summer! Can't wait to be together again some day. 
 
