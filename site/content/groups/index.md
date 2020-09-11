@@ -20,7 +20,7 @@ menu:
   </a>
 </div>
 
-Groups have one simple purpose: TO BRING PEOPLE TOGETHER. For some, social distancing can feel like isolation; so, we think connection is more important now than ever. While the process to get and stay connected to a group is still the same, the platform has moved. For the Spring trimester of Groups, we will be meeting online in our new virtual living rooms. Fill out a Group Finder Card today, and we will find a really great-fit group for you.
+Groups have one simple purpose: TO BRING PEOPLE TOGETHER. For some, social distancing can feel like isolation; so, we think connection is more important now than ever. While the process to get and stay connected to a group is still the same, the platforms have shifted. For the fall trimester of Groups, we will be meeting both IN PERSON and ONLINE. Arbor is opening its doors for groups ready to meet on campus, and some will offer a Zoom component for those at home. Additionally, online groups will meet in virtual living rooms, offering participation beyond our zip code. Fill out a Group Finder Card today, and we will find a really great-fit group for you.
 
 <br />
 
@@ -32,7 +32,7 @@ Not all groups look alike, but their intention is the same, which is to BELONG, 
 
 ## GROUP RHYTHMS
 
-Groups meet in 9-week chunks called trimesters. When you join a group, you're committing to that particular trimester with the option to re-up as many times as you choose. The 3-week breaks in-between trimesters give new members a chance to join and leaders time to catch their breath.
+Groups meet in 6-week chunks called trimesters. When you join a group, you're committing to that particular trimester with the option to re-up as many times as you choose. The breaks in-between trimesters give new members a chance to join and leaders time to catch their breath.
 
 <br />
 
