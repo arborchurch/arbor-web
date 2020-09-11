@@ -7,5 +7,5 @@ resources:
 weight: 20
 ---
 
-We also deeply appreciate the privilege of worshiping together!
+We deeply appreciated the privilege of worshiping together!
 
