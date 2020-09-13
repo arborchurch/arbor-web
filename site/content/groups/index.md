@@ -8,7 +8,7 @@ weight: 10
 type: page
 menu:
   main:
-    parent: 'Getting Involved'
+    parent: 'Get Involved'
     weight: 10
 ---
 

@@ -9,7 +9,7 @@ resources:
 email: michael@arborchurch.com
 menu:
   main:
-    parent: 'Getting Involved'
+    parent: 'Get Involved'
     weight: 20
 ---
 
