@@ -1,60 +1,49 @@
 ---
 date: "2020-04-18T12:07:46-08:00"
-title: "LATEST UPDATES"
+title: "Arbor News"
 resources:
 - name: header
   src: trees.jpg
-- name: arbor-adventures
-  src: arbor-adventures.jpg
-- name: tent-church
-  src: tent-church.jpg
-- name: offline-sunday
-  src: offline-sunday.jpg
+- name: color-war
+  src: color-war.jpg
+- name: groups
+  src: groups.jpg
+- name: food-bank
+  src: food-bank.jpg
 ---
 
-Arbor Family,
 
-{{< img-full "tent-church" >}}
+Summer of 2020 ended with a bang for **ARBOR STUDENTS** last week at their outdoor COLOR WAR, celebrating their last week at the Tent Church location. The fun isn't over for Arbor's  6th-12th graders, though... they are just moving youth group inside for the school year.
 
-It's fun to see plans becoming reality for TENT CHURCH. The state guidelines have been studied, the tents are ordered,
-and soon the stage will be set for weekly gatherings starting JULY 12. For those who are ready to connect in person,
-these Sunday viewing services will meet the need! We have a seat for you, and even a mask if you forget yours, but
-definitely bring your own coffee. You'll love the outdoor sanctuary... the grassy yard is ringed with evergreen trees
-and there's even a campfire in the middle... it feels very "on brand" for Arbor! 
+{{< img-full "color-war" >}}
 
-Since many aren't feeling quite ready for this in-person experience, our online services will continue indefinitely! As
-much as we can, we want to be a both/and church in this season. Stream us on Facebook and YouTube from your own campfire
-for optimal results.
+[Bryan Cobley](mailto:bryan@arborchurch.com) and his team have worked hard to create a safe space for students to connect and grow in their faith every **Thursday at 7pm**. As you might imagine, quarantine is particularly strenuous for teens and preteens! Arbor is thrilled to be able to provide relational ministry in person to this age group just when they need it most.
 
-If you are able to VOLUNTEER on Sunday mornings, we want you. Help with parking, greeting, and seating are the major
-needs.... email <info@arborchurch.com> to sign up!
+For more information on how you can encourage the teens and preteens in your life to come out on Thursday nights, [email Bryan](mailto:bryan@arborchurch.com). 
+
+{{< img-full "groups" >}}
+
+Students aren't the only ones invited to connect and grow in their faith this fall. **GROUPS** are beginning the first week of October, and this is a perfect time to sign up. 
+
+Arbor is designing safe and comfortable **FAMILY ROOMS** where we can gather for the longed-for fellowship we've been missing. Respect will be given to distance, mask, and cleaning guidelines; if you are ready to join others indoors, we are ready as well.
+
+Not everyone is able to be together in person, so we are also offering **ONLINE GROUPS**. This is exciting news, since this will allow others outside our zip code to easily participate! These online groups will provide connection for those who have moved out of the area, those who have found us via service streaming, or those who need to limit risk exposures.
+
+We love being a both/and kind of church when we can. Groups in person AND groups online.. there is truly something for everyone! **Sign up today** by [clicking here](https://anachadwick.wufoo.com/forms/m12qoas913vw3et/). 
  
-{{< img-full "arbor-adventures" >}}
+{{< img-full "food-bank" >}}
 
-Last weekend was our launch of ARBOR ADVENTURES for KIDS, and if you're a kid, we want you to invite you along. Every
-Sunday at noon, we're zooming through Genesis and Exodus, enjoying crafts, stories, and worship filmed inside the
-Orchard, Grove and Thicket! You'll see your favorite leaders there, and breakout rooms will be fun hangout times with
-your friends. 
+The Seattle Times [reported just this morning](https://www.seattletimes.com/seattle-news/food-insecurity-crisis-in-washington-likely-to-get-worse-as-covid-19-pandemic-drags-on-officials-say/) that "food insecurity around the state is at historically high levels," and expected to worsen as the pandemic continues. Our FOOD BANK isn't flashy or glamorous, but we appreciate having a practical, tangible, and ongoing way to love our neighbor.
 
-Keeping kids connected to their faith community is important, which is why we created this space and time. Arbor
-Adventures will help your child bridge the distance until we're back together again. 
+In fact, just this week we are adding grocery support to the **NORTHSHORE SENIOR CENTER** in addition to **WOODIN ELEMENTARY**. The coordinator at NSC says on each distribution day there is a line of seniors stretching into the parking lot, each waiting their turn for juice, chicken noodle soup, and jam. We can't say no to them, can we?
 
-Zoom at noon here: <https://tinyurl.com/arborkidszoom>. See you there!
- 
-{{< img-full "offline-sunday" >}}
+**Your faithful support matters**. It may not seem like much to put groceries in the back bin, but truly your contribution adds up and feeds babies, children, parents... and now *seniors*. What a privilege we have to provide for them.
 
-They say this season is "unprecedented," and in keeping with that trend, we are going OFFLINE over the July 4th weekend.
-The staff is hitting the pause button with our families before we pivot into Tent Church, so there will be no service
-online. 
+If you'd like to support this effort on a greater level - such as being on our distribution, collection, or organization level - [email Alison](alison@arborchurch.com) for details. Thank you in advance for partnering with us as we serve our Arbor neighborhood.
 
-Thank you for your understanding in this, Arbor! Ordinarily, our team staggers time off in the summer, but the current
-workflow doesn't permit that. We need to be ALL IN or ALL OUT for our current ministry framework, so it made sense to
-break over the holiday.
+"See you" Sunday on [Facebook](https://www.facebook.com/arborchurchnw) and [Youtube](https://www.youtube.com/channel/UCRe_QiHhuGwlIY43ECFopNQ/featured)! Service begins at 9:30 but is viewable at any point after that if you accidentally sleep in.
 
-God seems to have wired us for seasons of rest, hasn't He? Our hope is that each of YOU also finds time soon for that
-and your soul would be refreshed. This summer seems we need it more than ever!
-
-See you Sunday,
+Go Hawks! 
 
 The Arbor Team
 
