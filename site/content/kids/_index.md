@@ -16,7 +16,7 @@ menu:
 <h2 class="tight-header">Sunday Mornings</h2> at noon.
 <br>
 <br>
-<br>
+
 Welcome to ARBOR KIDS ONLINE where we learn about God, engage in exciting worship together, and have a bunch of fun connecting through online games, challenges and sharing!
 
 
