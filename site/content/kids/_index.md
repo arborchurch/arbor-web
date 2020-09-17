@@ -17,7 +17,6 @@ menu:
 <br>
 <br>
 <br>
-
 Welcome to ARBOR KIDS ONLINE where we learn about God, engage in exciting worship together, and have a bunch of fun connecting through online games, challenges and sharing!
 
 Arbor Kids is purposely designed to HELP FAMILIES RAISE DISCIPLES by providing safe environments where kids have the freedom to be themselves, connect with others, and learn about Jesus. Adult leaders and parents are the heart and soul of how this happens... through relational ministry. They SHOW UP consistently, SHOW CARE relationally, and SHARE GOD'S STORY intentionally.
