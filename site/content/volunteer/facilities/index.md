@@ -1,8 +1,7 @@
 ---
 date: "2017-01-01"
 title: "Facilities"
-leader: "Jerrod"
-email: "jerrod.strid@gmail.com"
+
 weight: 40
 resources:
 - name: header
