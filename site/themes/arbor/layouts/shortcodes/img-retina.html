@@ -1,0 +1,8 @@
+{{ $img2x := $.Page.Resources.GetMatch (.Get 0) }}
+
+{{ $img1x := $img2x.Resize (print (div $img2x.Width 2) "x") }}
+
+<img srcset="{{ $img1x.RelPermalink }}, {{ $img2x.RelPermalink }} 2x" 
+   src="{{ $img2x.RelPermalink }}" 
+   width="{{ (div $img2x.Width 2) }}"
+   alt="{{ $img2x.Title }}"/>
