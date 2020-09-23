@@ -6,13 +6,16 @@ weight: 20
 blockColor: "#909090"
 tagline: "Gathering together in Groups"
 image: "block-connect.jpg"
+resources:
+- name: groups
+  src: groups.png
+- name: volunteer
+  src: volunteer.png
 ---
 
 <div class="page-buttons">
-  <a href="groups/">Groups</a>
+  <a href="groups/">{{< img-retina "groups" >}}</a>
   <img class="separator" src="img/nav-separator.png" />
-  <a href="event/">Events</a>
-  <img class="separator" src="img/nav-separator.png" />
-  <a href="volunteer/">Volunteer</a>
+  <a href="volunteer/">{{< img-retina "volunteer" >}}</a>
 </div>
 

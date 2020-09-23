@@ -5,9 +5,12 @@ weight: 25
 blockColor: "#307015"
 tagline: "Growing together on Sundays"
 image: "block-messages.jpg"
+resources:
+- name: watch
+  src: watch.png
 ---
 
 <div class="page-buttons">
-  <a href="messages/">Watch</a>
+  <a href="messages/">{{< img-retina "watch" >}}</a>
 </div>
 
