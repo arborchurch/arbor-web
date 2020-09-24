@@ -13,7 +13,7 @@ menu:
     weight: 20
 ---
 
-<h2 class="tight-header">Sunday Mornings</h2> at noon.
+<h2 class="tight-header">Sunday Mornings</h2> at 8:50am.
 <br>
 <br>
 
