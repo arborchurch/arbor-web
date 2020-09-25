@@ -43,14 +43,22 @@ a:hover {
 }
 
 .splash {
-  background-color: #515151;
-  background-image: url(../img/arbor-mast.jpg);
-  background-repeat: no-repeat;
-  background-position: center 0px;
-  background-size: cover;
-  margin: 0px;
-  padding: 0px;
+  width: 100%;
   height: 100vh;
+  overflow: hidden;
+  z-index: 1;
+  position: relative;
+}
+
+.splash video {
+  width: auto; 
+  height: auto; 
+  min-width: 100%; 
+  min-height: 100%; 
+  position: absolute; 
+  top: 50%; 
+  left: 50%; 
+  transform: translate(-50%, -50%);
 }
 
 .home-logo, .menu-logo {
@@ -503,6 +511,14 @@ ul.footer-menu li {
 
 .soap-header {
   margin-bottom: 0;
+}
+
+.church-online {
+  position: absolute;
+  z-index: 10;
+  top: 80vh;
+  text-align: center;
+  width: 100%;
 }
 
 @import 'events';

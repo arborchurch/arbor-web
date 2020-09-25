@@ -8,6 +8,10 @@ ul.menu li {
   padding-left: 0px;
 }
 
+.home-logo, #nav-menu {
+  z-index: 50;
+}
+
 ul.menu ul {
   padding-top: 20px;
   padding-bottom: 0px;
