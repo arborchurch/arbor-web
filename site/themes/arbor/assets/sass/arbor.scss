@@ -196,10 +196,7 @@ a:hover {
   color: white;
   text-transform: uppercase;
   letter-spacing: 0.15em;
-  border-top: 1px solid white;
-  border-bottom: 1px solid white;
-  border-right: 1px solid white;
-  border-left: 1px solid white;
+  border: none;
   font-family: $header-font;
   font-weight: 200;
   display: inline-block;

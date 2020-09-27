@@ -4,8 +4,8 @@ title: "Arbor News"
 resources:
 - name: header
   src: trees.jpg
-- name: color-war
-  src: color-war.jpg
+- name: kid-adventure
+  src: thumbnail_Arbor Kids Online.jpg
 - name: groups
   src: groups.jpg
 - name: food-bank
@@ -15,7 +15,7 @@ resources:
 
 Summer of 2020 ended with a bang for **ARBOR STUDENTS** last week at their outdoor COLOR WAR, celebrating their last week at the Tent Church location. The fun isn't over for Arbor's  6th-12th graders, though... they are just moving youth group inside for the school year.
 
-{{< img-full "color-war" >}}
+{{< img-full "thumbnail_Arbor Kids Online.jpg" >}}
 
 [Bryan Cobley](mailto:bryan@arborchurch.com) and his team have worked hard to create a safe space for students to connect and grow in their faith every **Thursday at 7pm**. As you might imagine, quarantine is particularly strenuous for teens and preteens! Arbor is thrilled to be able to provide relational ministry in person to this age group just when they need it most.
 
