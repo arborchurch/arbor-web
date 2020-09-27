@@ -17,12 +17,11 @@ resources:
 
 In our last survey, we polled parents about best times for ArborKids Online to air. Overwhelmingly, we heard a need for kids to have their program running while their grownups were engaging in their own service.... therefore, 8:50am is now go-time! This will allow parents to help their children online and settled, brew a cup of coffee, and then begin streaming their own worship service at 9:30.
 
-Kids can meet with their leaders on Zoom to learn about God, engage in exciting worship together, and have a bunch of fun connecting through online games, challenges and sharing! ** Join us on Zoom (https://zoom.us/join)
+Kids can meet with their leaders on Zoom to learn about God, engage in exciting worship together, and have a bunch of fun connecting through online games, challenges and sharing! Join us on Zoom (https://zoom.us/join)
 by entering our Zoom room number: 5095540648.
 
 Parents, if you add your child’s name and age number before signing on, we can better place your kids with other kids that are friends or kids closer to their age! We'll see you at 8:50am this Sunday!
  
-
 {{< img-full "groups" >}}
 
 Just a reminder this is the LAST WEEK to sign up for a Group! There seems to be something for almost everyone, with options to meet both on campus and via zoom. This season of connection will run October to Thanksgiving... the perfect timing to reconnect with your church family!
