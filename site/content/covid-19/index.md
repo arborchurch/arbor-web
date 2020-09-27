@@ -26,7 +26,7 @@ Parents, if you add your child's name and age number before signing on, we can b
 
 Just a reminder this is the LAST WEEK to sign up for a Group! There seems to be something for almost everyone, with options to meet both on campus and via zoom. This season of connection will run October to Thanksgiving... the perfect timing to reconnect with your church family!
 
-Bible studies, DivorceCare, GriefShare, recovery support... groups for couples or families, groups for men, for women... for men and women! Engaging relationally with your faith community builds hope, encouragement, and a greater sense of God's presence, all of which are deeply needed in 2020. Explore your best option by clicking here (https://anachadwick.wufoo.com/forms/m12qoas913vw3et/)  
+Bible studies, DivorceCare, GriefShare, recovery support... groups for couples or families, groups for men, for women... for men and women! Engaging relationally with your faith community builds hope, encouragement, and a greater sense of God's presence, all of which are deeply needed in 2020. Explore your best option by clicking here: (https://anachadwick.wufoo.com/forms/m12qoas913vw3et/)  
  
 {{< img-full "food-bank" >}}
 
