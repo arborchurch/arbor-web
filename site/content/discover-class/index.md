@@ -14,7 +14,7 @@ menu:
 
 ## OVERVIEW
 
-Discover Class is a journey we take with you to explore the backroads of our church.  This class is designed to be an exploration of who we are, where we’ve been and where we hope to go.  
+Discover Class is a journey we take with you to explore the backroads of our church.  This class is designed to be an exploration of who we are, where we've been and where we hope to go.  
 
 Many churches have "membership," but we have our own take on that.  The Discover Class is your passport to knowing ALL THINGS ARBOR: our history, our beliefs and our goals.  It's also the trail head for connection and how to get started around here.  
 
