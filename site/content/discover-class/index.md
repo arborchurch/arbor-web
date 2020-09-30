@@ -1,5 +1,5 @@
 ---
-date: "2020-09-29T22:07:46-08:00"
+date: "2020-09-28T22:07:46-08:00"
 title: "Discover Class"
 resources:
 - name: header

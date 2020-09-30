@@ -7,15 +7,19 @@ blockColor: "#909090"
 tagline: "Gathering together in Groups"
 image: "block-connect.jpg"
 resources:
+- name: discover-class
+  src: button-discover-class.png
 - name: groups
   src: groups.png
-- name: volunteer
-  src: volunteer.png
+- name: daily-posts
+  src: button-daily-posts.png
 ---
 
 <div class="page-buttons">
+  <a href="discover-class/">{{< img-retina "discover-class" >}}</a>
+  <img class="separator" src="img/nav-separator.png" />
   <a href="groups/">{{< img-retina "groups" >}}</a>
   <img class="separator" src="img/nav-separator.png" />
-  <a href="volunteer/">{{< img-retina "volunteer" >}}</a>
+  <a href="https://www.youtube.com/channel/UCRe_QiHhuGwlIY43ECFopNQ">{{< img-retina "daily-posts" >}}</a>
 </div>
 
