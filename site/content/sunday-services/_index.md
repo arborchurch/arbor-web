@@ -13,8 +13,8 @@ menu:
 ---
 
 <h3>
-  SUNDAYS at 9:30am
-  &nbsp; | &nbsp;
+  SUNDAYS at 9 and 11am
+  &nbsp;  &nbsp;
   
 
 <br>
