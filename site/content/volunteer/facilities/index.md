@@ -8,5 +8,5 @@ resources:
   src: facilities.jpg
 ---
 
-From prepping for Sunday services to tidying up after, this is the team that creates a clean, warm and welcoming environment for us to gather and worship together. As projects come up, both simple repairs and larger scale jobs, we contribute our time and talent to get the work done.
+Arbor's beautiful home hosts many ministries throughout the week in addition to Sundays. The Facilities Team maintains a clean, functional, and welcoming environment for us to gather in. As projects arise, both simple repairs and larger scale jobs, we contribute our time and talent to get the work done.
 
