@@ -7,5 +7,5 @@ resources:
 weight: 20
 ---
 
-Sharing Sundays with friends can still happen!
+
 
