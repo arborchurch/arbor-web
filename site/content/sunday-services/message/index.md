@@ -7,5 +7,5 @@ resources:
 weight: 30
 ---
 
-Live teaching added impact to our faith experience.
+
 
