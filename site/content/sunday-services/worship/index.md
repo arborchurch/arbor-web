@@ -7,5 +7,5 @@ resources:
 weight: 20
 ---
 
-We deeply appreciated the privilege of worshiping together!
+Sharing Sundays with friends can still happen!
 
