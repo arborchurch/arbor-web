@@ -3,7 +3,7 @@ date: "2019-04-01"
 title: Worship
 resources:
 - name: photo
-  src: worship.jpg
+  src: service-TopRight.jpg
 weight: 20
 ---
 
