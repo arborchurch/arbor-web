@@ -7,5 +7,5 @@ resources:
 weight: 10
 ---
 
-This summer's Tent Church was a breath of fresh air.
+
 
