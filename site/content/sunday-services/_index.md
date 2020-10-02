@@ -19,14 +19,15 @@ menu:
 
 <br>
 </h3>
-ONLINE SERVICES
+
 </h3>
 <br>
 
 
 
-The world has changed and so we're rolling with the punches. The biggest adjustment is Sunday mornings... they are now online! We welcome you to engage with what's happening around Arbor from the comfort of your own living room. Join us on Facebook or on our
-  <a href="https://www.youtube.com/channel/UCRe_QiHhuGwlIY43ECFopNQ ">YouTube channel</a>.
+2020 has given us a chance to get creative with sharing the good stuff that once took place only INSIDE our building. COVID has closed the doors on Sundays for the time being, but in the meanwhile, it has led us open the door to digital ministry. 
+
+Join us at 9 or 11am for a time of worship, teaching, and connection. Our ONLINE CAMPUS can be accessed from our website's homepage, but you will also find services running on Facebook and our <a href="https://www.youtube.com/channel/UCRe_QiHhuGwlIY43ECFopNQ ">YouTube channel</a>. We encourage you to gather with others as you worship with us online, and of course, invite others to join from their own home base. Until we can be together in person, we will be together virtually... making disciples TOGETHER.  
 
 
 
