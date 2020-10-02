@@ -94,6 +94,7 @@ We believe everyone is created to live forever. We will either exist eternally s
 <br />
 <br />
 
+<p style="border-top: 1px solid black; padding: 10px;">
 
 ## How We Approach Beliefs
 
