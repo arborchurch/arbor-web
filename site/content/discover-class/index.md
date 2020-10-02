@@ -9,7 +9,7 @@ type: page
 menu:
   main:
     parent: 'Get Involved'
-    weight: 70
+    weight: 40
 ---
 
 ## OVERVIEW

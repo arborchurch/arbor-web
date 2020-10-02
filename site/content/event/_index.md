@@ -7,5 +7,5 @@ resources:
 menu:
   main:
     parent: 'Get Involved'
-    weight: 50
+    weight: 60
 ---
