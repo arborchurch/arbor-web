@@ -4,7 +4,7 @@ title: "Scott Hetherington"
 position: "Teaching"
 email: "scott@youthaxiom.com"
 emailname: Scott
-weight: 80
+weight: 90
 resources:
 - name: photo
   src: "scott.jpg"

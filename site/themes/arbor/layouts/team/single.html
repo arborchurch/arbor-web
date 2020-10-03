@@ -12,7 +12,9 @@
       <div class="content">
         {{ .Content }}
       </div>
-      <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a>
+      {{ if .Params.email }}
+        <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a>
+      {{ end }}
     </div>
   </div>
 </div>
