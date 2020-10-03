@@ -12,11 +12,7 @@
 
 {{ range .Site.RegularPages }}
   {{ if eq .Type "block" }}
-  <div id="block_{{ .Title }}" class="block parallax" style="background-image: url(img/{{ .Params.image }});">
-    <h1>{{ .Title }}</h1>
-    {{ .Content }}
-
-  </div>
+   {{ .Render "home" }}
   {{ end }} 
 {{ end }}
 

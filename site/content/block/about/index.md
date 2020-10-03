@@ -5,8 +5,9 @@ menu: "main"
 weight: 10
 blockColor: "#255535"
 tagline: "Making disciples... together"
-image: "block-about.jpg"
 resources:
+- name: backdrop
+  src: stump.jpg
 - name: our-story
   src: button-our-story.png
 - name: meet-the-team

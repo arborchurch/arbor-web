@@ -6,6 +6,8 @@ blockColor: "#307015"
 tagline: "Growing together on Sundays"
 image: "block-messages.jpg"
 resources:
+- name: backdrop
+  src: hiking.jpg
 - name: watch
   src: watch.png
 ---

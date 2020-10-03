@@ -6,6 +6,8 @@ blockColor: "#307015"
 tagline: "Going together in Teams"
 image: "block-give.jpg"
 resources:
+- name: backdrop
+  src: piggyback.jpg
 - name: donate
   src: donate.png
 ---

@@ -5,8 +5,9 @@ menu: "main"
 weight: 20
 blockColor: "#909090"
 tagline: "Gathering together in Groups"
-image: "block-connect.jpg"
 resources:
+- name: backdrop
+  src: girl-on-rock.jpg
 - name: discover-class
   src: button-discover-class.png
 - name: groups
