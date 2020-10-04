@@ -6,8 +6,8 @@ resources:
   src: trees.jpg
 - name: thumbnail_Service Times
   src: thumbnail_Service Times.jpg
-- name: Online Church
-  src: Online Church.jpg
+- name: Online Church (1)
+  src: Online Church (1).jpg
 - name: food-bank
   src: food-bank.jpg
 ---
@@ -19,7 +19,7 @@ This Sunday we're excited to get back to our regularly scheduled service times..
 
 Additionally, we've bumped ArborKids Online to begin at 8:50am. This allows parents to log their kids to the Zoom Room, grab a cup of coffee, and then pop online themselves for Arbor Sunday Service. According to the families surveyed recently, this is going to be a win/win for parents and kids. We hope this flex enables each member of your family to connect to their faith community more effectively.
  
-{{< img-full "Online Church" >}}
+{{< img-full "Online Church (1)" >}}
 
 Not only will we attend our online services at a new time, we will also be in a new LOCATION. 
 
