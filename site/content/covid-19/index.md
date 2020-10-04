@@ -15,7 +15,7 @@ resources:
 
 {{< img-full "thumbnail_Service Times" >}}
 
-This Sunday we're excited to get back to our regularly scheduled service times.... it feels like one step closer to normal! The 9 and 11am timeslots allow for greater flexibility for your Sundays; we want to serve those who frontload worship prior to kickoff... and also serve those who sleep in!
+This Sunday we're excited to get back to our regularly scheduled service times.... it feels like one step closer to normal! The 9 and 11am timeslots allow for greater flexibility for your Sundays; we want to serve those who frontload worship prior to kickoff... and also serve those who sleep in!
 
 Additionally, we've bumped ArborKids Online to begin at 8:50am. This allows parents to log their kids to the Zoom Room, grab a cup of coffee, and then pop online themselves for Arbor Sunday Service. According to the families surveyed recently, this is going to be a win/win for parents and kids. We hope this flex enables each member of your family to connect to their faith community more effectively.
  
