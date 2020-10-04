@@ -21,9 +21,9 @@ Additionally, we've bumped ArborKids Online to begin at 8:50am. This allows pare
  
 {{< img-full "Online Church (1)" >}}
 
-Not only will we attend our online services at a new time, we will also be in a new LOCATION.
+Not only will we attend our online services at a new time, we will also be in a new LOCATION.
 
-The ARbor Online Campus is your new favorite place to be on Sunday morning. We've converted our old website into a front door... simply click the big button marked CHURCH ONLINE and enter in. As you worship and learn in Arbor's service, you can also engage with the online Bible app, the sermon notes, and prayer leaders who can receive your requests and pray realtime for you. 
+The Arbor Online Campus is your new favorite place to be on Sunday morning. We've converted our old website into a front door... simply click the big button marked CHURCH ONLINE and enter in. As you worship and learn in Arbor's service, you can also engage with the online Bible app, the sermon notes, and prayer leaders who can receive your requests and pray realtime for you. 
 
 For the foreseeable future, services will also air on our Facebook and YouTube platforms, but we're pretty sure the Online Campus will provide a richer encounter with your church family in this season. Check it out this weekend and let us know how you like it!  
  
