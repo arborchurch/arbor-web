@@ -35,8 +35,6 @@ We consider these folks part of our extended family, as are the seniors we suppo
 
 Pandemics are hard, but giving should not be. Donations are accepted 24/7 at the back door of Arbor. On behalf of hungry families, thank you!
 
-"See you" Sunday on [Facebook](https://www.facebook.com/arborchurchnw) and [Youtube](https://www.youtube.com/channel/UCRe_QiHhuGwlIY43ECFopNQ/featured)! Service begins at 9:30 but is viewable at any point after that if you accidentally sleep in.
-
 Go Hawks! 
 
 The Arbor Team
