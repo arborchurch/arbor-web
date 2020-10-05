@@ -29,7 +29,7 @@ resources:
     </div>
   </div>
 </div>
-<div class="page-buttons">
+<div class="page-buttons" style="display: none;">
   <a href="our-story/" style="border: none;" >{{< img-retina "our-story" >}}</a>
   <img class="separator" src="img/nav-separator.png" />
   <a href="team/" style="border: none;" >{{< img-retina "meet-the-team" >}}</a>
