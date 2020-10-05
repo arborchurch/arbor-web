@@ -22,7 +22,7 @@ resources:
         controls="true"
         poster="{{< img-permalink "about-video-poster" >}}" 
         style="width: 100%;">
-        <source src="https://www.arborchurch.com/video/about-arbor.m4v" />
+        <source src="/video/about-arbor.m4v" />
       </video>
     </div>
   </div>
