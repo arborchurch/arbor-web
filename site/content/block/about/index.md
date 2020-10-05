@@ -1,6 +1,8 @@
 ---
 date: "2016-12-13T21:59:28-08:00"
 menu: "main"
+title: "About"
+hidetitle: yes
 weight: 10
 blockColor: "#255535"
 tagline: "Making disciples... together"
