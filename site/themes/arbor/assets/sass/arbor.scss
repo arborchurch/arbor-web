@@ -157,6 +157,14 @@ a:hover {
   letter-spacing: 0.2em;
 }
 
+.block.notitle {
+  padding-top: 10vh;
+}
+
+.block video {
+  box-shadow: 0px 0px 20px 5px rgba(0, 0, 0, 0.75);
+}
+
 .block h1 {
   text-transform: lowercase;
   font-size: 60pt;

@@ -1,5 +1,7 @@
 {{ $img := $.Page.Resources.GetMatch "backdrop" }}
-<div id="block_{{ .Title }}" class="block parallax" style="background-image: url({{ $img.RelPermalink }});">
-  <h1>{{ .Title }}</h1>
+<div id="block_{{ .Title }}" class="block {{ if not .Title }} notitle {{ end }}parallax" style="background-image: url({{ $img.RelPermalink }});">
+  {{ if .Title }}
+    <h1>{{ .Title }}</h1>
+  {{ end }}
   {{ .Content }}
 </div>
