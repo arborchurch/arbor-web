@@ -10,8 +10,11 @@ resources:
   src: piggyback.jpg
 - name: donate
   src: donate.png
+- name: volunteer
+  src: volunteer.png
 ---
 
 <div class="page-buttons">
   <a href="https://arborchurch.churchcenteronline.com/giving?open-in-church-center-modal=true">{{< img-retina "donate" >}}</a>
+  <a href="/volunteer/">{{< img-retina "volunteer" >}}</a>
 </div>
