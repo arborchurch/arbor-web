@@ -159,7 +159,9 @@ a:hover {
 }
 
 .block.notitle {
-  padding-top: 10vh;
+  display: flex;
+  align-items: center;
+  padding-top: 0;
 }
 
 .block video {
