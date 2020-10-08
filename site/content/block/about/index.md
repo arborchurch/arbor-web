@@ -8,7 +8,7 @@ blockColor: "#255535"
 tagline: "Making disciples... together"
 resources:
 - name: backdrop
-  src: stump.jpg
+  src: forest-without-glasses.jpg
 - name: our-story
   src: button-our-story.png
 - name: meet-the-team

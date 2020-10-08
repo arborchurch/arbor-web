@@ -7,7 +7,7 @@ tagline: "Growing together on Sundays"
 image: "block-messages.jpg"
 resources:
 - name: backdrop
-  src: hiking.jpg
+  src: piggyback.jpg
 - name: watch
   src: watch.png
 ---

@@ -7,7 +7,7 @@ blockColor: "#909090"
 tagline: "Gathering together in Groups"
 resources:
 - name: backdrop
-  src: girl-on-rock.jpg
+  src: side-hug.jpg
 - name: discover-class
   src: button-discover-class.png
 - name: groups

@@ -7,7 +7,7 @@ tagline: "Going together in Teams"
 image: "block-give.jpg"
 resources:
 - name: backdrop
-  src: piggyback.jpg
+  src: hiking-senior-discount.jpg
 - name: donate
   src: donate.png
 - name: volunteer
