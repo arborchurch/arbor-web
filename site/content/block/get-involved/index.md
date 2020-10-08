@@ -21,6 +21,6 @@ resources:
   <img class="separator" src="img/nav-separator.png" />
   <a href="groups/">{{< img-retina "groups" >}}</a>
   <img class="separator" src="img/nav-separator.png" />
-  <a href="https://www.youtube.com/channel/UCRe_QiHhuGwlIY43ECFopNQ">{{< img-retina "daily-posts" >}}</a>
+  <a href="https://www.youtube.com/playlist?list=PLBA3HWqIJ2eos8Ikf0Fwj33W_WiIShBS5">{{< img-retina "daily-posts" >}}</a>
 </div>
 
