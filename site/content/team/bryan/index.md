@@ -7,7 +7,7 @@ emailname: Bryan
 weight: 50
 resources:
 - name: photo
-  src: "bryan.jpg"
+  src: "bryan-sharp.jpg"
 ---
 
 Bryan is often mistaken for Aquaman, but ironically he can't swim. He grew up in Modesto, California, and recently answered the youth ministry call to move northward. His favorite things include: football, food, family, and friends (in that order). 
