@@ -22,6 +22,8 @@ menu:
 
 {{< img-full "making-disciples" >}}
 
+<p style="border-top: 1px solid black; padding: 10px;">
+
 ## GOD IS REAL
 
 We believe that there is one God who exists eternally in three persons: Father, Son, and Holy Spirit. We call this mystery the Trinity. God created everything for His glory, including us, whom He loves dearly. 
