@@ -27,5 +27,6 @@ Bottom line, we want students to feel like part of the family... because they ar
 
 If you have any other questions email <bryan@arborchurch.com>
 
+
 {{< img-partial "leader" >}}
 
