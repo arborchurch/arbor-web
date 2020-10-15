@@ -13,7 +13,8 @@ menu:
 ---
 
 <h3>
-  SUNDAYS at 9 and 11am
+<h2 class="tight-header">Sunday Mornings</h2> at 8:50am.
+<br>
   &nbsp;  &nbsp;
   
 
