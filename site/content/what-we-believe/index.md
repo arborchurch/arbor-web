@@ -4,8 +4,8 @@ title: What We Believe
 resources:
 - name: header
   src: what-we-believe.jpg
-- name: making-disciples
-  src: making-disciples.jpg
+
+
 menu:
   main:
     parent: "About"
@@ -20,7 +20,7 @@ menu:
   </p>
 </div>
 
-{{< img-full "making-disciples" >}}
+
 
 <p style="border-top: 1px solid black; padding: 10px;">
 
