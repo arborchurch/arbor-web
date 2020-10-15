@@ -25,10 +25,7 @@ During this COVID season, all students and leaders will be wearing masks while p
 
 Bottom line, we want students to feel like part of the family... because they are! Students aren't the next generation to come. They are the generation of here and now, and we want to love, invest, and point them to Jesus.
 
-If you have any other questions email Bryan.
-
-
-<bryan@arborchurch.com>
+If you have any other questions email <bryan@arborchurch.com>
 
 {{< img-partial "leader" >}}
 
