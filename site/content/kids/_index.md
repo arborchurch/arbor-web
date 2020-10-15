@@ -16,7 +16,7 @@ menu:
 <h2 class="tight-header">Sunday Mornings</h2> at 8:50am.
 <br>
 <br>
-<a href="https://us02web.zoom.us/j/5095540648">KID'S ONLINE LINK</a>
+<a href="https://us02web.zoom.us/j/5095540648">ONLINE LINK</a>
 <br>
 <br>
 
