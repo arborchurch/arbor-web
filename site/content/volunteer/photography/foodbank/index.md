@@ -10,4 +10,4 @@ resources:
 ---
 
 
-Food insecurity is the leading stressor for families in our local area, and Arbor is stepping up to fill the gap at our local schol & senior center. If you are good at organizing donations, gleaning from markets, or stocking shelves on Wednesday mornings, join us!
+Food insecurity is the leading stressor for families in our local area, and Arbor is stepping up to fill the gap at our local school & senior center. If you are good at organizing donations, gleaning from markets, or stocking shelves on Wednesday mornings, join us!
