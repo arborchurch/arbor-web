@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/linuxbrew/.linuxbrew/bin/python3",
+    "python.autoComplete.extraPaths": [
+        "${workspaceFolder}/scripts"
+    ]
+}

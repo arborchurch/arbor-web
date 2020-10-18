@@ -1,7 +1,28 @@
 #!/usr/bin/env python
 
+# Prerequisites
+#
+# - The 'yaml' Python package (pip install pyyaml)
+# - youtube-dl command
+# - ffmpeg command
+
+import os
+import pathlib
 import urllib.request
 import xml.etree.ElementTree as ET
+
+print(os.path.dirname(os.path.realpath(__file__)))
+
+print("Reading local episodes...")
+here = pathlib.Path(os.path.dirname(os.path.realpath(__file__)))
+episodes = here.parent.parent / 'site' / 'content' / 'the-followup'
+for episode in episodes.iterdir():
+    if episode.suffix == ".md":
+        parts = str(episode.name).split('-')
+        if len(parts) < 3:
+            continue
+        print("Episode " + str(int(parts[0])) + ": " + episode.name)
+
 
 print("Synchronizing playlist from YouTube...")
 
