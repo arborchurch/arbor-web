@@ -20,8 +20,6 @@ menu:
 </h3>
 
 </h3>
-<br>
-
 
 2020 has given us a chance to get creative with sharing the good stuff that once took place only INSIDE our building. COVID has closed the doors on Sundays for the time being, but in the meanwhile, it has led us open the door to digital ministry. 
 
