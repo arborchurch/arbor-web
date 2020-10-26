@@ -16,8 +16,7 @@ menu:
 <h2 class="tight-header">Sunday Mornings</h2>at 9 & 11am.
 <br>
   &nbsp;  &nbsp;
-  
-<br>
+
 </h3>
 
 </h3>
