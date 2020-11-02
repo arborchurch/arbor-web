@@ -1,5 +1,5 @@
 ---
-date: "2020-10-25T09:00:00-08:00"
+date: "2020-11-01T09:00:00-08:00"
 title: "Homesick: Living with Heaven in Mind"
 series: "homesick"
 speaker: "Jake Goetze"
