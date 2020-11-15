@@ -2,7 +2,7 @@
 date: "2017-01-01"
 title: "Alison Acone"
 position: "Community Care Pastor"
-weight: 60
+weight: 10
 email: "alison@arborchurch.com"
 emailname: Alison
 resources:
