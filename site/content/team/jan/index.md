@@ -3,6 +3,8 @@ date: "2017-01-01"
 title: "Jan Rodgers"
 position: "Elder"
 weight: 70
+email: "elders@arborchurch.com"
+emailname: Jan
 resources:
 - name: "photo"
   src: "jan-sharp.jpg"
