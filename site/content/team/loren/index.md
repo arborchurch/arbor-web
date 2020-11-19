@@ -3,9 +3,9 @@ date: "2017-01-01"
 title: "Loren Winter"
 position: "Elder"
 weight: 80
-resources:
 email: "elders@arborchurch.com"
 emailname: Loren
+resources:
 - name: "photo"
   src: "loren-sharp.jpg"
 ---
