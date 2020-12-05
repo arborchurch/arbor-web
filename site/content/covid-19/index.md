@@ -14,9 +14,11 @@ resources:
 
 {{< img-full "signthumbnail.jpg" >}}
 
-I wanted to personally reach out on behalf Arbor's leadership to give you some updates from your church family. It's been a rough week or two, and we're mindful that you may be feeling confused, worried, and upset. Hopefully, you've also felt a stronger measure of God's presence and comfort... we have been praying hard for that to happen.
+Arbor Family,
 
-The news that broke about Jake's resignation the first week of November came as a surprise to us all. We sought to inform leaders, donors, and volunteers as fast as possible via a Zoom meeting, and then emailed a broader circle the following day. Please forgive us if your email address was not captured in our data grab.... one downside to online church is our attendance records aren't accurately updated.
+It's been a rough few weeks, and we're mindful that you may be feeling confused, worried, and upset about the changes taking place. Hopefully, you've also felt a strong, increasing measure of God's presence and comfort... we have been praying hard for that to happen.
+
+The news that broke about Jake's resignation the first week of November came as a surprise to us all. We sought to inform leaders, donors, and volunteers as fast as possible via a Zoom meeting, and then emailed a broader circle the following day. 
 
 We formed a Transition Team to help navigate the choppy waters and steer us wherever the Lord desires. This Transition Team is here for you to answer any questions... simply reach out via email and they will connect with you as soon as possible (transitionteam@arborchurch.com).
 
