@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 # Prerequisites
 #
@@ -10,8 +10,12 @@ import os
 import pathlib
 import urllib.request
 import xml.etree.ElementTree as ET
+import yaml
 
 print(os.path.dirname(os.path.realpath(__file__)))
+
+local_ids = []
+remote_ids = []
 
 print("Reading local episodes...")
 here = pathlib.Path(os.path.dirname(os.path.realpath(__file__)))
@@ -21,7 +25,20 @@ for episode in episodes.iterdir():
         parts = str(episode.name).split('-')
         if len(parts) < 3:
             continue
-        print("Episode " + str(int(parts[0])) + ": " + episode.name)
+
+        # read local episode
+        f = open(episode, mode='r')
+        content = f.read().split("---")
+        f.close()
+        if (len(content)) < 3:
+            continue
+
+        # parse out YAML
+        metadata = yaml.load(content[1], Loader = yaml.FullLoader)
+        id = metadata["youtube_id"]
+        local_ids.append(id)
+
+        print("Episode " + str(int(parts[0])) + ": " + episode.name + " (" + id + ")")
 
 
 print("Synchronizing playlist from YouTube...")
@@ -39,6 +56,7 @@ for child in root.findall("{http://www.w3.org/2005/Atom}entry"):
     media = child.find("{http://search.yahoo.com/mrss/}group")
     description = media.find("{http://search.yahoo.com/mrss/}description").text
     print(title + " (" + id + "), published " + date)
+    remote_ids.append(id)
     
 # TODO: Get followup episodes from YAML, find IDs
 # If an ID exists on youtube but not in YAML:
