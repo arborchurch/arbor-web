@@ -4,7 +4,7 @@ title: "Living Missionally: Lamp on a Stand"
 series: "living-missionally"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/living-missionally-lamp-on-a-stand.m4a
+podcast: https://arborchurchnw.org/podcast/living-missionally-lamp-on-a-stand.m4a
 podcast_bytes: 32504987 
 podcast_duration: 43:25
 ---

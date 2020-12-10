@@ -4,7 +4,7 @@ title: "Worship: The Widow's Mite"
 series: "worship"
 speaker: "Mike Howerton"
 type: message
-podcast: https://arborchurch.com/podcast/worship-the-widows-mite.m4a
+podcast: https://arborchurchnw.org/podcast/worship-the-widows-mite.m4a
 podcast_bytes: 25139709
 podcast_duration: 33:16
 youtube_id: wD6I6IFcesE

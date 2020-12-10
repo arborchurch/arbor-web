@@ -9,5 +9,5 @@ expirydate: "2018-06-24"
 Couldn't make the family meeting? Listen below to get caught up on the family news and learn about a few course
 corrections we're making together.
 </div>
-<audio src="https://arborchurch.com/podcast/family-meeting-2018-06.m4a" controls="controls">
+<audio src="https://arborchurchnw.org/podcast/family-meeting-2018-06.m4a" controls="controls">
 

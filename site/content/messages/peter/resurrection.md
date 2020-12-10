@@ -4,7 +4,7 @@ title: "Peter: The Forgiven"
 series: "peter"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/peter-resurrection.m4a
+podcast: https://arborchurchnw.org/podcast/peter-resurrection.m4a
 podcast_bytes: 24015114
 podcast_duration: 31:55
 youtube_id: u1auDper5g4

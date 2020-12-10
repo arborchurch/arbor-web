@@ -4,7 +4,7 @@ title: "Easter: Mary Magdalene"
 series: "easter-2019"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/easter-2019.m4a
+podcast: https://arborchurchnw.org/podcast/easter-2019.m4a
 podcast_bytes: 22890200
 podcast_duration: 31:08
 ---

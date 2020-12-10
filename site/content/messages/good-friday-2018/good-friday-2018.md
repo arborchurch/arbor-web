@@ -4,7 +4,7 @@ title: "Good Friday: Jesus on the Cross"
 series: "good-friday-2018"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/good-friday-2018.m4a
+podcast: https://arborchurchnw.org/podcast/good-friday-2018.m4a
 podcast_bytes: 22517560
 podcast_duration: 30:13
 ---

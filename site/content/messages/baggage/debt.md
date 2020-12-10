@@ -4,7 +4,7 @@ title: "Baggage: Debt"
 series: "baggage"
 speaker: "Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/baggage-debt.m4a
+podcast: https://arborchurchnw.org/podcast/baggage-debt.m4a
 podcast_bytes: 28285617
 podcast_duration: 38:27
 youtube_id: IDcH1AnvzAo

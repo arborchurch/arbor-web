@@ -4,7 +4,7 @@ title: "Peter: The Liberated"
 series: "peter"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/peter-the-liberated.m4a
+podcast: https://arborchurchnw.org/podcast/peter-the-liberated.m4a
 podcast_bytes: 24269332
 podcast_duration: 32:34
 youtube_id: 9yPvdUEeaPo

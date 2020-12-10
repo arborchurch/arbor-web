@@ -4,7 +4,7 @@ title: "Acts: The Mistakes"
 series: "acts-birth-of-a-church"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/the-mistakes.m4a
+podcast: https://arborchurchnw.org/podcast/the-mistakes.m4a
 podcast_bytes: 55621689
 podcast_duration: 37:37
 scripture: "Acts 5:1-11"

@@ -4,7 +4,7 @@ title: "Who Needs Church?"
 series: "who-needs-church"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/who-needs-church.m4a
+podcast: https://arborchurchnw.org/podcast/who-needs-church.m4a
 podcast_bytes: 23866116
 podcast_duration: 31:58
 youtube_id: yfEmLkqMJO4

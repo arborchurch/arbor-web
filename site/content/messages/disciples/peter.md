@@ -4,7 +4,7 @@ title: "Disciples: Peter"
 series: "disciples"
 speaker: "Dave Swenson"
 type: message
-podcast: https://arborchurch.com/podcast/disciples-peter.m4a
+podcast: https://arborchurchnw.org/podcast/disciples-peter.m4a
 podcast_bytes: 29382968
 podcast_duration: 39:07
 ---

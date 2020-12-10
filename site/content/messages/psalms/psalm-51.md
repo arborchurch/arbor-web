@@ -4,7 +4,7 @@ title: "Psalms: Psalm 51"
 series: "Psalms"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/psalms-psalm-51.m4a
+podcast: https://arborchurchnw.org/podcast/psalms-psalm-51.m4a
 podcast_bytes: 34178975
 podcast_duration: 45:47
 scripture: "Psalm 51"

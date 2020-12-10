@@ -4,7 +4,7 @@ title: "Dangerous Prayers: Break Me"
 series: "dangerous-prayers"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/dangerous-prayers-break-me.m4a
+podcast: https://arborchurchnw.org/podcast/dangerous-prayers-break-me.m4a
 podcast_bytes: 28101797
 podcast_duration: 38:14
 ---

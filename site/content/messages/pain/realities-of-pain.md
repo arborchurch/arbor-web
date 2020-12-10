@@ -4,7 +4,7 @@ title: "Pain: Realities of Pain"
 series: "pain"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/realities-of-pain.m4a
+podcast: https://arborchurchnw.org/podcast/realities-of-pain.m4a
 podcast_bytes: 37890066
 podcast_duration: 50:21
 scripture: "Matthew 11:1-6"

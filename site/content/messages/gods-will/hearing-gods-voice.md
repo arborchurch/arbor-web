@@ -4,7 +4,7 @@ title: "God's Will: Hearing God's Voice"
 series: "gods-will"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/gods-will-hearing-gods-voice.m4a
+podcast: https://arborchurchnw.org/podcast/gods-will-hearing-gods-voice.m4a
 podcast_bytes: 27887605
 podcast_duration: 37:27
 ---

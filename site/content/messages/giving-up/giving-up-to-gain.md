@@ -4,7 +4,7 @@ title: "Giving Up to Gain"
 series: "giving-up"
 speaker: "Dave Swenson"
 type: message
-podcast: https://arborchurch.com/podcast/giving-up-to-gain.m4a
+podcast: https://arborchurchnw.org/podcast/giving-up-to-gain.m4a
 podcast_bytes: 31911725 
 podcast_duration: 42:34
 ---

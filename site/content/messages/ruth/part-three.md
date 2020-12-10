@@ -4,7 +4,7 @@ title: "Ruth: Part Three"
 series: "ruth"
 speaker: "Bob Lee"
 type: message
-podcast: https://arborchurch.com/podcast/ruth-part-three.m4a
+podcast: https://arborchurchnw.org/podcast/ruth-part-three.m4a
 podcast_bytes: 27803663
 podcast_duration: 37:22
 ---

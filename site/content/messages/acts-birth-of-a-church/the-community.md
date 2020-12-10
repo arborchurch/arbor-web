@@ -4,7 +4,7 @@ title: "Acts: The Community"
 series: "acts-birth-of-a-church"
 speaker: "Bob Lee"
 type: message
-podcast: https://arborchurch.com/podcast/the-community.m4a
+podcast: https://arborchurchnw.org/podcast/the-community.m4a
 podcast_bytes: 27660647 
 podcast_duration: 36:26
 scripture: "Acts 2:42-46"

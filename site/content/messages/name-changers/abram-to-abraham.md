@@ -4,7 +4,7 @@ title: "Name Changers: Abram to Abraham"
 series: "name-changers"
 speaker: "Jake Goezte"
 type: message
-podcast: https://arborchurch.com/podcast/name-changers-abram-to-abraham.m4a
+podcast: https://arborchurchnw.org/podcast/name-changers-abram-to-abraham.m4a
 podcast_bytes: 30836471
 podcast_duration: 41:57
 ---

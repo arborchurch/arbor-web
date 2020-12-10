@@ -4,7 +4,7 @@ title: "Baggage: Resentment"
 series: "baggage"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/baggage-resentment.m4a
+podcast: https://arborchurchnw.org/podcast/baggage-resentment.m4a
 podcast_bytes: 27059951
 podcast_duration: 36:47
 youtube_id: tiGji3y1zSw

@@ -4,7 +4,7 @@ title: "Peter: The Wise"
 series: "peter"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/peter-the-wise.m4a
+podcast: https://arborchurchnw.org/podcast/peter-the-wise.m4a
 podcast_bytes: 20091783
 podcast_duration: 27:54
 youtube_id: jqZ9dH0GUQA

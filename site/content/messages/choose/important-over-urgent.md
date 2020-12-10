@@ -4,7 +4,7 @@ title: "Choose: Important over Urgent"
 series: "choose"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/choose-important-over-urgent.m4a
+podcast: https://arborchurchnw.org/podcast/choose-important-over-urgent.m4a
 podcast_bytes: 29168203
 podcast_duration: 38:59
 youtube_id: tKQVzqNnDC4

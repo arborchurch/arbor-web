@@ -4,7 +4,7 @@ title: "Acts: The Message"
 series: "acts-birth-of-a-church"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/the-message.m4a
+podcast: https://arborchurchnw.org/podcast/the-message.m4a
 podcast_bytes: 30855537
 podcast_duration: 41:12
 scripture: "Acts 3:1-20"

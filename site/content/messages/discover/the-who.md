@@ -4,7 +4,7 @@ title: "Discover: The Who?"
 series: "discover"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/discover-the-who.m4a
+podcast: https://arborchurchnw.org/podcast/discover-the-who.m4a
 podcast_bytes: 26697227
 podcast_duration: 35:39
 youtube_id: A_gpp1wCPZg

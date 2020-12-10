@@ -4,7 +4,7 @@ title: "Disciples: John"
 series: "disciples"
 speaker: "Bob Lee"
 type: message
-podcast: https://arborchurch.com/podcast/disciples-john.m4a
+podcast: https://arborchurchnw.org/podcast/disciples-john.m4a
 podcast_bytes: 27898684 
 podcast_duration: 36:22
 ---

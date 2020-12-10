@@ -4,7 +4,7 @@ title: "Psalms: Psalm 23"
 series: "Psalms"
 speaker: "Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/psalms-psalm-23.m4a
+podcast: https://arborchurchnw.org/podcast/psalms-psalm-23.m4a
 podcast_bytes: 28445038
 podcast_duration: 38:41
 scripture: "Psalm 23"

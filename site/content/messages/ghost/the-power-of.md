@@ -4,7 +4,7 @@ title: "Ghost: the Power of"
 series: "ghost"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/ghost-the-power-of.m4a
+podcast: https://arborchurchnw.org/podcast/ghost-the-power-of.m4a
 podcast_bytes: 35298474
 podcast_duration: 47:06
 youtube_id: XZziesMP3-M

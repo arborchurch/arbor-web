@@ -4,7 +4,7 @@ title: "Together: Like a Mosaic"
 series: "together"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/together-like-a-mosaic.m4a
+podcast: https://arborchurchnw.org/podcast/together-like-a-mosaic.m4a
 podcast_bytes: 28775441
 podcast_duration: 38:33
 ---

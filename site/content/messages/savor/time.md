@@ -4,7 +4,7 @@ title: "Savor: Time"
 series: "savor"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/savor-time.m4a
+podcast: https://arborchurchnw.org/podcast/savor-time.m4a
 podcast_bytes: 32547817
 podcast_duration: 44:17
 ---

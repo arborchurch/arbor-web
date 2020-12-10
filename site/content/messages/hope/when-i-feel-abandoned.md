@@ -4,7 +4,7 @@ title: "Hope: when I Feel Abandoned"
 series: "hope"
 speaker: "Dave Swenson"
 type: message
-podcast: https://arborchurch.com/podcast/hope-when-i-feel-abandoned.m4a
+podcast: https://arborchurchnw.org/podcast/hope-when-i-feel-abandoned.m4a
 podcast_bytes: 28721997
 podcast_duration: 39:04
 ---

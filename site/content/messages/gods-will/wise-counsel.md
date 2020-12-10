@@ -4,7 +4,7 @@ title: "God's Will: Wise Counsel"
 series: "gods-will"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/gods-will-wise-counsel.m4a
+podcast: https://arborchurchnw.org/podcast/gods-will-wise-counsel.m4a
 podcast_bytes: 31490367
 podcast_duration: 42:23
 scripture: "1 Kings 12"

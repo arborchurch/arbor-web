@@ -4,7 +4,7 @@ title: "Tested: Job"
 series: "tested"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/tested-job.m4a
+podcast: https://arborchurchnw.org/podcast/tested-job.m4a
 podcast_bytes: 34924842
 podcast_duration: 47:30
 ---

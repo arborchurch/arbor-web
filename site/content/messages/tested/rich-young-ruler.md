@@ -4,7 +4,7 @@ title: "Tested: Rich Young Ruler"
 series: "tested"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/tested-rich-young-ruler.m4a
+podcast: https://arborchurchnw.org/podcast/tested-rich-young-ruler.m4a
 podcast_bytes: 30332501
 podcast_duration: 41:15
 ---

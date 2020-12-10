@@ -4,7 +4,7 @@ title: "Questions Jesus Asked: Could You Not Keep Watch With Me for One Hour?"
 series: "questions-jesus-asked"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/questions-jesus-asked-could-you-not-keep-watch-with-me.m4a
+podcast: https://arborchurchnw.org/podcast/questions-jesus-asked-could-you-not-keep-watch-with-me.m4a
 podcast_bytes: 32584020
 podcast_duration: 43:51
 ---

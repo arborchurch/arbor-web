@@ -4,7 +4,7 @@ title: "Ghost: the Produce of"
 series: "ghost"
 speaker: "Pat Swanson"
 type: message
-podcast: https://arborchurch.com/podcast/ghost-the-produce-of.m4a
+podcast: https://arborchurchnw.org/podcast/ghost-the-produce-of.m4a
 podcast_bytes: 28911714
 podcast_duration: 38:50
 ---

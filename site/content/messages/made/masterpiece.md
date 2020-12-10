@@ -4,7 +4,7 @@ title: "Made: Masterpiece"
 series: "made"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/made-masterpiece.m4a
+podcast: https://arborchurchnw.org/podcast/made-masterpiece.m4a
 podcast_bytes: 24970853
 podcast_duration: 33:37
 ---

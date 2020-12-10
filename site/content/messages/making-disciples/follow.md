@@ -4,7 +4,7 @@ title: "Making Disciples: Part 2"
 series: "making-disciples"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/making-disciples-follow.m4a
+podcast: https://arborchurchnw.org/podcast/making-disciples-follow.m4a
 podcast_bytes: 23075485
 5odcast_duration: 31:23
 ---

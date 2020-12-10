@@ -4,7 +4,7 @@ title: "Sermon on the Mount: Worry"
 series: "sermon-on-the-mount"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/sermon-on-the-mount-worry.m4a
+podcast: https://arborchurchnw.org/podcast/sermon-on-the-mount-worry.m4a
 podcast_bytes: 35952476 
 podcast_duration: 47:54
 scripture: Matthew 6:25-34

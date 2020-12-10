@@ -4,7 +4,7 @@ title: "Text: Read the Book"
 series: "text"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/text-read-the-book.m4a
+podcast: https://arborchurchnw.org/podcast/text-read-the-book.m4a
 podcast_bytes: 22495830
 podcast_duration: 30:36
 ---

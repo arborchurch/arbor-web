@@ -4,7 +4,7 @@ title: "Tested: Jesus"
 series: "tested"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/tested-jesus.m4a
+podcast: https://arborchurchnw.org/podcast/tested-jesus.m4a
 podcast_bytes: 29662413
 podcast_duration: 40:21
 ---

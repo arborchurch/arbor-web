@@ -4,7 +4,7 @@ title: "Ghost: the Promise of"
 series: "ghost"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/ghost-the-promise-of.m4a
+podcast: https://arborchurchnw.org/podcast/ghost-the-promise-of.m4a
 podcast_bytes: 33743399
 podcast_duration: 45:15
 youtube_id: q42vVwoILHI

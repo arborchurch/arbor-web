@@ -4,7 +4,7 @@ title: "Discover: The What?"
 series: "discover"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/discover-the-what.m4a
+podcast: https://arborchurchnw.org/podcast/discover-the-what.m4a
 podcast_bytes: 31227858
 podcast_duration: 41:41
 youtube_id: E2v_nL7JUbU

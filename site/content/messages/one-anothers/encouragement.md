@@ -4,7 +4,7 @@ title: "One Anothers: Encouragement"
 series: "one-anothers"
 speaker: "Rory Eldridge"
 type: message
-podcast: https://arborchurch.com/podcast/one-anothers-encouragement.m4a
+podcast: https://arborchurchnw.org/podcast/one-anothers-encouragement.m4a
 podcast_bytes: 27187049
 podcast_duration: 36:11
 ---

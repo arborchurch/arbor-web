@@ -4,7 +4,7 @@ title: "Homesick: Heaven Our Home"
 series: "homesick"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/homesick-heaven-our-home.m4a
+podcast: https://arborchurchnw.org/podcast/homesick-heaven-our-home.m4a
 podcast_bytes: 22884574
 podcast_duration: 31:08
 youtube_id: tAINiWKU1k8

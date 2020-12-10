@@ -4,7 +4,7 @@ title: "Outsiders: Zacchaeus"
 series: "outsiders"
 speaker: "Bob Lee"
 type: message
-podcast: https://arborchurch.com/podcast/outsiders-zacchaeus.m4a
+podcast: https://arborchurchnw.org/podcast/outsiders-zacchaeus.m4a
 podcast_bytes: 36824574
 podcast_duration: 49:18
 scripture: "Luke 19:1-10"

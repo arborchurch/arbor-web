@@ -4,7 +4,7 @@ title: "Homesick: Living with Heaven in Mind"
 series: "homesick"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/homesick-living-with-heaven-in-mind.m4a
+podcast: https://arborchurchnw.org/podcast/homesick-living-with-heaven-in-mind.m4a
 podcast_bytes: 34533279
 podcast_duration: 32:45
 youtube_id: XUBZTW7dXU8

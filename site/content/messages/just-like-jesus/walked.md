@@ -4,7 +4,7 @@ title: "Just Like Jesus: Walked"
 series: "just-like-jesus"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/just-like-jesus-walked.m4a
+podcast: https://arborchurchnw.org/podcast/just-like-jesus-walked.m4a
 podcast_bytes: 25753012
 podcast_duration: 34:19
 youtube_id: cEJMG_Su-0M

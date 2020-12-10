@@ -4,7 +4,7 @@ title: "Made: Branch"
 series: "made"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/made-branch.m4a
+podcast: https://arborchurchnw.org/podcast/made-branch.m4a
 podcast_bytes: 22670893
 podcast_duration: 30:31
 ---

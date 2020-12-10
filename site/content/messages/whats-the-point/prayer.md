@@ -4,7 +4,7 @@ title: "What's the Point: Prayer"
 series: "whats-the-point"
 speaker: "Neely McQueen"
 type: message
-podcast: https://arborchurch.com/podcast/whats-the-point-prayer.m4a
+podcast: https://arborchurchnw.org/podcast/whats-the-point-prayer.m4a
 podcast_bytes: 28:50
 podcast_duration: 21201488
 ---

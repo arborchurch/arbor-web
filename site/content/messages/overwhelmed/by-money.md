@@ -4,7 +4,7 @@ title: "Overwhelmed: by Money"
 series: "overwhelmed"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/overwhelmed-by-money.m4a
+podcast: https://arborchurchnw.org/podcast/overwhelmed-by-money.m4a
 podcast_bytes: 32822217
 podcast_duration: 44:39
 ---

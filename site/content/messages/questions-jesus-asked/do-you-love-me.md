@@ -4,7 +4,7 @@ title: "Questions Jesus Asked: Do You Love Me?"
 series: "questions-jesus-asked"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/questions-jesus-asked-do-you-love-me.m4a
+podcast: https://arborchurchnw.org/podcast/questions-jesus-asked-do-you-love-me.m4a
 podcast_bytes: 35484636
 podcast_duration: 47:32
 ---

@@ -4,7 +4,7 @@ title: "Family Sunday"
 series: "easter-2019"
 speaker: "Bryan Cobley"
 type: message
-podcast: https://arborchurch.com/podcast/family-sunday-2019.m4a
+podcast: https://arborchurchnw.org/podcast/family-sunday-2019.m4a
 podcast_bytes: 23654603
 podcast_duration: 31:39
 youtube_id: -E-wldFHIMQ

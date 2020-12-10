@@ -4,7 +4,7 @@ title: "Acts: The Cost"
 series: "acts-birth-of-a-church"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/the-cost.m4a
+podcast: https://arborchurchnw.org/podcast/the-cost.m4a
 podcast_bytes: 35063206
 podcast_duration: 46:59
 scripture: "Acts 6-7"

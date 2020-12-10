@@ -4,7 +4,7 @@ title: "Hope: for our Past"
 series: "hope"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/hope-for-our-past.m4a
+podcast: https://arborchurchnw.org/podcast/hope-for-our-past.m4a
 podcast_bytes: 224720086
 podcast_duration: 30:34
 scripture: Matthew 1:2-16

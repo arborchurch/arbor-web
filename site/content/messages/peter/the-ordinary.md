@@ -4,7 +4,7 @@ title: "Peter: The Ordinary"
 series: "peter"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/peter-the-ordinary.m4a
+podcast: https://arborchurchnw.org/podcast/peter-the-ordinary.m4a
 podcast_bytes: 23887894
 podcast_duration: 32:33
 youtube_id: FH5WCBR29YA

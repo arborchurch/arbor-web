@@ -4,7 +4,7 @@ title: "Discover: The How?"
 series: "discover"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/discover-the-how.m4a
+podcast: https://arborchurchnw.org/podcast/discover-the-how.m4a
 podcast_bytes: 41737852
 podcast_duration: 55:44
 youtube_id: o5yrjk3MptI

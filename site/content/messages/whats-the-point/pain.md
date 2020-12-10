@@ -4,7 +4,7 @@ title: "What's the Point: Pain"
 series: "whats-the-point"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/whats-the-point-pain.m4a
+podcast: https://arborchurchnw.org/podcast/whats-the-point-pain.m4a
 podcast_bytes: 26:18
 podcast_duration: 19331022
 ---

@@ -4,7 +4,7 @@ title: "Overwhelmed: by Fear"
 series: "overwhelmed"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/overwhelmed-by-fear.m4a
+podcast: https://arborchurchnw.org/podcast/overwhelmed-by-fear.m4a
 podcast_bytes: 25876189
 podcast_duration: 35:12
 ---

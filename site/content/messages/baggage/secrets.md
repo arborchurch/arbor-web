@@ -4,7 +4,7 @@ title: "Baggage: Secrets"
 series: "baggage"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/baggage-secrets.m4a
+podcast: https://arborchurchnw.org/podcast/baggage-secrets.m4a
 podcast_bytes: 28376444
 podcast_duration: 38:36
 youtube_id: 5oOVCSsIoDo

@@ -4,7 +4,7 @@ title: "Choose: Surrender over Control"
 series: "choose"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/choose-surrender-over-control.m4a
+podcast: https://arborchurchnw.org/podcast/choose-surrender-over-control.m4a
 podcast_bytes: 35710008
 podcast_duration: 47:42
 youtube_id: 4-BdXMv4EUw

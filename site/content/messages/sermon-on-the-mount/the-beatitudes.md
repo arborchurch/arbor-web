@@ -4,7 +4,7 @@ title: "Sermon on the Mount: The Beatitudes"
 series: "sermon-on-the-mount"
 speaker: "Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/sermon-on-the-mount-the-beatitudes.m4a
+podcast: https://arborchurchnw.org/podcast/sermon-on-the-mount-the-beatitudes.m4a
 podcast_bytes: 28261225
 podcast_duration: 37:20
 scripture: Matthew 5:1-10

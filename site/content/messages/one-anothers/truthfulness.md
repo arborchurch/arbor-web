@@ -4,7 +4,7 @@ title: "One Anothers: Truthfulness"
 series: "one-anothers"
 speaker: "Todd Arrambide"
 type: message
-podcast: https://arborchurch.com/podcast/one-anothers-truthfulness.m4a
+podcast: https://arborchurchnw.org/podcast/one-anothers-truthfulness.m4a
 podcast_bytes: 23030967 
 podcast_duration: 30:12
 ---

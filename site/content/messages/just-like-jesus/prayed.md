@@ -4,7 +4,7 @@ title: "Just Like Jesus: Prayed"
 series: "just-like-jesus"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/just-like-jesus-prayed.m4a
+podcast: https://arborchurchnw.org/podcast/just-like-jesus-prayed.m4a
 podcast_bytes: 32155517
 podcast_duration: 42:56
 youtube_id: PnmWqWYjzbc

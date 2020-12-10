@@ -4,7 +4,7 @@ title: "Peter: The Failure"
 series: "peter"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/peter-the-denier.m4a
+podcast: https://arborchurchnw.org/podcast/peter-the-denier.m4a
 podcast_bytes: 18467775
 podcast_duration: 24:43
 youtube_id: JJxpmgrQgJo

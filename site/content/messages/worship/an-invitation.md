@@ -4,7 +4,7 @@ title: "Worship: An Invitation"
 series: "worship"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/worship-an-invitation.m4a
+podcast: https://arborchurchnw.org/podcast/worship-an-invitation.m4a
 podcast_bytes: 25612531
 podcast_duration: 34:21
 youtube_id: iJzfoy-wP9s

@@ -4,7 +4,7 @@ title: "Splitting Logs: Outreach"
 series: "splitting-logs"
 speaker: "Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/splitting-logs-outreach.m4a
+podcast: https://arborchurchnw.org/podcast/splitting-logs-outreach.m4a
 podcast_bytes: 30366586
 podcast_duration: 41:48
 ---

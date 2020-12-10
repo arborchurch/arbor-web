@@ -4,7 +4,7 @@ title: "Overwhelmed: by People"
 series: "overwhelmed"
 speaker: "Bob Lee"
 type: message
-podcast: https://arborchurch.com/podcast/overwhelmed-by-people.m4a
+podcast: https://arborchurchnw.org/podcast/overwhelmed-by-people.m4a
 podcast_bytes: 27722576
 podcast_duration: 37:42
 ---

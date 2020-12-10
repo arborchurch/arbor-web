@@ -4,7 +4,7 @@ title: "Begin Again: A Conversation About Racism"
 series: "begin-again"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/begin-again-a-conversation-about-racism.m4a
+podcast: https://arborchurchnw.org/podcast/begin-again-a-conversation-about-racism.m4a
 podcast_bytes: 32198564
 podcast_duration: 43:11
 youtube_id: y9lkP7YH0jg

@@ -4,7 +4,7 @@ title: "Homesick: Intermediate Heaven"
 series: "homesick"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/homesick-intermediate-heaven.m4a
+podcast: https://arborchurchnw.org/podcast/homesick-intermediate-heaven.m4a
 podcast_bytes: 19505399
 podcast_duration: 26:04
 youtube_id: yvI_3Zy5jhE

@@ -4,7 +4,7 @@ title: "Made: Clay"
 series: "made"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/made-clay.m4a
+podcast: https://arborchurchnw.org/podcast/made-clay.m4a
 podcast_bytes: 24648088 
 podcast_duration: 33:04
 ---

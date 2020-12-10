@@ -4,7 +4,7 @@ title: "Together: Like Legos"
 series: "together"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/together-like-legos.m4a
+podcast: https://arborchurchnw.org/podcast/together-like-legos.m4a
 podcast_bytes: 33251760
 podcast_duration: 45:13
 ---

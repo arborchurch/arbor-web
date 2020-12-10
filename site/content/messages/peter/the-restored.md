@@ -4,7 +4,7 @@ title: "Peter: The Restored"
 series: "peter"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/peter-the-restored.m4a
+podcast: https://arborchurchnw.org/podcast/peter-the-restored.m4a
 podcast_bytes: 25824337
 podcast_duration: 34:29
 youtube_id: sW4cCMUWiJs

@@ -4,7 +4,7 @@ title: "Splitting Logs: Serving"
 series: "splitting-logs"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/splitting-logs-serving.m4a
+podcast: https://arborchurchnw.org/podcast/splitting-logs-serving.m4a
 podcast_bytes: 24211998
 podcast_duration: 32:57
 scripture: "Ecclesiastes 10:9-10"

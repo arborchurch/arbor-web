@@ -4,7 +4,7 @@ title: "Heaven: Eternity Eventually"
 series: "heaven"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/heaven-eternity-eventually.m4a
+podcast: https://arborchurchnw.org/podcast/heaven-eternity-eventually.m4a
 podcast_bytes: 35341054 
 podcast_duration: 47:00
 ---

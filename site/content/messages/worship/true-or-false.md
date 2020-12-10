@@ -4,7 +4,7 @@ title: "Worship: True or False?"
 series: "worship"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/worship-true-or-false.m4a
+podcast: https://arborchurchnw.org/podcast/worship-true-or-false.m4a
 podcast_bytes: 32246106
 podcast_duration: 43:15
 youtube_id: exjQIpNpByc

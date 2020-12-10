@@ -4,7 +4,7 @@ title: "Living Missionally: One, Not Everyone"
 series: "living-missionally"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/living-missionally-one-not-everyone.m4a
+podcast: https://arborchurchnw.org/podcast/living-missionally-one-not-everyone.m4a
 podcast_bytes: 31154093
 podcast_duration: 41:30
 ---

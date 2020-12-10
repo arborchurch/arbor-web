@@ -4,7 +4,7 @@ title: "Made: Sheep"
 series: "made"
 speaker: "Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/made-sheep.m4a
+podcast: https://arborchurchnw.org/podcast/made-sheep.m4a
 podcast_bytes: 25381698
 podcast_duration: 33:57
 ---

@@ -4,7 +4,7 @@ title: "Name Changers: Simon to Peter"
 series: "name-changers"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/name-changers-simon-to-peter.m4a
+podcast: https://arborchurchnw.org/podcast/name-changers-simon-to-peter.m4a
 podcast_bytes: 30744986
 podcast_duration: 41:49
 ---

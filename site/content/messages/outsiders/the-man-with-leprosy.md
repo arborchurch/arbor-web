@@ -4,7 +4,7 @@ title: "Outsiders: The Man with Leprosy"
 series: "outsiders"
 speaker: "Jake Goteze"
 type: message
-podcast: https://arborchurch.com/podcast/outsiders-the-man-with-leprosy.m4a
+podcast: https://arborchurchnw.org/podcast/outsiders-the-man-with-leprosy.m4a
 podcast_bytes: 31411740 
 podcast_duration: 42:12
 scripture: "Mark 1:40-45"

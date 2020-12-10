@@ -4,7 +4,7 @@ title: "Worship: What will Worship be like in Heaven?"
 series: "worship"
 speaker: "Alison Acone"
 type: message
-podcast: https://arborchurch.com/podcast/worship-in-heaven.m4a
+podcast: https://arborchurchnw.org/podcast/worship-in-heaven.m4a
 podcast_bytes: 24390510
 podcast_duration: 32:43
 youtube_id: 9bKQFPtzssQ

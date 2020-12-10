@@ -4,7 +4,7 @@ title: "Heaven: Living for Eternity"
 series: "heaven"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/heaven-living-for-eternity.m4a
+podcast: https://arborchurchnw.org/podcast/heaven-living-for-eternity.m4a
 podcast_bytes: 25196296
 podcast_duration: 33:56
 ---

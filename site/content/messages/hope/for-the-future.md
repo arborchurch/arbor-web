@@ -4,7 +4,7 @@ title: "Hope: for the Future"
 series: "hope"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/hope-for-the-future.m4a
+podcast: https://arborchurchnw.org/podcast/hope-for-the-future.m4a
 podcast_bytes: 17642849
 podcast_duration: 24:00
 ---

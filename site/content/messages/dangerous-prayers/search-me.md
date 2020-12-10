@@ -4,7 +4,7 @@ title: "Dangerous Prayers: Search Me"
 series: "dangerous-prayers"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/dangerous-prayers-search-my-heart.m4a
+podcast: https://arborchurchnw.org/podcast/dangerous-prayers-search-my-heart.m4a
 podcast_bytes: 25957363
 podcast_duration: 35:19
 ---

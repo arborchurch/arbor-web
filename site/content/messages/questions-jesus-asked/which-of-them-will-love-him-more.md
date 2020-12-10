@@ -4,7 +4,7 @@ title: "Questions Jesus Asked: Which of Them Will Love Him More?"
 series: "questions-jesus-asked"
 speaker: "Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/questions-jesus-asked-which-of-them-will-love-him-more.m4a
+podcast: https://arborchurchnw.org/podcast/questions-jesus-asked-which-of-them-will-love-him-more.m4a
 podcast_bytes: 27076342 
 podcast_duration: 36:15
 ---

@@ -4,7 +4,7 @@ title: "Miracles: Faith of the Centurion"
 series: "miracles"
 speaker: "Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/miracles-faith-of-the-centurion.m4a
+podcast: https://arborchurchnw.org/podcast/miracles-faith-of-the-centurion.m4a
 podcast_bytes: 31229899
 podcast_duration: 41:44
 scripture: Matthew 8

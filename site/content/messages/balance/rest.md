@@ -4,7 +4,7 @@ title: "Balance: Rest"
 series: "balance"
 speaker: "Tom Regan"
 type: message
-podcast: https://arborchurch.com/podcast/balance-rest.m4a
+podcast: https://arborchurchnw.org/podcast/balance-rest.m4a
 podcast_bytes: 32512919
 podcast_duration: 43:17
 ---

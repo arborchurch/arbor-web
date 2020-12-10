@@ -4,7 +4,7 @@ title: "Worship: Lift Your Voice"
 series: "worship"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/worship-lift-your-voice.m4a
+podcast: https://arborchurchnw.org/podcast/worship-lift-your-voice.m4a
 podcast_bytes: 23126627
 podcast_duration: 30:59
 youtube_id: fpAu7U2o2hs

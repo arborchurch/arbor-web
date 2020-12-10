@@ -4,7 +4,7 @@ title: "Begin Again: Life After Death"
 series: "begin-again"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/begin-again-life-after-death.m4a
+podcast: https://arborchurchnw.org/podcast/begin-again-life-after-death.m4a
 podcast_bytes: 28003050
 podcast_duration: 38:05
 youtube_id: kC5WQ93_L-A

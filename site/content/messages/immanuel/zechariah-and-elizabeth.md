@@ -4,7 +4,7 @@ title: "Immanuel: Zechariah & Elizabeth"
 series: "immanuel"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/immanuel-zechariah-and-elizabeth.m4a
+podcast: https://arborchurchnw.org/podcast/immanuel-zechariah-and-elizabeth.m4a
 scripture: Luke 1
 podcast_bytes: 29292192
 podcast_duration: 39:15

@@ -4,7 +4,7 @@ title: "Felt Needs: Freedom"
 series: "felt-needs"
 speaker: "Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/felt-needs-freedom.m4a
+podcast: https://arborchurchnw.org/podcast/felt-needs-freedom.m4a
 podcast_bytes: 28610791
 podcast_duration: 32:06
 ---

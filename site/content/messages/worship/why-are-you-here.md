@@ -4,7 +4,7 @@ title: "Worship: Why Are You Here?"
 series: "worship"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/worship-why-are-you-here.m4a
+podcast: https://arborchurchnw.org/podcast/worship-why-are-you-here.m4a
 podcast_bytes: 19636304
 podcast_duration: 26:10
 youtube_id: wGd7fd1IGiQ

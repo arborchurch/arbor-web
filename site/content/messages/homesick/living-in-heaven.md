@@ -4,7 +4,7 @@ title: "Homesick: Living in Heaven"
 series: "homesick"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/living-in-heaven.m4a
+podcast: https://arborchurchnw.org/podcast/living-in-heaven.m4a
 podcast_bytes: 25782986
 podcast_duration: 34:29
 youtube_id: p_ZM_Msvz3k

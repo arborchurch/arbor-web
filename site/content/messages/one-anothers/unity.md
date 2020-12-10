@@ -4,7 +4,7 @@ title: "One Anothers: Unity"
 series: "one-anothers"
 speaker: "Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/one-anothers-unity.m4a
+podcast: https://arborchurchnw.org/podcast/one-anothers-unity.m4a
 podcast_bytes: 26486357
 podcast_duration: 34:31
 ---

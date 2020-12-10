@@ -4,7 +4,7 @@ title: "Helping the Hurting: Lost"
 series: "helping-the-hurting"
 speaker: "Jonathan Wolfgang"
 type: message
-podcast: https://arborchurch.com/podcast/helping-the-hurting-lost.m4a
+podcast: https://arborchurchnw.org/podcast/helping-the-hurting-lost.m4a
 podcast_bytes: 31045465
 podcast_duration: 41:38
 ---

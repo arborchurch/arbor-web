@@ -4,7 +4,7 @@ title: "Tested: Shadrach, Meshach, Abednego"
 series: "tested"
 speaker: "Mike Howerton"
 type: message
-podcast: https://arborchurch.com/podcast/tested-shadrach-meshach-abednego.m4a
+podcast: https://arborchurchnw.org/podcast/tested-shadrach-meshach-abednego.m4a
 podcast_bytes: 2736133
 podcast_duration: 37:31
 ---

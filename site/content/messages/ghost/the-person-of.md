@@ -4,7 +4,7 @@ title: "Ghost: the Person of"
 series: "ghost"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/ghost-the-person-of.m4a
+podcast: https://arborchurchnw.org/podcast/ghost-the-person-of.m4a
 podcast_bytes: 25492059
 podcast_duration: 34:17
 youtube_id: 2117-PXqc3Y

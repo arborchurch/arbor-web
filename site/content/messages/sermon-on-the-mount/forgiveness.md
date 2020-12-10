@@ -4,7 +4,7 @@ title: "Sermon on the Mount: Forgiveness"
 series: "sermon-on-the-mount"
 speaker: "Mike Howerton"
 type: message
-podcast: https://arborchurch.com/podcast/sermon-on-the-mount-forgiveness.m4a
+podcast: https://arborchurchnw.org/podcast/sermon-on-the-mount-forgiveness.m4a
 podcast_bytes: 22830732
 podcast_duration: 30:26
 ---

@@ -4,7 +4,7 @@ title: "Outsiders: Children"
 series: "outsiders"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/outsiders-children.m4a
+podcast: https://arborchurchnw.org/podcast/outsiders-children.m4a
 podcast_bytes: 34169376
 podcast_duration: 45:47
 scripture: "Matthew 19:13-14"

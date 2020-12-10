@@ -4,7 +4,7 @@ title: "Worship: Syncing Your Heart and Habits"
 series: "worship"
 speaker: "Jesse Butterworth"
 type: message
-podcast: https://arborchurch.com/podcast/worship-syncing-your-heart-and-habits.m4a
+podcast: https://arborchurchnw.org/podcast/worship-syncing-your-heart-and-habits.m4a
 podcast_bytes: 25102048
 podcast_duration: 33:17
 youtube_id: liGSMyHd88A

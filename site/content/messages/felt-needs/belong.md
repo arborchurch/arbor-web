@@ -4,7 +4,7 @@ title: "Felt Needs: Belong"
 series: "felt-needs"
 speaker: "Bob Lee"
 type: message
-podcast: https://arborchurch.com/podcast/felt-needs-belong.m4a
+podcast: https://arborchurchnw.org/podcast/felt-needs-belong.m4a
 podcast_bytes: 33659632
 podcast_duration: 44:19
 ---

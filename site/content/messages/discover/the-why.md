@@ -4,7 +4,7 @@ title: "Discover: The Why?"
 series: "discover"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/discover-the-why.m4a
+podcast: https://arborchurchnw.org/podcast/discover-the-why.m4a
 podcast_bytes: 33050847
 podcast_duration: 44:22
 youtube_id: e9B2tgq_OR8

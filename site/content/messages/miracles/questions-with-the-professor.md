@@ -4,7 +4,7 @@ title: "Miracles: Questions with the Professor"
 series: "miracles"
 speaker: "Jake Goetze, Wally Kowalski"
 type: message
-podcast: https://arborchurch.com/podcast/miracles-questions-with-the-professor.m4a
+podcast: https://arborchurchnw.org/podcast/miracles-questions-with-the-professor.m4a
 podcast_bytes: 31249077 
 podcast_duration: 41:34
 ---

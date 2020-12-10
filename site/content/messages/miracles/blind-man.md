@@ -4,7 +4,7 @@ title: "Miracles: Blind Man from Bethsaida"
 series: "miracles"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/miracles-blind-man.m4a
+podcast: https://arborchurchnw.org/podcast/miracles-blind-man.m4a
 podcast_bytes: 33659632
 podcast_duration: 30:48
 ---

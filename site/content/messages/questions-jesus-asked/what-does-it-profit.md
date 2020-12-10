@@ -4,7 +4,7 @@ title: "Questions Jesus Asked: For What Does it Profit...?"
 series: "questions-jesus-asked"
 speaker: "Bob Lee"
 type: message
-podcast: https://arborchurch.com/podcast/questions-jesus-asked-for-what-does-it-profit.m4a
+podcast: https://arborchurchnw.org/podcast/questions-jesus-asked-for-what-does-it-profit.m4a
 podcast_bytes: 34438720
 podcast_duration: 46:08
 ---

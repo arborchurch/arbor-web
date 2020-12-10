@@ -4,7 +4,7 @@ title: "Psalms: Psalm 150"
 series: "Psalms"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/psalms-psalm-150.m4a
+podcast: https://arborchurchnw.org/podcast/psalms-psalm-150.m4a
 podcast_bytes: 34134457
 podcast_duration: 46:27
 scripture: "Psalm 150"

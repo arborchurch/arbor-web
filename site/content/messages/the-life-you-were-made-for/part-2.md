@@ -4,7 +4,7 @@ title: "The Life You Were Made For: Part 2"
 series: "the-life-you-were-made-for"
 speaker: "Mike Howerton"
 type: message
-podcast: https://arborchurch.com/podcast/the-life-you-were-made-for-part-2.m4a
+podcast: https://arborchurchnw.org/podcast/the-life-you-were-made-for-part-2.m4a
 podcast_bytes: 23909579
 podcast_duration: 31:54
 youtube_id: BroiKlMfdRs

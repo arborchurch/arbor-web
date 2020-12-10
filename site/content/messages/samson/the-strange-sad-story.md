@@ -4,7 +4,7 @@ title: "The Strange, Sad Story of Samson"
 series: "samson"
 speaker: "Mike Howerton"
 type: message
-podcast: https://arborchurch.com/podcast/the-strange-sad-story-of-samson.m4a
+podcast: https://arborchurchnw.org/podcast/the-strange-sad-story-of-samson.m4a
 podcast_duration: 39:00
 podcast_bytes: 29061909
 youtube_id: fQUhIVXnc7w

@@ -4,7 +4,7 @@ title: "Outsiders: Woman Caught in Adultery"
 series: "outsiders"
 speaker: "Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/woman-caught-in-adultery.m4a
+podcast: https://arborchurchnw.org/podcast/woman-caught-in-adultery.m4a
 podcast_bytes: 28243953
 podcast_duration: 37:50
 scripture: "John 8:1-11"

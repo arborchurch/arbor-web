@@ -4,7 +4,7 @@ title: "Name Changers: Jacob to Israel"
 series: "name-changers"
 speaker: "Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/name-changers-jacob-to-israel.m4a
+podcast: https://arborchurchnw.org/podcast/name-changers-jacob-to-israel.m4a
 podcast_bytes: 32658804
 podcast_duration: 43:27
 ---

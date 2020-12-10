@@ -4,7 +4,7 @@ title: "Immanuel: Mary"
 series: "immanuel"
 speaker: "Jonathan Wolfgang"
 type: message
-podcast: https://arborchurch.com/podcast/mary.m4a
+podcast: https://arborchurchnw.org/podcast/mary.m4a
 scripture: Psalm 16
 podcast_bytes: 24924988
 podcast_duration: 33:23

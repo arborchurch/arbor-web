@@ -4,7 +4,7 @@ title: "Questions Jesus Asked: Which Was His Neighbor?"
 series: "questions-jesus-asked"
 speaker: "Dave Swenson"
 type: message
-podcast: https://arborchurch.com/podcast/questions-jesus-asked-which-was-his-neighbor.m4a
+podcast: https://arborchurchnw.org/podcast/questions-jesus-asked-which-was-his-neighbor.m4a
 podcast_bytes: 26664695 
 podcast_duration: 35:58
 ---

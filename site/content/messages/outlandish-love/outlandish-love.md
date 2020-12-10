@@ -4,7 +4,7 @@ title: "Outlandish Love"
 series: "outlandish-love"
 speaker: "Mike Howerton"
 type: message
-podcast: https://arborchurch.com/podcast/outlandish-love.m4a
+podcast: https://arborchurchnw.org/podcast/outlandish-love.m4a
 podcast_bytes: 28795261
 podcast_duration: 38:59
 youtube_id: PS6kvoRzGNM

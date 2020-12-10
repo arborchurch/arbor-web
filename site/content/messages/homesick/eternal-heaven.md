@@ -4,7 +4,7 @@ title: "Homesick: Eternal Heaven"
 series: "homesick"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/homesick-eternal-heaven.m4a
+podcast: https://arborchurchnw.org/podcast/homesick-eternal-heaven.m4a
 podcast_bytes: 22889320
 podcast_duration: 30:34
 youtube_id: -UDTV_02vVw

@@ -4,7 +4,7 @@ title: "Overwhelmed: by Pace"
 series: "overwhelmed"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/overwhelmed-by-pace.m4a
+podcast: https://arborchurchnw.org/podcast/overwhelmed-by-pace.m4a
 podcast_bytes: 28893631
 podcast_duration: 39:18
 ---

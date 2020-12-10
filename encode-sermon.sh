@@ -23,9 +23,9 @@ echo "podcast_duration: $DURATION"
 echo "---"
 
 # upload encoded version to web host
-scp "$4" arborchurch@arborchurch.com:arborchurch.com/podcast
+scp "$4" arborchurch@arborchurch.com:arborchurchnw.org/podcast
 
 # upload original to web host
-scp "$3" arborchurch@arborchurch.com:arborchurch.com/podcast/originals
+scp "$3" arborchurch@arborchurch.com:arborchurchnw.org/podcast/originals
 
 

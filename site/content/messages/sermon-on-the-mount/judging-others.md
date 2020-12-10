@@ -4,7 +4,7 @@ title: "Sermon on the Mount: Judging Others"
 series: "sermon-on-the-mount"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/sermon-on-the-mount-judging-others.m4a
+podcast: https://arborchurchnw.org/podcast/sermon-on-the-mount-judging-others.m4a
 podcast_bytes: 32444069 
 podcast_duration: 43:18
 ---

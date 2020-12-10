@@ -4,7 +4,7 @@ title: "Making Disciples: Part 1"
 series: "making-disciples"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/making-disciples-find.m4a
+podcast: https://arborchurchnw.org/podcast/making-disciples-find.m4a
 podcast_bytes: 26799282
 podcast_duration: 36:28
 ---

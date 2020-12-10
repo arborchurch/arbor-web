@@ -4,7 +4,7 @@ title: "Sermon on the Mount: The Fulfillment of the Law"
 series: "sermon-on-the-mount"
 speaker: "Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/sermon-on-the-mount-the-fulfillment-of-the-law.m4a
+podcast: https://arborchurchnw.org/podcast/sermon-on-the-mount-the-fulfillment-of-the-law.m4a
 podcast_bytes: 35952476 
 podcast_duration: 37:48
 scripture: Matthew 5:17

@@ -4,7 +4,7 @@ title: "Dangerous Prayers: Send Me"
 series: "dangerous-prayers"
 speaker: "Pat Swanson"
 type: message
-podcast: https://arborchurch.com/podcast/dangerous-prayers-send-me.m4a
+podcast: https://arborchurchnw.org/podcast/dangerous-prayers-send-me.m4a
 podcast_bytes: 30083646
 podcast_duration: 40:55
 ---

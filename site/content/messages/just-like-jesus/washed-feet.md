@@ -4,7 +4,7 @@ title: "Just Like Jesus: Washed Feet"
 series: "just-like-jesus"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/just-like-jesus-washed-feet.m4a
+podcast: https://arborchurchnw.org/podcast/just-like-jesus-washed-feet.m4a
 podcast_bytes: 32828694
 podcast_duration: 43:58
 youtube_id: 4zRB8-Dzzdc

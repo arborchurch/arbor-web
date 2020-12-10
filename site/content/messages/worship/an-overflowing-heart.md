@@ -4,7 +4,7 @@ title: "Worship: An Overflowing Heart"
 series: "worship"
 speaker: "Bryan Cobley"
 type: message
-podcast: https://arborchurch.com/podcast/worship-an-overflowing-heart.m4a
+podcast: https://arborchurchnw.org/podcast/worship-an-overflowing-heart.m4a
 podcast_bytes: 23988281
 podcast_duration: 32:11
 youtube_id: TtBhtpaYH8A

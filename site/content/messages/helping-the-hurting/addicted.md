@@ -4,7 +4,7 @@ title: "Helping the Hurting: Addicted"
 series: "helping-the-hurting"
 speaker: "Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/helping-the-hurting-addicted.m4a
+podcast: https://arborchurchnw.org/podcast/helping-the-hurting-addicted.m4a
 podcast_bytes: 35360613
 podcast_duration: 46:47
 ---

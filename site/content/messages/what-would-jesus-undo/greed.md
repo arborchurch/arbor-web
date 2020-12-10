@@ -4,7 +4,7 @@ title: "What Would Jesus Undo: Greed"
 series: "what-would-jesus-undo"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/what-would-jesus-undo-greed.mp3
+podcast: https://arborchurchnw.org/podcast/what-would-jesus-undo-greed.mp3
 podcast_bytes: 77504284
 podcast_duration: 39:25
 ---

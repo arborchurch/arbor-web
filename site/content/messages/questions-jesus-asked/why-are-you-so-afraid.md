@@ -4,7 +4,7 @@ title: "Questions Jesus Asked: Why Are You So Afraid?"
 series: "questions-jesus-asked"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/questions-jesus-asked-why-are-you-so-afraid.m4a
+podcast: https://arborchurchnw.org/podcast/questions-jesus-asked-why-are-you-so-afraid.m4a
 podcast_bytes: 27114901
 podcast_duration: 36:32
 ---

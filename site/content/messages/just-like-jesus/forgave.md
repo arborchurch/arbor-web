@@ -4,7 +4,7 @@ title: "Just Like Jesus: Forgave"
 series: "just-like-jesus"
 speaker: "Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/just-like-jesus-forgave.m4a
+podcast: https://arborchurchnw.org/podcast/just-like-jesus-forgave.m4a
 podcast_bytes: 36070721
 podcast_duration: 48:00
 youtube_id: Rg2ia8gIzB4

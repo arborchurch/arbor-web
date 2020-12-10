@@ -4,7 +4,7 @@ title: "Immanuel: The Shepherds"
 series: "immanuel"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/immanuel-shepherds.m4a
+podcast: https://arborchurchnw.org/podcast/immanuel-shepherds.m4a
 scripture: Luke 2:12-16
 podcast_bytes: 28476507
 podcast_duration: 38:09

@@ -4,7 +4,7 @@ title: "Felt Needs: Known"
 series: "felt-needs"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/felt-needs-known.m4a
+podcast: https://arborchurchnw.org/podcast/felt-needs-known.m4a
 podcast_bytes: 28610791
 podcast_duration: 38:01
 ---

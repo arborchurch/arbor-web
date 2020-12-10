@@ -4,7 +4,7 @@ title: "Hope: for our Present"
 series: "hope"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/hope-for-our-present.m4a
+podcast: https://arborchurchnw.org/podcast/hope-for-our-present.m4a
 podcast_bytes: 26932163
 podcast_duration: 36:38
 ---

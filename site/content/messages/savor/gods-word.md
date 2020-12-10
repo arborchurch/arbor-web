@@ -4,7 +4,7 @@ title: "Savor: God's Word"
 series: "savor"
 speaker: "Bryan Cobley"
 type: message
-podcast: https://arborchurch.com/podcast/savor-gods-word.m4a
+podcast: https://arborchurchnw.org/podcast/savor-gods-word.m4a
 podcast_bytes: 24113053
 podcast_duration: 32:48
 ---

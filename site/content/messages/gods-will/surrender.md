@@ -4,7 +4,7 @@ title: "God's Will: Surrender"
 series: "gods-will"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/gods-will-knowing-gods-will.m4a
+podcast: https://arborchurchnw.org/podcast/gods-will-knowing-gods-will.m4a
 podcast_bytes: 23426312
 podcast_duration: 31:28
 ---

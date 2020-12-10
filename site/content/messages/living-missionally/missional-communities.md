@@ -4,7 +4,7 @@ title: "Living Missionally: Missional Communities"
 series: "living-missionally"
 speaker: "Jake Goetze, Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/living-missionally-missional-communities.m4a
+podcast: https://arborchurchnw.org/podcast/living-missionally-missional-communities.m4a
 podcast_bytes: 37840180
 podcast_duration: 50:12
 ---

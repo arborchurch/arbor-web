@@ -4,7 +4,7 @@ title: "Together: Like Family"
 series: "together"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/together-like-family.m4a
+podcast: https://arborchurchnw.org/podcast/together-like-family.m4a
 podcast_bytes: 32077267
 podcast_duration: 43:02
 ---

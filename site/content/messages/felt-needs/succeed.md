@@ -4,7 +4,7 @@ title: "Felt Needs: Succeed"
 series: "felt-needs"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/felt-needs-succeed.m4a
+podcast: https://arborchurchnw.org/podcast/felt-needs-succeed.m4a
 podcast_bytes: 28803166
 podcast_duration: 38:43
 ---

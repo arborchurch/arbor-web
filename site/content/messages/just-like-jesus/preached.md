@@ -4,7 +4,7 @@ title: "Just Like Jesus: Preached"
 series: "just-like-jesus"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/just-like-jesus-preached.m4a
+podcast: https://arborchurchnw.org/podcast/just-like-jesus-preached.m4a
 podcast_bytes: 30432689
 podcast_duration: 40:35
 youtube_id: BX_Xl0Zaa9k

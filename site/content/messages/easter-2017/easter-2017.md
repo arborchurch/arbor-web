@@ -4,7 +4,7 @@ title: "The Reality of the Resurrection"
 series: "easter-2017"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/easter-2017.m4a
+podcast: https://arborchurchnw.org/podcast/easter-2017.m4a
 podcast_bytes: 32156727
 podcast_duration: 43:19
 ---

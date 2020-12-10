@@ -4,7 +4,7 @@ title: "Arbor's First Birthday!"
 series: "first-birthday"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/first-birthday.m4a
+podcast: https://arborchurchnw.org/podcast/first-birthday.m4a
 podcast_bytes: 32092557
 podcast_duration: 43:00
 scripture: Isaih 61

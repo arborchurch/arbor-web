@@ -4,7 +4,7 @@ title: "Good Friday"
 series: "good-friday-2019"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/good-friday-2019.m4a
+podcast: https://arborchurchnw.org/podcast/good-friday-2019.m4a
 podcast_bytes: 18752393
 podcast_duration: 25:30
 ---

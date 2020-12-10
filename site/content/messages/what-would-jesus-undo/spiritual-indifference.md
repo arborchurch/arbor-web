@@ -4,7 +4,7 @@ title: "What Would Jesus Undo: Spiritual Indifference"
 series: "what-would-jesus-undo"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/what-would-jesus-undo-spiritual-indifference.m4a
+podcast: https://arborchurchnw.org/podcast/what-would-jesus-undo-spiritual-indifference.m4a
 podcast_bytes: 28234964
 podcast_duration: 38:24
 ---

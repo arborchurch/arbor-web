@@ -4,7 +4,7 @@ title: "Name Changers: Saul to Paul"
 series: "name-changers"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/name-changers-saul-to-paul.m4a
+podcast: https://arborchurchnw.org/podcast/name-changers-saul-to-paul.m4a
 podcast_bytes: 27286517
 podcast_duration: 37:07
 ---

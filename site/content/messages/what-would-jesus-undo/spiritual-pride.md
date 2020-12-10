@@ -4,7 +4,7 @@ title: "What Would Jesus Undo: Spiritual Pride"
 series: "what-would-jesus-undo"
 speaker: "Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/what-would-jesus-undo-spiritual-pride.m4a
+podcast: https://arborchurchnw.org/podcast/what-would-jesus-undo-spiritual-pride.m4a
 podcast_bytes: 25004844
 podcast_duration: 34:00
 ---

@@ -4,7 +4,7 @@ title: "Miracles: The Pool of Bethesda"
 series: "miracles"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/miracles-the-pool-of-bethesda.m4a
+podcast: https://arborchurchnw.org/podcast/miracles-the-pool-of-bethesda.m4a
 scripture: John 4
 podcast_bytes: 32655113
 podcast_duration: 43:44

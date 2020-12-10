@@ -4,7 +4,7 @@ title: "Unity"
 series: "unity"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/unity-unity.m4a
+podcast: https://arborchurchnw.org/podcast/unity-unity.m4a
 podcast_bytes: 22363462
 podcast_duration: 30:56
 youtube_id: CKXJEmC7iGE

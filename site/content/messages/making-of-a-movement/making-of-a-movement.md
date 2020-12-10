@@ -4,7 +4,7 @@ title: "Making of a Movement"
 series: "making-of-a-movement"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/making-of-a-movement.m4a
+podcast: https://arborchurchnw.org/podcast/making-of-a-movement.m4a
 podcast_bytes: 26792822
 podcast_duration: 35:43
 ---

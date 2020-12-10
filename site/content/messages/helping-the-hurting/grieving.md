@@ -4,7 +4,7 @@ title: "Helping the Hurting: Grieving"
 series: "helping-the-hurting"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/helping-the-hurting-grieving.m4a
+podcast: https://arborchurchnw.org/podcast/helping-the-hurting-grieving.m4a
 podcast_bytes: 32991704
 podcast_duration: 43:56
 ---

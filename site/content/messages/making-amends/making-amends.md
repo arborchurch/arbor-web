@@ -4,7 +4,7 @@ title: "Making Amends"
 series: "making-amends"
 speaker: "Jonathan Wolfgang"
 type: message
-podcast: https://arborchurch.com/podcast/making-amends.m4a
+podcast: https://arborchurchnw.org/podcast/making-amends.m4a
 podcast_bytes: 31373943
 podcast_duration: 42:20
 ---

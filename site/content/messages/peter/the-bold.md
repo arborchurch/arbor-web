@@ -4,7 +4,7 @@ title: "Peter: The Bold"
 series: "peter"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/peter-the-bold.m4a
+podcast: https://arborchurchnw.org/podcast/peter-the-bold.m4a
 podcast_bytes: 25083154
 podcast_duration: 33:39
 youtube_id: 3wx8deEuKdA

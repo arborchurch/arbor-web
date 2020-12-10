@@ -4,7 +4,7 @@ title: "Choose: Purpose over Popularity"
 series: "choose"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/choose-purpose-over-popularity.m4a
+podcast: https://arborchurchnw.org/podcast/choose-purpose-over-popularity.m4a
 podcast_bytes: 28523058
 podcast_duration: 38:09
 youtube_id: dDnkIbjvSLk

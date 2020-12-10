@@ -4,7 +4,7 @@ title: "Great Expectations"
 series: "great-expectations"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/great-expectations.m4a
+podcast: https://arborchurchnw.org/podcast/great-expectations.m4a
 podcast_bytes: 31621846
 podcast_duration: 43:01
 ---

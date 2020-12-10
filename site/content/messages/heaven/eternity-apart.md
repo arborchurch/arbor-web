@@ -4,7 +4,7 @@ title: "Heaven: Eternity Apart"
 series: "heaven"
 speaker: "Bob Lee"
 type: message
-podcast: https://arborchurch.com/podcast/heaven-eternity-apart.m4a
+podcast: https://arborchurchnw.org/podcast/heaven-eternity-apart.m4a
 podcast_bytes: 30149553 
 podcast_duration: 38:23
 scripture: "Romans 1:18-23"

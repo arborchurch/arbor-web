@@ -4,7 +4,7 @@ title: "Begin Again: Life After Loss"
 series: "begin-again"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/begin-again-life-after-loss.m4a
+podcast: https://arborchurchnw.org/podcast/begin-again-life-after-loss.m4a
 podcast_bytes: 26100122
 podcast_duration: 35:16
 youtube_id: bvhQO54MRk0

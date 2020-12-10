@@ -4,7 +4,7 @@ title: "Christmas Table"
 series: "christmas-table"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/christmas-table.m4a
+podcast: https://arborchurchnw.org/podcast/christmas-table.m4a
 podcast_bytes: 27107011
 podcast_duration: 36:19
 youtube_id: OdWRzOedygk

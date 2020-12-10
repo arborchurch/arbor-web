@@ -36,7 +36,7 @@ Once you have a WAV containing just the audio, you need to encode and compress i
 
 Now copy the resultant m4a file to the podcast directory of the website like so:
 
-    scp path-to-m4a.m4a arborchurch@arborchurch.com:arborchurch.com/podcast
+    scp path-to-m4a.m4a arborchurch@arborchurch.com:arborchurchnw.org/podcast
 
 ### Update website and podcast
 

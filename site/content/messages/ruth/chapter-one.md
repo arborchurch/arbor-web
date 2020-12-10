@@ -4,7 +4,7 @@ title: "Ruth: Part One"
 series: "ruth"
 speaker: "Bob Lee"
 type: message
-podcast: https://arborchurch.com/podcast/ruth-chapter-one.m4a
+podcast: https://arborchurchnw.org/podcast/ruth-chapter-one.m4a
 podcast_bytes: 30149553 
 podcast_duration: 36:16
 scripture: "Ruth 1"

@@ -4,7 +4,7 @@ title: "Miracles: The Raising of Lazarus"
 series: "miracles"
 speaker: "Bob Lee"
 type: message
-podcast: https://arborchurch.com/podcast/miracles-the-raising-of-lazarus.m4a
+podcast: https://arborchurchnw.org/podcast/miracles-the-raising-of-lazarus.m4a
 scripture: John 11
 podcast_bytes: 29495751
 podcast_duration: 39:09

@@ -4,7 +4,7 @@ title: "Peter: The Healer"
 series: "peter"
 speaker: "Mike Howerton"
 type: message
-podcast: https://arborchurch.com/podcast/peter-the-healer.m4a
+podcast: https://arborchurchnw.org/podcast/peter-the-healer.m4a
 podcast_bytes: 21698533
 podcast_duration: 28:56
 youtube_id: 5q_MqumAvdw

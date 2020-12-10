@@ -4,7 +4,7 @@ title: "What's the Point: My Life"
 series: "whats-the-point"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/whats-the-point-my-life.m4a
+podcast: https://arborchurchnw.org/podcast/whats-the-point-my-life.m4a
 podcast_bytes: 26516762
 podcast_duration: 36:04
 ---

@@ -4,7 +4,7 @@ title: "Outsiders: Paul"
 series: "outsiders"
 speaker: "Bob Lee"
 type: message
-podcast: https://arborchurch.com/podcast/outsiders-paul.m4a
+podcast: https://arborchurchnw.org/podcast/outsiders-paul.m4a
 podcast_bytes: 29816725
 podcast_duration: 39:57
 scripture: "Acts 9:1-19"

@@ -4,7 +4,7 @@ title: "Savor: Rest"
 series: "savor"
 speaker: "Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/savor-rest.m4a
+podcast: https://arborchurchnw.org/podcast/savor-rest.m4a
 podcast_bytes: 22423105
 podcast_duration: 30:29
 ---

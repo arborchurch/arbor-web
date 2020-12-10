@@ -4,7 +4,7 @@ title: "Peter: The Dreamer"
 series: "peter"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/peter-the-dreamer.m4a
+podcast: https://arborchurchnw.org/podcast/peter-the-dreamer.m4a
 podcast_bytes: 20091783
 podcast_duration: 27:06
 youtube_id: xBk8HtUlKjo

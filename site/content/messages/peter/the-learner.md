@@ -4,7 +4,7 @@ title: "Peter: The Learner"
 series: "peter"
 speaker: "Mike Howerton"
 type: message
-podcast: https://arborchurch.com/podcast/peter-the-learner.m4a
+podcast: https://arborchurchnw.org/podcast/peter-the-learner.m4a
 podcast_bytes: 19161251 
 podcast_duration: 25:34
 youtube_id: OHjpAS6dw_0

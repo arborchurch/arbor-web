@@ -4,7 +4,7 @@ title: "Splitting Logs: Teams"
 series: "splitting-logs"
 speaker: "Jake Goetze, Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/splitting-logs-teams.m4a
+podcast: https://arborchurchnw.org/podcast/splitting-logs-teams.m4a
 podcast_bytes: 32807626
 podcast_duration: 44:37
 ---

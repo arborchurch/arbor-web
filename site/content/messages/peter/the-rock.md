@@ -4,7 +4,7 @@ title: "Peter: The Rock"
 series: "peter"
 speaker: "Garrett Birkeland"
 type: message
-podcast: https://arborchurch.com/podcast/peter-the-rock.m4a
+podcast: https://arborchurchnw.org/podcast/peter-the-rock.m4a
 podcast_bytes: 21394908
 podcast_duration: 29:06
 youtube_id: CaoHDilpHLc

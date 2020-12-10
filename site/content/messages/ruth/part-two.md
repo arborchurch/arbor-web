@@ -4,7 +4,7 @@ title: "Ruth: Part Two"
 series: "ruth"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/ruth-part-two.m4a
+podcast: https://arborchurchnw.org/podcast/ruth-part-two.m4a
 podcast_bytes: 33880550
 podcast_duration: 45:02
 scripture: "Ruth 2-3"

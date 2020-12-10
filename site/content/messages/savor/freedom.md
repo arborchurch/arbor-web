@@ -4,7 +4,7 @@ title: "Savor: Freedom"
 series: "savor"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/savor-freedom.m4a
+podcast: https://arborchurchnw.org/podcast/savor-freedom.m4a
 podcast_bytes: 26259967
 podcast_duration: 35:43
 ---

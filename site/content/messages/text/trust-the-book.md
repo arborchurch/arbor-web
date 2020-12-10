@@ -4,7 +4,7 @@ title: "Text: Trust the Book"
 series: "text"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/text-trust-the-book.m4a
+podcast: https://arborchurchnw.org/podcast/text-trust-the-book.m4a
 podcast_bytes: 30651599
 podcast_duration: 41:42
 ---

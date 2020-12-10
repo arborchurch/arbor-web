@@ -4,7 +4,7 @@ title: "Sermon on the Mount: Fasting"
 series: "sermon-on-the-mount"
 speaker: "Jake Goetze"
 type: message
-podcast: https://arborchurch.com/podcast/sermon-on-the-mount-fasting.m4a
+podcast: https://arborchurchnw.org/podcast/sermon-on-the-mount-fasting.m4a
 podcast_bytes: 26599009
 podcast_duration: 35:30
 ---

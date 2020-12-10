@@ -4,7 +4,7 @@ title: "Peter: The Preacher"
 series: "peter"
 speaker: "Scott Hetherington"
 type: message
-podcast: https://arborchurch.com/podcast/peter-the-preacher.m4a
+podcast: https://arborchurchnw.org/podcast/peter-the-preacher.m4a
 podcast_bytes: 18030089
 podcast_duration: 24:00
 youtube_id: WSVNLuWllXk
