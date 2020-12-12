@@ -7,15 +7,18 @@
 # - ffmpeg command
 
 import os
+import re
 import pathlib
 import urllib.request
 import xml.etree.ElementTree as ET
 import yaml
+import subprocess
 
 print(os.path.dirname(os.path.realpath(__file__)))
 
 local_ids = []
 remote_ids = []
+max_id = 0
 
 print("Reading local episodes...")
 here = pathlib.Path(os.path.dirname(os.path.realpath(__file__)))
@@ -38,6 +41,9 @@ for episode in episodes.iterdir():
         id = metadata["youtube_id"]
         local_ids.append(id)
 
+        # compute largest id
+        max_id = max(int(parts[0]), max_id)
+
         print("Episode " + str(int(parts[0])) + ": " + episode.name + " (" + id + ")")
 
 
@@ -45,7 +51,7 @@ print("Synchronizing playlist from YouTube...")
 
 # get the RSS XML from YouTube
 response = urllib.request.urlopen(
-    'https://www.youtube.com/feeds/videos.xml?playlist_id=PLBA3HWqIJ2eos8Ikf0Fwj33W_WiIShBS5')
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCRe_QiHhuGwlIY43ECFopNQ')
 rss = response.read()
 
 root = ET.fromstring(rss)
@@ -55,8 +61,40 @@ for child in root.findall("{http://www.w3.org/2005/Atom}entry"):
     date = child.find("{http://www.w3.org/2005/Atom}published").text
     media = child.find("{http://search.yahoo.com/mrss/}group")
     description = media.find("{http://search.yahoo.com/mrss/}description").text
-    print(title + " (" + id + "), published " + date)
-    remote_ids.append(id)
+    if "The Followup" in title:
+        # strip prefix from title
+        title = title.replace("The Followup // ", "")
+        print(title + " (" + id + "), published " + date)
+        if id in local_ids: 
+            print("Already published")
+        else:
+            frontmatter = {}
+            frontmatter["youtube_id"] = id
+            frontmatter["title"] = title
+            frontmatter["date"] = date
+
+            # just take the first sentence from the description
+            description = description.split("\n")[0]
+
+            # form the filenames
+            max_id = max_id + 1
+            safe_title = re.sub(r'[^A-Za-z0-9]', '-', title.lower())
+            safe_title = re.sub(r'-+', '-', safe_title)
+            md_filename = str(max_id).zfill(4) + "-" + safe_title + ".md"
+            mp4_filename = "the-followup-" + str(max_id).zfill(4) + "-" + safe_title + ".m4a"
+
+            frontmatter["podcast"] = "https://arborchurchnw.org/podcast/" + mp4_filename
+
+            # download from youtube
+
+
+            # markdown file to write
+            markdown = "---\n" + yaml.dump(frontmatter) + "---\n\n" + description
+            dest = episodes / md_filename
+            dest_file = open(dest, "w")
+            dest_file.write(markdown)
+            print(str(dest) + " created")
+
     
 # TODO: Get followup episodes from YAML, find IDs
 # If an ID exists on youtube but not in YAML:
