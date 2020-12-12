@@ -4,3 +4,16 @@ backend:
   repo: arborchurch/arbor-web
 media_folder: "static/img/uploads"
 public_folder: "/img/uploads"
+collections:
+  - name: "event"
+    label: "Events" # Used in the UI
+    folder: "content/event"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Expiration Date", name: "date", widget: "datetime"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Where", name: "where", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
