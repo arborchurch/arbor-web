@@ -13,7 +13,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Expiration Date", name: "date", widget: "datetime"}
+      - {label: "Expiration Date", name: "expirydate", widget: "datetime"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Where", name: "where", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
