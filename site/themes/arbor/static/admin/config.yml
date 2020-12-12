@@ -6,7 +6,7 @@ media_folder: "static/img/uploads"
 public_folder: "/img/uploads"
 collections:
   - name: "event"
-    label: "Events" # Used in the UI
+    label: "Event"
     folder: "site/content/event"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
@@ -16,4 +16,13 @@ collections:
       - {label: "Expiration Date", name: "expirydate", widget: "datetime"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Where", name: "where", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+collections:
+  - name: "news"
+    label: "News"
+    folder: "site/content/news"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}"
+    fields:
+      - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
