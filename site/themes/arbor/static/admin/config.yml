@@ -17,7 +17,6 @@ collections:
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Where", name: "where", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-collections:
   - name: "news"
     label: "News"
     folder: "site/content/news"
