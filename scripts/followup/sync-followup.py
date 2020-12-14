@@ -80,25 +80,38 @@ for child in root.findall("{http://www.w3.org/2005/Atom}entry"):
             max_id = max_id + 1
             safe_title = re.sub(r'[^A-Za-z0-9]', '-', title.lower())
             safe_title = re.sub(r'-+', '-', safe_title)
-            md_filename = str(max_id).zfill(4) + "-" + safe_title + ".md"
-            mp4_filename = "the-followup-" + str(max_id).zfill(4) + "-" + safe_title + ".m4a"
+            filename_base = str(max_id).zfill(4) + "-" + safe_title 
+            md_filename =  filename_base + ".md"
+            mp4_filename = "the-followup-" + filename_base + ".m4a"
+            flac_filename = filename_base + ".flac"
 
             frontmatter["podcast"] = "https://arborchurchnw.org/podcast/" + mp4_filename
 
             # download from youtube
+            print("*** Downloading YouTube vodcast " + id + " ***")
+            subprocess.run(["youtube-dl", "--audio-format", "flac", "-x", id, "-o", flac_filename])
 
+            # encode into mp4 suitable for podcast
+            print("*** Encoding to M4A for podcast ***")
+            subprocess.run(["ffmpeg", "-i", flac_filename, "-c:a", "aac", "-b:a", "96k", "-ac", "1", "-metadata", "title=\"" + title + "\"", "-metadata", "author=\"Arbor Church\"", "-movflags", "+faststart", mp4_filename])
+
+            # upload podcast to storage
+            print("*** Uploading " + mp4_filename + " to web host ***")
+            subprocess.run(["scp", mp4_filename, "arborchurch@arborchurchnw.org:arborchurchnw.org/podcast"])
+
+            # clean up flac/mp4 temporary
+            os.remove(flac_filename)
+            os.remove(mp4_filename)
 
             # markdown file to write
             markdown = "---\n" + yaml.dump(frontmatter) + "---\n\n" + description
             dest = episodes / md_filename
             dest_file = open(dest, "w")
             dest_file.write(markdown)
-            print(str(dest) + " created")
+            
+            # stage for git
+            subprocess.run(["git", "add", dest])
 
-    
-# TODO: Get followup episodes from YAML, find IDs
-# If an ID exists on youtube but not in YAML:
-# 1. youtube-dl to get its video file audio in FLAC
-# 2. ffmpeg to convert FLAC to podcast
-# 3. scp podcast M4a to storage
-# 4. create and commit YAML 
+            # subprocess.run("git", "commit", "-m", "add followup episode ", max_id, ": " + title)
+
+            print(str(dest) + " created")
