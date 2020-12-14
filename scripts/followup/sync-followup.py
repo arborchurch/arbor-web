@@ -108,6 +108,7 @@ for child in root.findall("{http://www.w3.org/2005/Atom}entry"):
             dest = episodes / md_filename
             dest_file = open(dest, "w")
             dest_file.write(markdown)
+            dest_file.close()
             
             # stage for git
             subprocess.run(["git", "add", dest])
