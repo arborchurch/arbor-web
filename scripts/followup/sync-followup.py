@@ -72,6 +72,7 @@ for child in root.findall("{http://www.w3.org/2005/Atom}entry"):
             frontmatter["youtube_id"] = id
             frontmatter["title"] = title
             frontmatter["date"] = date
+            frontmatter["type"] = "vodcast"
 
             # just take the first sentence from the description
             description = description.split("\n")[0]
