@@ -70,7 +70,7 @@ for child in root.findall("{http://www.w3.org/2005/Atom}entry"):
         else:
             frontmatter = {}
             frontmatter["youtube_id"] = id
-            frontmatter["title"] = title
+            frontmatter["title"] = "The Followup: " + title
             frontmatter["date"] = date
             frontmatter["type"] = "vodcast"
 
@@ -99,6 +99,9 @@ for child in root.findall("{http://www.w3.org/2005/Atom}entry"):
             # upload podcast to storage
             print("*** Uploading " + mp4_filename + " to web host ***")
             subprocess.run(["scp", mp4_filename, "arborchurch@arborchurchnw.org:arborchurchnw.org/podcast"])
+
+            # record podcast metadata
+            frontmatter["podcast_bytes"] = os.path.getsize(mp4_filename)
 
             # clean up flac/mp4 temporary
             os.remove(flac_filename)
