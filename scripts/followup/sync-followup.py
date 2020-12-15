@@ -90,7 +90,7 @@ for child in root.findall("{http://www.w3.org/2005/Atom}entry"):
 
             # download from youtube
             print("*** Downloading YouTube vodcast " + id + " ***")
-            subprocess.run(["youtube-dl", "--audio-format", "flac", "-x", id, "-o", flac_filename])
+            subprocess.run(["youtube-dl", "--audio-format", "flac", "-x", "https://www.youtube.com/watch?v=" + id, "-o", flac_filename])
 
             # encode into mp4 suitable for podcast
             print("*** Encoding to M4A for podcast ***")
