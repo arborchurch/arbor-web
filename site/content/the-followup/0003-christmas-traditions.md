@@ -1,8 +1,9 @@
 ---
 date: '2020-11-30T16:00:04+00:00'
 podcast: https://arborchurchnw.org/podcast/the-followup-0003-christmas-traditions.m4a
-title: Christmas Traditions
+title: "The Followup: Christmas Traditions"
 youtube_id: K4qzoVqK9P0
+podcast_bytes: 24430581
 type: vodcast
 ---
 
