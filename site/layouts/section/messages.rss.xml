@@ -17,7 +17,7 @@
        <itunes:category text="Christianity" />
     </itunes:category>
     <lastBuildDate>{{ .Site.LastChange }}</lastBuildDate>
-    {{ range (where .Site.RegularPages "Type" "in" "message") }}
+    {{ range (where .Site.RegularPages "Type" "in" (slice "message" "vodcast")) }}
     <item>
       {{ `<title><![CDATA[` | safeHTML }}{{ with .Title }}{{ . | htmlUnescape | safeHTML }}{{ end }}]]></title>
       <itunes:author>{{ .Params.speaker }}</itunes:author>
