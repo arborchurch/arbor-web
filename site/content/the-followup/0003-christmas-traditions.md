@@ -4,6 +4,7 @@ podcast: https://arborchurchnw.org/podcast/the-followup-0003-christmas-tradition
 title: "The Followup: Christmas Traditions"
 youtube_id: K4qzoVqK9P0
 podcast_bytes: 24430581
+podcast_duration: 32:45
 type: vodcast
 ---
 
