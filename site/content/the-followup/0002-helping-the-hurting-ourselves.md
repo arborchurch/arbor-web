@@ -4,6 +4,7 @@ podcast: https://arborchurchnw.org/podcast/the-followup-0002-helping-the-hurting
 title: 'The Followup: Helping The Hurting: Ourselves'
 youtube_id: FaAEdrFB0u4
 podcast_bytes: 29133405
+podcast_duration: 38:37
 type: vodcast
 ---
 

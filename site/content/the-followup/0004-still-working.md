@@ -5,6 +5,7 @@ title: "The Followup: Still... Working"
 type: vodcast
 youtube_id: --A_kADPnaA
 podcast_bytes: 29531913
+podcast_duration: 39:13
 ---
 
 Alison, Bryan, and Hayden sit down to discuss Bryan's message from yesterday and the intertestamental period. 
