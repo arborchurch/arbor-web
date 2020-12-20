@@ -6,8 +6,8 @@
     <iframe class="youtube" src="https://www.youtube.com/embed/{{ .Params.youtube_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <div class="collapsible">
-    <input id="collapse_{{ .UniqueID }}" class="toggle" type="checkbox" />
-    <label for="collapse_{{ .UniqueID }}" class="label button" class="btn btn-default">
+    <input id="collapse_{{ .File.UniqueID }}" class="toggle" type="checkbox" />
+    <label for="collapse_{{ .File.UniqueID }}" class="label button" class="btn btn-default">
       <span class="glyphicon glyphicon-headphones" aria-hidden="true"></span>
       &nbsp;
       Listen
