@@ -1,4 +1,4 @@
-<h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+<h2><a href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}">{{ .Title }}</a></h2>
 <h4>{{ .Date.Format "Monday, January 2, 2006" }}</h4>
 
 {{ if isset .Params "youtube_id" }}
@@ -8,3 +8,5 @@
 {{ end }}
 
 <p>{{ .Content }}</p>
+
+<p>&nbsp;</p>
