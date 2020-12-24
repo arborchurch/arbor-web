@@ -13,6 +13,7 @@ type: page
   }
   h2 {
     margin-top: 100px;
+    margin-bottom: 25px;
   }
 </style>
 <div style="text-align: center;">
@@ -36,7 +37,7 @@ What the gladsome tidings be<br />
 Which inspire your heavenly song<br />
 <br />
 Come to Bethlehem to see<br />
-him whose birth the angels sing<br />
+Him whose birth the angels sing<br />
 Come adore on bended knee<br />
 Christ the Lord the newborn King<br />
 </p>
