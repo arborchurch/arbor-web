@@ -105,7 +105,7 @@ By Thine all sufficient merit<br />
 Raise us to Thy glorious throne<br />
 </p>
 
-<h1>MESSAGE</h1>
+<h1>SCRIPTURE READING</h1>
 
 <h2>Silent Night</h2>
 
