@@ -110,7 +110,7 @@ Come thou long expected King<br />
 Fill our hearts with gladness<br />
 </p>
 
-<h1>MESSAGE</h1>
+<h1>SCRIPTURE READING</h1>
 
 <h2>Silent Night</h2>
 
