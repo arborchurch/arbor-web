@@ -103,6 +103,11 @@ By Thine own eternal Spirit<br />
 Rule in all our hearts alone;<br />
 By Thine all sufficient merit<br />
 Raise us to Thy glorious throne<br />
+<br />
+Come thou long expected King<br />
+Fill our hearts with gladness<br />
+Come thou long expected King<br />
+Fill our hearts with gladness<br />
 </p>
 
 <h1>MESSAGE</h1>
@@ -130,6 +135,13 @@ Radiant beams from Thy holy face<br />
 With the dawn of redeeming grace<br />
 Jesus Lord, at Thy birth<br />
 Jesus Lord, at Thy birth<br />
+ <br />
+Silent night, holy night<br />
+Wondrous star, lend thy light<br />
+With the angels let us sing<br />
+Alleluia to our King<br />
+Christ the Savior is born<br />
+Christ the Savior is born<br />
 </p>
 
 <h1>GOODNIGHT</h1>
