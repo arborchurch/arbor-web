@@ -537,6 +537,10 @@ ul.footer-menu li {
   text-align: center;
 }
 
+.content-body img {
+  max-width: 100%;
+}
+
 @import 'events';
 @import 'beliefs';
 @import 'messages';
