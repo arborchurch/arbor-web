@@ -3,6 +3,7 @@ backend:
   branch: master
   repo: arborchurch/arbor-web
 media_folder: "static/img/uploads"
+publish_mode: editorial_workflow
 public_folder: "/img/uploads"
 collections:
   - name: "event"
