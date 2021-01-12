@@ -1,5 +1,5 @@
 ---
-date: "2020-01-10T11:00:00-08:00"
+date: "2021-01-10T11:00:00-08:00"
 title: "Letters to a Young Church: 1 Thessalonians 1"
 series: "letters-to-a-young-church"
 speaker: "Bryan Cobley"
