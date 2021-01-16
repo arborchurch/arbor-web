@@ -12,6 +12,12 @@ menu:
     weight: 10
 ---
 
+<div style="text-align: center; margin-bottom: 50px;">
+  <a href="https://arborchurch.churchcenter.com/groups">
+    <img width="285" height="110" src="/img/groups-button.png" alt="Sign Up for a Group"/>
+  </a>
+</div>
+
 Groups have one simple purpose: TO BRING PEOPLE TOGETHER. For some, social distancing can feel like isolation; so, we think connection is more important now than ever. While the process to get and stay connected to a group is still the same, the platforms have shifted. For the winter trimester of Groups, we will be meeting both IN PERSON and ONLINE. Arbor is opening its doors for groups ready to meet on campus, and online groups will meet in virtual living rooms, offering participation beyond our zip code. We welcome you to browse the group choices and sign up soon for the six weeks of meetings starting February.
 
 <br />
