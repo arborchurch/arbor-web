@@ -15,7 +15,7 @@ a.rsvp-button {
   margin: 25px;
   background-color: black;
   color: white;
-  width: 300px;
+  width: 275px;
   font-family: Montserrat;
   padding: 10px;
 }

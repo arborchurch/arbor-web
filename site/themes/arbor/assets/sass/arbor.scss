@@ -537,6 +537,23 @@ ul.footer-menu li {
   text-align: center;
 }
 
+.church-online a[role="button"] {
+  background-color: #FFFFFF;
+  color: #000000;
+  width: 210px;
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 10px;
+  text-transform: uppercase;
+  font-family: $header-font;
+  letter-spacing: 0.05em;
+  font-size: 18px;
+  display: inline-block;
+}
+
 .content-body img {
   max-width: 100%;
 }
