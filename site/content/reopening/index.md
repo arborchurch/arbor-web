@@ -27,9 +27,9 @@ h2 {
 }
 </style>
 
-<div style="text-align: center; margin-bottom: 50px; display: none;">
-  <a role="button" class="rsvp-button" href="https://arborchurch.churchcenter.com/registrations/events/674491"><strong>RSVP</strong><br/><small>9am Service</small></a>
-  <a role="button" class="rsvp-button" href="https://arborchurch.churchcenter.com/registrations/events/674584"><strong>RSVP</strong><br/><small>11am Service</small></a>
+<div style="text-align: center; margin-bottom: 50px;">
+  <a role="button" class="rsvp-button" href="https://arborchurch.churchcenter.com/registrations/events/674564"><strong>RSVP</strong><br/><small>9am Service</small></a>
+  <a role="button" class="rsvp-button" href="https://arborchurch.churchcenter.com/registrations/events/674583"><strong>RSVP</strong><br/><small>11am Service</small></a>
 </div>
 
 
