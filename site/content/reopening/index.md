@@ -39,7 +39,7 @@ We abide by local guidelines for our capacity limits, which at this time are set
 
 ## How does the RSVP work?
 
-We want your experience to be as easy as possible, and appreciate your patience as we use this system. The RSVP will open on Tuesdays each week on our website; waitlists will be used in case of cancelations. If it's difficult to navigate our system, please let us know! Simply email info@arborchurch.com... we are happy to help! 
+We want your experience to be as easy as possible, and appreciate your patience as we use this system. The RSVP will open by Tuesdays each week on our website; waitlists will be used in case of cancelations. If it's difficult to navigate our system, please let us know! Simply email info@arborchurch.com... we are happy to help! 
 
 ## Can I bring my family with me?
 
@@ -61,7 +61,7 @@ If you are unwell, or if a family member is unwell, we welcome you to worship wi
 
 ## What can I expect?
 
-All the things you’re used to in our weekend service will still be there -- the presence of your church family, a great message with personal application, and worship! But, in order to ensure that everyone is safe, some things will be different. We will maintain social distancing within the building, which means the chairs are spread out and we linger for conversations OUTSIDE instead of inside. We'll offer hand-sanitizing stations, require face masks to be worn by those in the congregation, and we will shorten our service time to under 50 minutes. Our speakers and worship leaders wear masks as well, which helps ensure that our guests and volunteers aren't at risk... and speaking of worship, we sing two songs at the end of service in case anyone would like to easily opt out.
+All the things you’re used to in our weekend service will still be there -- the presence of your church family, a great message with personal application, and worship! But, in order to ensure that everyone is safe, some things will be different. We will maintain social distancing within the building, which means the chairs are spread out and we linger for conversations OUTSIDE instead of inside. We'll offer hand-sanitizing stations, require face masks to be worn by those in the congregation, and we will shorten our service time to under 50 minutes, which helps lower risk... in terms of worship, we sing two songs at the end of service in case anyone would like to easily opt out.
 
 ## How are the facilities prepared for worship services?
 
