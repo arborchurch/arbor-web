@@ -39,7 +39,7 @@ We abide by local guidelines for our capacity limits, which at this time are set
 
 ## How does the RSVP work?
 
-We want your experience to be as easy as possible, and appreciate your patience as we use this system. The RSVP will open by Tuesdays each week on our website; waitlists will be used in case of cancelations. If it's difficult to navigate our system, please let us know! Simply email info@arborchurch.com... we are happy to help! 
+We want your experience to be as easy as possible, and appreciate your patience as we use this system. The RSVP will open by Tuesdays each week on our website; waitlists will be used in case of cancelations. You can find the RSVP here: https://arborchurch.churchcenter.com/registrations. If it's difficult to navigate our system, please let us know! Simply email info@arborchurch.com... we are happy to help! 
 
 ## Can I bring my family with me?
 
