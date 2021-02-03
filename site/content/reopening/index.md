@@ -20,6 +20,10 @@ a.rsvp-button {
   padding: 10px;
 }
 
+a.rsvp-button small {
+  font-size: 14pt;
+}
+
 h2 {
   margin-top: 50px;
   padding-top: 25px;
@@ -28,7 +32,7 @@ h2 {
 </style>
 
 <div style="text-align: center; margin-bottom: 50px;">
-  <a role="button" class="rsvp-button" href="https://arborchurch.churchcenter.com/registrations"><strong>RSVP</strong><br/><small>9am or 11am Service</small></a>
+  <a role="button" class="rsvp-button" href="https://arborchurch.churchcenter.com/registrations"><strong>RSVP</strong><br/><small>In-Person Service</small></a>
 </div>
 
 
