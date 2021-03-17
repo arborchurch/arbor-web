@@ -55,6 +55,7 @@ Lastly, a friendly reminder that families can choose online church if anyone in 
 This too shall pass! Someday we will look back on this year and chuckle/weep, won't we? We'll do it TOGETHER.... and in the process, we'll learn a lot about community life and the beauty of being together. God is a restorer and we look forward to the time He restores us back to normal! Maybe we'll be even better than before.
 
 With great hope,
+
 The Arbor Team
 
 
