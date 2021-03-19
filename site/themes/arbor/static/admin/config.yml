@@ -2,7 +2,7 @@ backend:
   name: github
   branch: master
   repo: arborchurch/arbor-web
-media_folder: "site/static/img/uploads"
+media_folder: "static/img/uploads"
 publish_mode: editorial_workflow
 public_folder: "/img/uploads"
 collections:
@@ -23,6 +23,7 @@ collections:
     folder: "site/content/news"
     create: true
     slug: "{{year}}-{{month}}-{{day}}"
+    identifier_field: date
     fields:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
