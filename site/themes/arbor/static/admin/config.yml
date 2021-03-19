@@ -2,7 +2,7 @@ backend:
   name: github
   branch: master
   repo: arborchurch/arbor-web
-media_folder: "static/img/uploads"
+media_folder: "site/static/img/uploads"
 publish_mode: editorial_workflow
 public_folder: "/img/uploads"
 collections:
