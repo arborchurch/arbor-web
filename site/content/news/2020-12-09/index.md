@@ -5,7 +5,7 @@ resources:
   src: signthumbnail.jpg
 - name: worshippieta.jpg
   src: worshippieta.jpg
-  - name: spring arborkids.jpg
+- name: spring arborkids.jpg
   src: spring arborkids.jpg
 ---
 
