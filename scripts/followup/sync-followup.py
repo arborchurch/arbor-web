@@ -100,11 +100,11 @@ for child in root.findall("{http://www.w3.org/2005/Atom}entry"):
             print("*** Uploading " + mp4_filename + " to web host ***")
             subprocess.run(["scp", mp4_filename, "arborchurch@arborchurchnw.org:arborchurchnw.org/podcast"])
 
-            probe_result = subprocess.run(["ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 " + mp4_filename], capture_output = True, text = True)
+            probe_result = subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "default=noprint_wrappers=1:nokey=1", mp4_filename])
 
             # record podcast metadata
             frontmatter["podcast_bytes"] = os.path.getsize(mp4_filename)
-            frontmatter["podcast_duration"] = probe_result.stdout.strip()
+            frontmatter["podcast_duration"] = probe_result.strip()
 
             # clean up flac/mp4 temporary
             os.remove(flac_filename)
