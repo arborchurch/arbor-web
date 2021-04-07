@@ -56,7 +56,7 @@ That is okay! We know everyone has a different level of comfort. This step of th
 
 ## What about online church?
 
-Whether you are out of the zip code, unwell, or snowed in, our [Online Campus](https://arborchurch.online.church/) will be open every week at 9 and 11am.  Our Prayer Team is available to pray with you at the Online Campus as well, or can be emailed 24/7 at <prayer@arborchurch.com>. 
+Whether you are out of the zip code, unwell, or snowed in, our [Online Campus](https://arborchurch.online.church/) will be open every week at 9 and 10:30am.  Our Prayer Team is available to pray with you at the Online Campus as well, or can be emailed 24/7 at <prayer@arborchurch.com>. 
 
 ## What if I'm not feeling well?
 
