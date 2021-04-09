@@ -27,12 +27,12 @@ We've reopened our doors on Sunday which is absolutely lifegiving! Of course, fo
 
 Things feel mostly the same, but just like with local restaurants and businesses, there are a few discernable changes. We're sorta spaced out. We've got hand-sani scattered around. We're masked. We use a nifty RSVP system to manage capacity. All of these things are to provide the best and safest faith community we can; not everyone is blessed with robust immunity! Not everyone can afford 2 weeks off work. Not everyone lives in a household that can withstand weeks of illness. We gather to worship with respect to the community that surrounds us, both inside and outside the Arbor walls.
 
-We invite you to join us Sundays ON-CAMPUS or ONLINE at 9 & 11am... you'll find the RSVP button smack dab in the middle of our web homepage (arborchurch.com). Excited to be with you, however and whenever!
+We invite you to join us Sundays ON-CAMPUS or ONLINE at 9 & 10:30am... you'll find the RSVP button smack dab in the middle of our web homepage (arborchurch.com). Excited to be with you, however and whenever!
 
  
 {{< img-full "spring arborkids.jpg" >}}
 
-We're delighted to welcome all the kids back ON CAMPUS for ministry fun each Sunday. During March, we're opening the Greenhouse, Thicket, Grove and Orchard for children during the 9am service. We use the same RSVP system on the homepage (arborchurch.com) to ensure capacity guidelines; thank you in advance for your patience with it.
+We're delighted to welcome all the kids back ON CAMPUS for ministry fun each Sunday. We use the same RSVP system on the homepage (arborchurch.com) to ensure capacity guidelines; thank you in advance for your patience with it.
 
 If your child's class is full, you can click to add them to the waitlist. We will notify you ASAP via email if an opening occurs!
 
