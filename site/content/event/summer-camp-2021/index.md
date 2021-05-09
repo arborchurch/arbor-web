@@ -1,7 +1,7 @@
 ---
 date: "2021-05-08"
 expirydate: "2021-07-19"
-title: "Arbor Students Camp"
+title: "Arbor Students Summer Camp"
 where: "July 16-18, 2021"
 resources:
 - name: header
