@@ -1,7 +1,7 @@
 ---
 date: "2021-05-23T09:00:00-08:00"
 title: "Priorities: God's Way"
-series: "peter"
+series: "priorities"
 speaker: "Cliff Tadema"
 type: message
 podcast: https://arborchurchnw.org/podcast/priorities-gods-way.m4a
