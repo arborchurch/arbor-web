@@ -1,11 +1,11 @@
 ---
 date: "2017-10-28"
-title: "Messages"
+title: "Sermons"
 resources:
 - name: header
   src: messages.jpg
 menu:
   main:
-    weight: 150
+    parent: 'Messages'
 ---
 

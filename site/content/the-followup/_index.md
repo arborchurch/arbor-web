@@ -4,4 +4,7 @@ title: "The Followup"
 resources:
 - name: header
   src: stale-coffee.jpg
+menu:
+  main:
+    parent: 'Messages'
 ---

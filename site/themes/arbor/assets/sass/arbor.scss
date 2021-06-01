@@ -34,6 +34,10 @@ h1, h2 {
   font-family: $header-font;
 }
 
+h2.header-link a {
+  color: #101010;
+}
+
 audio {
   width: 100%;
 }
@@ -556,6 +560,18 @@ ul.footer-menu li {
 
 .content-body img {
   max-width: 100%;
+}
+
+.podcast-links {
+  font-size: 18px;
+  font-style: italic;
+  margin-bottom: 80px;
+  line-height: 200%;
+  text-align: center;
+}
+
+.podcast-links a {
+  white-space: nowrap;
 }
 
 @import 'events';
