@@ -1,6 +1,6 @@
 ---
 date: "2021-05-30T09:00:00-08:00"
-title: "Priorities: Spiritual Warfare"
+title: "Priorities: Battle Strategies"
 series: "priorities"
 speaker: "Cliff Tadema"
 type: message
