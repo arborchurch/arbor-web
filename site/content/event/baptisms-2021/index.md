@@ -5,7 +5,7 @@ title: "Baptisms"
 where: "June 27th at Arbor"
 resources:
 - name: header
-  src: batisms.jpg
+  src: baptisms.jpg
 weight: 10
 ---
 
