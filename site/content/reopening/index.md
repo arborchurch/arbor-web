@@ -38,17 +38,12 @@ h2 {
 
 ## How many of us can come on Sunday? 
 
-We abide by local guidelines for our capacity limits, which at this time are set at 25%. The Sanctuary can host 50 guests each service, and the Orchard can host 20. To help us plan, please RSVP in advance to attend.
+We abide by local guidelines for our capacity limits, which at this time are back to 100%!
 
-## How does the RSVP work?
-
-We want your experience to be as easy as possible, and appreciate your patience as we use this system. The RSVP will open by Tuesdays each week on our website; waitlists will be used in case of cancelations. You can find the RSVP here: <https://arborchurch.churchcenter.com/registrations>. If it's difficult to navigate our system, please let us know! Simply email <info@arborchurch.com>... we are happy to help! 
 
 ## Can I bring my family with me?
 
-Please do! Count them in as you RSVP and we'll save each of you a seat.
-
-At this step in the journey, children will stay with families in the Sanctuary; we're hoping to open ArborKid Classes later in February. If you have wiggly ones, try viewing service in the Orchard along with other families! We want the kids to feel comfortable also, so this room is set up for a less quiet and more informal church.
+Please do! We have space in our kid classes for birth through elementary, or they are more than welcome to come to the sanctuary with their grownups!
 
 ## What if I'm not comfortable coming to a service yet?
 
@@ -64,23 +59,18 @@ If you are unwell, or if a family member is unwell, we welcome you to worship wi
 
 ## What can I expect?
 
-All the things you’re used to in our weekend service will still be there -- the presence of your church family, a great message with personal application, and worship! But, in order to ensure that everyone is safe, some things will be different. We will maintain social distancing within the building, which means the chairs are spread out and we linger for conversations OUTSIDE instead of inside. We'll offer hand-sanitizing stations, require face masks to be worn by those in the congregation, and we will shorten our service time to under 50 minutes, which helps lower risk... in terms of worship, we sing two songs at the end of service in case anyone would like to easily opt out.
+All the things you’re used to in our weekend service will still be there -- the presence of your church family, a great message with personal application, and worship! But, in order to ensure that everyone is safe and comfortable, we ask that unvaccinated people stay masked for the time being. This too shall pass! We look at slight discomforts like masks as a way to protect and bless those who are at risk.
 
 ## How are the facilities prepared for worship services?
 
 - Hand sanitizer stations will be available at entries and exits as well as throughout the building.
 - Our services and guest interactions will be intentionally touch-free (e.g., no hugs or hand-shakes for now, we will not pass an offering bucket, etc…).
-- Per state guidelines, there will be more empty space between parties seated in the sanctuary.
-- Extensive cleaning and disinfecting procedures will take place before, during, and after every service.
-- Air conditioners will be turned on during service. 
+- Air conditioners will be turned on during service and doors are kept open.
 
 ## What about masks?
 
-At this stage, we are required to wear masks at all times in the building unless you are medically exempt. 
+At this stage, unvaxxed people are asked to wear masks at all times in the building.  
 
-## What about Communion?
-
-If you came to Tent Church this summer, you may remember the nifty "individual communion cups & wafers" we used. On Communion Sundays, a gloved volunteer will distribute these and give instruction for a touch-free communion experience.
 
 ## Will the church be open for other activities during the week?
 
