@@ -20,6 +20,9 @@ local_ids = []
 remote_ids = []
 max_id = 0
 
+print("Syncing latest changes from Git..")
+subprocess.run(["git", "pull"])
+
 print("Reading local episodes...")
 here = pathlib.Path(os.path.dirname(os.path.realpath(__file__)))
 episodes = here.parent.parent / 'site' / 'content' / 'the-followup'
@@ -122,9 +125,12 @@ for child in root.findall("{http://www.w3.org/2005/Atom}entry"):
             dest_file.write(markdown)
             dest_file.close()
             
-            # stage for git
-            subprocess.run(["git", "add", dest])
-
-            # subprocess.run("git", "commit", "-m", "add followup episode ", max_id, ": " + title)
-
             print(str(dest) + " created")
+
+            # push new episode to git upstream
+            subprocess.run(["git", "add", dest])
+            subprocess.run(["git", "commit", "-m", "add followup episode " + str(max_id) + ": " + title])
+            subprocess.run(["git", "push"])
+
+            print(str(dest) + " pushed to website")
+
