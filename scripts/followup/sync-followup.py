@@ -20,6 +20,9 @@ local_ids = []
 remote_ids = []
 max_id = 0
 
+print("Syncing latest changes from Git..")
+subprocess.run(["git", "pull"])
+
 print("Reading local episodes...")
 here = pathlib.Path(os.path.dirname(os.path.realpath(__file__)))
 episodes = here.parent.parent / 'site' / 'content' / 'the-followup'
@@ -100,11 +103,16 @@ for child in root.findall("{http://www.w3.org/2005/Atom}entry"):
             print("*** Uploading " + mp4_filename + " to web host ***")
             subprocess.run(["scp", mp4_filename, "arborchurch@arborchurchnw.org:arborchurchnw.org/podcast"])
 
+            # get the duration of the podcast in seconds (comes out like "2316.261000")
             probe_result = subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "default=noprint_wrappers=1:nokey=1", mp4_filename])
+
+            # convert to minutes:seconds format (M:SS)
+            seconds = int(float(probe_result.strip()))
+            duration = str(int(seconds / 60)) + ":" + str(int(seconds % 60)).zfill(2)
 
             # record podcast metadata
             frontmatter["podcast_bytes"] = os.path.getsize(mp4_filename)
-            frontmatter["podcast_duration"] = probe_result.strip()
+            frontmatter["podcast_duration"] = duration
 
             # clean up flac/mp4 temporary
             os.remove(flac_filename)
@@ -117,9 +125,12 @@ for child in root.findall("{http://www.w3.org/2005/Atom}entry"):
             dest_file.write(markdown)
             dest_file.close()
             
-            # stage for git
-            subprocess.run(["git", "add", dest])
-
-            # subprocess.run("git", "commit", "-m", "add followup episode ", max_id, ": " + title)
-
             print(str(dest) + " created")
+
+            # push new episode to git upstream
+            subprocess.run(["git", "add", dest])
+            subprocess.run(["git", "commit", "-m", "add followup episode " + str(max_id) + ": " + title])
+            subprocess.run(["git", "push"])
+
+            print(str(dest) + " pushed to website")
+
