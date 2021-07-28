@@ -31,10 +31,11 @@ h2 {
 }
 </style>
 
+<!-- 
 <div style="text-align: center; margin-bottom: 50px;">
   <a role="button" class="rsvp-button" href="https://arborchurch.churchcenter.com/registrations"><strong>RSVP</strong><br/><small>In-Person Service</small></a>
 </div>
-
+-->
 
 ## How many of us can come on Sunday? 
 
