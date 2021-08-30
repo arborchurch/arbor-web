@@ -5,7 +5,7 @@ title: "Family Meeting"
 where: "September 12th at Arbor"
 resources:
 - name: header
-  src: baptisms.jpg
+  src: Family Meeting (1).png
 weight: 10
 ---
 
