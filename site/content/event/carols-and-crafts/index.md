@@ -5,7 +5,7 @@ title: "A Summer with Jesus"
 where: "Arbor Church at 9:00am"
 resources:
 - name: header
-  src: Bonfires - Event Page.jpg
+  src: a-summer-with-jesus.jpg
 weight: 10
 ---
  
