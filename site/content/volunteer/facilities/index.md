@@ -1,7 +1,6 @@
 ---
 date: "2017-01-01"
 title: "Facilities"
-leader: "Mike"
 email: "info@arborchurch.com"
 weight: 40
 resources:
