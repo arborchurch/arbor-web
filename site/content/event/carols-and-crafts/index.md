@@ -1,7 +1,7 @@
 ---
 date: "2021-08-29"
 expirydate: "2021-09-06"
-title: "A Summer with Jesus"
+title: "A Summer with Jesus and a Party"
 where: "Arbor Church at 9:00am"
 resources:
 - name: header
