@@ -1,8 +1,8 @@
 ---
-date: "2021-06-12"
-expirydate: "2021-06-27"
-title: "Baptisms"
-where: "June 27th at Arbor"
+date: "2021-09-12"
+expirydate: "2021-09-13"
+title: "Family Meeting"
+where: "September 12th at Arbor"
 resources:
 - name: header
   src: baptisms.jpg
