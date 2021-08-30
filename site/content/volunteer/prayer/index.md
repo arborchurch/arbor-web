@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 title: "Prayer"
-leader: "Jan"
+leader: "Karen"
 email: "prayer@arborchurch.com"
 weight: 70
 resources: 
