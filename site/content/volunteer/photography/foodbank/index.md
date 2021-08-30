@@ -1,8 +1,8 @@
 ---
 date: "2017-01-01"
 title: "Food Bank"
-leader: "Alisa"
-email: "info@arborchurch.com"
+leader: "Alison"
+email: "alison@arborchurch.com"
 weight: 50
 resources:
 - name: header
