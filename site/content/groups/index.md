@@ -36,5 +36,5 @@ Groups meet in 6-week chunks called trimesters. When you join a group, you're co
 
 ## GROUP SIGN UPS
 
-Sign ups for the WINTER TRIMESTER starts JANUARY 21. Email <info@arborchurch.com> for more information.
+Sign ups for the FALL TRIMESTER starts SEPTEMBER 19. Email <info@arborchurch.com> for more information.
 
