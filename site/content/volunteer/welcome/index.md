@@ -1,8 +1,8 @@
 ---
 date: "2017-01-01"
 title: "Welcome"
-leader: "Katie"
-email: "katiemwinter@gmail.com"
+leader: "Michael"
+email: "michael@arborchurch.com"
 weight: 90
 resources:
 - name: header
