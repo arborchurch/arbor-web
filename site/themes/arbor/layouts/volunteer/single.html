@@ -9,7 +9,9 @@
   <div class="col-sm-5 col-md-5">
     <div class="summary">
       <h2>{{ .Title }}</h2>
-      <h3>Lead: {{ .Params.leader }}</h3>
+      {{ if isset .Params "leader" }}
+        <h3>Lead: {{ .Params.leader }}</h3>
+      {{ end }}
       <div class="content">
         <p>{{ .Content }}</p>
         <p>Info: <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></p>
