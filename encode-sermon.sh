@@ -1,15 +1,14 @@
 #!/usr/bin/env bash
 # Usage:
-# encode-sermon.sh "sermon title" "speaker" wav m4a
+# encode-sermon.sh "sermon title" "speaker" wav mp3
 
-# encode to m4a
+# encode to mp3
 ffmpeg -i "$3" \
-       -c:a aac \
        -b:a 96k \
        -ac 1 \
        -metadata title="$1" \
        -metadata author="$2" \
-       -metadata year=2020 \
+       -metadata year=2021 \
        -movflags +faststart \
        "$4"
 
