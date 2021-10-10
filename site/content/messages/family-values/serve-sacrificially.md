@@ -4,7 +4,7 @@ title: "Family Values: Serve Sacrificially"
 series: "family-values"
 speaker: "Bryan Cobley"
 type: message
-podcast: https://arborchurchnw.org/podcast/family-values-serve-sacrificially.mp3
+podcast: https://arborchurchnw.org/podcast/family-values-serve-sacrifically.mp3
 podcast_bytes: 25594414
 podcast_duration: 35:32
 youtube_id: ShY0A8yLPBY 
