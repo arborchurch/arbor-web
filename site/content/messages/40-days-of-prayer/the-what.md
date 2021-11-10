@@ -1,5 +1,5 @@
 ---
-date: "2021-10-24T09:00:00-08:00"
+date: "2021-11-07T09:00:00-08:00"
 title: "40+ Days of Prayer: The What"
 series: "40-days-of-prayer"
 speaker: "Cliff Tadema"
