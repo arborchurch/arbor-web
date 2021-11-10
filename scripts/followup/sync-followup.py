@@ -86,37 +86,39 @@ for child in root.findall("{http://www.w3.org/2005/Atom}entry"):
             safe_title = re.sub(r'-+', '-', safe_title)
             filename_base = str(max_id).zfill(4) + "-" + safe_title 
             md_filename =  filename_base + ".md"
-            mp4_filename = "the-followup-" + filename_base + ".m4a"
+            mp3_filename = "the-followup-" + filename_base + ".mp3"
             flac_filename = filename_base + ".flac"
 
-            frontmatter["podcast"] = "https://arborchurchnw.org/podcast/" + mp4_filename
+            frontmatter["podcast"] = "https://arborchurchnw.org/podcast/" + mp3_filename
 
             # download from youtube
             print("*** Downloading YouTube vodcast " + id + " ***")
             subprocess.run(["youtube-dl", "--audio-format", "flac", "-x", "https://www.youtube.com/watch?v=" + id, "-o", flac_filename])
 
-            # encode into mp4 suitable for podcast
-            print("*** Encoding to M4A for podcast ***")
-            subprocess.run(["ffmpeg", "-i", flac_filename, "-c:a", "aac", "-b:a", "96k", "-ac", "1", "-metadata", "title=\"" + title + "\"", "-metadata", "author=\"Arbor Church\"", "-movflags", "+faststart", mp4_filename])
+            # encode into mp3 suitable for podcast; note that for some reason the
+            # audio files produced by youtube-dl's "--audio-format mp3" do not play
+            # properly on Apple devices
+            print("*** Encoding to MP3 for podcast ***")
+            subprocess.run(["ffmpeg", "-i", flac_filename, "-b:a", "128k", "-ac", "1", "-metadata", "title=\"" + title + "\"", "-metadata", "author=\"Arbor Church\"", "-movflags", "+faststart", mp3_filename])
 
             # upload podcast to storage
-            print("*** Uploading " + mp4_filename + " to web host ***")
-            subprocess.run(["scp", mp4_filename, "arborchurch@arborchurchnw.org:arborchurchnw.org/podcast"])
+            print("*** Uploading " + mp3_filename + " to web host ***")
+            subprocess.run(["scp", mp3_filename, "arborchurch@arborchurchnw.org:arborchurchnw.org/podcast"])
 
             # get the duration of the podcast in seconds (comes out like "2316.261000")
-            probe_result = subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "default=noprint_wrappers=1:nokey=1", mp4_filename])
+            probe_result = subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "default=noprint_wrappers=1:nokey=1", mp3_filename])
 
             # convert to minutes:seconds format (M:SS)
             seconds = int(float(probe_result.strip()))
             duration = str(int(seconds / 60)) + ":" + str(int(seconds % 60)).zfill(2)
 
             # record podcast metadata
-            frontmatter["podcast_bytes"] = os.path.getsize(mp4_filename)
+            frontmatter["podcast_bytes"] = os.path.getsize(mp3_filename)
             frontmatter["podcast_duration"] = duration
 
-            # clean up flac/mp4 temporary
+            # clean up flac/mp3 temporary
             os.remove(flac_filename)
-            os.remove(mp4_filename)
+            os.remove(mp3_filename)
 
             # markdown file to write
             markdown = "---\n" + yaml.dump(frontmatter) + "---\n\n" + description
