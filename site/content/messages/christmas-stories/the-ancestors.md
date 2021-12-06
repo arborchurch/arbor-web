@@ -1,6 +1,6 @@
 ---
 date: "2021-12-05T09:00:00-08:00"
-title: "Christmas Stories: Jesus' Ancestors"
+title: "Christmas Stories: Jesus' Genealogy"
 series: "christmas-table"
 speaker: "Bryan Cobley"
 type: message
