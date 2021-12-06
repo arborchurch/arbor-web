@@ -4,7 +4,7 @@ title: "Christmas Stories: Jesus' Genealogy"
 series: "christmas-table"
 speaker: "Bryan Cobley"
 type: message
-podcast: https://arborchurchnw.org/podcast/christmas-stories-the-ancestors.m4a
+podcast: https://arborchurchnw.org/podcast/christmas-stories-the-ancestors.mp3
 podcast_bytes: 24255213
 podcast_duration: 33:41
 youtube_id: uhrTLZO9XLQ
