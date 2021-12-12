@@ -1,7 +1,7 @@
 ---
 date: "2021-12-05T09:00:00-08:00"
 title: "Christmas Stories: Jesus' Genealogy"
-series: "christmas-table"
+series: "christmas-stories"
 speaker: "Bryan Cobley"
 type: message
 podcast: https://arborchurchnw.org/podcast/christmas-stories-the-ancestors.mp3
