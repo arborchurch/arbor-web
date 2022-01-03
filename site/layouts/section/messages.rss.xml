@@ -3,7 +3,7 @@
     <title>Arbor Church</title>
     <link>https://www.arborchurch.com/</link>
     <language>en-us</language>
-    <copyright>Copyright 2021 Arbor Church</copyright>
+    <copyright>Copyright {{ .Now.Format "2006" }} Arbor Church</copyright>
     <itunes:subtitle>Messages from Arbor Church in Woodinville, Washington</itunes:subtitle>
     <itunes:author>Arbor Church</itunes:author>
     <itunes:summary>The Arbor Church Podcast features weekly messages and more from the teaching team at Arbor Church in Woodinville, Washington.</itunes:summary>
