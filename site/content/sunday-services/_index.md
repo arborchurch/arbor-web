@@ -13,7 +13,7 @@ menu:
 ---
 
 <h3>
-<h2 class="tight-header">Sunday Mornings</h2>at 9am.
+<h2 class="tight-header">Sunday Mornings</h2>at 10am.
 <br>
   &nbsp;  &nbsp;
 
