@@ -22,8 +22,7 @@ Groups have one simple purpose: TO BRING PEOPLE TOGETHER. For some, social dista
 think connection is more important now than ever. While the process to get and stay connected to a group is still the
 same, the platforms have shifted. For the winter trimester of Groups, we will be meeting both IN PERSON and ONLINE.
 Arbor is opening its doors for groups ready to meet on campus, and online groups will meet in virtual living rooms,
-offering participation beyond our zip code. We welcome you to browse the group choices and sign up soon for the six
-weeks of meetings starting in September.
+offering participation beyond our zip code. Click the sign up button to see what group might fit for you!
 
 <br />
 
@@ -46,5 +45,5 @@ and leaders time to catch their breath.
 
 ## GROUP SIGN UPS
 
-Sign ups for the FALL TRIMESTER starts SEPTEMBER 19. Email <info@arborchurch.com> for more information.
+Coming soon! Email <info@arborchurch.com> for more information.
 
