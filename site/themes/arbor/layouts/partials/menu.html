@@ -1,57 +1,57 @@
 <div style="position: relative;">
 
-<div class="image-shader"></div>
+  <div class="image-shader"></div>
 
-<div class="home-logo {{ .Params.logostyle }}">
-  <a href="{{ .Site.BaseURL }}">
-    <img src="{{ .Site.BaseURL }}img/arbor-logo-menu.png" />
-  </a>
-  <div class="find-us visible-xs-block visible-md-block visible-lg-block">
-    SUNDAYS at 9am
+  <div class="home-logo {{ .Params.logostyle }}">
+    <a href="{{ .Site.BaseURL }}">
+      <img src="{{ .Site.BaseURL }}img/arbor-logo-menu.png" />
+    </a>
+    <div class="find-us visible-xs-block visible-md-block visible-lg-block">
+      SUNDAYS at 10am
+    </div>
   </div>
-</div>
 
-<div class="navigation {{ .Params.menustyle }}">
-  <div id="nav-menu">
-    <ul class="menu">
-    {{ $currentNode := . }}
-    {{ $baseUrl := .Site.BaseURL }}
-    {{ range .Site.Menus.main }}
-      <li class="menu-hover" id="menu_{{ .Name }}">
-        {{ if (lt .Weight 100) }}
-        <a href="javascript:navigate_to('{{.Name}}');">
-          {{ .Name }}
-          <div class="expand-arrow"></div>
-        </a>
-        {{ else if (lt .Weight 200) }}
-        <a href="{{ .URL }}">
-          {{ .Name }}
-        </a>
-        {{ else }}
-        <a href="{{ .URL }}" target="_blank">
-          {{ .Name }}
-        </a>
+  <div class="navigation {{ .Params.menustyle }}">
+    <div id="nav-menu">
+      <ul class="menu">
+        {{ $currentNode := . }}
+        {{ $baseUrl := .Site.BaseURL }}
+        {{ range .Site.Menus.main }}
+        <li class="menu-hover" id="menu_{{ .Name }}">
+          {{ if (lt .Weight 100) }}
+          <a href="javascript:navigate_to('{{.Name}}');">
+            {{ .Name }}
+            <div class="expand-arrow"></div>
+          </a>
+          {{ else if (lt .Weight 200) }}
+          <a href="{{ .URL }}">
+            {{ .Name }}
+          </a>
+          {{ else }}
+          <a href="{{ .URL }}" target="_blank">
+            {{ .Name }}
+          </a>
+          {{ end }}
+          {{ if .HasChildren }}
+          <ul class="sub-menu">
+            {{ range .Children }}
+            <li><a href="{{.URL}}">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+          {{ end }}
+        </li>
         {{ end }}
-      {{ if .HasChildren }}
-        <ul class="sub-menu">
-        {{ range .Children }}
-          <li><a href="{{.URL}}">{{ .Name }}</a></li>
-        {{ end }}
-        </ul>
-      {{ end }}
-      </li>
-    {{ end }}
-    </ul>
-    <div class="menu-logo">
-      <a href="{{ .Site.BaseURL }}">
-        <img src="{{ .Site.BaseURL }}img/arbor-mobile-logo.png" />
-      </a>
+      </ul>
+      <div class="menu-logo">
+        <a href="{{ .Site.BaseURL }}">
+          <img src="{{ .Site.BaseURL }}img/arbor-mobile-logo.png" />
+        </a>
+      </div>
+      <div class="hamburger" onClick="return toggle_main_menu();">
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+      </div>
+      </label>
     </div>
-    <div class="hamburger" onClick="return toggle_main_menu();">
-      <div class="line"></div>
-      <div class="line"></div>
-      <div class="line"></div>
-    </div>
-  </label>
   </div>
-</div>
