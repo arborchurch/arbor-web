@@ -13,10 +13,10 @@ menu:
     weight: 20
 ---
 
-<h2>Sunday Mornings</h2>
+<h2 class="tight-header">Sunday Mornings</h2> at 10:00am
 
-**Arbor Kids** is designed to **help families raise disciples** to **find and follow Jesus** and to foster an understanding of scripture as we grow together through teaching, worship, praying, games and building relationships.  
+<br />
 
-<h2 class="tight-header">Arbor Kids In-Person</h2> at 9:00 am
+**Arbor Kids** is designed to **help families raise disciples** to **find and follow Jesus** and to foster an understanding of scripture as we grow together through teaching, worship, praying, games and building relationships.  **Arbor Kids** classes are available for **in-person gatherings** and we couldn't be more excited! Join us on **Sunday mornings** for teaching, worship and an overall fun time.
 
-**Arbor Kids** classes are available for **in-person gatherings** and we couldn't be more excited! Join us on **Sunday mornings** for teaching, worship and an overall fun time.
+<br />
