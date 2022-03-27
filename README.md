@@ -29,17 +29,17 @@ Posting a new sermon is the most common kind of update to the site. Here's the p
 Services are posted to YouTube, so the easiest way to get the message audio is to get the audio channel from the YouTube video. For example, here's how to do it with [youtube-dl](https://youtube-dl.org/):
 
 ```bash
-$ youtube-dl -x --audio-format flac https://www.youtube.com/watch?v=dQw4w9WgXcQ
+$ youtube-dl -x https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ```
 
-This will produce a FLAC file containing the audio from the service. Trim the audio with a tool like QuickTime or [Audacity](https://www.audacityteam.org/) so that it contains only the message and save the result in an uncompressed format like WAV or FLAC.
+This will produce an audio file (`.opus`) containing the audio from the service. Trim the audio with a tool like QuickTime or [Audacity](https://www.audacityteam.org/) so that it contains only the message and save the result in an uncompressed format like FLAC. (It's about to be compressed again, so compressing it at this step will lose quality.)
 
 ### Compress and upload
 
-Once you have a WAV or FLAC containing just the audio, you need to encode and compress it for posting to the website and podcast. There is a script called `encode-sermon.sh` which does this, using the command line utility [ffmpeg](https://ffmpeg.org/), which you may need to install. From the root of the git repo, run this command:
+Once you have a FLAC containing just the audio, you need to encode and compress it to an MP3 file for posting to the website and podcast. There is a script called `encode-sermon.sh` which does this, using the command line utility [ffmpeg](https://ffmpeg.org/), which you may need to install. From the root of the git repo, run this command:
 
 ```bash
-$ ./encode-sermon.sh "Title of the Message" "Speaker's Name" path-to-wav.wav path-to-m4a.m4a
+$ ./encode-sermon.sh "Title of the Message" "Speaker's Name" path-to-wav.wav path-to-mp3.mp3
 ```
 
 The script will encode the audio using recommended podcast settings and upload it to our Web host. Note that you will need your SSH public key added to our Web host in order for this step to succeed; contact Jonathan McPherson for this step.
