@@ -35,10 +35,18 @@ collections:
       depth: 2
       summary: '{{title}}'
     fields:
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Series", name: "series", widget: "string"}
+      - {label: "Speaker", name: "speaker", widget: "string"}
+      - {label: "Podcast URL", name: "podcast", widget: "string"}
+      - {label: "Podcast size (bytes)", name: "podcast_bytes", widget: "string"}
+      - {label: "Podcast duration (MM:SS)", name: "podcast_duration", widget: "string"}
+      - {label: "YouTube ID", name: "youtube_id", widget: "string"}
       - label: Title
         name: title
         widget: string
       - label: Body
         name: body
         widget: markdown
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
 
