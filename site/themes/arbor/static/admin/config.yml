@@ -32,7 +32,7 @@ collections:
     folder: site/content/messages
     create: true
     nested:
-      depth: 2
+      depth: 1
       summary: '{{title}}'
     fields:
       - {label: "Date", name: "date", widget: "datetime"}
