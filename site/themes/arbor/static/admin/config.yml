@@ -19,7 +19,7 @@ collections:
       - {label: "Where", name: "where", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "news"
-    lbel: "News"
+    label: "News"
     folder: "site/content/news"
     create: true
     slug: "{{year}}-{{month}}-{{day}}"
