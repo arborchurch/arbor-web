@@ -29,7 +29,7 @@ collections:
   - name: "messages"
     label: Messages
     label_singular: 'Message'
-    folder: site/content
+    folder: site/content/messages
     create: true
     nested:
       depth: 2
