@@ -35,13 +35,13 @@ collections:
       depth: 2
       summary: '{{path}}'
     fields:
-      - {label: "Date", name: "date", widget: "datetime", description: "The date on which the message was delivered."}
-      - {label: "Series", name: "series", widget: "string", description: "The series to which the message belongs. Use all lower case and replace spaces with dashes. Example: loving-like-jesus"}
-      - {label: "Speaker", name: "speaker", widget: "string", description: "The speaker who delivered the message. Example: Alison Acone"}
-      - {label: "Podcast URL", name: "podcast", widget: "string", description: "The URL to the MP3 file containing the podcast's audio. Example: https://arborchurchnw.org/podcast/loving-like-jesus-part-1.mp3"}
-      - {label: "Podcast size (bytes)", name: "podcast_bytes", widget: "string", description: "The size of the MP3 file in bytes. Example: 20938922"}
-      - {label: "Podcast duration (MM:SS)", name: "podcast_duration", widget: "string", description: "The duration of the audio file. Example: 45:32"}
-      - {label: "YouTube ID", name: "youtube_id", widget: "string", description: "The YouTube ID of the video version of the podcast; this is the part of the YouTube URL after v=. Example: dQw4w9WgXcQ"}
+      - {label: "Date", name: "date", widget: "datetime", hint: "The date on which the message was delivered."}
+      - {label: "Series", name: "series", widget: "string", hint: "The series to which the message belongs. Use all lower case and replace spaces with dashes. Example: loving-like-jesus"}
+      - {label: "Speaker", name: "speaker", widget: "string", hint: "The speaker who delivered the message. Example: Alison Acone"}
+      - {label: "Podcast URL", name: "podcast", widget: "string", hint: "The URL to the MP3 file containing the podcast's audio. Example: https://arborchurchnw.org/podcast/loving-like-jesus-part-1.mp3"}
+      - {label: "Podcast size (bytes)", name: "podcast_bytes", widget: "string", hint: "The size of the MP3 file in bytes. Example: 20938922"}
+      - {label: "Podcast duration (MM:SS)", name: "podcast_duration", widget: "string", hint: "The duration of the audio file. Example: 45:32"}
+      - {label: "YouTube ID", name: "youtube_id", widget: "string", hint: "The YouTube ID of the video version of the podcast; this is the part of the YouTube URL after v=. Example: dQw4w9WgXcQ"}
       - label: Title
         name: title
         widget: string
