@@ -18,10 +18,10 @@ menu:
   </a>
 </div>
 
-Groups have one simple purpose: TO BRING PEOPLE TOGETHER. For some, social distancing can feel like isolation; so, we
+Groups have one simple purpose: TO BRING PEOPLE TOGETHER. Last year, social distancing felt like isolation; therefore, we
 think connection is more important now than ever. While the process to get and stay connected to a group is still the
-same, the platforms have shifted. For the winter trimester of Groups, we will be meeting both IN PERSON and ONLINE.
-Arbor is opening its doors for groups ready to meet on campus, and online groups will meet in virtual living rooms,
+same, the platforms have shifted. Moving forward, we will offer meetings both IN PERSON and ONLINE.
+Arbor has its doors open for groups on campus, and online groups will meet in their virtual living rooms,
 offering participation beyond our zip code. Click the sign up button to see what group might fit for you!
 
 <br />
