@@ -4,6 +4,9 @@
 
 This repository hosts the sources for the [Arbor Church website](https://www.arborchurch.com/). 
 
+## How it Works
+
+
 ## Development
 
 Making small edits to the site is possible right on Github by clicking the Edit icon in the upper right of the file you want to edit.
