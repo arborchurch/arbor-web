@@ -36,7 +36,7 @@ collections:
       summary: '{{path}}'
     fields:
       - {label: "Date", name: "date", widget: "datetime", hint: "The date on which the message was delivered."}
-      - {label: "Series", name: "series", widget: "string", hint: "The series to which the message belongs. Use all lower case and replace spaces with dashes. Example: loving-like-jesus"}
+      - {label: "Series", name: "series", widget: "string", hint: "The series to which the message belongs. Use all lower case and replace spaces with dashes. Must match the Path field! Example: loving-like-jesus"}
       - {label: "Speaker", name: "speaker", widget: "string", hint: "The speaker who delivered the message. Example: Alison Acone"}
       - {label: "Podcast URL", name: "podcast", widget: "string", hint: "The URL to the MP3 file containing the podcast's audio. Example: https://arborchurchnw.org/podcast/loving-like-jesus-part-1.mp3"}
       - {label: "Podcast size (bytes)", name: "podcast_bytes", widget: "string", hint: "The size of the MP3 file in bytes. Example: 20938922"}
@@ -45,8 +45,9 @@ collections:
       - label: Title
         name: title
         widget: string
+        hint: "The title of the message. Example: Loving Like Jesus Loved His Disciples"
       - label: Body
         name: body
         widget: markdown
-    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+    meta: { path: { widget: string, label: 'Path', index_file: 'index', hint: "The sermon series folder in which the message belongs. Use all lower case and replace spaces with dashes. Must match the Series field! Example: loving-like-jesus" } }
 
