@@ -6,7 +6,7 @@ where: "April 18th @ 9:00 and 10:30am"
 resources:
 - name: header
   src: easter.png
-weight: 10
+weight: 2
 ---
 
 
