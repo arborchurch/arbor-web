@@ -6,7 +6,7 @@ where: "7pm April 15th at Arbor"
 resources:
 - name: header
   src: good_friday.png
-weight: 10
+weight: 1
 ---
 We are gathering as a congregation to observe an important date in the Christian calendar, Good Friday.
 
