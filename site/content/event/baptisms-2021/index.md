@@ -1,5 +1,5 @@
 ---
-date: "2022-04-15"
+date: "2022-04-14"
 expirydate: "2022-04-16"
 title: "Good Friday"
 where: "7pm April 15th at Arbor"
