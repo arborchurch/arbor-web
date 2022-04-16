@@ -1,12 +1,12 @@
 ---
-date: "2021-12-15"
-expirydate: "2021-12-25"
-title: "Christmas Eve"
-where: "December 24th @ 2:00 and 4:00pm"
+date: "2022-04-16"
+expirydate: "2022-05-23"
+title: "Baptisms"
+where: "May 22nd at 10am"
 resources:
 - name: header
-  src: christmas-eve.jpg
-weight: 10
+  src: baptisms_online.png
+weight: 5
 ---
 
 We are ready as we're going to be to celebrate Jesus' birth with you next on the 24th! Tell your kids they can hold a candle and tell the grandparents we'll have hot cocoa! There's something for everyone and we'll keep everyone as safe as possible with masks, pristine air flow, and roomy seating.
