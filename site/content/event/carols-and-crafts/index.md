@@ -2,7 +2,7 @@
 date: "2022-04-16"
 expirydate: "2022-05-09"
 title: "Child Dedications"
-where: "10am May 8th at Arbor"
+where: "May 8th at 10am"
 resources:
 - name: header
   src: child_dedications_online.png
