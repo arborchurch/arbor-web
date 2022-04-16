@@ -5,7 +5,7 @@ title: "Easter"
 where: "April 18th @ 9:00 and 10:30am"
 resources:
 - name: header
-  src: easter.png
+  src: easter_online.png
 weight: 2
 ---
 
