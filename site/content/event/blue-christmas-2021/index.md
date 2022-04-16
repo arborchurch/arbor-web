@@ -2,7 +2,7 @@
 date: "2022-04-15"
 expirydate: "2022-04-18"
 title: "Easter"
-where: "April 18th @ 9:00 and 10:30am"
+where: "April 17th at 9:00 and 10:30am"
 resources:
 - name: header
   src: easter_online.png
