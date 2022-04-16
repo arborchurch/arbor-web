@@ -1,5 +1,5 @@
 ---
-date: "2022-05-08"
+date: "2022-04-16"
 expirydate: "2022-05-09"
 title: "Child Dedications"
 where: "10am May 8th at Arbor"
