@@ -1,15 +1,13 @@
 ---
-date: "2019-12-10"
-expirydate: "2019-12-25"
-title: "Christmas Eve"
-where: "December 24th @ 2:30 and 4:30pm"
+date: "2022-04-16"
+expirydate: "2022-05-22"
+title: "Men's Breakfast"
+where: "May 21st at 9am"
 resources:
 - name: header
-  src: christmas-eve.jpg
-weight: 10
+  src: mens_breakfast_online.png
+weight: 5
 ---
 
-We warmly welcome you to join us on Christmas Eve for a candlelit time of worship and celebrating Christ's birth. 
-
-Childcare is available birth through kindergarten. We hope your older children will join your family in the sanctuary for this memorable tradition. Hope to see you at 2:30 or 4:30pm.
+Do you like breakfast? Are you a man? If you answered yes to both questions, we have somethings special for you. Join us for breakfast, fellowship, and a short encouraging message.
 
