@@ -6,7 +6,7 @@ where: "April 24th at 7:00pm"
 resources:
 - name: header
   src: family_meeting_online.png
-weight: 6
+weight: 3
 ---
 
 We have some updates we would love to share with you. Where we have been, where we currently are at, and where we are heading.
