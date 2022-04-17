@@ -1,15 +1,13 @@
 ---
-date: "2019-02-20"
-expirydate: "2019-04-22"
-title: "Easter @ Arbor"
-where: "Sunday, April 21st at 8:00, 9:30, and 11:00am."
+date: "2022-04-16"
+expirydate: "2022-04-25"
+title: "Family Meeting"
+where: "April 24th at 7:00pm"
 resources:
 - name: header
-  src: easter-2019.jpg
+  src: family_meeting_online.png
 weight: 6
 ---
 
-Since our whole faith hinges on the resurrection of Jesus, no other event means more to us than Easter! Because He rose from the dead, we are free from sin and hold onto the hope of heaven... an eternity of life, love, wholeness, peace and joy! 
-
-Please come and join us for the monumental celebration of Easter morning! It wouldn't be the same without you.
+We have some updates we would love to share with you. Where we have been, where we currently are at, and where we are heading.
 
