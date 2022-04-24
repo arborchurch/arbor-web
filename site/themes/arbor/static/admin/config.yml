@@ -42,6 +42,7 @@ collections:
       - {label: "Podcast size (bytes)", name: "podcast_bytes", widget: "string", hint: "The size of the MP3 file in bytes. Example: 20938922"}
       - {label: "Podcast duration (MM:SS)", name: "podcast_duration", widget: "string", hint: "The duration of the audio file. Example: 45:32"}
       - {label: "YouTube ID", name: "youtube_id", widget: "string", hint: "The YouTube ID of the video version of the podcast; this is the part of the YouTube URL after v=. Example: dQw4w9WgXcQ"}
+      - {label: "Type", name: "type", widget: "select", options: [ "message" ], hint: "Must be 'message'"}
       - label: Title
         name: title
         widget: string
