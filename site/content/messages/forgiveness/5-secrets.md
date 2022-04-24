@@ -10,4 +10,4 @@ title: "Forgiveness: 5 Secrets of Good Forgivers"
 type: message
 ---
 
-`Alison concludes our series with a Buzzfeed-worthy message on the top 5 secrets of forgiveness.`
+Alison concludes our series with a Buzzfeed-worthy message on the top 5 secrets of forgiveness.
