@@ -31,25 +31,65 @@ collections:
     label_singular: 'Message'
     folder: site/content/messages
     create: true
+    slug:
+      encoding: "ascii"
+      clean_accents: true
+      sanitize_replacement: "_"
     nested:
       depth: 2
       summary: '{{path}}'
     fields:
-      - {label: "Date", name: "date", widget: "datetime", hint: "The date on which the message was delivered."}
-      - {label: "Series", name: "series", widget: "string", hint: "The series to which the message belongs. Use all lower case and replace spaces with dashes. Must match the Path field! Example: loving-like-jesus"}
-      - {label: "Speaker", name: "speaker", widget: "string", hint: "The speaker who delivered the message. Example: Alison Acone"}
-      - {label: "Podcast URL", name: "podcast", widget: "string", hint: "The URL to the MP3 file containing the podcast's audio. Example: https://arborchurchnw.org/podcast/loving-like-jesus-part-1.mp3"}
-      - {label: "Podcast size (bytes)", name: "podcast_bytes", widget: "string", hint: "The size of the MP3 file in bytes. Example: 20938922"}
-      - {label: "Podcast duration (MM:SS)", name: "podcast_duration", widget: "string", hint: "The duration of the audio file. Example: 45:32"}
-      - {label: "YouTube ID", name: "youtube_id", widget: "string", hint: "The YouTube ID of the video version of the podcast; this is the part of the YouTube URL after v=. Example: dQw4w9WgXcQ"}
-      - {label: "Type", name: "type", widget: "select", options: [ "message" ], hint: "Must be 'message'"}
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+        hint: "The date on which the message was delivered."
+        required: true
+      - label: "Series"
+        name: "series"
+        widget: "string"
+        hint: "The series to which the message belongs. Use all lower case and replace spaces with dashes. Must match the Path field! Example: loving-like-jesus"
+        required: true
+      - label: "Speaker"
+        name: "speaker"
+        widget: "string"
+        hint: "The speaker who delivered the message. Example: Alison Acone"
+        required: true
+      - label: "Podcast URL"
+        name: "podcast"
+        widget: "string"
+        hint: "The URL to the MP3 file containing the podcast's audio. Example: https://arborchurchnw.org/podcast/loving-like-jesus-part-1.mp3"
+        required: true
+      - label: "Podcast size (bytes)"
+        name: "podcast_bytes"
+        widget: "number"
+        hint: "The size of the MP3 file in bytes. Example: 20938922"
+        value_type: "int"
+        required: true
+      - label: "Podcast duration (MM:SS)"
+        name: "podcast_duration"
+        widget: "string"
+        hint: "The duration of the audio file. Example: 45:32"
+        pattern: ['[0-9]+:[0-9]+', "Format as MM:SS"]
+        required: true
+      - label: "YouTube ID"
+        name: "youtube_id"
+        widget: "string"
+        hint: "The YouTube ID of the video version of the podcast; this is the part of the YouTube URL after v=. Example: dQw4w9WgXcQ"
+        pattern: ['.{11,}', "Must have at least 11 characters"]
+        required: true
+      - label: "Type"
+        name: "type"
+        widget: "hidden"
+        default: "message"
       - label: Title
         name: title
         widget: string
         hint: "The title of the message. Example: Loving Like Jesus Loved His Disciples"
+        required: true
       - label: Body
         name: body
         widget: markdown
+        required: true
         hint: "A description/summary of the message. Example: From Gospels, Alison demonstrates the ways Jesus loved his disciples, and how we can love others using the same... "
     meta: { path: { widget: string, label: 'Path', index_file: 'index', hint: "The sermon series folder in which the message belongs. Use all lower case and replace spaces with dashes. Must match the Series field! Example: loving-like-jesus" } }
 
