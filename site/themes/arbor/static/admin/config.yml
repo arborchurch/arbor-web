@@ -31,10 +31,7 @@ collections:
     label_singular: 'Message'
     folder: site/content/messages
     create: true
-    slug:
-      encoding: "ascii"
-      clean_accents: true
-      sanitize_replacement: "_"
+    slug: "{{title}}"
     nested:
       depth: 2
       summary: '{{path}}'
