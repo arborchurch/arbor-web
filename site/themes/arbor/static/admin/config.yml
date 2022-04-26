@@ -88,5 +88,5 @@ collections:
         widget: markdown
         required: true
         hint: "A description/summary of the message. Example: From Gospels, Alison demonstrates the ways Jesus loved his disciples, and how we can love others using the same... "
-    meta: { path: { widget: string, label: 'Path', index_file: 'index', hint: "The sermon series folder in which the message belongs. Use all lower case and replace spaces with dashes. Must match the Series field! Example: loving-like-jesus" } }
+    meta: { path: { widget: string, label: 'Path', index_file: 'index', hint: "The series, a slash, and then a short title. Example: loving-like-jesus/part-1" } }
 
