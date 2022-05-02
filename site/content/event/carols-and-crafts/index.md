@@ -9,6 +9,6 @@ resources:
 weight: 4
 ---
  
-We are so excited to celebrate parents and their children as they begin their relation with Jesus. If you would like to sign up your child to be dedicated [Sign up here](https://arborchurch.churchcenter.com/people/forms/376859 "Sign up here").
+We are so excited to celebrate parents and their children as they begin their relation with Jesus. If you would like to sign up your child to be dedicated [sign up here](https://arborchurch.churchcenter.com/people/forms/376859 "Sign up here").
 
 
