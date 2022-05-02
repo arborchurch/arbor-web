@@ -5,7 +5,7 @@ title: "Child Dedications"
 where: "May 8th at 10am"
 resources:
 - name: header
-  src: child_dedications_online.png
+  src: child_dedications_online_compressed.jpg
 weight: 4
 ---
  
