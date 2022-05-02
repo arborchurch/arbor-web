@@ -9,5 +9,5 @@ resources:
 weight: 5
 ---
 
-Accepting Jesus into your life is a day to celebrate! We as a church are going to celebrate these decisions as a family. If you're interested being baptized [sign up here](https://arborchurch.churchcenter.com/people/forms/261521 "sign up here").
+Accepting Jesus into your life is a day to celebrate! We as a church are going to celebrate these decisions as a family. If you're interested in being baptized [sign up here](https://arborchurch.churchcenter.com/people/forms/261521 "sign up here").
 
