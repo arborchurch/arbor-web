@@ -5,11 +5,9 @@ title: "Baptisms"
 where: "May 22nd at 10am"
 resources:
 - name: header
-  src: baptisms_online.png
+  src: baptisms_online_compressed.jpg
 weight: 5
 ---
 
-We are ready as we're going to be to celebrate Jesus' birth with you next on the 24th! Tell your kids they can hold a candle and tell the grandparents we'll have hot cocoa! There's something for everyone and we'll keep everyone as safe as possible with masks, pristine air flow, and roomy seating.
-
-Hope to see you at either our 2pm or 4pm service times! O come, all ye faithful!
+Accepting Jesus into your life is a day to celebrate! We as a church are going to celebrate these decisions as a family. If you're interested being baptized [sign up here](https://arborchurch.churchcenter.com/people/forms/261521 "sign up here").
 
