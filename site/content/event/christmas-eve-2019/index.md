@@ -5,7 +5,7 @@ title: "Men's Breakfast"
 where: "May 21st at 9am"
 resources:
 - name: header
-  src: mens_breakfast_online.png
+  src: mens_breakfast_online_compressed.jpg
 weight: 5
 ---
 
