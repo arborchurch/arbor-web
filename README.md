@@ -57,10 +57,11 @@ Go to <https://www.arborchurch.com/admin/> and log in with your Github account. 
 1. Click the `Messages` menu entry on the left
 2. Note the exact name of the series you want to add the message to from the list of series that appears; copy it
 3. Click the `New Message` button
-4. Paste the name of the series into the `Path` and `Series` fields.
-5. Fill out the `Podcast URL` field with `https://arborchurchnw.org/podcast/foo.mp3`, where `foo` is the name of the MP3 file you uploaded in the previous step.
-6. Fill out the rest of the fields; each one is labeled.
-7. Click the Save button at the top.
+4. Paste the name of the series into the `Series` field.
+5. Fill out the `Path` field with the name of the series, a slash `/`, and then a short version of the title. For example, if the series is Miracles, and the message is Healing the Sick, use `miracles/healing-the-sick`. 
+6. Fill out the `Podcast URL` field with `https://arborchurchnw.org/podcast/foo.mp3`, where `foo` is the name of the MP3 file you uploaded in the previous step.
+7. Fill out the rest of the fields; each one is labeled.
+8. Click the Save button at the top.
 
 Note that the Body field supports [Markdown syntax](https://en.wikipedia.org/wiki/Markdown), so you can use that if you'd like to add special formatting like bold or italics to the summary/description field.
 
