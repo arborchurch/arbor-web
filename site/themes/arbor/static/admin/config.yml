@@ -71,7 +71,7 @@ collections:
       - label: "YouTube ID"
         name: "youtube_id"
         widget: "string"
-        hint: "The YouTube ID of the video version of the podcast; this is the part of the YouTube URL after v=. Example: dQw4w9WgXcQ"
+        hint: "The YouTube ID of the video version of the podcast; this is the part of the YouTube URL after the v= and before the & (if any). Example: dQw4w9WgXcQ"
         pattern: ['.{11,}', "Must have at least 11 characters"]
         required: true
       - label: "Type"

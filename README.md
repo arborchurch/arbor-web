@@ -40,10 +40,11 @@ Because the audio files will be downloaded to mobile phones, it's important to u
 
 ### Step 4: Upload the Podcast Audio
 
-Go to <https://panel.dreamhost.com/> and log in; credentials will be supplied to you separately. Then, do the following:
+Go to <https://panel.dreamhost.com/> and log in; credentials will be supplied to you separately ("panel password"). Then, do the following:
 
 1. In the menu on the left, click `Websites` -> `Manage Websites`. 
-2. Scroll down to `arborchurchnw.org` and click the `Files` icon
+2. Scroll down to `arborchurchnw.org` and click the `Files` icon.
+3. If prompted for a login, click the SFTP/SCP tab, username `arborchurch`, domain `arborchurchnw.org`; the password ("FTP password") will be sent to you separately.
 3. Click on the `arborchurchnw.org` folder
 4. Click on the `podcast` folder
 5. Click the Upload button (bottom left, looks like an arrow pointing up)
@@ -60,8 +61,9 @@ Go to <https://www.arborchurch.com/admin/> and log in with your Github account. 
 4. Paste the name of the series into the `Series` field.
 5. Fill out the `Path` field with the name of the series, a slash `/`, and then a short version of the title. For example, if the series is Miracles, and the message is Healing the Sick, use `miracles/healing-the-sick`. 
 6. Fill out the `Podcast URL` field with `https://arborchurchnw.org/podcast/foo.mp3`, where `foo` is the name of the MP3 file you uploaded in the previous step.
-7. Fill out the rest of the fields; each one is labeled.
-8. Click the Save button at the top.
+7. Fill out the `YouTube ID` field with the part of the YouTube URL of the message after `v=`, but before any `&` symbol. For example, if the YouTube URL is `https://www.youtube.com/watch?v=utWHNhFoGdI&t=4s`, the `YouTubeID` is `utWHNhFoGdI`. 
+8. Fill out the rest of the fields; each one is labeled.
+9. Click the Save button at the top.
 
 Note that the Body field supports [Markdown syntax](https://en.wikipedia.org/wiki/Markdown), so you can use that if you'd like to add special formatting like bold or italics to the summary/description field.
 
