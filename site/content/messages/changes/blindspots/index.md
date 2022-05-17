@@ -5,7 +5,7 @@ speaker: Cliff Tadema
 podcast: " https://arborchurchnw.org/podcast/changes-blindspots.mp3"
 podcast_bytes: 42040698
 podcast_duration: 43:47
-youtube_id: utWHNhFoGdl
+youtube_id: utWHNhFoGdI
 type: message
 title: "Changes: Blindspots"
 ---
