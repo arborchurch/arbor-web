@@ -9,6 +9,4 @@ youtube_id: utWHNhFoGdI&t=1s
 type: message
 title: "Changes: Blindspots"
 ---
-Sunday May 15, 2022\
-Cliff Tadema\
-Part three of "Changes"
+*Cliff continues part three of our series Changes talking about the blindspots in our walk with God looking into John 9  with Jesus healing the blindman*
