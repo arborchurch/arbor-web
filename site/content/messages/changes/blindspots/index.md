@@ -1,0 +1,14 @@
+---
+date: 2022-05-17T03:59:52.973Z
+series: Changes
+speaker: Cliff Tadema
+podcast: " https://arborchurchnw.org/podcast/changes-blindspots.mp3"
+podcast_bytes: 42040698
+podcast_duration: 43:47
+youtube_id: utWHNhFoGdI&t=1s
+type: message
+title: "Changes: Blindspots"
+---
+Sunday May 15, 2022\
+Cliff Tadema\
+Part three of "Changes"
