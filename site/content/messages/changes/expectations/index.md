@@ -1,5 +1,5 @@
 ---
-date: 2022-05-24T22:08:00.066Z
+date: 2022-05-22T22:08:00.000Z
 series: changes
 speaker: Cliff Tadema
 podcast: https://arborchurchnw.org/podcast/changes-expectations.mp3
