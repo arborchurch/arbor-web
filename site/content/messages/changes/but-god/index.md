@@ -1,5 +1,5 @@
 ---
-date: 2022-06-01T06:39:43.805Z
+date: 2022-05-30T06:39:43.805Z
 series: changes
 speaker: Cliff Tadema
 podcast: https://arborchurchnw.org/podcast/changes-but-god.mp3
