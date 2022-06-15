@@ -1,5 +1,5 @@
 ---
-date: 2022-06-15T04:29:17.923Z
+date: 2022-06-13T04:29:17.923Z
 series: changes
 speaker: Cliff Tadema
 podcast: https://arborchurchnw.org/podcast/changes-legion.mp3
