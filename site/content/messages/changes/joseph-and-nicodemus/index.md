@@ -1,5 +1,5 @@
 ---
-date: 2022-07-02T03:47:36.964Z
+date: 2022-06-27T03:47:36.964Z
 series: changes
 speaker: Cliff Tadema
 podcast: https://arborchurchnw.org/podcast/changes-joseph-and-nicodemus.mp3
