@@ -1,5 +1,5 @@
 ---
-date: 2022-07-16T22:27:13.453Z
+date: 2022-07-10T22:27:13.453Z
 series: Summer at Arbor
 speaker: Cliff Tadema
 podcast: https://arborchurchnw.org/podcast/summer-at-arbor-its-gods-to-use.mp3
