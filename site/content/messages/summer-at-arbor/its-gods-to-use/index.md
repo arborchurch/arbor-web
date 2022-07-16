@@ -2,7 +2,7 @@
 date: 2022-07-10T22:27:13.453Z
 series: summer at arbor
 speaker: Cliff Tadema
-podcast: https://arborchurchnw.org/podcast/summer-at-arbor-its-gods-to-use.mp3
+podcast: https://arborchurchnw.org/podcast/summer-at-arbor-its-gods-to use.mp3
 podcast_bytes: 40885608
 podcast_duration: 42:34
 youtube_id: thcEP8g1DzM
