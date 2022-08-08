@@ -4,7 +4,7 @@ title: "Ryan Plantz"
 position: "Senior Pastor"
 email: "ryan@arborchurch.com"
 emailname: Ryan
-weight: 5
+weight: 1
 resources:
 - name: photo
   src: "dunk.jpeg"
