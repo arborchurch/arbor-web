@@ -18,11 +18,8 @@ menu:
   </a>
 </div>
 
-Groups have one simple purpose: TO BRING PEOPLE TOGETHER. Last year, social distancing felt like isolation; therefore, we
-think connection is more important now than ever. While the process to get and stay connected to a group is still the
-same, the platforms have shifted. Moving forward, we will offer meetings both IN PERSON and ONLINE.
-Arbor has its doors open for groups on campus, and online groups will meet in their virtual living rooms,
-offering participation beyond our zip code. Click the sign up button to see what group might fit for you!
+Groups have one simple purpose: TO BRING PEOPLE TOGETHER. These days, we
+think connection is more important now than ever. Click the sign up button to see what group might fit for you!
 
 <br />
 
@@ -45,5 +42,5 @@ and leaders time to catch their breath.
 
 ## GROUP SIGN UPS
 
-Coming soon! Email <info@arborchurch.com> for more information.
+Coming soon! Email <info@arborchurch.com> for more information, or check the postings at https://arborchurch.churchcenter.com/groups/2022-23.
 
