@@ -12,11 +12,9 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Expiration Date", name: "expirydate", widget: "datetime"}
-      - {label: "Image", name: "image", widget: "image"}
-      - {label: "Where", name: "where", widget: "string"}
+      - {label: "Event Name", name: "title", widget: "string"}
+      - {label: "Event Date", name: "date", widget: "datetime"}
+      - {label: "Publish Date", name: "publishdate", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "news"
     label: "News"
