@@ -1,0 +1,8 @@
+{{ partial "content-header.html" . }}
+
+{{ range sort .Data.Pages.ByDate }}
+  {{ .Render "single" }}
+{{ end }}
+
+{{ partial "content-footer.html" . }}
+

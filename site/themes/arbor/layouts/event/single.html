@@ -1,13 +1,12 @@
 
-<div class="event">
-  {{ $img := $.Page.Resources.GetMatch "header" }}
-  <img class="event-image" src="{{ $img.RelPermalink }}" />
-</div>
-
 <div class="row">
-  <div class="event-details col-sm-12 col-md-8 col-sm-offset-0 col-md-offset-2">
-    <h1>{{ .Title }}</h1>
-    <h2>{{ .Params.where }}</h2>
+  <div class="event-when col-sm-12 col-md-2 text-right">
+    <div class="month">{{ dateFormat "January" .Params.date }}</div>
+    <div class="day">{{ dateFormat "02" .Params.date }}</div>
+    <div class="weekday">{{ dateFormat "Monday" .Params.date }}</div>
+  </div>
+  <div class="event-details col-sm-12 col-md-8 col-sm-offset-0">
+    <h1 class="mt-0 pt-0">{{ .Title }}</h1>
     {{ .Content }}
   </div>
 </div>

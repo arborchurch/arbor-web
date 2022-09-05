@@ -17,7 +17,6 @@ img.event-image {
 }
 
 .event-details {
-  margin-top: 1em;
   margin-bottom: 5em;
 }
 
@@ -48,3 +47,27 @@ img.event-image {
   font-weight: 300;
 }
 
+.event-when {
+  background-color: #f0f0f0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.event-when .month {
+  text-transform: uppercase;
+  font-size: 15px;
+  text-align: center;
+}
+
+.event-when .day {
+  font-size: 40px;
+  text-align: center;
+}
+
+.event-when .weekday {
+  text-transform: uppercase;
+  font-size: 15px;
+  text-align: center;
+}
