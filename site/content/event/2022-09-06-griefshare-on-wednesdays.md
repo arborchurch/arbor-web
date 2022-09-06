@@ -1,7 +1,7 @@
 ---
-title: Griefshare on Wednesdays
-date: 2022-10-06T04:53:59.489Z
-publishdate: 2022-09-06T04:53:59.505Z
+title: GriefShare on Wednesdays
+date: 2022-10-05
+publishdate: 2022-09-05T04:53:59.505Z
 ---
 Maybe the shift in season has stirred the grief you carry; autumn has a way of doing that with its rich sensory display and its step toward nostalgic family holidays. Is this the year for some grief work, perhaps?\
 \
