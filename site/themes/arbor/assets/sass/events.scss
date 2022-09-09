@@ -71,3 +71,13 @@ img.event-image {
   font-size: 15px;
   text-align: center;
 }
+
+.event-details .button {
+  background-color: #343434;
+  color: #f0f0f0;
+  display: inline-block;
+  padding: 1em;
+  border-radius: 5px;
+  font-family: $header-font;
+  margin-top: 1em;
+}

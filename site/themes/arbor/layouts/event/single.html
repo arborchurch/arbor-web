@@ -8,5 +8,8 @@
   <div class="event-details col-sm-12 col-md-8 col-sm-offset-0">
     <h1 class="mt-0 pt-0">{{ .Title }}</h1>
     {{ .Content }}
+    {{ if .Params.registration_link }}
+      <a class="button" href="{{ .Params.registration_link }}">Register</a>
+    {{ end }}
   </div>
 </div>
