@@ -1,7 +1,7 @@
 ---
 date: "2022-09-11T10:00:00-08:00"
-title: "Better Together: Serve"
-series: "summer-on-the-mount"
+title: "Better Together: Serve Together"
+series: "better-together"
 speaker: "Ryan Plantz"
 type: message
 podcast: https://arborchurchnw.org/podcast/better-together-serve.mp3
