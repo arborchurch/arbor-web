@@ -2,6 +2,7 @@
 title: GriefShare on Wednesdays
 date: 2022-10-05
 publishdate: 2022-09-05T04:53:59.505Z
+expirydate: 2022-10-06
 registration_link: https://www.griefshare.org/groups/155326/registrations/new
 ---
 Maybe the shift in season has stirred the grief you carry; autumn has a way of doing that with its rich sensory display and its step toward nostalgic family holidays. Is this the year for some grief work, perhaps?\

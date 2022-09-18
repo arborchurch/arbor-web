@@ -1,6 +1,7 @@
 ---
 date: 2022-09-17
 publishdate: 2022-09-01
+expirydate: 2022-09-18
 title: "Men's Breakfast"
 registration_link: https://tinyurl.com/savemeasausage
 ---

@@ -1,6 +1,7 @@
 ---
 date: 2022-09-18
 publishdate: 2022-09-01
+expirydate: 2022-09-19
 title: "Group Leader Training"
 ---
 
