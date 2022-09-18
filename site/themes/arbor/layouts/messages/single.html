@@ -1,9 +1,18 @@
 
 <div class="series">
   <a href="{{ .RelPermalink }}">
-  {{ range .Page.Resources.Match "header" }}
-    {{ $img := .Resize "840x" }}
-    <img class="series-image lozad" data-src="{{ $img.RelPermalink }}" />
+  {{ $images := .Page.Resources.Match "header" }}
+  {{ if gt (len $images) 0 }}
+    {{ range .Page.Resources.Match "header" }}
+      {{ $img := .Resize "840x" }}
+      <img class="series-image lozad" data-src="{{ $img.RelPermalink }}" />
+    {{ end }}
+  {{ else }}
+    <div class="series-placeholder">
+      <div class="series-title">
+        {{ .Page.Title }}
+      </div>
+    </div>
   {{ end }}
   </a>
 </div>

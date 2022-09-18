@@ -9,9 +9,14 @@
 {{ partial "menu.html" . }}
 
 <div class="header">
-  {{ range .Resources.Match "header" }}
-    <img class="desktop-image" src=" {{ .RelPermalink }}" />
-    <div class="mobile-image" style="background-image: url( {{ .RelPermalink }});"></div>
+  {{ $header := .Resources.Match "header"}}
+  {{ if gt (len $header) 0 }}
+    {{ range .Resources.Match "header" }}
+      <img class="desktop-image" src=" {{ .RelPermalink }}" />
+      <div class="mobile-image" style="background-image: url( {{ .RelPermalink }});"></div>
+    {{ end }}
+  {{ else }}
+    <div class="generic-header"></div>
   {{ end }}
   <div class="header-content">
     <div>
