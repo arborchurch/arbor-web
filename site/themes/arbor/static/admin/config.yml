@@ -3,7 +3,6 @@ backend:
   branch: master
   repo: arborchurch/arbor-web
 media_folder: "static/img/uploads"
-publish_mode: editorial_workflow
 public_folder: "/img/uploads"
 collections:
   - name: "event"
@@ -12,11 +11,30 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Event Name", name: "title", widget: "string"}
-      - {label: "Event Date", name: "date", widget: "datetime"}
-      - {label: "Publish Date", name: "publishdate", widget: "datetime"}
-      - {label: "Registration Link", name: "registration_link", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Event Name"
+        name: "title"
+        widget: "string"
+        hint: "The name of the event. Example: Ladies Night"
+      - label: "Event Date"
+        name: "date"
+        widget: "datetime"
+        hint: "The date on which the event occurs."
+      - label: "Publish Date"
+        name: "publishdate"
+        widget: "datetime"
+        hint: "The date on which the event should appear on the website. Typically leave set at today to make it show up immediately"
+      - label: "Expiration Date"
+        name: "expirydate"
+        widget: "datetime"
+        hint: "The date on which the event should be taken down from the website. Typically set to a day or two after the event."
+      - label: "Registration Link"
+        name: "registration_link"
+        widget: "string"
+        hint: "If the event requires registration, put the link here (beginning with https) to add a Register button."
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        hint: ""
   - name: "news"
     label: "News"
     folder: "site/content/news"
