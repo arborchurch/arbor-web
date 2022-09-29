@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 title: "Hayden Wright"
-position: "Worship Director"
+position: "Creative Arts Director"
 email: "hayden@arborchurch.com"
 emailname: Hayden
 weight: 30
