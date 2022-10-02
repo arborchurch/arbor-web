@@ -31,10 +31,15 @@ collections:
         widget: "datetime"
         hint: "The date on which the event should be taken down from the website. Typically set to a day or two after the event."
         required: true
-      - label: "Registration Link"
-        name: "registration_link"
+      - label: "Button Text"
+        name: "button_text"
         widget: "string"
-        hint: "If the event requires registration, put the link here (beginning with https) to add a Register button."
+        hint: "If you want to add a button to the event, put the text you want to appear on the button here."
+        required: false
+      - label: "Button Link"
+        name: "button_link"
+        widget: "string"
+        hint: "If you want to add a button to the event, put the button link here (beginning with https)"
         required: false
       - label: "Body"
         name: "body"
