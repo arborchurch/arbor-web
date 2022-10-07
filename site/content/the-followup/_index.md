@@ -6,5 +6,5 @@ resources:
   src: stale-coffee.jpg
 menu:
   main:
-    parent: 'Messages'
+    parent: 'Resources'
 ---
