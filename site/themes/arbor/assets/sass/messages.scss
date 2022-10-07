@@ -58,22 +58,21 @@
 }
 
 .series-placeholder {
-  background-color: #1e1e1e;
-  background-image: linear-gradient(45deg, #1e1e1e 0%, #089c39 100%);
-  width: 420px;
-  height: 236px;
   display: flex;
   align-items: center;
+  position: relative;
 }
 
 
 .series-placeholder .series-title {
+  position: absolute;
+  left: 0;
+  top: 40%;
+  text-align: center;
   color: #f0f0ff;
   font-family: $header-font;
-  display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
   font-size: 30px;
   text-transform: lowercase;
+  width: 100%;
 }
 

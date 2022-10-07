@@ -8,7 +8,11 @@
       <img class="series-image lozad" data-src="{{ $img.RelPermalink }}" />
     {{ end }}
   {{ else }}
+    {{ $image := resources.Get "images/forest-generic.jpg" }}
+    {{ $img := $image.Resize "840x" }}
     <div class="series-placeholder">
+
+      <img class="series-image lozad" data-src="{{ $img.RelPermalink }}" />
       <div class="series-title">
         {{ .Page.Title }}
       </div>
