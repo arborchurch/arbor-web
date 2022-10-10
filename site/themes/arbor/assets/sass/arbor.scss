@@ -91,9 +91,10 @@ a:hover {
 }
 
 .footer {
+  margin-top: 8rem;
   padding-top: 2rem;
   padding-bottom: 3rem;
-  text-align: center;
+  background-color: #efefef;
 }
 
 .footer a {
@@ -146,6 +147,16 @@ a:hover {
   font-family: $header-font;
   font-size: 10px;
   margin-top: 2em;
+}
+
+.footer p {
+  font-size: 14px;
+}
+
+.footer h5 {
+  font-family: $header-font;
+  font-size: 25px;
+  font-weight: bold;
 }
 
 .block {
@@ -505,11 +516,21 @@ ul.footer-menu {
 ul.footer-menu li {
   list-style-type: none;
   display: inline-block;
-  padding-left: 0.5em;
   padding-right: 0.5em;
   font-weight: bold;
-  letter-spacing: 0.15em;
   font-size: 14px;
+  line-height: 25px;
+}
+
+ul.footer-menu .sub-menu {
+  padding-left: 0px;
+}
+
+ul.footer-menu ul li {
+  text-transform: none;
+  font-weight: normal;
+  display: block;
+  padding-inline-start: 0;
 }
 
 .img-full {

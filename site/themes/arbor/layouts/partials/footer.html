@@ -1,14 +1,33 @@
 <div class="footer">
-  <ul class="footer-menu">
-  {{ $baseUrl := .Site.BaseURL }}
-    <li><a href="{{ $baseUrl }}#block_About">About</a></li>
-    <li><a href="{{ $baseUrl }}#block_Get Involved">Get Involved</a></li>
-    <li><a href="{{ $baseUrl }}/messages">Messages</a></li>
-    <li><a href="https://arborchurch.churchcenteronline.com/giving?open-in-church-center-modal=true">Give</a></li>
-  </ul>
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <h5>Arbor Church</h5>
+      <p><a href="https://www.google.com/maps/place/19011+Woodinville+Snohomish+Rd,+Woodinville,+WA+98072/@47.7657651,-122.1576943,17z/data=!3m1!4b1!4m5!3m4!1s0x54900e9a33e7f0d3:0x2d8ffaf8fde7a709!8m2!3d47.7657651!4d-122.1555003">19011 Woodinville-Snohomish Rd., Suite 210<br />
+        Woodinville, WA 98072<br />
+        425-578-0400</a><br />
+        <a href="mailto:info@arborchurch.com">info@arborchurch.com</a><br />
+      </p>
+    </div>
+    {{ range .Site.Menus.main }}
+      <div class="col-md-2">
+        <ul class="footer-menu">
+          <li>{{ .Name }}</li>
+          {{ if .HasChildren }}
+          <ul class="sub-menu">
+            {{ range .Children }}
+            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+          {{ end }}
+        </ul>
+      </div>
+    {{ end }}
+  </div>
 {{ partial "social-buttons.html" . }}
 </div>
-</div> <!-- COVID_19 -->
+</div> 
+</div> 
 </body>
 {{ partial "script-libraries.html" . }}
 </html>
