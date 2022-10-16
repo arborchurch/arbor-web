@@ -1,5 +1,5 @@
 ---
-date: "2022-10-19T10:00:00-08:00"
+date: "2022-10-16T10:00:00-08:00"
 title: "Resilient Joy: The Reason for Joy"
 series: "resilient-joy"
 speaker: "Scott Hetherington"
