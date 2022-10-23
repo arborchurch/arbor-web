@@ -10,5 +10,5 @@ podcast_duration: 41:01
 youtube_id: yiGlITnK-5w 
 ---
 
-We continue our time in Phillipians Chapter 1 trying to understand how Paul was able to experience joy despite being in prison and experiencing what is, objectively, a pretty rough life. Did he just try to pretend that all the evil that happened to him was good? Or was there something deeper going on?
+We continue our time in Philippians Chapter 1 trying to understand how Paul was able to experience joy despite being in prison and experiencing what is, objectively, a pretty rough life. Did he just try to pretend that all the evil that happened to him was good? Or was there something deeper going on?
 
