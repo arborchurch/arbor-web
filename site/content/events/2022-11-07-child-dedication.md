@@ -1,6 +1,6 @@
 ---
 title: Child Dedication
-date: 2022-12-05T07:06:00.999Z
+date: 2022-12-04T07:06:00.999Z
 publishdate: 2022-11-07T07:06:11.245Z
 expirydate: 2022-12-08T07:05:54.834Z
 button_text: Dedicate Your Child
