@@ -5,8 +5,8 @@ series: "resilient-joy"
 speaker: "Ryan Plantz"
 type: message
 podcast: https://arborchurchnw.org/podcast/resilient-joy-joy-in-conflict.mp3
-podcast_bytes: 25208095
-podcast_duration: 35:00
+podcast_bytes: 29637930
+podcast_duration: 41:09
 youtube_id: Pdv9tFg5WXU
 ---
 
