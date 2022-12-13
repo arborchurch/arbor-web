@@ -7,7 +7,7 @@ emailname: Hayden
 weight: 30
 resources:
 - name: photo
-  src: "hayden.png"
+  src: "hayden.jpg"
 ---
 
 It may sound cliche, but growing up in Vancouver, Washington means Hayden naturally loves the cold rain, especially if there's a hot coffee in his hand. When it comes time to thaw out, he and his wife, Sara, have a passion for traveling to new cultures where they love to try all the regional foods.
