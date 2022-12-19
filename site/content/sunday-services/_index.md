@@ -17,14 +17,18 @@ menu:
 <br>
   &nbsp;  &nbsp;
 
-</h3>
+</h2>
 
 </h3>
 
-2020 has given us a chance to get creative with sharing the good stuff that once took place only INSIDE our building. COVID has closed the doors on Sundays for the time being, but in the meanwhile, it has led us open the door to digital ministry. 
+Join us at **10am every Sunday** for a time of worship, teaching, and connection. Our campus is located in Woodinville's
+industrial district, at <a
+href="https://www.google.com/maps/place/19011+Woodinville+Snohomish+Rd,+Woodinville,+WA+98072/@47.7657651,-122.1576943,17z/data=!3m1!4b1!4m5!3m4!1s0x54900e9a33e7f0d3:0x2d8ffaf8fde7a709!8m2!3d47.7657651!4d-122.1555003">19011
+Woodinville-Snohomish Rd., Suite 210</a>.
 
-Join us at 10am for a time of worship, teaching, and connection. Our ONLINE CAMPUS can be accessed from our website's homepage, but you will also find services running on <a href="https://www.facebook.com/arborchurchnw/ ">Facebook</a>  and our <a href="https://www.youtube.com/channel/UCRe_QiHhuGwlIY43ECFopNQ ">YouTube channel</a>. We encourage you to gather with others as you worship with us online, and of course, invite others to join from their own home base. Until we can be together in person, we will be together virtually... making disciples TOGETHER.  
-
+Can't make it in person? You will also find services running on our <a href="https://arborchurch.online.church/">online
+campus</a>, <a href="https://www.facebook.com/arborchurchnw/ ">Facebook</a>,and our <a href="https://www.youtube.com/channel/UCRe_QiHhuGwlIY43ECFopNQ ">YouTube channel</a>. We encourage you to gather with others as you worship with us online, and of course, invite others to join from their own home base. 
+ur
 
 
 
