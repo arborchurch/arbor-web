@@ -12,28 +12,18 @@ menu:
     weight: 10
 ---
 
-<h3>
-<h2 class="tight-header">Sunday Mornings</h2>at 10am.
-<br>
-  &nbsp;  &nbsp;
+## Welcome
 
-</h2>
+At our Sunday gatherings, we come together to connect with one another, worship God in song, and study the Bible. All are welcome to attend — come as you are and enjoy some free coffee or tea as we seek God together.
 
-</h3>
+**Date:** Sundays
 
-Join us at **10am every Sunday** for a time of worship, teaching, and connection. Our campus is located in Woodinville's
-industrial district, at <a
-href="https://www.google.com/maps/place/19011+Woodinville+Snohomish+Rd,+Woodinville,+WA+98072/@47.7657651,-122.1576943,17z/data=!3m1!4b1!4m5!3m4!1s0x54900e9a33e7f0d3:0x2d8ffaf8fde7a709!8m2!3d47.7657651!4d-122.1555003">19011
-Woodinville-Snohomish Rd., Suite 210</a>.
+**Time:** 10 AM
 
-Can't make it in person? You will also find services running on our <a href="https://arborchurch.online.church/">online
-campus</a>, <a href="https://www.facebook.com/arborchurchnw/ ">Facebook</a>,and our <a href="https://www.youtube.com/channel/UCRe_QiHhuGwlIY43ECFopNQ ">YouTube channel</a>. We encourage you to gather with others as you worship with us online, and of course, invite others to join from their own home base. 
-ur
+**Location:** 19011 Woodinville Snohomish Rd #210, Woodinville, WA 98072
 
+<br />
 
-
-
-
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2681.8098613552943!2d-122.1551707!3d47.7657423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54900e9a33e7f0d3%3A0x2d8ffaf8fde7a709!2s19011%20Woodinville%20Snohomish%20Rd%2C%20Woodinville%2C%20WA%2098072!5e0!3m2!1sen!2sus!4v1671414067062!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
