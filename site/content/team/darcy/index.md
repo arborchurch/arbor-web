@@ -7,7 +7,7 @@ email: "elders@arborchurch.com"
 emailname: Darcy
 resources:
 - name: "photo"
-  src: "darcy.jpeg"
+  src: "darcy-small.jpg"
 ---
 
 Darcy grew up in Arbor's backyard and as a teen came to faith in Jesus through Young Life. Her love of outdoor activity led her to meet her husband, Timo, where they both worked for REI. Learning to climb Mount Rainier together was their first adventure; raising three children was the next!  

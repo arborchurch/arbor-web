@@ -1,11 +1,17 @@
 <div class="row detail">
-  <div class="col-sm-7 col-md-7">
-    <div class="photocell">
-      {{ $img := $.Page.Resources.GetMatch "photo" }}
-      <img class="photo" src="{{ $img.RelPermalink }}">
+  <div class="col-sm-4 col-md-4">
+    <div class="photocell" style="text-align: center;">
+      {{ $img2x := $.Page.Resources.GetMatch "photo" }}
+      {{ $img1x := $img2x.Resize (print (div $img2x.Width 2) "x") }}
+      <img class="photo"
+         srcset="{{ $img1x.RelPermalink }}, {{ $img2x.RelPermalink }} 2x" 
+         src="{{ $img2x.RelPermalink }}" 
+         width="{{ (div $img2x.Width 2) }}"
+         height="{{ (div $img2x.Height 2) }}"
+         alt="Photograph of {{ .Title }}"/>
     </div>
   </div>
-  <div class="col-sm-5 col-md-5 detail-summary">
+  <div class="col-sm-8 col-md-8 detail-summary">
     <div class="summary">
       <h2>{{ .Title }}</h2>
       <h3>{{ .Params.position }}</h3>

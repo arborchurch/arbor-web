@@ -7,7 +7,7 @@ emailname: Ryan
 weight: 1
 resources:
 - name: photo
-  src: "dunk.jpeg"
+  src: "ryan-small.jpg"
 ---
 
 Ryan was born and raised in Chicago, so he's used to summer being the only season where you see the sun. This makes the Pacific Northwest a perfect fit for him. On grayer days, his life is brightened up significantly by his wife, Kerry (who is a Woodinville native), and their three kids -- Ethan, Miles, and Eleanor.

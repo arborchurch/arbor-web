@@ -7,7 +7,7 @@ email: "alison@arborchurch.com"
 emailname: Alison
 resources:
 - name: photo
-  src: "alison.jpg"
+  src: "alison-small.jpg"
 ---
 You probably could already tell from her tan, but Alison grew up on sunny Southern California beaches before she and her husband relocated in 1990 to the slower pace of life found in... Bellevue. Ironic. 
 
