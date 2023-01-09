@@ -7,6 +7,8 @@ button_text: Register
 button_link: https://arborchurch.churchcenter.com/people/forms/485266
 ---
 
-More information to come!
+Join us on Sunday, January 29th for Discover Arbor, a gathering where you can learn about Arbor's history, mission, vision, and values. You'll also have the opportunity to ask questions and meet others who are new to our community. Everyone is welcome, whether you're new to the church or just interested in learning more. Don't miss this chance to discover next steps for getting more involved in the life of our church.
+
+Childcare available for the duration of this event.
 
 Sign up here to save your seat:
