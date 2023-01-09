@@ -1,6 +1,6 @@
 ---
 title: Winter Groups Signups
-date: 2023-01-29
+date: 2023-01-09
 publishdate: 2022-01-09
 expirydate: 2023-01-30
 button_text: Register
