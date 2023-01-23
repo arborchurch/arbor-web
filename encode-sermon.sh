@@ -8,7 +8,7 @@ ffmpeg -i "$3" \
        -ac 1 \
        -metadata title="$1" \
        -metadata author="$2" \
-       -metadata year=2022 \
+       -metadata year=2023 \
        -movflags +faststart \
        "$4"
 
