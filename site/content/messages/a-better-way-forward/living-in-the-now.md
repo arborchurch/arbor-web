@@ -10,4 +10,4 @@ podcast_duration: 34:10
 youtube_id: 9rugUIYnGSE
 ---
 
-Jesus was never too busy for the people he encountered as he went about His ministry. Scott Hetherington shares three stories about Jesus' bringing hope and healing in during unplanned and unexpected encounters, and encourages us, too, to live in the now as we follow Him.
+Jesus was never too busy for the people he encountered as he went about His ministry. Scott Hetherington shares three stories about Jesus bringing hope and healing in during unplanned and unexpected encounters, and encourages us, too, to live in the now as we follow Him.
