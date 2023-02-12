@@ -3,3 +3,4 @@
 *.flac
 *.mp4
 tags
+site/.hugo_build.lock
