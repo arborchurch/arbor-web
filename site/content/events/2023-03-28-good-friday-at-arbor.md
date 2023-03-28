@@ -1,5 +1,5 @@
 ---
-title: Good Friday at Arbor
+title: Good Friday at Arbor 6pm
 date: 2023-04-08T01:00:08.088Z
 publishdate: 2023-03-28T15:30:08.097Z
 expirydate: 2023-04-08T07:00:08.104Z
