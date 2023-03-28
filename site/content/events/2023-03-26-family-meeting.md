@@ -2,7 +2,7 @@
 title: Family Meeting
 date: 2023-03-26
 publishdate: 2023-01-09
-expirydate: 2023-03-29
+expirydate: 2023-03-28T15:08:55.574Z
 ---
 
 Good news! We have a FAMILY MEETING around the corner, and we can't wait to be together for some updates and news. We’ve created a timeframe that will optimize for an awesome turnout... it will happen somewhat as a "second half" of our Sunday worship service on **MARCH 26**, after an intermission of homemade cookies & coffee refills!
