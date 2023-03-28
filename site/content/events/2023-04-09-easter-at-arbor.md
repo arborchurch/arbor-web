@@ -1,5 +1,5 @@
 ---
-title: Easter at Arbor
+title: Easter at Arbor 9 & 10:30am
 date: 2023-04-09
 publishdate: 2023-01-09
 expirydate: 2023-04-11
