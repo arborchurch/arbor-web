@@ -1,9 +1,9 @@
 ---
-title: Mother's Day & Child Dedications 10am
+title: Mother's Day
 date: 2023-05-14T15:25:30.895Z
 publishdate: 2023-03-28T15:10:48.683Z
 expirydate: 2023-05-15T07:00:08.806Z
-button_text: Register
-button_link: https://arborchurch.churchcenter.com/people/forms/530421
+button_text: ""
+button_link: ""
 ---
-We are so excited to celebrate moms, families, and parents raising their kids with Jesus. Join us and if you want to dedicate your child sign-up below!
+W﻿e will have a special Sunday celebrating the Women of Arbor. Join us for a unique message, worship, and after service festivities.
