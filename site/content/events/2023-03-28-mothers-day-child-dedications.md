@@ -6,4 +6,4 @@ expirydate: 2023-05-15T07:00:08.806Z
 button_text: ""
 button_link: ""
 ---
-W﻿e will have a special Sunday celebrating the Women of Arbor. Join us for a unique message, worship, and after service festivities.
+Join us for a special Mother's Day service as we honor all the women who have played a vital role in our community and homes. Everyone is welcome to join us for a unique message, worship, and after service festivities!
