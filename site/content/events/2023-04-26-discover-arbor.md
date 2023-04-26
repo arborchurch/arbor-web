@@ -2,7 +2,7 @@
 title: Discover Arbor
 date: 2023-06-11T18:30:00.000Z
 publishdate: 2023-04-26T20:02:05.531Z
-expirydate: 2023-04-26T20:02:05.543Z
+expirydate: 2023-06-12T20:02:05.543Z
 button_text: register here
 button_link: https://arborchurch.churchcenter.com/people/forms/545721
 ---
