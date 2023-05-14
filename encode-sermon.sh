@@ -14,7 +14,7 @@ ffmpeg -i "$3" \
 
 # calculate duration and file size for metadata
 DURATION=$(ffprobe -i "$3" -show_entries format=duration -v quiet -of csv="p=0" -sexagesimal | sed -e 's/\..*//')
-BYTES=$(stat -c "%s" "$4")
+BYTES=$(stat -f "%z" "$4")
 
 echo "---"
 echo "podcast_bytes: $BYTES"
