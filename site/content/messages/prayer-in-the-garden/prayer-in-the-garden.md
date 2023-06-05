@@ -4,7 +4,7 @@ title: "Prayer in the Garden"
 series: "prayer-in-the-garden"
 speaker: "Bryan Cobley"
 type: message
-podcast: https://arborchurchnw.org/podcast/prayer-in-the-garden.m4a
+podcast: https://arborchurchnw.org/podcast/prayer-in-the-garden.mp3
 podcast_bytes: 26106486
 podcast_duration: 36:15
 youtube_id: cu8to6xr5lg
