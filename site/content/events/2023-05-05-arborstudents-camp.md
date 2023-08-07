@@ -2,7 +2,7 @@
 title: ArborStudents Summer Camp
 date: 2023-08-04T20:14:11.031Z
 publishdate: 2023-05-05T20:14:11.046Z
-expirydate: 2023-08-10T20:14:11.059Z
+expirydate: 2023-08-07T21:17:02.291Z
 button_text: register here
 button_link: https://arborchurch.churchcenter.com/registrations/events/1751769
 ---
