@@ -1,6 +1,6 @@
 ---
 title: GriefShare
-date: 2023-09-12T01:00:00.000Z
+date: 2023-09-12T12:00:00.000Z
 publishdate: 2023-08-04T16:01:57.622Z
 expirydate: 2023-12-20T05:01:57.632Z
 button_text: register here
