@@ -20,18 +20,24 @@ collections:
         name: "date"
         widget: "datetime"
         date_format: "YYYY-MM-DD"
+        time_format: false
+        picker_utc: true
         hint: "The date on which the event occurs."
         required: true
       - label: "Publish Date"
         name: "publishdate"
         widget: "datetime"
         date_format: "YYYY-MM-DD"
+        time_format: false
+        picker_utc: true
         hint: "The date on which the event should appear on the website. Typically leave set at today to make it show up immediately"
         required: true
       - label: "Expiration Date"
         name: "expirydate"
         widget: "datetime"
         date_format: "YYYY-MM-DD"
+        time_format: false
+        picker_utc: true
         hint: "The date on which the event should be taken down from the website. Typically set to a day or two after the event."
         required: true
       - label: "Button Text"
