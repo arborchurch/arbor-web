@@ -1,5 +1,5 @@
 ---
-date: "2023-08-03T10:00:00-08:00"
+date: "2023-09-03T10:00:00-08:00"
 title: "The Life and Way of Jesus: The Unforgivable Sin"
 series: "the-life-and-way-of-jesus"
 speaker: "Bryan Cobley"
