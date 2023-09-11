@@ -5,8 +5,8 @@ series: "the-road-to-renewal"
 speaker: "Ryan Plantz"
 type: message
 podcast: https://arborchurchnw.org/podcast/the-road-to-renewal-part-1.mp3
-podcast_bytes: 28139966
-podcast_duration: 39:04
+podcast_bytes: 27378550
+podcast_duration: 38:01
 youtube_id: lXwFRvUYnL4
 ---
 
