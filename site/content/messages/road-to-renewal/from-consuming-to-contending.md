@@ -1,5 +1,5 @@
 ---
-date: "2023-09-10T10:00:00-08:00"
+date: "2023-09-17T10:00:00-08:00"
 title: "The Road to Renewal: From Consuming to Contending"
 series: "the-road-to-renewal"
 speaker: "Ryan Plantz"
