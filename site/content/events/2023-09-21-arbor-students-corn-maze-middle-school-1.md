@@ -1,8 +1,8 @@
 ---
 title: Arbor Students Corn Maze (High School)
-date: 2023-10-29T21:28:28.196Z
+date: 2023-10-22T21:28:28.196Z
 publishdate: 2023-09-21T21:29:04.998Z
-expirydate: 2023-10-30T21:28:28.215Z
+expirydate: 2023-10-23T21:28:28.215Z
 button_text: Buy Your Ticket(s)
 button_link: https://bobscorn.ticketspice.com/2023
 ---
