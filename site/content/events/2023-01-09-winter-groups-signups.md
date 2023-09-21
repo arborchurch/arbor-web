@@ -1,8 +1,8 @@
 ---
-title: Winter Groups Signups
-date: 2023-01-09
-publishdate: 2022-01-09
-expirydate: 2023-01-30
+title: Fall Groups Launch
+date: 2023-10-01
+publishdate: 2022-09-20
+expirydate: 2023-10-02
 button_text: Register
 button_link: https://arborchurch.churchcenter.com/registrations/events/1578482
 ---
