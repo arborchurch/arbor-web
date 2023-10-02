@@ -3,8 +3,8 @@ date: "2023-03-06"
 title: "Cathryn Klein"
 position: "Elder"
 weight: 75
-email: "elders@arborchurch.com"
-emailname: Cathryn
+email:
+emailname:
 resources:
 - name: "photo"
   src: "cathryn.jpg"
