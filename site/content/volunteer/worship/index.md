@@ -2,7 +2,7 @@
 date: "2017-01-01"
 title: "Worship"
 leader: "Hayden"
-email: "hayden@arborchurch.com"
+email:
 weight: 100
 resources:
 - name: header
