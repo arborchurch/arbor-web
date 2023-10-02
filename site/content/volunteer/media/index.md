@@ -2,7 +2,7 @@
 date: "2017-01-01"
 title: "Media"
 leader: "Jeff"
-email: "media@arborchurch.com"
+email:
 weight: 50
 resources:
 - name: header
