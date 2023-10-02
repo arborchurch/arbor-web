@@ -2,8 +2,8 @@
 date: "2022-08-07"
 title: "Ryan Plantz"
 position: "Lead Pastor"
-email: "ryan@arborchurch.com"
-emailname: Ryan
+email:
+emailname:
 weight: 1
 resources:
 - name: photo
