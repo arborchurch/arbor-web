@@ -2,8 +2,8 @@
 date: "2017-01-01"
 title: "Bryan Cobley"
 position: "Family Ministries Director"
-email: "bryan@arborchurch.com"
-emailname: Bryan
+email:
+emailname:
 weight: 50
 resources:
 - name: photo
