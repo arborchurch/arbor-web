@@ -3,8 +3,8 @@ date: "2020-01-09"
 title: "Jonathan McPherson"
 position: "Elder"
 weight: 85
-email: "elders@arborchurch.com"
-emailname: Jonathan
+email:
+emailname:
 resources:
 - name: "photo"
   src: "jonathan-small.jpg"
