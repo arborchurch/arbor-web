@@ -3,8 +3,8 @@ date: "2020-01-09"
 title: "Darcy Hakkarainen"
 position: "Elder"
 weight: 80
-email: "elders@arborchurch.com"
-emailname: Darcy
+email:
+emailname:
 resources:
 - name: "photo"
   src: "darcy-small.jpg"
