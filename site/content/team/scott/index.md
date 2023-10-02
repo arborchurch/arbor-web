@@ -2,8 +2,8 @@
 date: "2017-01-01"
 title: "Scott Hetherington"
 position: "Teaching Elder"
-email: "scott@youthaxiom.com"
-emailname: Scott
+email:
+emailname:
 weight: 90
 resources:
 - name: photo
