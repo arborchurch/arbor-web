@@ -2,8 +2,8 @@
 date: "2017-01-01"
 title: "Hayden Wright"
 position: "Creative Arts Director"
-email: "hayden@arborchurch.com"
-emailname: Hayden
+email:
+emailname:
 weight: 30
 resources:
 - name: photo
