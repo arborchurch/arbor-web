@@ -37,5 +37,5 @@ and leaders time to catch their breath.
 
 ## GROUP SIGN UPS
 
-Coming soon! Email <info@arborchurch.com> for more information, or check the postings at https://arborchurch.churchcenter.com/groups/2023-24.
+Check the postings at https://arborchurch.churchcenter.com/groups/2023-24.
 
