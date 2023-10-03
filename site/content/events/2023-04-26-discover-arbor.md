@@ -3,7 +3,7 @@ title: Discover Arbor
 date: 2023-11-05T18:30:00.000Z
 publishdate: 2023-09-20T20:02:05.531Z
 expirydate: 2023-11-06T20:02:05.543Z
-button_text: register here
+button_text: Register
 button_link: https://arborchurch.churchcenter.com/people/forms/545721
 ---
 New'ish to Arbor? We'd like to say HELLO and make you welcome at the next DISCOVER ARBOR.
