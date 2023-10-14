@@ -1,5 +1,5 @@
 ---
-date: "2023-10-18T10:00:00-08:00"
+date: "2023-10-08T10:00:00-08:00"
 title: "The Life and Way of Jesus: The Parable of the Sower"
 series: "the-life-and-way-of-jesus"
 speaker: "Scott Hetherington"
