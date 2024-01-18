@@ -1,8 +1,8 @@
 ---
 date: "2017-01-01"
 title: "Care"
-leader:
-email:
+leader: "Alison"
+email: "alison@arborchurch.com"
 weight: 10
 resources: 
 - name: header
