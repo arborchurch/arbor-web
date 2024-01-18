@@ -2,7 +2,7 @@
 date: "2017-01-01"
 title: "Prayer"
 leader: "Karen"
-email:
+email: "prayer@arborchurch.com"
 weight: 70
 resources: 
 - name: header
