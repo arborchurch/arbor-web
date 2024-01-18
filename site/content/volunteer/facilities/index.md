@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 title: "Facilities"
-email:
+email: "info@arborchurch.com"
 weight: 40
 resources:
 - name: header
