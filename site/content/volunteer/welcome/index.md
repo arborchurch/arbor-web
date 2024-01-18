@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 title: "Hospitality"
-email:
+email: "info@arborchurch.com"
 weight: 90
 resources:
 - name: header
