@@ -1,8 +1,8 @@
 ---
 date: "2017-01-01"
-title:
+title: ArborKids
 email:
-weight: 20
+weight: 10
 resources:
 - name: header
   src: "childrens.jpg"
