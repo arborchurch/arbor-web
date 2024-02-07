@@ -21,5 +21,9 @@ Lent refers to the 40 day period that leads up to Easter, beginning on Ash Wedne
 This Guide is designed to help you more fully participate in the Lenten season through a better understanding of the context of Lent and the practice of fasting and abstention.
 
 <div class="event-details">
-<a class="button" href="/pdf/lenten-fasting-guide.pdf">Lent Fasting and Abstention Guide <small>(PDF)</small></a>
+  <a class="button" href="/pdf/lenten-fasting-guide.pdf">
+  <span class="glyphicon glyphicon-file"></span>
+  Lent Fasting and Abstention Guide
+  <small>(PDF)</small>
+  </a>
 </div>
