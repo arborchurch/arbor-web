@@ -7,6 +7,7 @@ weight: 10
 type: page
 menu:
   main:
+    name: "Lent"
     parent: 'Resources'
     weight: 10
 ---
