@@ -1,6 +1,5 @@
 ---
 date: "2024-02-07T10:00:00-08:00"
-title: "Lent"
 resources:
 - name: header
   src: lent.png
