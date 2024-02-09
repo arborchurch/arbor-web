@@ -14,7 +14,9 @@ menu:
 
 ## Lent at Arbor
 
-<iframe width="560" height="315" src=https://www.youtube.com/embed/IVQm1_IdQ2c?si=N6oQ1956K6-IWlqR title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="message-video-16-9">
+  <iframe class="youtube" src="https://www.youtube.com/embed/IVQm1_IdQ2c?si=N6oQ1956K6-IWlqR" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## About Lent
 
