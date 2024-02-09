@@ -12,7 +12,11 @@ menu:
     weight: 10
 ---
 
-## Lent 2024
+## Lent at Arbor
+
+<iframe width="560" height="315" src=https://www.youtube.com/embed/IVQm1_IdQ2c?si=N6oQ1956K6-IWlqR title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## About Lent
 
 Lent refers to the 40 day period that leads up to Easter, beginning on Ash Wednesday. Corresponding to Jesus’ 40 day fast (Matthew 4), this season was firmly established in the early church by the fourth century to be an intentional season of fasting and renewal. Originally used as a time to prepare new followers of Jesus to be baptized on Easter, Lent was eventually observed by the entire church as a way of recognizing the need for God’s transforming work in us all through prayer, fasting, abstention, self-examination, repentance, and meditation on Scripture. Lent witnesses to the power and beauty of our union with Christ and to the daily dying and rising with Christ that this entails. We encourage you to join our church community in embracing this season of Lent and the Holy Week.
 
