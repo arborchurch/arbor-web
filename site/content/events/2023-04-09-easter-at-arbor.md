@@ -1,10 +1,9 @@
 ---
-title: Easter at Arbor 9 & 10:30am
-date: 2023-04-09
-publishdate: 2023-01-09
+title: Easter at Arbor 9 & 10:45am
+date: 2024-03-31T07:00:00.000Z
+publishdate: 2024-02-15T22:04:51.620Z
 expirydate: 2023-04-11
 ---
+Be praying about who you can invite!
 
-We are incredibly excited for **EASTER WEEKEND** this year... it will be Pastor Ryan's first! Looks we'll be a nice blend of new (Ryan!) and traditional (the iconic **JELLY BELLY BAR**) as we celebrate Christ’s resurrection. Be praying about who you can invite!
-
-Services will be at **9 and 10:30am**.
+Services will be at **9 and 10:45**.
