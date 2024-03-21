@@ -35,3 +35,11 @@ This Guide is designed to help you more fully participate in the Lenten season t
   <small>(PDF)</small>
   </a>
 </div>
+
+<div class="event-details">
+  <a class="button" href="/pdf/holy-week-devotional.pdf">
+  <span class="glyphicon glyphicon-file"></span>
+  Holy Week Devotional
+  <small>(PDF)</small>
+  </a>
+</div>
