@@ -14,7 +14,9 @@ menu:
 
 ## Welcome
 
-At our Sunday gatherings, we come together to connect with one another, worship God in song, and study the Bible. All are welcome to attend — come as you are and enjoy some free coffee or tea as we seek God together.
+Easter Sunday has special times to accommodate everyone who needs a little flexibility that day. We'll have two services, 9am and 10:45, with classrooms open for kids at both times.
+
+On regular Sunday gatherings, we come together to connect with one another, worship God in song, and study the Bible. All are welcome to attend — come as you are and enjoy some free coffee or tea as we seek God together.
 
 **Date:** Sundays
 
