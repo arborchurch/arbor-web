@@ -18,7 +18,7 @@ menu:
   </a>
 </div>
 
-We find and follow Jesus through GROUPS in a variety of ways. Click the sign up button to see what group might fit for you!
+We find and follow Jesus through GROUPS in a variety of ways. Click the sign up button to see what group might fit for you! Spring trimester begins April 21 and runs for 8 weeks.
 
 <br />
 
