@@ -1,9 +1,11 @@
 ---
 title: ArborMen's Night
-date: 2024-01-25T19:03:53.164Z
-publishdate: 2024-01-16T19:54:27.211Z
-expirydate: 2024-01-26T19:03:53.186Z
+date: 2024-03-28T19:03:53.164Z
+publishdate: 2024-03-26T19:54:27.211Z
+expirydate: 2024-04-05T19:03:53.186Z
 ---
-Join us for a fun evening where you'll connect with other men, pick up essential leadership skills, and truly get rooted in our community. It's more than just an event; it's your next step to genuine connection here at Arbor. \
+We know Spring is here and schedules are filling up. We also know this is a little last minute. However, we still want to get together with all of you at James' house.
+
+No agenda. No topics to discuss. Just some time to connect. Hope to see all of you there!\
 \
-S﻿ee you 7pm at James' house: 20328 74th Dr SE, Snohomish
+S﻿ee you 7pm: 20328 74th Dr SE, Snohomish
