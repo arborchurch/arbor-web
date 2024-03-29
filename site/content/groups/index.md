@@ -37,5 +37,5 @@ and leaders time to catch their breath.
 
 ## GROUP SIGN UPS
 
-Check the postings at https://arborchurch.churchcenter.com/groups/2023-24.
+Check the signup button to view groups and send inquiries to the leaders about participation. They will reply shortly and confirm with you about joining!
 
