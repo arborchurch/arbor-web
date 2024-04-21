@@ -4,5 +4,4 @@ type: series
 resources: 
 - name: header
   src: solitude.png
-title: "Solitude"
 ---
