@@ -14,5 +14,5 @@ youtube_id: pCgkqiSGi6Y
 
 -- Mark 9:24
 
-Today, from Mark 9:24-29, a valley follows the mountaintop experience of the Transfiguration. Can we bring our doubts to
+Today, from Mark 9:14-29, a valley follows the mountaintop experience of the Transfiguration. Can we bring our doubts to
 Jesus? ... And what happens when following Jesus feels like it's making things *worse*? 
