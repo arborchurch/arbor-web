@@ -4,7 +4,7 @@ title: "The Life and Way of Jesus: Life in the Valley"
 series: "the-life-and-way-of-jesus"
 speaker: "Ryan Plantz"
 type: message
-podcast: https://arborchurchnw.org/podcast/the-life-and-way-of-life-in-the-valley.mp3
+podcast: https://arborchurchnw.org/podcast/the-life-and-way-of-jesus-life-in-the-valley.mp3
 podcast_bytes: 29328034
 podcast_duration: 0:40:43
 youtube_id: pCgkqiSGi6Y
