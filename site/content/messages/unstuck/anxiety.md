@@ -12,6 +12,6 @@ youtube_id: _jks0zE3c5o
 
 *"Therefore I tell you, do not worry about your life, what you will eat or drink, or about your body, what you will wear. Isn't there more to life than food and more to the body than clothing?"*
 
--- Mathew 6:25
+-- Matthew 6:25
 
 When anxiety rises, where we fix our focus determines whether we will fall apart -- or find peace. Ryan opens our summer series *Unstuck*.
