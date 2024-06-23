@@ -2,7 +2,7 @@
 title: Discover Arbor
 date: 2024-06-02T19:39:58.141Z
 publishdate: 2024-04-25T19:39:58.153Z
-expirydate: 2024-07-01T19:39:58.163Z
+expirydate: 2024-06-03T19:39:58.163Z
 button_text: sign up here
 button_link: https://arborchurch.churchcenter.com/registrations/events/2225655
 ---
