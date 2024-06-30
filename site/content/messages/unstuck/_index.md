@@ -1,5 +1,7 @@
 ---
 date: "2024-06-23"
 type: series
-title: "Unstuck"
+resources:
+- name: header
+  src: unstuck.jpg
 ---
