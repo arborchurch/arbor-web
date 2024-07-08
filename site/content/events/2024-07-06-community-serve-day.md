@@ -8,4 +8,4 @@ button_link: https://communityserveday.org/
 ---
 T﻿ime for the Church to leave its 4 walls and serve the community! This year, Arbor will meet at Woodin Elementary School from 9am-noon to serve, then head back to Arbor for a BBQ lunch. \
 \
-P﻿lease sign yourselves up at the link provided to reserve a spot at the school! And find the lunch [link here](https://arborchurch.churchcenter.com/registrations/events/2391644). We appreciate your RSVP!
+P﻿lease sign yourselves up at the link provided to reserve a spot at the school!
