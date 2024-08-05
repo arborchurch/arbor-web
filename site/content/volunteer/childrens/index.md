@@ -1,7 +1,7 @@
 ---
 date: "2017-01-01"
 title: ArborKids
-email: "bryan@arborchurch.com"
+email: "lindsey@arborchurch.com"
 weight: 10
 resources:
 - name: header

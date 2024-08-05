@@ -1,8 +1,6 @@
 ---
 date: "2017-01-01"
 title: "Students"
-leader: "Bryan"
-email: "bryan@arborchurch.com"
 weight: 75
 resources:
 - name: header
