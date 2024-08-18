@@ -10,5 +10,5 @@ podcast_duration: 38:32
 youtube_id: GB1oVQjaEqk
 ---
 
-Is doubting the same thing as disblief? Is doubting always bad? Where do doubts come from? Ryan shares answers from John 20 and the story of the disciple Thomas -- or, as you might know him, _Doubting Thomas_.
+Is doubting the same thing as disbelief? Is doubting always bad? Where do doubts come from? Ryan shares answers from John 20 and the story of the disciple Thomas -- or, as you might know him, _Doubting Thomas_.
 
