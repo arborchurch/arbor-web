@@ -3,8 +3,8 @@ date: "2024-09-27"
 title: "Lindsey Shelp"
 position: "Arbor Kids Director"
 weight: 35
-email: kids@arborchurch.com
-emailname: Lindsey
+email: 
+emailname: 
 resources:
 - name: "photo"
   src: "lindsey.jpg"
