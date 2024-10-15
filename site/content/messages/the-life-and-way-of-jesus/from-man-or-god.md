@@ -1,5 +1,5 @@
 ---
-date: "2024-10-06T10:00:00-08:00"
+date: "2024-10-13T10:00:00-08:00"
 title: "The Life and Way of Jesus: From Man or God"
 series: "the-life-and-way-of-jesus"
 speaker: "Bryan Cobley"
