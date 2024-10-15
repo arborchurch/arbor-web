@@ -21,7 +21,5 @@ During the school year, on Thursdays at 7pm, middle school and high school stude
 
 Bottom line, we want students to feel like part of the family... because they are! Students aren't the next generation to come. They are the generation of here and now, and we want to love, invest, and point them to Jesus.
 <br>
-<br>
 
-{{< img-partial "leader" >}}
 
