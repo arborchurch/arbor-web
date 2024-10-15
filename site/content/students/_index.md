@@ -4,8 +4,6 @@ title: Students
 resources:
 - name: header
   src: students.jpg
-- name: leader
-  src: bryan.jpg
 menu:
   main:
     parent: 'Get Involved'
