@@ -26,7 +26,7 @@ The structured living plan, on-site counseling, parenting support and life-skill
 
 
 <div class="event-details">
-<a class="button" href="https://www.acresofdiamonds.org/volunteer/">Volunteer at Acres</a>
+<a class="button" href="https://www.acresofdiamonds.org/volunteer/">learn more</a>
 </div>
 
 <p>&nbsp;</p>
