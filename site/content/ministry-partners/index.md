@@ -42,6 +42,6 @@ Anyone who is experiencing food insecurity is invited to become a client for as 
 Clients are treated with respect and care by volunteers who are equipped to pray for them if desired.
 
 <div class="event-details">
-<a class="button" href="https://www.woodinvillestorehouse.org/getinvolved">Get Involved at Storehouse</a>
+<a class="button" href="https://www.woodinvillestorehouse.org/getinvolved">learn more</a>
 </div>
 
