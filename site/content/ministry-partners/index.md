@@ -12,7 +12,7 @@ menu:
     weight: 80
 resources:
 - name: acres-of-diamonds
-  src: acres-of-diamonds.png
+  src: acres-of-diamonds.jpg
 - name: woodinville-storehouse
   src: woodinville-storehouse.jpg
 ---
