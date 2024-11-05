@@ -1,9 +1,6 @@
 ---
 date: "2024-08-27T22:07:46-08:00"
 title: "Ministry Partners"
-resources:
-- name: header
-  src: partners.jpg
 weight: 15
 type: page
 menu:
@@ -11,6 +8,8 @@ menu:
     parent: 'Get Involved'
     weight: 80
 resources:
+- name: header
+  src: partners.jpg
 - name: acres-of-diamonds
   src: acres-of-diamonds.jpg
 - name: woodinville-storehouse
