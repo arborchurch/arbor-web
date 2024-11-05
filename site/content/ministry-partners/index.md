@@ -27,6 +27,10 @@ The structured living plan, on-site counseling, parenting support and life-skill
 
 <div class="event-details">
 <a class="button" href="https://www.acresofdiamonds.org/volunteer/">learn more</a>
+&nbsp;
+&nbsp;
+&nbsp;
+<a class="button" href="https://arborchurch.churchcenter.com/registrations/events/category/73968">service opportunities</a>
 </div>
 
 <p>&nbsp;</p>
@@ -43,5 +47,9 @@ Anyone who is experiencing food insecurity is invited to become a client for as 
 
 <div class="event-details">
 <a class="button" href="https://www.woodinvillestorehouse.org/getinvolved">learn more</a>
+&nbsp;
+&nbsp;
+&nbsp;
+<a class="button" href="https://arborchurch.churchcenter.com/registrations/events/category/73968">service opportunities</a>
 </div>
 
