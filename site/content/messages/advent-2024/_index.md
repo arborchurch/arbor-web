@@ -1,6 +1,8 @@
 ---
 date: "2024-12-01"
 type: series
-title: Advent
+resources:
+- name: header
+  src: advent.jpg
 ---
 
