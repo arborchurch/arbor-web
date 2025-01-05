@@ -82,10 +82,10 @@ These steps are for users using MacOS or Linux operating systems who are comfort
 
 ### Get the recording
 
-Services are posted to YouTube, so the easiest way to get the message audio is to get the audio channel from the YouTube video. For example, here's how to do it with [youtube-dl](https://youtube-dl.org/):
+Services are posted to YouTube, so the easiest way to get the message audio is to get the audio channel from the YouTube video. For example, here's how to do it with [yt-dlp](https://github.com/yt-dlp/yt-dlp):
 
 ```bash
-$ youtube-dl -x https://www.youtube.com/watch?v=dQw4w9WgXcQ
+$ yt-dlp -x https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ```
 
 This will produce an audio file (`.opus`) containing the audio from the service. Trim the audio with a tool like QuickTime or [Audacity](https://www.audacityteam.org/) so that it contains only the message and save the result in an uncompressed format like FLAC. (It's about to be compressed again, so compressing it at this step will lose quality.)
