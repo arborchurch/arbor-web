@@ -10,6 +10,6 @@ podcast_duration: 54:02
 youtube_id: 6KpUVHCl5Q4
 ---
 
-Just as Abraham embarked on a journey of faith, Arbor Church is also on a path of following God. Join Ryan and the team as they reflect on the past year, explore where we are now, and share the vision for the year ahead and beyond.
+Just as Abraham embarked on a journey of faith, Arbor Church is also on a path of following God. Join Ryan and the team as they reflect on the past year, explore where we are now, and share the vision for the year ahead.
 
 
