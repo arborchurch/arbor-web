@@ -13,5 +13,5 @@ youtube_id: sre8hDLbl_4
 
 -- 2 Timothy 3:16
 
-In the first installment of a three-part series, Ryan dives into the sometimes strange, sometimes hard but always impactful thing that we call scripture.
+In the first installment of a three-part series, Ryan dives into the sometimes strange, sometimes hard but always impactful thing that is scripture.
 
