@@ -7,6 +7,7 @@ type: message
 podcast: https://arborchurchnw.org/podcast/scripture-what-is-scripture.m4a
 podcast_bytes: 23427674 
 podcast_duration: 32:32
+youtube_id: sre8hDLbl_4
 ---
 *Every scripture is inspired by God and useful for teaching, for reproof, for correction, and for training in righteousness.*
 
