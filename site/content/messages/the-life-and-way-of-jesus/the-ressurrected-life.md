@@ -4,7 +4,7 @@ title: "The Life and Way of Jesus: The Resurrected Life"
 series: "the-life-and-way-of-jesus"
 speaker: "Ryan Plantz"
 type: message
-podcast: https://arborchurchnw.org/podcast/the-life-and-way-of-jesus-the-fig-resurrected-life.mp3
+podcast: https://arborchurchnw.org/podcast/the-life-and-way-of-jesus-the-resurrected-life.mp3
 podcast_bytes: 30615397
 podcast_duration: 42:31
 youtube_id: URnxeq2X104

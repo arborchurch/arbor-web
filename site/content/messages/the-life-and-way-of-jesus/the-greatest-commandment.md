@@ -4,7 +4,7 @@ title: "The Life and Way of Jesus: The Greatest Commandment"
 series: "the-life-and-way-of-jesus"
 speaker: "Garrett Shelp"
 type: message
-podcast: https://arborchurchnw.org/podcast/the-life-and-way-of-jesus-the-fig-resurrected-life.mp3
+podcast: https://arborchurchnw.org/podcast/the-life-and-way-of-jesus-the-greatest-commandment.mp3
 podcast_bytes: 25444715
 podcast_duration: 35:20
 youtube_id: pm1caC61Gus
