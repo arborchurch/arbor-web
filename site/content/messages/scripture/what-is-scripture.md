@@ -4,7 +4,7 @@ title: "What is Scripture?"
 series: "scripture"
 speaker: "Ryan Plantz"
 type: message
-podcast: https://arborchurchnw.org/podcast/scripture-what-is-scripture.m4a
+podcast: https://arborchurchnw.org/podcast/scripture-what-is-scripture.mp3
 podcast_bytes: 23427674 
 podcast_duration: 32:32
 youtube_id: sre8hDLbl_4

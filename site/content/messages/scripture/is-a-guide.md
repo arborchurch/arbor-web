@@ -4,7 +4,7 @@ title: "Scripture is a guide"
 series: "scripture"
 speaker: "Ryan Plantz"
 type: message
-podcast: https://www.youtube.com/watch?v=XxQQz-b0IIE&t=6s
+podcast: https://arborchurchnw.org/podcast/scripture-is-a-guide.mp3
 podcast_bytes: 21787229
 podcast_duration: 30:15
 youtube_id: sre8hDLbl_4
