@@ -1,5 +1,7 @@
 ---
 date: "2025-02-02"
 type: series
-title: "Change is Good"
+resources: 
+- name: header
+  src: change-is-good.png
 ---
