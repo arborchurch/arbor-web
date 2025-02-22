@@ -1,7 +1,7 @@
 ---
 title: Ash Wednesday Worship
 date: 2025-03-05T19:00:00.000Z
-publishdate: 2025-02-21T20:11:03.936Z
+publishdate: 2025-02-22T18:05:40.640Z
 expirydate: 2025-04-01T00:01:00.000Z
 button_text: null
 button_link: null
