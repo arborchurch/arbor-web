@@ -13,12 +13,12 @@ menu:
 ---
 
 <div class="message-video-16-9">
-  <iframe class="youtube" src="https://www.youtube.com/embed/IVQm1_IdQ2c?si=N6oQ1956K6-IWlqR" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe class="youtube" src="https://www.youtube.com/embed/Uuhz92wzOXo?si=1UeMa_7q2Fp4z2LK" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <p>&nbsp;</p>
 
-## Lent 2024
+## Lent 2025
 
 Lent refers to the 40 day period that leads up to Easter, beginning on Ash Wednesday. Corresponding to Jesus’ 40 day fast (Matthew 4), this season was firmly established in the early church by the fourth century to be an intentional season of fasting and renewal. Originally used as a time to prepare new followers of Jesus to be baptized on Easter, Lent was eventually observed by the entire church as a way of recognizing the need for God’s transforming work in us all through prayer, fasting, abstention, self-examination, repentance, and meditation on Scripture. Lent witnesses to the power and beauty of our union with Christ and to the daily dying and rising with Christ that this entails. We encourage you to join our church community in embracing this season of Lent and the Holy Week.
 
@@ -41,7 +41,7 @@ This Guide is designed to help you more fully participate in the Lenten season t
 This 8 day devotional has been curated to help guide you through Holy Week, starting on Palm Sunday and ending on Easter. Each entry is designed to take 15 - 45 minutes, depending on how much time you have to spend. Each day, you will find the same components: an icon, a text from the Gospels, a Psalm, a devotional, a short prayer, and a few reflection questions.
 
 <div class="event-details">
-  <a class="button" href="/pdf/holy-week-devotional.pdf">
+  <a class="button" href="/pdf/holy-week-devotional-2025.pdf">
   <span class="glyphicon glyphicon-file"></span>
   Holy Week Devotional
   <small>(PDF)</small>
