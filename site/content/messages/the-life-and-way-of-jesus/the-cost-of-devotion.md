@@ -1,5 +1,5 @@
 ---
-date: "2025-03-09:T10:30:00-08:00"
+date: "2025-03-09T10:30:00-08:00"
 title: "The Life and Way of Jesus: The Cost of Devotion"
 series: "the-life-and-way-of-jesus"
 speaker: "Ryan Plantz"
