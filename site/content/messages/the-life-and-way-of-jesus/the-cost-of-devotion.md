@@ -5,7 +5,7 @@ series: "the-life-and-way-of-jesus"
 speaker: "Ryan Plantz"
 type: message
 podcast: https://arborchurchnw.org/podcast/the-life-and-way-of-jesus-the-cost-of-devotion.mp3
-podcast_bytes: 2477614623896933
+podcast_bytes: 23896933
 podcast_duration: 33:11
 youtube_id: BXAaBCBl9nk
 ---
