@@ -1,5 +1,5 @@
 ---
-date: "2025-03-09T10:30:00-08:00"
+date: "2025-03-23T09:00:00-08:00"
 title: "The Life and Way of Jesus: Surrender or Resist"
 series: "the-life-and-way-of-jesus"
 speaker: "Ryan Plantz"
