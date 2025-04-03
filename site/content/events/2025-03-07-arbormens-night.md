@@ -1,8 +1,8 @@
 ---
 title: ArborMen's Night
-date: 2025-03-07T01:05:11.638Z
-publishdate: 2025-03-07T01:05:11.652Z
-expirydate: 2025-03-07T01:05:11.661Z
+date: 2025-05-01T01:05:11.638Z
+publishdate: 2025-04-03T01:05:11.652Z
+expirydate: 2025-05-12T01:05:11.661Z
 ---
 G﻿uys, come on over to James' backyard for some food and fire. We'll see you at 7!\
 \
