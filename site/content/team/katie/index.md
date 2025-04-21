@@ -1,10 +1,10 @@
 ---
 date: "2025-04-20"
-title: "Katie"
+title: "Katie Peifer"
 position: "Assistant"
 email:
 emailname:
-weight: 120
+weight: 110
 resources:
 - name: photo
   src: "katie.jpg"

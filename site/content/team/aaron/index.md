@@ -4,7 +4,7 @@ title: "Aaron Dimos"
 position: "Arbor Students"
 email:
 emailname:
-weight: 110
+weight: 120
 resources:
 - name: photo
   src: "aaron.jpg"
