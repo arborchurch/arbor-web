@@ -11,5 +11,5 @@ youtube_id: oVRJ5uXBv4g
 ---
 
 Celebrate Easter at Arbor! This week, the story of the expectation-defying Jesus that we started almost two years ago
-reaches its conclusion with the Jesus' triumphant resurrection from the dead, and the hope, invitation, and challenge it
+reaches its conclusion with Jesus' triumphant resurrection from the dead, and the hope, invitation, and challenge it
 brings to us today.
