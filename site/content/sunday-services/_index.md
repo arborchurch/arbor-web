@@ -18,7 +18,7 @@ On regular Sunday gatherings, we come together to connect with one another, wors
 
 **Date:** Sundays
 
-**Times:** 9:00 and 10:30 AM
+**Time:** 10:00 AM
 
 **Location:** 19011 Woodinville Snohomish Rd #210, Woodinville, WA 98072
 
