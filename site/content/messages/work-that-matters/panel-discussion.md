@@ -4,7 +4,7 @@ title: "Work that Matters: Panel Discussion"
 series: "work-that-matters"
 speaker: "Ryan Plantz"
 type: message
-podcast: https://arborchurchnw.org/podcast/work-that-matters-work-that-lasts.mp3
+podcast: https://arborchurchnw.org/podcast/work-that-matters-panel-discussion.mp3
 podcast_bytes: 33514892
 podcast_duration: 46:32
 youtube_id: uM41LmU2gsg
