@@ -4,7 +4,7 @@ title: "The Light We Walk In: From Encouter to Shared Life"
 series: "the-light-we-walk-in"
 speaker: "Ryan Plantz"
 type: message
-podcast: https://arborchurchnw.org/podcast/the-light-we-walk-in-from-encounter-to-shared-life.mp3"
+podcast: https://arborchurchnw.org/podcast/the-light-we-walk-in-from-encounter-to-shared-life.mp3
 podcast_bytes: 25425564
 podcast_duration: 35:18
 youtube_id: S6ksus-ttW4
