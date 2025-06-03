@@ -2,7 +2,7 @@
 title: Women's Bunco Night
 date: 2025-06-02T22:56:09.298Z
 publishdate: 2025-04-14T22:56:09.319Z
-expirydate: 2025-06-09T22:56:09.339Z
+expirydate: 2025-06-03T22:56:09.339Z
 button_text: rsvp here!
 button_link: https://arborchurch.churchcenter.com/registrations/events/2890567
 ---
