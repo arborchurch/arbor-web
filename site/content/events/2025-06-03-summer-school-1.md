@@ -2,7 +2,7 @@
 title: Summer School
 date: 2025-07-30T23:16:56.914Z
 publishdate: 2025-06-03T23:16:56.943Z
-expirydate: 2025-06-03T23:16:56.971Z
+expirydate: 2025-08-31T23:16:56.971Z
 button_text: enroll here
 button_link: https://arborchurch.churchcenter.com/registrations/events/2976465
 ---
