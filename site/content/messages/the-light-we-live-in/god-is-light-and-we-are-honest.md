@@ -1,10 +1,10 @@
 ---
 date: "2025-06-08T10:00:00-08:00"
-title: "The Light We Live In: Life with God Shared"
-series: "the-light-we-live-in-life-with-god-shared"
+title: "The Light We Live In: God is Light and We Are Honest"
+series: "the-light-we-live-in-god-is-light-and-we-are-honest"
 speaker: "Ryan Plantz"
 type: message
-podcast: https://arborchurchnw.org/podcast/the-light-we-live-in-life-with-god-shared.mp3
+podcast: https://arborchurchnw.org/podcast/the-light-we-live-in-god-is-light-and-we-are-honest.mp3
 podcast_bytes: 30769395
 podcast_duration: 42:44
 youtube_id: PAwfz1n21iY
