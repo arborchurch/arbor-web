@@ -1,7 +1,7 @@
 ---
 date: "2025-06-08T10:00:00-08:00"
 title: "The Light We Live In: God is Light and We Are Honest"
-series: "the-light-we-live-in-god-is-light-and-we-are-honest"
+series: "the-light-we-live-in"
 speaker: "Ryan Plantz"
 type: message
 podcast: https://arborchurchnw.org/podcast/the-light-we-live-in-god-is-light-and-we-are-honest.mp3

@@ -1,7 +1,7 @@
 ---
 date: "2025-06-15T10:00:00-08:00"
 title: "The Light We Live In: You Are Not What You Want"
-series: "the-light-we-live-in-you-are-not-what-you-want"
+series: "the-light-we-live-in"
 speaker: "Ryan Plantz"
 type: message
 podcast: https://arborchurchnw.org/podcast/the-light-we-live-in-you-are-not-what-you-want.mp3
