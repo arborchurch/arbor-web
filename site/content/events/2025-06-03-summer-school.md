@@ -6,7 +6,7 @@ expirydate: 2025-08-31T23:12:15.786Z
 button_text: enroll here
 button_link: https://arborchurch.churchcenter.com/registrations/events/2976465
 ---
-Everyone loves **SUMMER SCHOOL!** Classes run July 16 & 30, Aug 13 & 17!\
+Everyone loves **SUMMER SCHOOL!** Classes run July 16 & 30, Aug 13 & 127!\
 \
 **5:30-6:30**: Enjoy Hayden's yummy BBQ burgers and hotdogs while eating in Arbor's backyard. Come as you are and relax with your summer schoolmates.... this is the "recess" part of the night!\
 \
