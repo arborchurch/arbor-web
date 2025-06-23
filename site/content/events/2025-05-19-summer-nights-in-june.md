@@ -2,7 +2,7 @@
 title: Summer Nights in June
 date: 2025-06-22T15:02:37.624Z
 publishdate: 2025-05-19T15:02:37.636Z
-expirydate: 2025-06-30T15:02:37.649Z
+expirydate: 2025-06-23T15:02:37.649Z
 button_text: RSVP
 button_link: https://arborchurch.churchcenter.com/registrations/events/2949789
 ---
