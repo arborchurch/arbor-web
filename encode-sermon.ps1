@@ -1,12 +1,13 @@
 #!/usr/bin/env pwsh
 # Usage:
-# .\encode-sermon.ps1 "sermon title" "speaker" "input.wav" "output.mp3"
+# .\encode-sermon.ps1 "sermon title" "speaker" "input.wav"
+# Optional 4th argument to override output file
 
 param (
     [string]$Title,
     [string]$Author,
     [string]$InputFile,
-    [string]$OutputFile
+    [string]$OutputFile = [System.IO.Path]::ChangeExtension($InputFile, ".mp3")
 )
 
 # Get the current year
@@ -18,7 +19,7 @@ ffmpeg -i $InputFile `
        -ac 1 `
        -metadata title=$Title `
        -metadata author=$Author `
-       -metadata year=$crrentYear `
+       -metadata year=$currentYear `
        -movflags +faststart `
        $OutputFile
 
