@@ -1,5 +1,5 @@
 ---
-date: "2025-08-05T10:00:00-10:00"
+date: "2025-08-03T10:00:00-10:00"
 title: "The Light We Live In: Prayer"
 series: "the-light-we-live-in"
 speaker: "Ryan Plantz"
