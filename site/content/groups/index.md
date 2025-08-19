@@ -28,7 +28,7 @@ Community Groups meet in homes and are made up of your local Arborites. This hap
 
 <br />
 
-## CONNECTING GROUPS
+## CONNECTION GROUPS
 
 Connecting Groups meet in chunks of time called trimesters. Most are 6-8 weeks long. When you join a group, you're committing to that particular trimester
 with the option to re-up as many times as you choose. The breaks in-between trimesters give new members a chance to join
