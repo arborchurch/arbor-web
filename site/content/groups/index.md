@@ -34,6 +34,7 @@ with the option to re-up as many times as you choose. The breaks in-between trim
 and leaders time to catch their breath.
 
 <br />
+
 ## CARE GROUPS
 
 Care Groups offer a layer of support to those experiencing difficult seasons, and are available in various timeframes according to need. 
