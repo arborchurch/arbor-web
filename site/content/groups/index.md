@@ -25,6 +25,7 @@ We find and follow Jesus in GROUPS through a variety of ways...
 ## COMMUNITY GROUPS
 
 Community Groups meet in homes and are made up of your local Arborites. Their intention is the same, which is to BE WITH JESUS, BECOME LIKE JESUS, and DO WHAT HE DID. This happens through prayer, serving one another, sharing life... and a meal! To belong to a group in your zip code, take the pre-req "Community Practice" this fall or winter!
+
 <br />
 
 ## CONNECTING GROUPS
