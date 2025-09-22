@@ -26,6 +26,14 @@ Obtain a copy of the audio for the service. This is typically a `.wav` file save
 
 Using a tool like [Audacity](https://www.audacityteam.org/), edit the `.wav` file so that it contains only the message audio, without the rest of the service.
 
+I recommend the following steps to help clean up the audio:
+
+- *After* trimming, select all of the audio and use the **Amplify** effect and accept the default value. This will
+  increase the volume of the message if it's too quiet, until the audio is loud enough to reach a normalized peak level.
+  It also helps all the messages in the podcast remain at roughly the same volume. 
+- Apply a **Fade In** effect to the first 1s or so of the audio so that it doesn't clip in abruptly
+- Apply a **Fade Out** effect to the last 2-3s or so of the audio so it doesn't clip out abruptly
+
 ### Step 3: Encode for Podcast
 
 The podcast audio must be an MP3 file. Using Audacity (or another tool), save the `.wav` file as an `.mp3` file. The `.mp3` file name should not contain any characters other than the letters A through Z and the dash character (`-`) -- no spaces, quotes, etc. I recommend using the name of the sermon series, followed by a dash, followed by the title of the message; for example, if the sermon series is named *Miracles*, and the message is named *The Miracles of Jesus*, you would call the MP3 file `miracles-the-miracles-of-jesus.mp3`.
