@@ -1,0 +1,17 @@
+{
+  "name": "planning-center-scripts",
+  "version": "1.0.0",
+  "description": "Scripts to fetch data from Planning Center API",
+  "type": "module",
+  "scripts": {
+    "fetch-events": "tsx fetch-events.ts"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
