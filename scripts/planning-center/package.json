@@ -4,7 +4,8 @@
   "description": "Scripts to fetch data from Planning Center API",
   "type": "module",
   "scripts": {
-    "fetch-events": "tsx fetch-events.ts"
+    "fetch-events": "tsx fetch-events.ts",
+    "fetch-calendar": "tsx fetch-calendar.ts"
   },
   "dependencies": {
     "node-fetch": "^3.3.2"

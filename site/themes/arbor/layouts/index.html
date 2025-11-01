@@ -33,6 +33,52 @@
 <div class="container my-5">
   <div class="row">
     <div class="col-12 text-center mb-4">
+      <h2>This Week</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12">
+      <div class="calendar-week">
+        {{ $calendar := .Site.Data.calendar }}
+        {{ $now := now }}
+        
+        {{ range seq 0 6 }}
+          {{ $dayOffset := . }}
+          {{ $currentDay := $now.AddDate 0 0 $dayOffset }}
+          {{ $dayStart := time (printf "%04d-%02d-%02dT00:00:00Z" $currentDay.Year (int $currentDay.Month) $currentDay.Day) }}
+          {{ $dayEnd := $dayStart.AddDate 0 0 1 }}
+          
+          <div class="calendar-day">
+            <div class="calendar-day-header">
+              <div class="calendar-day-name">{{ $currentDay.Format "Monday" }}</div>
+              <div class="calendar-day-date">{{ $currentDay.Format "Jan 2" }}</div>
+            </div>
+            <div class="calendar-day-events">
+              {{ $hasEvents := false }}
+              {{ range $calendar }}
+                {{ $eventStart := time .starts_at }}
+                {{ if and (ge $eventStart $dayStart) (lt $eventStart $dayEnd) }}
+                  {{ $hasEvents = true }}
+                  <div class="calendar-event">
+                    <div class="calendar-event-time">{{ $eventStart.Format "3:04 PM" }}</div>
+                    <div class="calendar-event-name">{{ .name }}</div>
+                  </div>
+                {{ end }}
+              {{ end }}
+              {{ if not $hasEvents }}
+                <div class="calendar-no-events">No events</div>
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container my-5">
+  <div class="row">
+    <div class="col-12 text-center mb-4">
       <h2>Upcoming Events</h2>
     </div>
   </div>
