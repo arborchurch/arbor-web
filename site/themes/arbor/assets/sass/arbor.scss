@@ -601,6 +601,56 @@ ul.footer-menu ul li {
   white-space: nowrap;
 }
 
+// Hero section styling
+.hero-section {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.hero-image-container {
+  overflow: hidden;
+  border-radius: 8px;
+  aspect-ratio: 1 / 1;
+  position: relative;
+}
+
+.hero-image {
+  width: 100%;
+  height: calc(100% + 200px);
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+}
+
+.hero-text {
+  padding: 1.5rem;
+  
+  h2 {
+    margin-bottom: 1rem;
+  }
+  
+  p {
+    line-height: 1.6;
+  }
+}
+
+// Mobile specific styling
+@media (max-width: 767px) {
+  .hero-section {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .hero-image {
+    margin-bottom: 1rem;
+  }
+}
+
 @import 'events';
 @import 'beliefs';
 @import 'messages';

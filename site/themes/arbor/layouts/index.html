@@ -1,28 +1,101 @@
 {{ partial "header.html" . }}
 
-<div class="church-online-container">
-  <div class="church-online">
-    <a role="button" href="https://arborchurch.online.church/">
-      Church Online
-    </a>
-    <a role="button" href="/sunday-services/">
-      In Person
-    </a>
+<div class="container hero-section">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6 order-1 order-md-1">
+      <div class="hero-image-container">
+        <img src="/img/hero-1.png" alt="Hero Image" class="img-fluid hero-image">
+      </div>
+    </div>
+    <div class="col-12 col-md-6 order-2 order-md-2 hero-text">
+      <h2>Welcome to Arbor Church</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+      <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+    </div>
   </div>
 </div>
 
-<div class="splash hidden-xs">
-  <video width="1280" height="720" src="/video/arbor-splash.m4v" autoplay="true" loop="true" muted="true" playsinline="true"></video>
-</div>
-<div class="splash hidden-sm hidden-md hidden-lg">
-  <video width="576" height="1024" src="/video/arbor-splash-mobile.m4v" autoplay="true" loop="true" muted="true" playsinline="true"></video>
+<div class="container hero-section">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6 order-2 order-md-1 hero-text">
+      <h2>Our Community</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+      <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+    </div>
+    <div class="col-12 col-md-6 order-1 order-md-2">
+      <div class="hero-image-container hero-image-container-2">
+        <img src="/img/hero-2.jpg" alt="Hero Image 2" class="img-fluid hero-image hero-image-2">
+      </div>
+    </div>
+  </div>
 </div>
 
-{{ range .Site.RegularPages }}
-  {{ if eq .Type "block" }}
-   {{ .Render "home" }}
-  {{ end }} 
-{{ end }}
+<div class="container my-5">
+  <div class="row">
+    <div class="col-12 text-center mb-4">
+      <h2>Upcoming Events</h2>
+    </div>
+  </div>
+  <div class="row">
+    {{ $now := now }}
+    {{ $upcomingEvents := slice }}
+    {{ range where .Site.RegularPages "Section" "events" }}
+      {{ if ge (.Date) $now }}
+        {{ $upcomingEvents = $upcomingEvents | append . }}
+      {{ end }}
+    {{ end }}
+    {{ $sortedEvents := sort $upcomingEvents ".Date" "asc" }}
+    {{ range first 3 $sortedEvents }}
+    <div class="col-12 col-md-4 mb-4">
+      <div class="card h-100">
+        <div class="card-body d-flex flex-column">
+          <h5 class="card-title">{{ .Title }}</h5>
+          <p class="card-text text-muted">{{ .Date.Format "January 2, 2006" }}</p>
+          <div class="mt-auto">
+            <a href="{{ .Permalink }}" class="btn btn-primary">Register</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+<script>
+(function() {
+  // First hero parallax
+  const heroImage = document.querySelector('.hero-image:not(.hero-image-2)');
+  const heroContainer = document.querySelector('.hero-image-container:not(.hero-image-container-2)');
+  
+  // Second hero parallax
+  const heroImage2 = document.querySelector('.hero-image-2');
+  const heroContainer2 = document.querySelector('.hero-image-container-2');
+  
+  function updateParallax(image, container) {
+    if (!image || !container) return;
+    
+    const containerRect = container.getBoundingClientRect();
+    const windowHeight = window.innerHeight;
+    
+    // Calculate how far through the viewport the container is (0 at bottom, 1 at top)
+    const scrollProgress = Math.max(0, Math.min(1, (windowHeight - containerRect.top) / (windowHeight + containerRect.height)));
+    
+    // Move from 0 to -200px as we scroll
+    const translateY = scrollProgress * -200;
+    image.style.webkitTransform = `translate3d(0, ${translateY}px, 0)`;
+    image.style.transform = `translate3d(0, ${translateY}px, 0)`;
+  }
+  
+  function updateAllParallax() {
+    updateParallax(heroImage, heroContainer);
+    updateParallax(heroImage2, heroContainer2);
+  }
+  
+  window.addEventListener('scroll', updateAllParallax, { passive: true });
+  window.addEventListener('resize', updateAllParallax, { passive: true });
+  updateAllParallax();
+})();
+</script>
 
 {{ partial "content-footer.html" . }}
 
