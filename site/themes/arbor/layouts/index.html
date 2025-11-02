@@ -8,9 +8,9 @@
       </div>
     </div>
     <div class="col-12 col-md-6 order-2 order-md-2 hero-text">
-      <h2>Welcome to Arbor Church</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-      <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+      <p class="lead">Arbor Church</p>
+      <h2>People helping people, find and follow Jesus.</h2>
+      <p>We hope to continue Christ's great commission of making disciples. That is our purpose. Our preference is to do it together.</p>
     </div>
   </div>
 </div>
@@ -18,9 +18,11 @@
 <div class="container hero-section">
   <div class="row align-items-center">
     <div class="col-12 col-md-6 order-2 order-md-1 hero-text">
-      <h2>Our Community</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-      <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+      <p class="lead">Join us in person or online</p>
+      <h2>Sundays at 9:00 and 10:30am</h2>
+      <p>19011 Woodinville-Snohomish Rd., Suite 210, Woodinville, WA 98072</p>
+      <a href="/sunday-services" class="btn btn-primary" target="_blank">In Person</a>
+      <a href="https://arborchurch.online.church/" class="btn" target="_blank">Online</a>
     </div>
     <div class="col-12 col-md-6 order-1 order-md-2">
       <div class="hero-image-container hero-image-container-2">
@@ -33,7 +35,7 @@
 <div class="container my-5">
   <div class="row">
     <div class="col-12 text-center mb-4">
-      <h2>This Week</h2>
+      <h2>Upcoming Week</h2>
     </div>
   </div>
   <div class="row">
@@ -41,11 +43,11 @@
       <div class="calendar-week">
         {{ $calendar := .Site.Data.calendar }}
         {{ $now := now }}
-        
+        {{ $pacific := "America/Los_Angeles" }}
         {{ range seq 0 6 }}
           {{ $dayOffset := . }}
           {{ $currentDay := $now.AddDate 0 0 $dayOffset }}
-          {{ $dayStart := time (printf "%04d-%02d-%02dT00:00:00Z" $currentDay.Year (int $currentDay.Month) $currentDay.Day) }}
+          {{ $dayStart := time (printf "%04d-%02d-%02dT00:00:00-08:00" $currentDay.Year (int $currentDay.Month) $currentDay.Day) }}
           {{ $dayEnd := $dayStart.AddDate 0 0 1 }}
           
           <div class="calendar-day">
@@ -57,10 +59,11 @@
               {{ $hasEvents := false }}
               {{ range $calendar }}
                 {{ $eventStart := time .starts_at }}
-                {{ if and (ge $eventStart $dayStart) (lt $eventStart $dayEnd) }}
+                {{ $eventStartPacific := $eventStart.Add (duration "hour" -8) }}
+                {{ if and (ge $eventStartPacific $dayStart) (lt $eventStartPacific $dayEnd) }}
                   {{ $hasEvents = true }}
                   <div class="calendar-event">
-                    <div class="calendar-event-time">{{ $eventStart.Format "3:04 PM" }}</div>
+                    <div class="calendar-event-time">{{ $eventStartPacific.Format "3:04 PM" }}</div>
                     <div class="calendar-event-name">{{ .name }}</div>
                   </div>
                 {{ end }}
@@ -107,15 +110,53 @@
   </div>
 </div>
 
+<div class="container hero-section">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6 order-1 order-md-1">
+      <div class="hero-image-container hero-image-container-3">
+        <img src="/img/hero-messages.jpg" alt="Latest Message" class="img-fluid hero-image hero-image-3">
+      </div>
+    </div>
+    <div class="col-12 col-md-6 order-2 order-md-2 hero-text">
+      {{ $latestMessage := first 1 (sort (where .Site.RegularPages "Section" "messages") ".Date" "desc") }}
+      {{ range $latestMessage }}
+        <h2>Latest Message</h2>
+        <h3>{{ .Title }}</h3>
+        <p class="text-muted">
+          {{ if .Params.speaker }}{{ .Params.speaker }} | {{ end }}
+          {{ .Date.Format "January 2, 2006" }}
+        </p>
+        {{ if .Content }}
+          <div class="message-description">
+            {{ .Content }}
+          </div>
+        {{ end }}
+        <div class="mt-3">
+          {{ if .Params.youtube_id }}
+            <a href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" class="btn btn-primary me-2" target="_blank">Watch</a>
+          {{ end }}
+          {{ if .Params.podcast }}
+            <a href="{{ .Params.podcast }}" class="btn btn-outline-primary" target="_blank">Listen</a>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
 <script>
 (function() {
   // First hero parallax
-  const heroImage = document.querySelector('.hero-image:not(.hero-image-2)');
-  const heroContainer = document.querySelector('.hero-image-container:not(.hero-image-container-2)');
+  const heroImage = document.querySelector('.hero-image:not(.hero-image-2):not(.hero-image-3)');
+  const heroContainer = document.querySelector('.hero-image-container:not(.hero-image-container-2):not(.hero-image-container-3)');
   
   // Second hero parallax
   const heroImage2 = document.querySelector('.hero-image-2');
   const heroContainer2 = document.querySelector('.hero-image-container-2');
+  
+  // Third hero parallax
+  const heroImage3 = document.querySelector('.hero-image-3');
+  const heroContainer3 = document.querySelector('.hero-image-container-3');
   
   function updateParallax(image, container) {
     if (!image || !container) return;
@@ -135,6 +176,7 @@
   function updateAllParallax() {
     updateParallax(heroImage, heroContainer);
     updateParallax(heroImage2, heroContainer2);
+    updateParallax(heroImage3, heroContainer3);
   }
   
   window.addEventListener('scroll', updateAllParallax, { passive: true });
