@@ -621,19 +621,16 @@ ul.footer-menu ul li {
 .hero-image-container {
   overflow: hidden;
   border-radius: 8px;
-  aspect-ratio: 1 / 1;
-  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .hero-image {
   width: 100%;
-  height: calc(100% + 200px);
+  height: 100%;
   object-fit: cover;
-  position: absolute;
-  top: 0;
-  left: 0;
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
+  display: block;
 }
 
 .hero-text {
@@ -648,15 +645,77 @@ ul.footer-menu ul li {
   }
 }
 
-// Mobile specific styling
-@media (max-width: 767px) {
+.hero-content-box {
+  background: white;
+  padding: 2.5rem;
+  border-radius: 1rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  width: fit-content;
+  max-width: 100%;
+}
+
+// Tablet layout - reduce wasted space
+@media (min-width: 768px) and (max-width: 1199px) {
+  .hero-image-container {
+    height: 400px;
+  }
+  
+  .hero-text {
+    display: flex;
+    align-items: center;
+  }
+  
   .hero-section {
     margin-top: 2rem;
     margin-bottom: 2rem;
   }
   
+  .hero-content-box {
+    padding: 2rem;
+    width: 100%;
+  }
+}
+
+// Large desktop - full height
+@media (min-width: 1200px) {
+  .hero-image-container {
+    height: 600px;
+  }
+  
+  .hero-text {
+    display: flex;
+    align-items: center;
+    min-height: 600px;
+  }
+}
+
+// Mobile specific styling (stacked layout)
+@media (max-width: 767px) {
+  .hero-section {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
   .hero-image {
+    margin-bottom: 0;
+  }
+  
+  .hero-image-container {
+    height: auto;
+    min-height: 300px;
     margin-bottom: 1rem;
+  }
+  
+  .hero-text {
+    min-height: auto;
+    display: block;
+    padding: 0;
+    margin-bottom: 2rem;
+  }
+  
+  .hero-content-box {
+    width: 100%;
+    padding: 2rem;
   }
 }
 

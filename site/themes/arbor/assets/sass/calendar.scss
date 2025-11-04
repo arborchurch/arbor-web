@@ -48,21 +48,21 @@
 
 .calendar-day-name {
   font-weight: 600;
-  font-size: 1.1rem;
+  font-size: 1.25rem;
   color: #495057;
   
   @media (max-width: 768px) {
-    font-size: 1rem;
+    font-size: 1.1rem;
   }
 }
 
 .calendar-day-date {
-  font-size: 1rem;
+  font-size: 1.1rem;
   margin-top: 0.25rem;
   color: #6c757d;
   
   @media (max-width: 768px) {
-    font-size: 0.9rem;
+    font-size: 1rem;
   }
 }
 
@@ -91,14 +91,14 @@
 }
 
 .calendar-event-time {
-  font-size: 0.95rem;
+  font-size: 1.05rem;
   color: #6c757d;
   font-weight: 600;
   margin-bottom: 0.35rem;
 }
 
 .calendar-event-name {
-  font-size: 1.05rem;
+  font-size: 1.15rem;
   color: #212529;
   line-height: 1.4;
 }
@@ -106,7 +106,7 @@
 .calendar-no-events {
   color: #6c757d;
   font-style: italic;
-  font-size: 1rem;
+  font-size: 1.05rem;
   text-align: center;
   padding: 1rem 0;
 }

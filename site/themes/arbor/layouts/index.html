@@ -8,9 +8,11 @@
       </div>
     </div>
     <div class="col-12 col-md-6 order-2 order-md-2 hero-text">
-      <p class="lead">Arbor Church</p>
-      <h2>People helping people, find and follow Jesus.</h2>
-      <p>We hope to continue Christ's great commission of making disciples. That is our purpose. Our preference is to do it together.</p>
+      <div class="hero-content-box">
+        <p class="lead">Arbor Church</p>
+        <h2>People helping people, find and follow Jesus.</h2>
+        <p>We hope to continue Christ's great commission of making disciples. That is our purpose. Our preference is to do it together.</p>
+      </div>
     </div>
   </div>
 </div>
@@ -18,11 +20,13 @@
 <div class="container hero-section">
   <div class="row align-items-center">
     <div class="col-12 col-md-6 order-2 order-md-1 hero-text">
-      <p class="lead">Join us in person or online</p>
-      <h2>Sundays at 9:00 and 10:30am</h2>
-      <p>19011 Woodinville-Snohomish Rd., Suite 210, Woodinville, WA 98072</p>
-      <a href="/sunday-services" class="btn btn-primary" target="_blank">In Person</a>
-      <a href="https://arborchurch.online.church/" class="btn" target="_blank">Online</a>
+      <div class="hero-content-box">
+        <p class="lead">Join us in person or online</p>
+        <h2>Sundays at 9:00 and 10:30am</h2>
+        <p>19011 Woodinville-Snohomish Rd., Suite 210, Woodinville, WA 98072</p>
+        <a href="/sunday-services" class="btn btn-primary" target="_blank">In Person</a>
+        <a href="https://arborchurch.online.church/" class="btn" target="_blank">Online</a>
+      </div>
     </div>
     <div class="col-12 col-md-6 order-1 order-md-2">
       <div class="hero-image-container hero-image-container-2">
@@ -118,72 +122,33 @@
       </div>
     </div>
     <div class="col-12 col-md-6 order-2 order-md-2 hero-text">
-      {{ $latestMessage := first 1 (sort (where .Site.RegularPages "Section" "messages") ".Date" "desc") }}
-      {{ range $latestMessage }}
-        <h2>Latest Message</h2>
-        <h3>{{ .Title }}</h3>
-        <p class="text-muted">
-          {{ if .Params.speaker }}{{ .Params.speaker }} | {{ end }}
-          {{ .Date.Format "January 2, 2006" }}
-        </p>
-        {{ if .Content }}
-          <div class="message-description">
-            {{ .Content }}
+      <div class="hero-content-box">
+        {{ $latestMessage := first 1 (sort (where .Site.RegularPages "Section" "messages") ".Date" "desc") }}
+        {{ range $latestMessage }}
+          <h2>Latest Message</h2>
+          <h3>{{ .Title }}</h3>
+          <p class="text-muted">
+            {{ if .Params.speaker }}{{ .Params.speaker }} | {{ end }}
+            {{ .Date.Format "January 2, 2006" }}
+          </p>
+          {{ if .Content }}
+            <div class="message-description">
+              {{ .Content }}
+            </div>
+          {{ end }}
+          <div class="mt-3">
+            {{ if .Params.youtube_id }}
+              <a href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" class="btn btn-primary me-2" target="_blank">Watch</a>
+            {{ end }}
+            {{ if .Params.podcast }}
+              <a href="{{ .Params.podcast }}" class="btn btn-outline-primary" target="_blank">Listen</a>
+            {{ end }}
           </div>
         {{ end }}
-        <div class="mt-3">
-          {{ if .Params.youtube_id }}
-            <a href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" class="btn btn-primary me-2" target="_blank">Watch</a>
-          {{ end }}
-          {{ if .Params.podcast }}
-            <a href="{{ .Params.podcast }}" class="btn btn-outline-primary" target="_blank">Listen</a>
-          {{ end }}
-        </div>
-      {{ end }}
+      </div>
     </div>
   </div>
 </div>
-
-<script>
-(function() {
-  // First hero parallax
-  const heroImage = document.querySelector('.hero-image:not(.hero-image-2):not(.hero-image-3)');
-  const heroContainer = document.querySelector('.hero-image-container:not(.hero-image-container-2):not(.hero-image-container-3)');
-  
-  // Second hero parallax
-  const heroImage2 = document.querySelector('.hero-image-2');
-  const heroContainer2 = document.querySelector('.hero-image-container-2');
-  
-  // Third hero parallax
-  const heroImage3 = document.querySelector('.hero-image-3');
-  const heroContainer3 = document.querySelector('.hero-image-container-3');
-  
-  function updateParallax(image, container) {
-    if (!image || !container) return;
-    
-    const containerRect = container.getBoundingClientRect();
-    const windowHeight = window.innerHeight;
-    
-    // Calculate how far through the viewport the container is (0 at bottom, 1 at top)
-    const scrollProgress = Math.max(0, Math.min(1, (windowHeight - containerRect.top) / (windowHeight + containerRect.height)));
-    
-    // Move from 0 to -200px as we scroll
-    const translateY = scrollProgress * -200;
-    image.style.webkitTransform = `translate3d(0, ${translateY}px, 0)`;
-    image.style.transform = `translate3d(0, ${translateY}px, 0)`;
-  }
-  
-  function updateAllParallax() {
-    updateParallax(heroImage, heroContainer);
-    updateParallax(heroImage2, heroContainer2);
-    updateParallax(heroImage3, heroContainer3);
-  }
-  
-  window.addEventListener('scroll', updateAllParallax, { passive: true });
-  window.addEventListener('resize', updateAllParallax, { passive: true });
-  updateAllParallax();
-})();
-</script>
 
 {{ partial "content-footer.html" . }}
 
