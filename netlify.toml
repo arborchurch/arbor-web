@@ -5,7 +5,7 @@
 
 # Production context: all deploys from the main branch
 [context.production.environment]
-  HUGO_VERSION = "0.67.1"
+  HUGO_VERSION = "0.148.2"
   TZ = "America/Los_Angeles"
 
 # Deploy Preview context: all deploys generated from a pull/merge request
@@ -21,6 +21,6 @@
   command = "cd site && hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.67.1"
+  HUGO_VERSION = "0.148.2"
   TZ = "America/Los_Angeles"
 
