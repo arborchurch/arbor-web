@@ -51,7 +51,7 @@
         {{ range seq 0 6 }}
           {{ $dayOffset := . }}
           {{ $currentDay := $now.AddDate 0 0 $dayOffset }}
-          {{ $dayStart := time (printf "%04d-%02d-%02dT00:00:00-08:00" $currentDay.Year (int $currentDay.Month) $currentDay.Day) }}
+          {{ $dayStart := time (printf "%04d-%02d-%02dT00:00:00-08:00" $currentDay.Year (int ($currentDay.Format "1")) $currentDay.Day) }}
           {{ $dayEnd := $dayStart.AddDate 0 0 1 }}
           
           <div class="calendar-day">
