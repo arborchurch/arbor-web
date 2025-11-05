@@ -24,8 +24,11 @@
         <p class="lead">Join us in person or online</p>
         <h2>Sundays at 9:00 and 10:30am</h2>
         <p>19011 Woodinville-Snohomish Rd., Suite 210, Woodinville, WA 98072</p>
-        <a href="/sunday-services" class="btn btn-primary" target="_blank">In Person</a>
-        <a href="https://arborchurch.online.church/" class="btn" target="_blank">Online</a>
+        <div class="hero-buttons">
+          <a href="/sunday-services" class="btn btn-primary" target="_blank">In Person</a>
+          &nbsp;
+          <a href="https://arborchurch.online.church/" class="btn" target="_blank">Online</a>
+        </div>
       </div>
     </div>
     <div class="col-12 col-md-6 order-1 order-md-2">
@@ -81,8 +84,17 @@
       </div>
     </div>
   </div>
+  <a href="https://arborchurch.churchcenter.com/calendar">Full calendar &rarr;</a>
 </div>
 
+{{ $now := now }}
+{{ $upcomingEvents := slice }}
+{{ range where .Site.RegularPages "Section" "events" }}
+  {{ if ge (.Date) $now }}
+    {{ $upcomingEvents = $upcomingEvents | append . }}
+  {{ end }}
+{{ end }}
+{{ if gt (len $upcomingEvents) 0 }}
 <div class="container my-5">
   <div class="row">
     <div class="col-12 text-center mb-4">
@@ -90,13 +102,6 @@
     </div>
   </div>
   <div class="row">
-    {{ $now := now }}
-    {{ $upcomingEvents := slice }}
-    {{ range where .Site.RegularPages "Section" "events" }}
-      {{ if ge (.Date) $now }}
-        {{ $upcomingEvents = $upcomingEvents | append . }}
-      {{ end }}
-    {{ end }}
     {{ $sortedEvents := sort $upcomingEvents ".Date" "asc" }}
     {{ range first 3 $sortedEvents }}
     <div class="col-12 col-md-4 mb-4">
@@ -104,7 +109,7 @@
         <div class="card-body d-flex flex-column">
           <h5 class="card-title">{{ .Title }}</h5>
           <p class="card-text text-muted">{{ .Date.Format "January 2, 2006" }}</p>
-          <div class="mt-auto">
+          <div class="mt-auto hero-buttons">
             <a href="{{ .Permalink }}" class="btn btn-primary">Register</a>
           </div>
         </div>
@@ -113,6 +118,7 @@
     {{ end }}
   </div>
 </div>
+{{ end }}
 
 <div class="container hero-section">
   <div class="row align-items-center">
@@ -136,14 +142,18 @@
               {{ .Content }}
             </div>
           {{ end }}
-          <div class="mt-3">
+          <div class="mt-3 hero-buttons">
             {{ if .Params.youtube_id }}
               <a href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" class="btn btn-primary me-2" target="_blank">Watch</a>
             {{ end }}
+            &nbsp;
             {{ if .Params.podcast }}
               <a href="{{ .Params.podcast }}" class="btn btn-outline-primary" target="_blank">Listen</a>
             {{ end }}
           </div>
+          <div>
+              <a href="/messages">Browse all messages  &rarr;</a>
+          </dib>
         {{ end }}
       </div>
     </div>

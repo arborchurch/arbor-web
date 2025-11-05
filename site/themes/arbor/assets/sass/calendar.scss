@@ -48,7 +48,7 @@
 
 .calendar-day-name {
   font-weight: 600;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   color: #495057;
   
   @media (max-width: 768px) {
@@ -57,7 +57,7 @@
 }
 
 .calendar-day-date {
-  font-size: 1.1rem;
+  font-size: 1rem;
   margin-top: 0.25rem;
   color: #6c757d;
   
@@ -91,14 +91,14 @@
 }
 
 .calendar-event-time {
-  font-size: 1.05rem;
+  font-size: 1.5rem;
   color: #6c757d;
   font-weight: 600;
   margin-bottom: 0.35rem;
 }
 
 .calendar-event-name {
-  font-size: 1.15rem;
+  font-size: 1.25rem;
   color: #212529;
   line-height: 1.4;
 }

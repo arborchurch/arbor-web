@@ -719,6 +719,63 @@ ul.footer-menu ul li {
   }
 }
 
+// Hero section button styles
+.hero-section {
+  .btn-primary {
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+    border-radius: 12px;
+    padding: 12px 28px;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      background-color: #333333;
+      color: #ffffff;
+      text-decoration: none;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    }
+    
+    &:active, &:focus {
+      background-color: #000000;
+      color: #ffffff;
+      outline: none;
+    }
+  }
+  
+  .btn:not(.btn-primary), .btn-outline-primary {
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #000000;
+    border-radius: 12px;
+    padding: 12px 28px;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      background-color: #f8f8f8;
+      color: #000000;
+      text-decoration: none;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+    
+    &:active, &:focus {
+      background-color: #ffffff;
+      color: #000000;
+      outline: none;
+    }
+  }
+  .hero-buttons {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+}
+
 @import 'events';
 @import 'beliefs';
 @import 'messages';
