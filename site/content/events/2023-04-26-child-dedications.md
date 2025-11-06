@@ -1,7 +1,7 @@
 ---
 title: Child Dedications
 date: 2025-12-21T17:00:00.000Z
-publishdate: 2025-11-06T19:57:28.805Z
+publishdate: 2025-11-06T14:00:19.023Z
 expirydate: 2025-12-26T19:57:28.837Z
 button_text: sign up here
 button_link: https://arborchurch.churchcenter.com/registrations/events/3257593
