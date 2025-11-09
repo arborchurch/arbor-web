@@ -616,6 +616,33 @@ ul.footer-menu ul li {
   margin-bottom: 3rem;
   padding-left: 1rem;
   padding-right: 1rem;
+  padding-bottom: 8rem;
+  font-size: medium;
+}
+
+.hero-section .followup-link {
+  color: black;
+  text-decoration: none;
+  display: block;
+  margin-top: 2rem;
+  font-weight: bold;
+}
+
+.hero-section .card {
+  border: 1px solid #e0e0e0;
+  border-radius: 20px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 0;
+}
+
+.hero-section .card-title {
+  font-size: large;
+}
+
+.row.header-row {
+  margin-bottom: 3rem;
 }
 
 .hero-image-container {

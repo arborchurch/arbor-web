@@ -39,10 +39,11 @@
   </div>
 </div>
 
-<div class="container my-5">
-  <div class="row">
+<div class="container hero-section my-5">
+  <div class="row header-row">
     <div class="col-12 text-center mb-4">
-      <h2>Upcoming Week</h2>
+      <p class="lead">Calendar</p>
+      <h2>Upcoming week</h2>
     </div>
   </div>
   <div class="row">
@@ -84,7 +85,7 @@
       </div>
     </div>
   </div>
-  <a href="https://arborchurch.churchcenter.com/calendar">Full calendar &rarr;</a>
+  <a class="followup-link" href="https://arborchurch.churchcenter.com/calendar">Full calendar &rarr;</a>
 </div>
 
 {{ $now := now }}
@@ -95,10 +96,11 @@
   {{ end }}
 {{ end }}
 {{ if gt (len $upcomingEvents) 0 }}
-<div class="container my-5">
-  <div class="row">
+<div class="container my-5 hero-section">
+  <div class="row header-row">
     <div class="col-12 text-center mb-4">
-      <h2>Upcoming Events</h2>
+      <p class="lead">Events</p>
+      <h2>Upcoming events</h2>
     </div>
   </div>
   <div class="row">
@@ -117,6 +119,7 @@
     </div>
     {{ end }}
   </div>
+  <a class="followup-link" href="/events">All events &rarr;</a>
 </div>
 {{ end }}
 
@@ -152,8 +155,8 @@
             {{ end }}
           </div>
           <div>
-              <a href="/messages">Browse all messages  &rarr;</a>
-          </dib>
+              <a class="followup-link" href="/messages">Browse all messages  &rarr;</a>
+          </div>
         {{ end }}
       </div>
     </div>
