@@ -635,13 +635,14 @@ ul.footer-menu ul li {
   padding-right: 2rem;
   padding-top: 1rem;
   padding-bottom: 0;
+  margin-bottom: 3rem;
 }
 
 .hero-section .card-title {
   font-size: large;
 }
 
-.row.header-row {
+.header-row {
   margin-bottom: 3rem;
 }
 
@@ -757,6 +758,7 @@ ul.footer-menu ul li {
     font-weight: 500;
     letter-spacing: 0.05em;
     transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
     
     &:hover {
       background-color: #333333;
@@ -776,19 +778,20 @@ ul.footer-menu ul li {
   .btn:not(.btn-primary), .btn-outline-primary {
     background-color: #ffffff;
     color: #000000;
-    border: 1px solid #000000;
+    border: 1px solid #d0d0d0;
     border-radius: 12px;
     padding: 12px 28px;
     font-weight: 500;
     letter-spacing: 0.05em;
     transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
     
     &:hover {
       background-color: #f8f8f8;
       color: #000000;
       text-decoration: none;
       transform: translateY(-2px);
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
     }
     
     &:active, &:focus {
