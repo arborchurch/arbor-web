@@ -74,7 +74,7 @@ p.lead {
 .home-logo, .menu-logo {
   position: absolute;
   top: 20px;
-  left: 60px;
+  left: 20px;
 }
 
 .home-logo img, .menu-logo img {
@@ -270,7 +270,6 @@ p.lead {
   position: absolute;
   right: 60px;
   top: 20px;
-  color: white;
 }
 
 #nav-menu img {
@@ -278,7 +277,6 @@ p.lead {
 }
 
 #nav-menu a {
-  color: white;
   text-decoration: none;
   letter-spacing: 0.05em;
   font-weight: normal;
@@ -302,7 +300,6 @@ p.lead {
 }
 
 ul.menu > li > a {
-  text-transform: uppercase;
   margin: 0px;
 }
 
@@ -419,7 +416,6 @@ ul.menu li {
 .image-shader {
   width: 100%;
   height: 75px;
-  background-color: #404040;
   top: 0px;
   left: 0px;
 }
@@ -512,6 +508,15 @@ ul.menu li {
   text-transform: uppercase;
   padding: 5px;
   color: #404040;
+}
+
+
+.top-nav {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.top-nav a {
+  color: #505050;
 }
 
 ul.footer-menu {
@@ -636,6 +641,7 @@ ul.footer-menu ul li {
   padding-top: 1rem;
   padding-bottom: 0;
   margin-bottom: 3rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
 .hero-section .card-title {

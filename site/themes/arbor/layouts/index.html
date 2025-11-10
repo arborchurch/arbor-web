@@ -10,7 +10,7 @@
     <div class="col-12 col-md-6 order-2 order-md-2 hero-text">
       <div class="hero-content-box">
         <p class="lead">Arbor Church</p>
-        <h2>People helping people, find and follow Jesus.</h2>
+        <h2>People helping people find and follow Jesus.</h2>
         <p>We hope to continue Christ's great commission of making disciples. That is our purpose. Our preference is to do it together.</p>
       </div>
     </div>
@@ -130,11 +130,14 @@
         <img src="/img/hero-messages.jpg" alt="Latest Message" class="img-fluid hero-image hero-image-3">
       </div>
     </div>
-    <div class="col-12 col-md-6 order-2 order-md-2 hero-text">
-      <div class="hero-content-box">
+    <div class="col-12 col-md-6">
+      <div class="header-row">
+          <p class="lead">Sermons</p>
+          <h2>Latest message</h2>
+        </div>
+      <div class="card">
         {{ $latestMessage := first 1 (sort (where .Site.RegularPages "Section" "messages") ".Date" "desc") }}
         {{ range $latestMessage }}
-          <h2>Latest Message</h2>
           <h3>{{ .Title }}</h3>
           <p class="text-muted">
             {{ if .Params.speaker }}{{ .Params.speaker }} | {{ end }}
@@ -155,10 +158,10 @@
             {{ end }}
           </div>
           <div>
-              <a class="followup-link" href="/messages">Browse all messages  &rarr;</a>
           </div>
         {{ end }}
       </div>
+    <a class="followup-link" href="/messages">Browse all messages  &rarr;</a>
     </div>
   </div>
 </div>

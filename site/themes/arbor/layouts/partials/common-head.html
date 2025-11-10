@@ -110,14 +110,24 @@
     for (var i = 0; i < eles.length; i++) {
       (function() {
         var ele = eles[i];
+        var closeTimeout = null;
+        
         ele.addEventListener("mouseover", function(e) {
           // ignore when too narrow for menus
           if (document.body.clientWidth < 768)
             return;
 
-          // close all other menus
+          // clear any pending close timeout for this menu
+          if (closeTimeout) {
+            clearTimeout(closeTimeout);
+            closeTimeout = null;
+          }
+
+          // close all other menus immediately
           for (var j = 0; j < eles.length; j++) {
-            eles[j].className = "menu-hover";
+            if (eles[j] !== ele) {
+              eles[j].className = "menu-hover";
+            }
           }
 
           // open if not already opened
@@ -131,13 +141,18 @@
 
           // see where the mouse is headed (so we don't close when moving to a submenu)
           var target = e.toElement || e.relatedTarget;
-          if (target.className === "sub-menu") {
+          
+          // check if the target is within this menu item (including submenu)
+          if (target && ele.contains(target)) {
             return;
           }
 
-          // if open, close it
+          // delay closing to allow time for mouse to reach submenu
           if (ele.className.endsWith(" open")) {
-            ele.className = "menu-hover";
+            closeTimeout = setTimeout(function() {
+              ele.className = "menu-hover";
+              closeTimeout = null;
+            }, 150);
           }
         });
       })();
