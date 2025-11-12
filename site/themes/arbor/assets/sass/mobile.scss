@@ -116,6 +116,16 @@
     margin-top: 0px;
   }
 
+  .home-logo .find-us {
+    color: white;
+    font-weight: bold;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
+  }
+
+  .home-logo img {
+    filter: invert(1);
+  }
+
   .home-logo, .menu-logo {
     top: 20px;
     left: 20px;
