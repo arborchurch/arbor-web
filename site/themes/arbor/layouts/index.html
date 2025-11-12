@@ -112,7 +112,7 @@
           <h5 class="card-title">{{ .Title }}</h5>
           <p class="card-text text-muted">{{ .Date.Format "January 2, 2006" }}</p>
           <div class="mt-auto hero-buttons">
-            <a href="{{ .Permalink }}" class="btn btn-primary">Register</a>
+            <a href="{{ .Params.button_link }}" class="btn btn-secondary">{{ .Params.button_text }}</a>
           </div>
         </div>
       </div>
