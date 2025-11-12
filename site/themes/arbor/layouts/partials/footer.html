@@ -12,7 +12,7 @@
     {{ range .Site.Menus.main }}
       <div class="col-md-2">
         <ul class="footer-menu">
-          <li>{{ .Name }}</li>
+          <li>{{ if .HasChildren }}{{ .Name }}{{ else }}<a href="{{ .URL }}">{{ .Name }}</a>{{ end }}</li>
           {{ if .HasChildren }}
           <ul class="sub-menu">
             {{ range .Children }}
