@@ -30,8 +30,8 @@
 }
 
 .calendar-day-header {
-  background-color: #f8f9fa;
-  color: #212529;
+  background-color: #505050;
+  color: #ffffff;
   padding: 1rem;
   border-right: 1px solid #dee2e6;
   text-align: left;
@@ -50,7 +50,6 @@
 .calendar-day-name {
   font-weight: 600;
   font-size: 1.5rem;
-  color: #495057;
   
   @media (max-width: 768px) {
     font-size: 1.1rem;
@@ -60,7 +59,6 @@
 .calendar-day-date {
   font-size: 1rem;
   margin-top: 0.25rem;
-  color: #6c757d;
   
   @media (max-width: 768px) {
     font-size: 1rem;

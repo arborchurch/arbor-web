@@ -109,6 +109,10 @@ function processCalendarEvents(response: any): CalendarEvent[] {
   const events: CalendarEvent[] = [];
   const now = new Date();
   
+  // Get midnight today in local timezone
+  const midnightToday = new Date(now);
+  midnightToday.setHours(0, 0, 0, 0);
+  
   for (const instance of response.data) {
     if (instance.type === 'EventInstance') {
       const eventId = instance.relationships?.event?.data?.id;
@@ -120,12 +124,12 @@ function processCalendarEvents(response: any): CalendarEvent[] {
           continue;
         }
         
-        // Filter: skip events that have already ended
+        // Filter: skip events that ended before midnight today
         const endsAt = instance.attributes.ends_at 
           ? new Date(instance.attributes.ends_at)
           : new Date(instance.attributes.starts_at);
         
-        if (endsAt < now) {
+        if (endsAt < midnightToday) {
           continue;
         }
         

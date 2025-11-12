@@ -1,7 +1,7 @@
 # Build settings
 [build]
   publish = "site/public"
-  command = "cd site && hugo --gc --minify"
+  command = "./build-site.sh"
 
 # Production context: all deploys from the main branch
 [context.production.environment]
@@ -10,15 +10,15 @@
 
 # Deploy Preview context: all deploys generated from a pull/merge request
 [context.deploy-preview]
-  command = "cd site && hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+  command = "./build-site.sh --buildFuture"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.67.1"
+  HUGO_VERSION = "0.148.2"
   TZ = "America/Los_Angeles"
 
 # Branch deploy context: all deploys that are not from a pull/merge request or from the production branch
 [context.branch-deploy]
-  command = "cd site && hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+  command = "./build-site.sh --buildFuture"
 
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.148.2"
