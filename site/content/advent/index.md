@@ -29,7 +29,7 @@ Read the Advent Guide below, or download a PDF here:
 <div class="event-details">
   <a class="button" href="/pdf/advent-guide-2025.pdf">
   <span class="glyphicon glyphicon-file"></span>
-  Holy Week Devotional
+  Advent Guide Devotional
   <small>(PDF)</small>
   </a>
 </div>
@@ -92,7 +92,7 @@ Can you think of a time when something good happened after a long wait?
 
 ## Week 2 — Peace
 
-## Read
+### Read
 
 Luke 1:8–13; 30; Luke 3:4; Philippians 4:6–7
 
