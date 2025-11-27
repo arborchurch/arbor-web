@@ -1,0 +1,16 @@
+{{ if eq .Type "series" }}
+  {{ partial "content-header.html" . }}
+
+  {{ range .RegularPages.ByDate }}
+    <div class="message col-xs-12 col-md-8 col-md-offset-2">
+      {{ .Render "list" }}
+    </div>
+  {{ end }}
+
+  {{ partial "content-footer.html" . }}
+{{ else }}
+  <!-- Type is: {{ .Type }}, Section is: {{ .Section }} -->
+  {{ partial "content-header.html" . }}
+  <p>DEBUG: Type={{ .Type }}, Section={{ .Section }}, Kind={{ .Kind }}</p>
+  {{ partial "content-footer.html" . }}
+{{ end }}

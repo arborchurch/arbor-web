@@ -1,28 +1,219 @@
 {{ partial "header.html" . }}
 
-<div class="church-online-container">
-  <div class="church-online">
-    <a role="button" href="https://arborchurch.online.church/">
-      Church Online
-    </a>
-    <a role="button" href="/sunday-services/">
-      In Person
-    </a>
+<div class="container hero-section">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6 order-1 order-md-1">
+      <div class="hero-image-container">
+        <img src="/img/hero-1.png" alt="Hero Image" class="img-fluid hero-image">
+      </div>
+    </div>
+    <div class="col-12 col-md-6 order-2 order-md-2 hero-text">
+      <div class="hero-content-box">
+        <p class="lead">Arbor Church</p>
+        <h2>People helping people find and follow Jesus.</h2>
+        <p>We hope to continue Christ's great commission of making disciples. That is our purpose. Our preference is to
+          do it together.</p>
+      </div>
+    </div>
   </div>
 </div>
 
-<div class="splash hidden-xs">
-  <video width="1280" height="720" src="/video/arbor-splash.m4v" autoplay="true" loop="true" muted="true" playsinline="true"></video>
-</div>
-<div class="splash hidden-sm hidden-md hidden-lg">
-  <video width="576" height="1024" src="/video/arbor-splash-mobile.m4v" autoplay="true" loop="true" muted="true" playsinline="true"></video>
+<div class="container hero-section">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6 order-2 order-md-1 hero-text">
+      <div class="hero-content-box">
+        <p class="lead">Join us in person or online</p>
+        <h2>Sundays at 9:00 and 10:30am</h2>
+        <p>19011 Woodinville-Snohomish Rd., Suite 210, Woodinville, WA 98072</p>
+        <div class="hero-buttons">
+          <a href="/sunday-services" class="btn btn-primary" target="_blank">In Person</a>
+          &nbsp;
+          <a href="https://arborchurch.online.church/" class="btn" target="_blank">Online</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-md-6 order-1 order-md-2">
+      <div class="hero-image-container hero-image-container-2">
+        <img src="/img/hero-2.jpg" alt="Hero Image 2" class="img-fluid hero-image hero-image-2">
+      </div>
+    </div>
+  </div>
 </div>
 
-{{ range .Site.RegularPages }}
-  {{ if eq .Type "block" }}
-   {{ .Render "home" }}
-  {{ end }} 
+<div class="container hero-section my-5">
+  <div class="row header-row">
+    <div class="col-12 text-center mb-4">
+      <p class="lead">Calendar</p>
+      <h2>Upcoming week</h2>
+      <p class="follow">The next 7 days at Arbor.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12">
+      <div class="calendar-week">
+        {{ $calendar := .Site.Data.calendar }}
+        {{ $now := now }}
+        {{ $pacific := "America/Los_Angeles" }}
+        {{ range seq 0 6 }}
+        {{ $dayOffset := . }}
+        {{ $currentDay := $now.AddDate 0 0 $dayOffset }}
+        {{ $dayStart := time (printf "%04d-%02d-%02dT00:00:00-08:00" $currentDay.Year (int ($currentDay.Format "1"))
+        $currentDay.Day) }}
+        {{ $dayEnd := $dayStart.AddDate 0 0 1 }}
+
+        <div class="calendar-day">
+          <div class="calendar-day-header">
+            <div class="calendar-day-name">{{ $currentDay.Format "Monday" }}</div>
+            <div class="calendar-day-date">{{ $currentDay.Format "Jan 2" }}</div>
+          </div>
+          <div class="calendar-day-events">
+            {{ $hasEvents := false }}
+            {{ range $calendar }}
+            {{ $eventStart := time .starts_at }}
+            {{ $eventStartPacific := $eventStart.Add (duration "hour" -8) }}
+            {{ if and (ge $eventStartPacific $dayStart) (lt $eventStartPacific $dayEnd) }}
+            {{ $hasEvents = true }}
+            <div class="calendar-event">
+              <div class="calendar-event-time">{{ $eventStartPacific.Format "3:04 PM" }}</div>
+              <div class="calendar-event-name">{{ .name }}</div>
+            </div>
+            {{ end }}
+            {{ end }}
+            {{ if not $hasEvents }}
+            <div class="calendar-no-events">No events</div>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+  <a class="followup-link" href="https://arborchurch.churchcenter.com/calendar">Full calendar &rarr;</a>
+</div>
+
+{{ $now := now }}
+{{ $upcomingEvents := slice }}
+{{ range where .Site.RegularPages "Section" "events" }}
+{{ if ge (.Date) $now }}
+{{ $upcomingEvents = $upcomingEvents | append . }}
+{{ end }}
+{{ end }}
+{{ if gt (len $upcomingEvents) 0 }}
+<div class="container my-5 hero-section">
+  <div class="row header-row">
+    <div class="col-12 text-center mb-4">
+      <p class="lead">Events</p>
+      <h2>Upcoming events</h2>
+      <p class="follow">Gatherings, classes, and ways to connect.</p>
+    </div>
+  </div>
+  <div class="row">
+    {{ $sortedEvents := sort $upcomingEvents ".Date" "asc" }}
+    {{ range first 3 $sortedEvents }}
+    <div class="col-12 col-md-4 mb-4">
+      <div class="card h-100">
+        <div class="card-body d-flex flex-column">
+          <h5 class="card-title">{{ .Title }}</h5>
+          <p class="card-text text-muted">{{ .Date.Format "January 2, 2006" }}</p>
+          <div class="mt-auto hero-buttons">
+            <a href="{{ .Params.button_link }}" class="btn btn-secondary">{{ .Params.button_text }}</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  <a class="followup-link" href="/events">All events &rarr;</a>
+</div>
 {{ end }}
 
-{{ partial "content-footer.html" . }}
+<div class="container hero-section">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6 order-1 order-md-1">
+      <div class="hero-image-container hero-image-container-3">
+        <img src="/img/hero-messages.jpg" alt="Latest Message" class="img-fluid hero-image hero-image-3">
+      </div>
+    </div>
+    <div class="col-12 col-md-6">
+      <div class="header-row">
+        <p class="lead">Sermons</p>
+        <h2>Latest message</h2>
+        <p class="follow">Catch up on recent teaching and share with a friend.</p>
+      </div>
+      <div class="card">
+        {{ $latestMessage := first 1 (sort (where .Site.RegularPages "Section" "messages") ".Date" "desc") }}
+        {{ range $latestMessage }}
+        <h3>{{ .Title }}</h3>
+        <p class="text-muted">
+          {{ if .Params.speaker }}{{ .Params.speaker }} | {{ end }}
+          {{ .Date.Format "January 2, 2006" }}
+        </p>
+        {{ if .Content }}
+        <div class="message-description">
+          {{ .Content }}
+        </div>
+        {{ end }}
+        <div class="mt-3 hero-buttons">
+          {{ if .Params.youtube_id }}
+          <a href="https://www.youtube.com/watch?v={{ .Params.youtube_id }}" class="btn btn-primary me-2"
+            target="_blank">Watch</a>
+          {{ end }}
+          &nbsp;
+          {{ if .Params.podcast }}
+          <a href="{{ .Params.podcast }}" class="btn btn-outline-primary" target="_blank">Listen</a>
+          {{ end }}
+        </div>
+        <div>
+        </div>
+        {{ end }}
+      </div>
+      <a class="followup-link" href="/messages">Browse all messages &rarr;</a>
+    </div>
+  </div>
+</div>
 
+<div class="container hero-section">
+  <div class="row align-items-center">
+    <div class="col-12 col-md-6">
+      <div class="header-row">
+        <p class="lead">Community</p>
+        <h2>Groups & Teams</h2>
+        <p class="follow">Find your people. Serve with purpose.</p>
+      </div>
+      <div class="card mb-3">
+        <div class="card-body">
+          <h5 class="card-title">Groups</h5>
+          <p class="card-text">Practice the way of Jesus in community &mdash; weekly rhythms to grow together.</p>
+          <div class="hero-buttons">
+            <a href="/groups/" class="btn btn-secondary">Find a Group</a>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">Teams</h5>
+          <p class="card-text">Use your gifts &mdash; hospitality, kids, production, worship, and more.</p>
+          <div class="hero-buttons">
+            <a href="/volunteer/" class="btn btn-secondary">Join a Team</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-md-6 order-1 order-md-2">
+      <div class="hero-image-container">
+        <img src="/img/hero-serve.jpg" alt="Get Involved" class="img-fluid hero-image">
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container hero-section">
+  <div class="row align-items-center text-center">
+    <h2>Worship through generosity</h2>
+    <p class="follow">Thank you for partnering with us.</p>
+    <div class="hero-buttons">
+      <a href="https://arborchurch.churchcenteronline.com/giving?open-in-church-center-modal=true" class="btn btn-primary" target="_blank">Give</a>
+    </div>
+  </div>
+</div>
+{{ partial "content-footer.html" . }}
