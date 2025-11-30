@@ -2,12 +2,13 @@
 
   <div class="image-shader"></div>
 
+  <div class="top-nav">
   <div class="home-logo {{ .Params.logostyle }}">
     <a href="{{ .Site.BaseURL }}">
-      <img src="{{ .Site.BaseURL }}img/arbor-logo-menu.png" />
+      <img src="{{ .Site.BaseURL }}img/single-leaf.png" />
     </a>
     <div class="find-us visible-xs-block visible-md-block visible-lg-block">
-      SUNDAYS at 9:00 and 10:30 AM
+      SUNDAYS AT 9:00 AND 10:30 AM
     </div>
   </div>
 
@@ -21,7 +22,6 @@
           {{ if (lt .Weight 100) }}
           <a href="javascript:navigate_to('{{.Name}}');">
             {{ .Name }}
-            <div class="expand-arrow"></div>
           </a>
           {{ else if (lt .Weight 200) }}
           <a href="{{ .URL }}">
@@ -55,3 +55,5 @@
       </label>
     </div>
   </div>
+</div>
+</div>

@@ -10,16 +10,6 @@
     letter-spacing: 0.15em;
   }
 
-  li .expand-arrow {
-    background-image: url(../img/desktop-menu-contracted.png);
-    width: 10px;
-    height: 10px;
-  }
-
-  li.open .expand-arrow {
-    background-image: url(../img/desktop-menu-expanded.png);
-  }
-
   ul.menu {
     margin-top: 10px;
     white-space: nowrap;
@@ -31,32 +21,49 @@
 
   ul.menu ul li {
     padding-left: 0px;
-    font-size: 11px;
   }
 
   ul.menu li.open {
-    background-color: white;
+    background-color: transparent;
+  }
+
+  /* Animated underline for top-level menu items */
+  ul.menu li.menu-hover > a {
+    position: relative;
+    display: inline-block;
+  }
+
+  ul.menu li.menu-hover > a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -3px;
+    width: 0;
+    height: 2px;
+    background-color: #505050;
+    transition: width 0.3s ease;
+  }
+
+  ul.menu li.menu-hover.open > a::after {
+    width: 100%;
   }
 
   #nav-menu ul.menu li.open a {
-    color: #808080;
+    color: #505050;
   }
 
   #nav-menu ul.menu li.open ul a {
-    transition: background-color 0.5s linear;
+    transition: background-color 0.3s ease;
     display: block;
-    background-color: white;
-    color: #808080;
-    margin-bottom: 1px;
-    padding-left: 5px;
-    padding-right: 3px;
-    padding-top: 3px;
+    color: #404040;
+    margin-bottom: 0px;
+    padding: 10px 25px;
   }
 
   #nav-menu ul.menu li.open ul a:hover {
     color: white;
     background-color: #000000;
-    transition: background-color 0.5s linear;
+    transition: background-color 0.3s ease;
   }
 
   #nav-menu ul.menu li.open ul li:hover a {
@@ -66,10 +73,25 @@
   ul.menu li.open ul {
     position: absolute;
     left: 0px;
-    top: 0px;
+    top: 100%;
+    margin-top: 8px;
     min-width: 100%;
     padding-left: 0px;
-    padding-top: 18px;
+    padding-top: 0px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+    background-color: white;
+  }
+
+  ul.menu li.open ul li:first-child a {
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+  }
+
+  ul.menu li.open ul li:last-child a {
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
   }
 
   ul.menu li.open ul li {
