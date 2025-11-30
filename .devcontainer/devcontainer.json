@@ -1,0 +1,8 @@
+{
+    "name": "Hugo 0.67 Dev",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "workspaceFolder": "/workspaces/arbor-web",
+    "forwardPorts": [1313]
+}
