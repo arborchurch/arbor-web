@@ -2,7 +2,6 @@
 baseURL: "https://www.arborchurch.com/"
 title: "Arbor Church"
 languageCode: "en-us"
-theme: "arbor"
 menu:
   main:
   - Name: Give

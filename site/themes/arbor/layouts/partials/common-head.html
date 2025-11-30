@@ -10,7 +10,7 @@
 <link href="{{ .Site.BaseURL }}img/arbor-logo-192x192.png" rel="icon" sizes="192x192" />
 <link href="{{ .Site.BaseURL }}img/arbor-logo-128x128.png" rel="icon" sizes="128x128" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-{{ $style := resources.Get "sass/arbor.scss" | css.Sass | resources.Minify | resources.Fingerprint }}
+{{ $style := resources.Get "sass/arbor.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $style.Permalink }}">
 
 <!-- interaction observer polyfill and image lazy-loader -->
