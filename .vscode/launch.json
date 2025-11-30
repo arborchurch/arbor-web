@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Hugo Server",
+            "type": "node-terminal",
+            "request": "launch",
+            "command": "cd site && hugo server -D --theme arbor",
+            "serverReadyAction": {
+                "pattern": "Web Server is available at (https?://[^\\s]+)",
+                "uriFormat": "%s",
+                "action": "openExternally"
+            }
+        }
+    ]
+}
+
