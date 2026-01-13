@@ -26,11 +26,9 @@
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
       <div class="header-row">
-        <p class="lead">Sermons</p>
         <h2>Latest message</h2>
-        <p class="follow">Catch up on recent teaching and share with a friend.</p>
       </div>
-      <div class="card">
+      <div>
         {{ $latestMessage := first 1 (sort (where .Site.RegularPages "Section" "messages") ".Date" "desc") }}
         {{ range $latestMessage }}
         <h3>{{ .Title }}</h3>
@@ -78,9 +76,7 @@
 <div class="container my-5 hero-section">
   <div class="row header-row">
     <div class="col-12 text-center mb-4">
-      <p class="lead">Events</p>
       <h2>Upcoming events</h2>
-      <p class="follow">Gatherings, classes, and ways to connect.</p>
     </div>
   </div>
   <div class="row">
@@ -106,9 +102,7 @@
 <div class="container hero-section my-5">
   <div class="row header-row">
     <div class="col-12 text-center mb-4">
-      <p class="lead">Calendar</p>
       <h2>Upcoming week</h2>
-      <p class="follow">The next 7 days at Arbor.</p>
     </div>
   </div>
   <div class="row">
@@ -158,11 +152,9 @@
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
       <div class="header-row">
-        <p class="lead">Community</p>
         <h2>Groups & Teams</h2>
-        <p class="follow">Find your people. Serve with purpose.</p>
       </div>
-      <div class="card mb-3">
+      <div class="mb-3">
         <div class="card-body">
           <h5 class="card-title">Groups</h5>
           <p class="card-text">Practice the way of Jesus in community &mdash; weekly rhythms to grow together.</p>
@@ -171,7 +163,7 @@
           </div>
         </div>
       </div>
-      <div class="card">
+      <div>
         <div class="card-body">
           <h5 class="card-title">Teams</h5>
           <p class="card-text">Use your gifts &mdash; hospitality, kids, production, worship, and more.</p>

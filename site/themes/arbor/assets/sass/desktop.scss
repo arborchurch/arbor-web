@@ -78,20 +78,9 @@
     min-width: 100%;
     padding-left: 0px;
     padding-top: 0px;
-    border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
     overflow: hidden;
     background-color: white;
-  }
-
-  ul.menu li.open ul li:first-child a {
-    border-top-left-radius: 12px;
-    border-top-right-radius: 12px;
-  }
-
-  ul.menu li.open ul li:last-child a {
-    border-bottom-left-radius: 12px;
-    border-bottom-right-radius: 12px;
   }
 
   ul.menu li.open ul li {
@@ -138,7 +127,7 @@
   }
 }
 
-/* desktop wide */ 
+/* desktop wide */
 @media screen and (min-width: 992px) {
 
   .series {
@@ -158,7 +147,7 @@
   }
 }
 
-/* desktop extremely very wide */ 
+/* desktop extremely very wide */
 @media screen and (min-width: 1500px) {
 
   .series-list {

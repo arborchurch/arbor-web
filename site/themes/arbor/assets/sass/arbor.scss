@@ -1,6 +1,6 @@
 $body-font: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Helvetica Neue,Arial,sans-serif;
 $header-font: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Helvetica Neue,Arial,sans-serif;
-  
+
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700');
 
 @font-face {
@@ -48,7 +48,7 @@ a:hover {
 }
 
 .splash {
-  width: 100%; 
+  width: 100%;
   overflow: hidden;
   z-index: 1;
   position: absolute;
@@ -71,8 +71,8 @@ p.follow {
 }
 
 .splash video {
-  width: 100%; 
-  height: auto; 
+  width: 100%;
+  height: auto;
   background-color: #606060;
   display: block;
 }
@@ -285,10 +285,11 @@ p.follow {
   text-decoration: none;
   letter-spacing: 0.05em;
   font-weight: normal;
+  color: black;
 }
 
 .hamburger {
-  position: fixed; 
+  position: fixed;
   right: 20px;
   top: 0px;
   padding: 20px;
@@ -339,7 +340,7 @@ ul.menu li {
   margin-bottom: 2rem;
 }
 
-.mast h1, 
+.mast h1,
 .mast h2 {
   font-weight: 300;
 }
@@ -392,7 +393,7 @@ ul.menu li {
 }
 
 /* ------------------------------------------------------------------------- */
-/* detail pages 
+/* detail pages
 /* ------------------------------------------------------------------------- */
 
 .summary {
@@ -500,7 +501,7 @@ ul.menu li {
   max-width: 100%;
   height: auto;
 }
-  
+
 .detail .content {
   padding-bottom: 20px;
 }
@@ -639,7 +640,6 @@ ul.footer-menu ul li {
 
 .hero-section .card {
   border: 1px solid #e0e0e0;
-  border-radius: 20px;
   padding-left: 2rem;
   padding-right: 2rem;
   padding-top: 1rem;
@@ -673,11 +673,11 @@ ul.footer-menu ul li {
 
 .hero-text {
   padding: 1.5rem;
-  
+
   h2 {
     margin-bottom: 1rem;
   }
-  
+
   p {
     line-height: 1.6;
   }
@@ -686,8 +686,6 @@ ul.footer-menu ul li {
 .hero-content-box {
   background: white;
   padding: 2.5rem;
-  border-radius: 1rem;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
   width: fit-content;
   max-width: 100%;
 }
@@ -697,17 +695,17 @@ ul.footer-menu ul li {
   .hero-image-container {
     height: 400px;
   }
-  
+
   .hero-text {
     display: flex;
     align-items: center;
   }
-  
+
   .hero-section {
     margin-top: 2rem;
     margin-bottom: 2rem;
   }
-  
+
   .hero-content-box {
     padding: 2rem;
     width: 100%;
@@ -719,7 +717,7 @@ ul.footer-menu ul li {
   .hero-image-container {
     height: 600px;
   }
-  
+
   .hero-text {
     display: flex;
     align-items: center;
@@ -733,24 +731,24 @@ ul.footer-menu ul li {
     margin-top: 0;
     margin-bottom: 0;
   }
-  
+
   .hero-image {
     margin-bottom: 0;
   }
-  
+
   .hero-image-container {
     height: auto;
     min-height: 300px;
     margin-bottom: 1rem;
   }
-  
+
   .hero-text {
     min-height: auto;
     display: block;
     padding: 0;
     margin-bottom: 2rem;
   }
-  
+
   .hero-content-box {
     width: 100%;
     padding: 2rem;
@@ -763,13 +761,12 @@ ul.footer-menu ul li {
     background-color: #000000;
     color: #ffffff;
     border: none;
-    border-radius: 12px;
     padding: 12px 28px;
     font-weight: 500;
     letter-spacing: 0.05em;
     transition: all 0.3s ease;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-    
+
     &:hover {
       background-color: #333333;
       color: #ffffff;
@@ -777,25 +774,24 @@ ul.footer-menu ul li {
       transform: translateY(-2px);
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
     }
-    
+
     &:active, &:focus {
       background-color: #000000;
       color: #ffffff;
       outline: none;
     }
   }
-  
+
   .btn:not(.btn-primary), .btn-outline-primary {
     background-color: #ffffff;
     color: #000000;
     border: 1px solid #d0d0d0;
-    border-radius: 12px;
     padding: 12px 28px;
     font-weight: 500;
     letter-spacing: 0.05em;
     transition: all 0.3s ease;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-    
+
     &:hover {
       background-color: #f8f8f8;
       color: #000000;
@@ -803,7 +799,7 @@ ul.footer-menu ul li {
       transform: translateY(-2px);
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
     }
-    
+
     &:active, &:focus {
       background-color: #ffffff;
       color: #000000;
@@ -826,4 +822,3 @@ ul.footer-menu ul li {
 @import 'mobile';
 @import 'desktop';
 @import 'collapsible';
-
