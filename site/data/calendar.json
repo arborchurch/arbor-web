@@ -1,422 +1,5 @@
 [
   {
-    "id": "199263258",
-    "name": "Community Practice",
-    "description": null,
-    "summary": null,
-    "location": "Woodinville Campus - 19011 Woodinville Snohomish Rd, Suite 210, Woodinville, WA 98072",
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-11-13T02:30:00Z",
-    "ends_at": "2025-11-13T04:00:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:51:42Z",
-    "updated_at": "2025-09-08T20:51:43Z"
-  },
-  {
-    "id": "199255851",
-    "name": "1st Service",
-    "description": null,
-    "summary": null,
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-11-16T17:00:00Z",
-    "ends_at": "2025-11-16T18:00:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
-  },
-  {
-    "id": "199255534",
-    "name": "2nd Service",
-    "description": null,
-    "summary": null,
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-11-16T18:30:00Z",
-    "ends_at": "2025-11-16T19:30:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
-  },
-  {
-    "id": "199256642",
-    "name": "Students",
-    "description": null,
-    "summary": null,
-    "location": "Woodinville Campus - 19011 Woodinville Snohomish Rd, Suite 210, Woodinville, WA 98072",
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-11-16T18:30:00Z",
-    "ends_at": "2025-11-16T19:30:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:24:58Z",
-    "updated_at": "2025-09-08T20:26:04Z"
-  },
-  {
-    "id": "199262264",
-    "name": "Arbor Women",
-    "description": null,
-    "summary": null,
-    "location": "Woodinville Campus - 19011 Woodinville Snohomish Rd, Suite 210, Woodinville, WA 98072",
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-11-18T17:30:00Z",
-    "ends_at": "2025-11-18T19:00:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:48:02Z",
-    "updated_at": "2025-09-08T20:48:37Z"
-  },
-  {
-    "id": "199263259",
-    "name": "Community Practice",
-    "description": null,
-    "summary": null,
-    "location": "Woodinville Campus - 19011 Woodinville Snohomish Rd, Suite 210, Woodinville, WA 98072",
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-11-20T02:30:00Z",
-    "ends_at": "2025-11-20T04:00:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:51:42Z",
-    "updated_at": "2025-09-08T20:51:43Z"
-  },
-  {
-    "id": "199255852",
-    "name": "1st Service",
-    "description": null,
-    "summary": null,
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-11-23T17:00:00Z",
-    "ends_at": "2025-11-23T18:00:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
-  },
-  {
-    "id": "199255535",
-    "name": "2nd Service",
-    "description": null,
-    "summary": null,
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-11-23T18:30:00Z",
-    "ends_at": "2025-11-23T19:30:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
-  },
-  {
-    "id": "199256643",
-    "name": "Students",
-    "description": null,
-    "summary": null,
-    "location": "Woodinville Campus - 19011 Woodinville Snohomish Rd, Suite 210, Woodinville, WA 98072",
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-11-23T18:30:00Z",
-    "ends_at": "2025-11-23T19:30:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:24:58Z",
-    "updated_at": "2025-09-08T20:26:04Z"
-  },
-  {
-    "id": "199255853",
-    "name": "1st Service",
-    "description": null,
-    "summary": null,
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-11-30T17:00:00Z",
-    "ends_at": "2025-11-30T18:00:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
-  },
-  {
-    "id": "199255536",
-    "name": "2nd Service",
-    "description": null,
-    "summary": null,
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-11-30T18:30:00Z",
-    "ends_at": "2025-11-30T19:30:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
-  },
-  {
-    "id": "199262044",
-    "name": "Hedge Group",
-    "description": null,
-    "summary": null,
-    "location": "Woodinville Campus - 19011 Woodinville Snohomish Rd, Suite 210, Woodinville, WA 98072",
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-12-03T01:30:00Z",
-    "ends_at": "2025-12-03T03:15:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:47:12Z",
-    "updated_at": "2025-09-08T20:47:12Z"
-  },
-  {
-    "id": "199255854",
-    "name": "1st Service",
-    "description": null,
-    "summary": null,
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-12-07T17:00:00Z",
-    "ends_at": "2025-12-07T18:00:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
-  },
-  {
-    "id": "199255537",
-    "name": "2nd Service",
-    "description": null,
-    "summary": null,
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-12-07T18:30:00Z",
-    "ends_at": "2025-12-07T19:30:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
-  },
-  {
-    "id": "199256645",
-    "name": "Students",
-    "description": null,
-    "summary": null,
-    "location": "Woodinville Campus - 19011 Woodinville Snohomish Rd, Suite 210, Woodinville, WA 98072",
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-12-07T18:30:00Z",
-    "ends_at": "2025-12-07T19:30:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:24:58Z",
-    "updated_at": "2025-09-08T20:26:04Z"
-  },
-  {
-    "id": "199255855",
-    "name": "1st Service",
-    "description": null,
-    "summary": null,
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-12-14T17:00:00Z",
-    "ends_at": "2025-12-14T18:00:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
-  },
-  {
-    "id": "199255538",
-    "name": "2nd Service",
-    "description": null,
-    "summary": null,
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-12-14T18:30:00Z",
-    "ends_at": "2025-12-14T19:30:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
-  },
-  {
-    "id": "199256646",
-    "name": "Students",
-    "description": null,
-    "summary": null,
-    "location": "Woodinville Campus - 19011 Woodinville Snohomish Rd, Suite 210, Woodinville, WA 98072",
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-12-14T18:30:00Z",
-    "ends_at": "2025-12-14T19:30:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:24:58Z",
-    "updated_at": "2025-09-08T20:26:04Z"
-  },
-  {
-    "id": "199255856",
-    "name": "1st Service",
-    "description": null,
-    "summary": null,
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-12-21T17:00:00Z",
-    "ends_at": "2025-12-21T18:00:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
-  },
-  {
-    "id": "199255539",
-    "name": "2nd Service",
-    "description": null,
-    "summary": null,
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-12-21T18:30:00Z",
-    "ends_at": "2025-12-21T19:30:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
-  },
-  {
-    "id": "199256647",
-    "name": "Students",
-    "description": null,
-    "summary": null,
-    "location": "Woodinville Campus - 19011 Woodinville Snohomish Rd, Suite 210, Woodinville, WA 98072",
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-12-21T18:30:00Z",
-    "ends_at": "2025-12-21T19:30:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:24:58Z",
-    "updated_at": "2025-09-08T20:26:04Z"
-  },
-  {
-    "id": "199255857",
-    "name": "1st Service",
-    "description": null,
-    "summary": null,
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-12-28T17:00:00Z",
-    "ends_at": "2025-12-28T18:00:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
-  },
-  {
-    "id": "199255540",
-    "name": "2nd Service",
-    "description": null,
-    "summary": null,
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2025-12-28T18:30:00Z",
-    "ends_at": "2025-12-28T19:30:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
-  },
-  {
-    "id": "199255858",
-    "name": "1st Service",
-    "description": null,
-    "summary": null,
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2026-01-04T17:00:00Z",
-    "ends_at": "2026-01-04T18:00:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
-  },
-  {
-    "id": "199255541",
-    "name": "2nd Service",
-    "description": null,
-    "summary": null,
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2026-01-04T18:30:00Z",
-    "ends_at": "2026-01-04T19:30:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
-  },
-  {
-    "id": "199256649",
-    "name": "Students",
-    "description": null,
-    "summary": null,
-    "location": "Woodinville Campus - 19011 Woodinville Snohomish Rd, Suite 210, Woodinville, WA 98072",
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2026-01-04T18:30:00Z",
-    "ends_at": "2026-01-04T19:30:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:24:58Z",
-    "updated_at": "2025-09-08T20:26:04Z"
-  },
-  {
-    "id": "199255859",
-    "name": "1st Service",
-    "description": null,
-    "summary": null,
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2026-01-11T17:00:00Z",
-    "ends_at": "2026-01-11T18:00:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
-  },
-  {
-    "id": "199255542",
-    "name": "2nd Service",
-    "description": null,
-    "summary": null,
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2026-01-11T18:30:00Z",
-    "ends_at": "2026-01-11T19:30:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
-  },
-  {
-    "id": "199256650",
-    "name": "Students",
-    "description": null,
-    "summary": null,
-    "location": "Woodinville Campus - 19011 Woodinville Snohomish Rd, Suite 210, Woodinville, WA 98072",
-    "image_url": null,
-    "registration_url": null,
-    "starts_at": "2026-01-11T18:30:00Z",
-    "ends_at": "2026-01-11T19:30:00Z",
-    "all_day_event": false,
-    "visible_in_church_center": true,
-    "created_at": "2025-09-08T20:24:58Z",
-    "updated_at": "2025-09-08T20:26:04Z"
-  },
-  {
     "id": "199255860",
     "name": "1st Service",
     "description": null,
@@ -428,7 +11,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255543",
@@ -442,7 +25,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256651",
@@ -471,7 +54,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255544",
@@ -485,7 +68,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256652",
@@ -503,6 +86,34 @@
     "updated_at": "2025-09-08T20:26:04Z"
   },
   {
+    "id": "210166557",
+    "name": "Arbor Women",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-01-27T17:30:00Z",
+    "ends_at": "2026-01-27T19:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2026-01-05T23:26:20Z",
+    "updated_at": "2026-01-05T23:26:49Z"
+  },
+  {
+    "id": "210166959",
+    "name": "Community Practice",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-01-29T02:30:00Z",
+    "ends_at": "2026-01-29T04:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2026-01-05T23:28:09Z",
+    "updated_at": "2026-01-05T23:28:44Z"
+  },
+  {
     "id": "199255862",
     "name": "1st Service",
     "description": null,
@@ -514,7 +125,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255545",
@@ -528,7 +139,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256653",
@@ -546,6 +157,34 @@
     "updated_at": "2025-09-08T20:26:04Z"
   },
   {
+    "id": "210166558",
+    "name": "Arbor Women",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-02-03T17:30:00Z",
+    "ends_at": "2026-02-03T19:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2026-01-05T23:26:20Z",
+    "updated_at": "2026-01-05T23:26:49Z"
+  },
+  {
+    "id": "210166960",
+    "name": "Community Practice",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-02-05T02:30:00Z",
+    "ends_at": "2026-02-05T04:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2026-01-05T23:28:09Z",
+    "updated_at": "2026-01-05T23:28:44Z"
+  },
+  {
     "id": "199255863",
     "name": "1st Service",
     "description": null,
@@ -557,7 +196,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255546",
@@ -571,7 +210,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256654",
@@ -589,6 +228,34 @@
     "updated_at": "2025-09-08T20:26:04Z"
   },
   {
+    "id": "210166559",
+    "name": "Arbor Women",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-02-10T17:30:00Z",
+    "ends_at": "2026-02-10T19:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2026-01-05T23:26:20Z",
+    "updated_at": "2026-01-05T23:26:49Z"
+  },
+  {
+    "id": "210166961",
+    "name": "Community Practice",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-02-12T02:30:00Z",
+    "ends_at": "2026-02-12T04:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2026-01-05T23:28:09Z",
+    "updated_at": "2026-01-05T23:28:44Z"
+  },
+  {
     "id": "199255864",
     "name": "1st Service",
     "description": null,
@@ -600,7 +267,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255547",
@@ -614,7 +281,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256655",
@@ -643,7 +310,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255548",
@@ -657,7 +324,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256656",
@@ -675,6 +342,34 @@
     "updated_at": "2025-09-08T20:26:04Z"
   },
   {
+    "id": "210166561",
+    "name": "Arbor Women",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-02-24T17:30:00Z",
+    "ends_at": "2026-02-24T19:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2026-01-05T23:26:20Z",
+    "updated_at": "2026-01-05T23:26:49Z"
+  },
+  {
+    "id": "210166963",
+    "name": "Community Practice",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-02-26T02:30:00Z",
+    "ends_at": "2026-02-26T04:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2026-01-05T23:28:09Z",
+    "updated_at": "2026-01-05T23:28:44Z"
+  },
+  {
     "id": "199255866",
     "name": "1st Service",
     "description": null,
@@ -686,7 +381,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255549",
@@ -700,7 +395,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256657",
@@ -718,6 +413,34 @@
     "updated_at": "2025-09-08T20:26:04Z"
   },
   {
+    "id": "210166562",
+    "name": "Arbor Women",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-03-03T17:30:00Z",
+    "ends_at": "2026-03-03T19:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2026-01-05T23:26:20Z",
+    "updated_at": "2026-01-05T23:26:49Z"
+  },
+  {
+    "id": "210166964",
+    "name": "Community Practice",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-03-05T02:30:00Z",
+    "ends_at": "2026-03-05T04:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2026-01-05T23:28:09Z",
+    "updated_at": "2026-01-05T23:28:44Z"
+  },
+  {
     "id": "199255867",
     "name": "1st Service",
     "description": null,
@@ -729,7 +452,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255550",
@@ -743,7 +466,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256658",
@@ -761,6 +484,34 @@
     "updated_at": "2025-09-08T20:26:04Z"
   },
   {
+    "id": "210166563",
+    "name": "Arbor Women",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-03-10T16:30:00Z",
+    "ends_at": "2026-03-10T18:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2026-01-05T23:26:20Z",
+    "updated_at": "2026-01-05T23:26:49Z"
+  },
+  {
+    "id": "210166965",
+    "name": "Community Practice",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-03-12T01:30:00Z",
+    "ends_at": "2026-03-12T03:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2026-01-05T23:28:09Z",
+    "updated_at": "2026-01-05T23:28:44Z"
+  },
+  {
     "id": "199255868",
     "name": "1st Service",
     "description": null,
@@ -772,7 +523,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255551",
@@ -786,7 +537,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256659",
@@ -815,7 +566,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255552",
@@ -829,7 +580,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256660",
@@ -858,7 +609,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255553",
@@ -872,7 +623,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256661",
@@ -901,7 +652,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255554",
@@ -915,7 +666,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256662",
@@ -944,7 +695,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255555",
@@ -958,7 +709,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256663",
@@ -976,6 +727,20 @@
     "updated_at": "2025-09-08T20:26:04Z"
   },
   {
+    "id": "210167000",
+    "name": "Hedge",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-04-15T00:00:00Z",
+    "ends_at": "2026-04-15T02:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2026-01-05T23:29:50Z",
+    "updated_at": "2026-01-05T23:29:51Z"
+  },
+  {
     "id": "199255873",
     "name": "1st Service",
     "description": null,
@@ -987,7 +752,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255556",
@@ -1001,7 +766,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256664",
@@ -1030,7 +795,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255557",
@@ -1044,7 +809,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256665",
@@ -1073,7 +838,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255558",
@@ -1087,7 +852,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256666",
@@ -1116,7 +881,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255559",
@@ -1130,7 +895,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256667",
@@ -1148,6 +913,20 @@
     "updated_at": "2025-09-08T20:26:04Z"
   },
   {
+    "id": "210167013",
+    "name": "Hedge",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-05-13T00:30:00Z",
+    "ends_at": "2026-05-13T02:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2026-01-05T23:30:19Z",
+    "updated_at": "2026-01-05T23:30:19Z"
+  },
+  {
     "id": "199255877",
     "name": "1st Service",
     "description": null,
@@ -1159,7 +938,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255560",
@@ -1173,7 +952,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256668",
@@ -1202,7 +981,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255561",
@@ -1216,7 +995,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256669",
@@ -1245,7 +1024,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255562",
@@ -1259,7 +1038,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256670",
@@ -1288,7 +1067,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255563",
@@ -1302,7 +1081,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256671",
@@ -1320,6 +1099,20 @@
     "updated_at": "2025-09-08T20:26:04Z"
   },
   {
+    "id": "210167039",
+    "name": "Hedge",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-06-10T00:30:00Z",
+    "ends_at": "2026-06-10T02:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2026-01-05T23:30:38Z",
+    "updated_at": "2026-01-05T23:30:38Z"
+  },
+  {
     "id": "199255881",
     "name": "1st Service",
     "description": null,
@@ -1331,7 +1124,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
   },
   {
     "id": "199255564",
@@ -1345,7 +1138,7 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:18:20Z",
-    "updated_at": "2025-09-08T20:18:21Z"
+    "updated_at": "2025-11-25T23:38:10Z"
   },
   {
     "id": "199256672",
@@ -1374,6 +1167,235 @@
     "all_day_event": false,
     "visible_in_church_center": true,
     "created_at": "2025-09-08T20:21:25Z",
-    "updated_at": "2025-09-08T20:21:26Z"
+    "updated_at": "2025-11-25T23:38:02Z"
+  },
+  {
+    "id": "199255565",
+    "name": "2nd Service",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-06-21T17:30:00Z",
+    "ends_at": "2026-06-21T18:30:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2025-09-08T20:18:20Z",
+    "updated_at": "2025-11-25T23:38:10Z"
+  },
+  {
+    "id": "199256673",
+    "name": "Students",
+    "description": null,
+    "summary": null,
+    "location": "Woodinville Campus - 19011 Woodinville Snohomish Rd, Suite 210, Woodinville, WA 98072",
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-06-21T17:30:00Z",
+    "ends_at": "2026-06-21T18:30:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2025-09-08T20:24:58Z",
+    "updated_at": "2025-09-08T20:26:04Z"
+  },
+  {
+    "id": "199255883",
+    "name": "1st Service",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-06-28T16:00:00Z",
+    "ends_at": "2026-06-28T17:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2025-09-08T20:21:25Z",
+    "updated_at": "2025-11-25T23:38:02Z"
+  },
+  {
+    "id": "199255566",
+    "name": "2nd Service",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-06-28T17:30:00Z",
+    "ends_at": "2026-06-28T18:30:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2025-09-08T20:18:20Z",
+    "updated_at": "2025-11-25T23:38:10Z"
+  },
+  {
+    "id": "199256674",
+    "name": "Students",
+    "description": null,
+    "summary": null,
+    "location": "Woodinville Campus - 19011 Woodinville Snohomish Rd, Suite 210, Woodinville, WA 98072",
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-06-28T17:30:00Z",
+    "ends_at": "2026-06-28T18:30:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2025-09-08T20:24:58Z",
+    "updated_at": "2025-09-08T20:26:04Z"
+  },
+  {
+    "id": "199255884",
+    "name": "1st Service",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-07-05T16:00:00Z",
+    "ends_at": "2026-07-05T17:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2025-09-08T20:21:25Z",
+    "updated_at": "2025-11-25T23:38:02Z"
+  },
+  {
+    "id": "199255567",
+    "name": "2nd Service",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-07-05T17:30:00Z",
+    "ends_at": "2026-07-05T18:30:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2025-09-08T20:18:20Z",
+    "updated_at": "2025-11-25T23:38:10Z"
+  },
+  {
+    "id": "199256675",
+    "name": "Students",
+    "description": null,
+    "summary": null,
+    "location": "Woodinville Campus - 19011 Woodinville Snohomish Rd, Suite 210, Woodinville, WA 98072",
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-07-05T17:30:00Z",
+    "ends_at": "2026-07-05T18:30:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2025-09-08T20:24:58Z",
+    "updated_at": "2025-09-08T20:26:04Z"
+  },
+  {
+    "id": "199255885",
+    "name": "1st Service",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-07-12T16:00:00Z",
+    "ends_at": "2026-07-12T17:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2025-09-08T20:21:25Z",
+    "updated_at": "2025-11-25T23:38:02Z"
+  },
+  {
+    "id": "199255568",
+    "name": "2nd Service",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-07-12T17:30:00Z",
+    "ends_at": "2026-07-12T18:30:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2025-09-08T20:18:20Z",
+    "updated_at": "2025-11-25T23:38:10Z"
+  },
+  {
+    "id": "199256676",
+    "name": "Students",
+    "description": null,
+    "summary": null,
+    "location": "Woodinville Campus - 19011 Woodinville Snohomish Rd, Suite 210, Woodinville, WA 98072",
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-07-12T17:30:00Z",
+    "ends_at": "2026-07-12T18:30:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2025-09-08T20:24:58Z",
+    "updated_at": "2025-09-08T20:26:04Z"
+  },
+  {
+    "id": "199255886",
+    "name": "1st Service",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-07-19T16:00:00Z",
+    "ends_at": "2026-07-19T17:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2025-09-08T20:21:25Z",
+    "updated_at": "2025-11-25T23:38:02Z"
+  },
+  {
+    "id": "199255569",
+    "name": "2nd Service",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-07-19T17:30:00Z",
+    "ends_at": "2026-07-19T18:30:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2025-09-08T20:18:20Z",
+    "updated_at": "2025-11-25T23:38:10Z"
+  },
+  {
+    "id": "199256677",
+    "name": "Students",
+    "description": null,
+    "summary": null,
+    "location": "Woodinville Campus - 19011 Woodinville Snohomish Rd, Suite 210, Woodinville, WA 98072",
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-07-19T17:30:00Z",
+    "ends_at": "2026-07-19T18:30:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2025-09-08T20:24:58Z",
+    "updated_at": "2025-09-08T20:26:04Z"
+  },
+  {
+    "id": "199255887",
+    "name": "1st Service",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-07-26T16:00:00Z",
+    "ends_at": "2026-07-26T17:00:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2025-09-08T20:21:25Z",
+    "updated_at": "2025-11-25T23:38:02Z"
+  },
+  {
+    "id": "199255570",
+    "name": "2nd Service",
+    "description": null,
+    "summary": null,
+    "image_url": null,
+    "registration_url": null,
+    "starts_at": "2026-07-26T17:30:00Z",
+    "ends_at": "2026-07-26T18:30:00Z",
+    "all_day_event": false,
+    "visible_in_church_center": true,
+    "created_at": "2025-09-08T20:18:20Z",
+    "updated_at": "2025-11-25T23:38:10Z"
   }
 ]

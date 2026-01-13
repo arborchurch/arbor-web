@@ -5,7 +5,7 @@ weight: 15
 type: page
 menu:
   main:
-    parent: 'Get Involved'
+    parent: 'About'
     weight: 80
 resources:
 - name: header
@@ -51,4 +51,3 @@ Anyone who is experiencing food insecurity is invited to become a client for as 
 &nbsp;
 <a class="button" href="https://arborchurch.churchcenter.com/registrations/events/category/73968">service opportunities</a>
 </div>
-

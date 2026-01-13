@@ -5,16 +5,25 @@ languageCode: "en-us"
 theme: "arbor"
 menu:
   main:
-  - Name: Give
-    URL: https://arborchurch.churchcenteronline.com/giving?open-in-church-center-modal=true
-    Identifier: Give
-    Weight: 300
+    - Name: About
+      Weight: 100
+    - Name: Get Involved
+      Weight: 200
+    - Name: Events
+      URL: /events/
+      Weight: 300
+    - Name: Resources
+      Weight: 500
+    - Name: Give
+      URL: https://arborchurch.churchcenteronline.com/giving?open-in-church-center-modal=true
+      Identifier: Give
+      Weight: 600
 markup:
   goldmark:
     renderer:
       unsafe: true
 params:
-  livestream: 
+  livestream:
     enabled: true
     youtube_id: BroiKlMfdRs
 ---
