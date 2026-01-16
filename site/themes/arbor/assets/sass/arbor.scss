@@ -1,6 +1,6 @@
-  $body-font: Baskerville, Libre Baskerville, serif;
-  $header-font: Montserrat, sans-serif;
-  
+$body-font: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Helvetica Neue,Arial,sans-serif;
+$header-font: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Helvetica Neue,Arial,sans-serif;
+
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700');
 
 @font-face {
@@ -32,6 +32,7 @@ body {
 
 h1, h2 {
   font-family: $header-font;
+  font-weight: bold;
 }
 
 h2.header-link a {
@@ -47,7 +48,7 @@ a:hover {
 }
 
 .splash {
-  width: 100%; 
+  width: 100%;
   overflow: hidden;
   z-index: 1;
   position: absolute;
@@ -55,9 +56,23 @@ a:hover {
   left: 0px;
 }
 
+p.lead {
+  font-weight: light;
+  font-size: small;
+  letter-spacing: 1.5px;
+  color: #404040;
+  text-transform: uppercase;
+}
+
+p.follow {
+  font-weight: light;
+  font-size: medium;
+  color: #707070;
+}
+
 .splash video {
-  width: 100%; 
-  height: auto; 
+  width: 100%;
+  height: auto;
   background-color: #606060;
   display: block;
 }
@@ -65,7 +80,7 @@ a:hover {
 .home-logo, .menu-logo {
   position: absolute;
   top: 20px;
-  left: 60px;
+  left: 20px;
 }
 
 .home-logo img, .menu-logo img {
@@ -94,7 +109,6 @@ a:hover {
   margin-top: 8rem;
   padding-top: 2rem;
   padding-bottom: 3rem;
-  background-color: #efefef;
 }
 
 .footer a {
@@ -250,8 +264,8 @@ a:hover {
 }
 
 .footer, .footer a {
-  font-family: sans-serif;
-  color: #949494;
+  color: #505050;
+
 }
 
 /* "hamburger" menu */
@@ -261,7 +275,6 @@ a:hover {
   position: absolute;
   right: 60px;
   top: 20px;
-  color: white;
 }
 
 #nav-menu img {
@@ -269,14 +282,14 @@ a:hover {
 }
 
 #nav-menu a {
-  color: white;
   text-decoration: none;
   letter-spacing: 0.05em;
   font-weight: normal;
+  color: black;
 }
 
 .hamburger {
-  position: fixed; 
+  position: fixed;
   right: 20px;
   top: 0px;
   padding: 20px;
@@ -293,7 +306,6 @@ a:hover {
 }
 
 ul.menu > li > a {
-  text-transform: uppercase;
   margin: 0px;
 }
 
@@ -328,7 +340,7 @@ ul.menu li {
   margin-bottom: 2rem;
 }
 
-.mast h1, 
+.mast h1,
 .mast h2 {
   font-weight: 300;
 }
@@ -381,7 +393,7 @@ ul.menu li {
 }
 
 /* ------------------------------------------------------------------------- */
-/* detail pages 
+/* detail pages
 /* ------------------------------------------------------------------------- */
 
 .summary {
@@ -410,7 +422,6 @@ ul.menu li {
 .image-shader {
   width: 100%;
   height: 75px;
-  background-color: #404040;
   top: 0px;
   left: 0px;
 }
@@ -490,7 +501,7 @@ ul.menu li {
   max-width: 100%;
   height: auto;
 }
-  
+
 .detail .content {
   padding-bottom: 20px;
 }
@@ -505,8 +516,16 @@ ul.menu li {
   color: #404040;
 }
 
+
+.top-nav {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.top-nav a {
+  color: #505050;
+}
+
 ul.footer-menu {
-  text-transform: uppercase;
   margin-bottom: 2em;
   margin-left: 0px;
   padding-left: 0px;
@@ -601,13 +620,205 @@ ul.footer-menu ul li {
   white-space: nowrap;
 }
 
+// Hero section styling
+.hero-section {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 8rem;
+  font-size: medium;
+}
+
+.hero-section .followup-link {
+  color: black;
+  text-decoration: none;
+  display: block;
+  margin-top: 2rem;
+  font-weight: bold;
+}
+
+.hero-section .card {
+  border: 1px solid #e0e0e0;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 0;
+  margin-bottom: 3rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.hero-section .card-title {
+  font-size: large;
+}
+
+.header-row {
+  margin-bottom: 3rem;
+}
+
+.hero-image-container {
+  overflow: hidden;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.hero-text {
+  padding: 1.5rem;
+
+  h2 {
+    margin-bottom: 1rem;
+  }
+
+  p {
+    line-height: 1.6;
+  }
+}
+
+.hero-content-box {
+  background: white;
+  padding: 2.5rem;
+  width: fit-content;
+  max-width: 100%;
+}
+
+// Tablet layout - reduce wasted space
+@media (min-width: 768px) and (max-width: 1199px) {
+  .hero-image-container {
+    height: 400px;
+  }
+
+  .hero-text {
+    display: flex;
+    align-items: center;
+  }
+
+  .hero-section {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .hero-content-box {
+    padding: 2rem;
+    width: 100%;
+  }
+}
+
+// Large desktop - full height
+@media (min-width: 1200px) {
+  .hero-image-container {
+    height: 600px;
+  }
+
+  .hero-text {
+    display: flex;
+    align-items: center;
+    min-height: 600px;
+  }
+}
+
+// Mobile specific styling (stacked layout)
+@media (max-width: 767px) {
+  .hero-section {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .hero-image {
+    margin-bottom: 0;
+  }
+
+  .hero-image-container {
+    height: auto;
+    min-height: 300px;
+    margin-bottom: 1rem;
+  }
+
+  .hero-text {
+    min-height: auto;
+    display: block;
+    padding: 0;
+    margin-bottom: 2rem;
+  }
+
+  .hero-content-box {
+    width: 100%;
+    padding: 2rem;
+  }
+}
+
+// Hero section button styles
+.hero-section {
+  .btn-primary {
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+    padding: 12px 28px;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+
+    &:hover {
+      background-color: #333333;
+      color: #ffffff;
+      text-decoration: none;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    }
+
+    &:active, &:focus {
+      background-color: #000000;
+      color: #ffffff;
+      outline: none;
+    }
+  }
+
+  .btn:not(.btn-primary), .btn-outline-primary {
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #d0d0d0;
+    padding: 12px 28px;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+
+    &:hover {
+      background-color: #f8f8f8;
+      color: #000000;
+      text-decoration: none;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    }
+
+    &:active, &:focus {
+      background-color: #ffffff;
+      color: #000000;
+      outline: none;
+    }
+  }
+  .hero-buttons {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+}
+
 @import 'events';
 @import 'beliefs';
 @import 'messages';
 @import 'menu';
 @import 'livestream';
+@import 'calendar';
 
 @import 'mobile';
 @import 'desktop';
 @import 'collapsible';
-

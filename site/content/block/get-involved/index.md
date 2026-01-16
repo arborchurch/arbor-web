@@ -2,7 +2,7 @@
 date: "2016-12-13T22:04:56-08:00"
 title: "Get Involved"
 menu: "main"
-weight: 20
+weight: 10
 blockColor: "#909090"
 tagline: "Gathering together in Groups"
 resources:
@@ -17,4 +17,3 @@ resources:
 <div class="page-buttons">
   <a href="groups/">{{< img-retina "groups" >}}</a>
 </div>
-

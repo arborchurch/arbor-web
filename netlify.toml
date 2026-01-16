@@ -1,4 +1,29 @@
+# Build settings
+[build]
+  publish = "site/public"
+  command = "./build-site.sh"
+
+# Production context: all deploys from the main branch
 [context.production.environment]
-HUGO_VERSION = "0.67.1"
-TZ = "America/Los_Angeles"
+  HUGO_VERSION = "0.148.2"
+  NODE_VERSION = "20"
+  TZ = "America/Los_Angeles"
+
+# Deploy Preview context: all deploys generated from a pull/merge request
+[context.deploy-preview]
+  command = "./build-site.sh --buildFuture"
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.148.2"
+  NODE_VERSION = "20"
+  TZ = "America/Los_Angeles"
+
+# Branch deploy context: all deploys that are not from a pull/merge request or from the production branch
+[context.branch-deploy]
+  command = "./build-site.sh --buildFuture"
+
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.148.2"
+  NODE_VERSION = "20"
+  TZ = "America/Los_Angeles"
 
