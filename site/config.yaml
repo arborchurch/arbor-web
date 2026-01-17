@@ -9,9 +9,6 @@ menu:
       Weight: 100
     - Name: Get Involved
       Weight: 200
-    - Name: Events
-      URL: /events/
-      Weight: 300
     - Name: Resources
       Weight: 500
     - Name: Give
