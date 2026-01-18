@@ -1,7 +1,7 @@
 <div class="footer">
 <div class="container">
   <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-3">
       <h5>Arbor Church</h5>
       <p><a href="https://www.google.com/maps/place/19011+Woodinville+Snohomish+Rd,+Woodinville,+WA+98072/@47.7657651,-122.1576943,17z/data=!3m1!4b1!4m5!3m4!1s0x54900e9a33e7f0d3:0x2d8ffaf8fde7a709!8m2!3d47.7657651!4d-122.1555003">19011 Woodinville-Snohomish Rd., Suite 210<br />
         Woodinville, WA 98072<br />
@@ -10,7 +10,11 @@
       </p>
     </div>
     {{ range .Site.Menus.main }}
+      {{ if .HasChildren }}
       <div class="col-md-2">
+      {{ else }}
+      <div class="col-md-1">
+      {{ end }}
         <ul class="footer-menu">
           <li>{{ if .HasChildren }}{{ .Name }}{{ else }}<a href="{{ .URL }}">{{ .Name }}</a>{{ end }}</li>
           {{ if .HasChildren }}
