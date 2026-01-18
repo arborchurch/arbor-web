@@ -1,10 +1,31 @@
 {{ partial "header.html" . }}
 
+{{ $heroImages := slice "hero-01.jpg" "hero-02.jpeg" "hero-03.jpeg" "hero-04.jpeg" "hero-05.jpeg" "hero-06.jpeg" }}
+<style>
+  .hero-carousel { position: relative; width: 100%; height: 100%; }
+  .hero-carousel img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 0.5s ease-in-out; }
+  .hero-carousel img:first-child { position: relative; opacity: 1; }
+  .hero-carousel img.active { opacity: 1; }
+</style>
 <div class="container hero-section">
   <div class="row align-items-center">
     <div class="col-12 col-md-6 order-1 order-md-1">
       <div class="hero-image-container">
-        <img src="/img/hero-1.png" alt="Hero Image" class="img-fluid hero-image">
+        <div class="hero-carousel" id="hero-carousel">
+          {{ range $i, $img := $heroImages }}
+          <img src="/img/home-hero/{{ $img }}" alt="Hero Image" class="img-fluid hero-image{{ if eq $i 0 }} active{{ end }}" loading="{{ if eq $i 0 }}eager{{ else }}lazy{{ end }}">
+          {{ end }}
+        </div>
+        <script>
+          (function() {
+            var imgs = document.querySelectorAll('#hero-carousel img'), i = 0;
+            if (imgs.length > 1) setInterval(function() {
+              imgs[i].classList.remove('active');
+              i = (i + 1) % imgs.length;
+              imgs[i].classList.add('active');
+            }, 2000);
+          })();
+        </script>
       </div>
     </div>
     <div class="col-12 col-md-6 order-2 order-md-2 hero-text">
