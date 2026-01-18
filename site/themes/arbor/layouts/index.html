@@ -103,6 +103,7 @@
   <div class="row">
     {{ $sortedEvents := sort $upcomingEvents ".Date" "asc" }}
     {{ range first 3 $sortedEvents }}
+    {{ if .Params.button_link }}
     <div class="col-12 col-md-4 mb-4">
       <div class="card h-100">
         <div class="card-body d-flex flex-column">
@@ -114,6 +115,7 @@
         </div>
       </div>
     </div>
+    {{ end }}
     {{ end }}
   </div>
   <a class="followup-link" href="/events">All events &rarr;</a>

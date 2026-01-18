@@ -1,6 +1,7 @@
 ---
 date: "2017-02-17T22:07:46-08:00"
 title: "Podcast"
+type: page
 resources: 
 - name: header
   src: podcast.jpg

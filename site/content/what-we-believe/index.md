@@ -1,6 +1,7 @@
 ---
 date: "2019-02-10"
 title: What We Believe
+type: page
 resources:
 - name: header
   src: what-we-believe.jpg
