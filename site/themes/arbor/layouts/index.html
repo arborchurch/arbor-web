@@ -7,10 +7,10 @@
   .hero-carousel img:first-child { position: relative; opacity: 1; }
   .hero-carousel img.active { opacity: 1; }
 </style>
-<div class="container hero-section">
+<div class="container hero-section hero-section-main">
   <div class="row align-items-center">
     <div class="col-12 col-md-6 order-1 order-md-1">
-      <div class="hero-image-container">
+      <div class="hero-image-container hero-image-container-main">
         <div class="hero-carousel" id="hero-carousel">
           {{ range $i, $img := $heroImages }}
           <img src="/img/home-hero/{{ $img }}" alt="Hero Image" class="img-fluid hero-image{{ if eq $i 0 }} active{{ end }}" loading="{{ if eq $i 0 }}eager{{ else }}lazy{{ end }}">

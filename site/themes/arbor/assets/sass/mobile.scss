@@ -4,6 +4,49 @@
     font-size: 18px;
   }
 
+  /* Main hero carousel - full width with no rounded corners on mobile */
+  .hero-section-main {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
+  }
+
+  .hero-section-main .row {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .hero-section-main .col-12 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .hero-image-container-main {
+    border-radius: 0;
+    position: relative;
+  }
+
+  /* Add dark overlay gradient for hamburger menu contrast */
+  .hero-image-container-main::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100px;
+    height: 80px;
+    background: linear-gradient(135deg, transparent 0%, rgba(0, 0, 0, 0.4) 100%);
+    z-index: 1;
+    pointer-events: none;
+  }
+
+  /* Restore padding for the hero text content on mobile */
+  .hero-section-main .hero-text {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
   .header h1 {
     font-size: 44pt;
     letter-spacing: 0.15em;
