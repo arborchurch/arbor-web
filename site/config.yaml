@@ -6,15 +6,15 @@ theme: "arbor"
 menu:
   main:
     - Name: About
-      Weight: 100
+      Weight: 10
     - Name: Get Involved
-      Weight: 200
+      Weight: 20
     - Name: Resources
-      Weight: 500
+      Weight: 30
     - Name: Give
       URL: https://arborchurch.churchcenteronline.com/giving?open-in-church-center-modal=true
       Identifier: Give
-      Weight: 600
+      Weight: 300
 markup:
   goldmark:
     renderer:

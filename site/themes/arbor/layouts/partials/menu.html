@@ -18,7 +18,7 @@
         {{ range .Site.Menus.main }}
         <li class="menu-hover" id="menu_{{ .Name }}">
           {{ if (lt .Weight 100) }}
-          <a href="javascript:navigate_to('{{.Name}}');">
+          <a href="#" onclick="navigate_to('{{.Name}}'); return false;">
             {{ .Name }}
           </a>
           {{ else if (lt .Weight 200) }}
