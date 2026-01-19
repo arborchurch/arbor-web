@@ -20,7 +20,7 @@
         {{ $baseUrl := .Site.BaseURL }}
         {{ range .Site.Menus.main }}
         <li class="menu-hover" id="menu_{{ .Name }}">
-          {{ if (lt .Weight 100) }}
+          {{ if .HasChildren }}
           <a href="#" onclick="navigate_to('{{.Name}}'); return false;">
             {{ .Name }}
           </a>
