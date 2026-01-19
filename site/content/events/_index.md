@@ -6,5 +6,5 @@ resources:
   src: events.jpg
 menu:
   main:
-    weight: 300
+    weight: 25
 ---
