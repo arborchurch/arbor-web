@@ -16,6 +16,7 @@ fi
 
 # Fetch calendar events
 npm run fetch-calendar
+npm run fetch-events
 
 # Return to root directory
 cd ../..
