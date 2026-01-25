@@ -118,6 +118,10 @@
           </div>
           {{ end }}
         </div>
+        <div class="event-card-info">
+          <p class="event-card-name">{{ .name }}</p>
+          <p class="event-card-date">{{ (time .starts_at).Local | time.Format "Monday, January 2 • 3:04 PM" }}</p>
+        </div>
       </a>
     </div>
     {{ end }}
