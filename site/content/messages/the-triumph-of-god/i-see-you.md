@@ -7,6 +7,7 @@ type: message
 podcast_bytes: 24727235
 podcast_duration: 34:20
 podcast: https://arborchurchnw.org/podcast/the-triumph-of-god-i-see-you.mp3
+youtube_id: WQqLgfsSkn4
 ---
 
 From the _I see you!_ cried during a kid's game of kick-the-can to the metaphorical lenses offered to us by Paul in
