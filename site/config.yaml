@@ -3,6 +3,7 @@ baseURL: "https://www.arborchurch.com/"
 title: "Arbor Church"
 languageCode: "en-us"
 theme: "arbor"
+timeZone: "America/Los_Angeles"
 menu:
   main:
     - Name: About

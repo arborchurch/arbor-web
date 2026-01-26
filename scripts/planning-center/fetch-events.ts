@@ -1,7 +1,10 @@
 #!/usr/bin/env tsx
 
 /**
- * Fetch events from Planning Center API and save to Hugo data file
+ * Fetch FEATURED events from Planning Center API and save to Hugo data file
+ * 
+ * This script finds events tagged as "Featured" in Planning Center Calendar,
+ * downloads their images, and saves the event data to a JSON file.
  * 
  * Environment Variables Required:
  * - PLANNING_CENTER_APP_ID: Your Planning Center Application ID
@@ -9,9 +12,10 @@
  */
 
 import fetch from 'node-fetch';
-import { writeFileSync, mkdirSync } from 'fs';
-import { dirname, join } from 'path';
+import { writeFileSync, mkdirSync, existsSync, createWriteStream } from 'fs';
+import { dirname, join, extname } from 'path';
 import { fileURLToPath } from 'url';
+import { pipeline } from 'stream/promises';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -20,19 +24,19 @@ const __dirname = dirname(__filename);
 const PLANNING_CENTER_APP_ID = process.env.PLANNING_CENTER_APP_ID;
 const PLANNING_CENTER_SECRET = process.env.PLANNING_CENTER_SECRET;
 const CALENDAR_API_BASE_URL = 'https://api.planningcenteronline.com/calendar/v2';
-const REGISTRATIONS_API_BASE_URL = 'https://api.planningcenteronline.com/registrations/v2';
 const OUTPUT_FILE = join(__dirname, '../../site/data/events.json');
+const IMAGES_DIR = join(__dirname, '../../site/static/events');
 
 interface PlanningCenterEvent {
   type: string;
   id: string;
   attributes: {
+    approval_status: string;
     archived_at: string | null;
-    category: string | null;
     created_at: string;
     description: string | null;
+    featured: boolean;
     image_url: string | null;
-    location: string | null;
     name: string;
     percent_approved: number;
     percent_rejected: number;
@@ -48,11 +52,15 @@ interface EventInstance {
   id: string;
   attributes: {
     all_day_event: boolean;
+    church_center_url: string | null;
     created_at: string;
     ends_at: string | null;
     location: string | null;
+    name: string;
     starts_at: string;
     updated_at: string;
+    image_url?: string | null;
+    description?: string | null;
   };
   relationships?: {
     event?: {
@@ -64,65 +72,18 @@ interface EventInstance {
   };
 }
 
-interface RegistrationSignup {
-  type: string;
-  id: string;
-  attributes: {
-    archived: boolean;
-    close_at: string | null;
-    description: string | null;
-    logo_url: string | null;
-    name: string;
-    new_registration_url: string | null;
-    open_at: string | null;
-    created_at: string;
-    updated_at: string;
-  };
-  relationships?: {
-    event?: {
-      data?: {
-        type: string;
-        id: string;
-      };
-    };
-  };
-}
-
-interface RegistrationEvent {
-  type: string;
-  id: string;
-  attributes: {
-    name: string;
-    description: string | null;
-    logo: string | null;
-    summary: string | null;
-    visible_in_church_center: boolean;
-    banner_image_url: string | null;
-    starts_at: string;
-    ends_at: string | null;
-    location: string | null;
-    created_at: string;
-    updated_at: string;
-  };
-}
-
-interface FlattenedEvent {
-  source: 'calendar' | 'registrations';
+interface FeaturedEvent {
   event_id: string;
-  instance_id?: string;
+  instance_id: string;
   name: string;
   description: string | null;
-  summary: string | null;
-  category: string | null;
   location: string | null;
   image_url: string | null;
-  registration_url: string | null;
-  visible_in_church_center: boolean;
+  local_image: string | null;
+  church_center_url: string | null;
   starts_at: string;
   ends_at: string | null;
   all_day_event: boolean;
-  created_at: string;
-  updated_at: string;
 }
 
 /**
@@ -148,13 +109,10 @@ function getAuthHeader(): string {
 }
 
 /**
- * Fetch calendar event instances from Planning Center API
+ * Make an authenticated request to Planning Center API
  */
-async function fetchCalendarEvents(): Promise<any> {
+async function apiRequest(url: string): Promise<any> {
   const authString = getAuthHeader();
-  const url = `${CALENDAR_API_BASE_URL}/event_instances?filter=future&per_page=100&order=starts_at&include=event`;
-  
-  console.log('Fetching calendar event instances from Planning Center...');
   
   const response = await fetch(url, {
     headers: {
@@ -166,82 +124,85 @@ async function fetchCalendarEvents(): Promise<any> {
   if (!response.ok) {
     const errorText = await response.text();
     throw new Error(
-      `Failed to fetch calendar events: ${response.status} ${response.statusText}\n${errorText}`
+      `API request failed: ${response.status} ${response.statusText}\n${errorText}`
     );
   }
 
-  const data = await response.json() as any;
-  console.log(`Fetched ${data.data?.length || 0} calendar event instances`);
+  return response.json();
+}
+
+/**
+ * Fetch future event instances with their parent events
+ */
+async function fetchFutureEventInstances(): Promise<any> {
+  console.log('Fetching future event instances from Planning Center...');
+  
+  // Get future event instances and include the parent event data
+  const url = `${CALENDAR_API_BASE_URL}/event_instances?filter=future&per_page=100&order=starts_at&include=event`;
+  
+  const data = await apiRequest(url);
+  console.log(`Fetched ${data.data?.length || 0} event instances`);
   
   return data;
 }
 
 /**
- * Fetch registration events (signups) from Planning Center API
+ * Download an image from a URL and save it locally
  */
-async function fetchRegistrationSignups(): Promise<any> {
-  const authString = getAuthHeader();
-  const allSignups: any[] = [];
-  const allIncluded: any[] = [];
-  let offset = 0;
-  const perPage = 100;
-  let hasMore = true;
-  
-  console.log('Fetching registration signups from Planning Center...');
-  
-  while (hasMore) {
-    const url = `${REGISTRATIONS_API_BASE_URL}/signups?per_page=${perPage}&offset=${offset}&include=event`;
+async function downloadImage(imageUrl: string, eventId: string): Promise<string | null> {
+  try {
+    // Create images directory if it doesn't exist
+    if (!existsSync(IMAGES_DIR)) {
+      mkdirSync(IMAGES_DIR, { recursive: true });
+      console.log(`Created images directory: ${IMAGES_DIR}`);
+    }
     
-    console.log(`  Fetching page at offset ${offset}...`);
+    // Parse the URL to get extension
+    const url = new URL(imageUrl);
+    let extension = extname(url.pathname) || '.jpg';
     
-    const response = await fetch(url, {
-      headers: {
-        'Authorization': `Basic ${authString}`,
-        'Content-Type': 'application/json',
-      },
-    });
-
+    // Clean up extension (remove query params from extension if any)
+    extension = extension.split('?')[0];
+    if (!extension || extension === '.') {
+      extension = '.jpg';
+    }
+    
+    const filename = `event-${eventId}${extension}`;
+    const localPath = join(IMAGES_DIR, filename);
+    
+    // Check if file already exists
+    if (existsSync(localPath)) {
+      console.log(`  Image already exists: ${filename}`);
+      return `/events/${filename}`;
+    }
+    
+    console.log(`  Downloading image: ${filename}`);
+    
+    const response = await fetch(imageUrl);
     if (!response.ok) {
-      const errorText = await response.text();
-      throw new Error(
-        `Failed to fetch registration signups: ${response.status} ${response.statusText}\n${errorText}`
-      );
+      throw new Error(`Failed to download: ${response.status}`);
     }
-
-    const data = await response.json() as any;
-    const fetchedCount = data.data?.length || 0;
     
-    console.log(`  Fetched ${fetchedCount} signups`);
-    
-    if (fetchedCount === 0) {
-      hasMore = false;
-    } else {
-      allSignups.push(...data.data);
-      if (data.included) {
-        allIncluded.push(...data.included);
-      }
-      
-      // Check if there are more pages
-      if (fetchedCount < perPage) {
-        hasMore = false;
-      } else {
-        offset += perPage;
-      }
+    if (!response.body) {
+      throw new Error('No response body');
     }
+    
+    const fileStream = createWriteStream(localPath);
+    await pipeline(response.body, fileStream);
+    
+    console.log(`  ✓ Saved: ${filename}`);
+    return `/events/${filename}`;
+  } catch (error) {
+    console.error(`  ✗ Failed to download image: ${error}`);
+    return null;
   }
-  
-  console.log(`Fetched total of ${allSignups.length} registration signups across all pages`);
-  
-  return {
-    data: allSignups,
-    included: allIncluded,
-  };
 }
 
 /**
- * Process calendar events and flatten to individual instances
+ * Process event instances and create featured events list
+ * Only includes events where the parent Event has featured=true
  */
-function processCalendarEvents(response: any): FlattenedEvent[] {
+async function processFeaturedEvents(response: any): Promise<FeaturedEvent[]> {
   const eventsMap = new Map<string, PlanningCenterEvent>();
   
   // Create a map of events by ID from the included resources
@@ -252,177 +213,103 @@ function processCalendarEvents(response: any): FlattenedEvent[] {
       }
     }
   }
-
-  // Flatten event instances
-  const flattenedEvents: FlattenedEvent[] = [];
-  const now = new Date();
   
-  for (const instance of response.data) {
+  console.log(`\nFound ${eventsMap.size} unique parent events in included data`);
+  
+  // Log featured events
+  let featuredCount = 0;
+  for (const [id, event] of eventsMap) {
+    if (event.attributes.featured) {
+      featuredCount++;
+      console.log(`  Featured: ${event.attributes.name} (id: ${id})`);
+    }
+  }
+  console.log(`Total featured events: ${featuredCount}`);
+
+  const featuredEvents: FeaturedEvent[] = [];
+  const now = new Date();
+  let skippedNotFeatured = 0;
+  
+  console.log('\nProcessing events (filtering for featured=true)...');
+  
+  for (const instance of response.data || []) {
     if (instance.type === 'EventInstance') {
       const eventId = instance.relationships?.event?.data?.id;
       const event = eventId ? eventsMap.get(eventId) : null;
       
-      if (event) {
-        // Filter: only include visible, non-archived events
-        if (!event.attributes.visible_in_church_center || event.attributes.archived_at) {
-          continue;
-        }
-        
-        // Filter: skip events that have already ended
-        const endsAt = instance.attributes.ends_at 
-          ? new Date(instance.attributes.ends_at)
-          : new Date(instance.attributes.starts_at);
-        
-        if (endsAt < now) {
-          continue;
-        }
-        
-        flattenedEvents.push({
-          source: 'calendar',
-          event_id: event.id,
-          instance_id: instance.id,
-          name: event.attributes.name,
-          description: event.attributes.description,
-          summary: event.attributes.summary,
-          category: event.attributes.category,
-          location: instance.attributes.location || event.attributes.location,
-          image_url: event.attributes.image_url,
-          registration_url: event.attributes.registration_url,
-          visible_in_church_center: event.attributes.visible_in_church_center,
-          starts_at: instance.attributes.starts_at,
-          ends_at: instance.attributes.ends_at,
-          all_day_event: instance.attributes.all_day_event,
-          created_at: event.attributes.created_at,
-          updated_at: event.attributes.updated_at,
-        });
-      }
-    }
-  }
-
-  console.log(`Processed ${flattenedEvents.length} calendar event instances (filtered)`);
-  return flattenedEvents;
-}
-
-/**
- * Process registration signups and merge with event data
- */
-function processRegistrationSignups(response: any): FlattenedEvent[] {
-  const eventsMap = new Map<string, RegistrationEvent>();
-  
-  // Create a map of events by ID from the included resources
-  if (response.included) {
-    for (const item of response.included) {
-      if (item.type === 'Event') {
-        eventsMap.set(item.id, item);
-      }
-    }
-  }
-
-  const flattenedEvents: FlattenedEvent[] = [];
-  const now = new Date();
-  let filtered = { archived: 0, notOpen: 0, closed: 0, eventPassed: 0, visibility: 0 };
-  
-  console.log(`\nProcessing ${response.data?.length || 0} signups...`);
-  
-  for (const signup of response.data) {
-    if (signup.type === 'Signup') {
-      console.log(`\n  Signup: ${signup.attributes.name}`);
-      console.log(`    Archived: ${signup.attributes.archived}`);
-      console.log(`    Opens at: ${signup.attributes.open_at}`);
-      console.log(`    Closes at: ${signup.attributes.close_at}`);
-      
-      // Filter: skip archived signups
-      if (signup.attributes.archived) {
-        console.log(`    ❌ Filtered: archived`);
-        filtered.archived++;
+      // Skip if we don't have the parent event
+      if (!event) {
         continue;
       }
       
-      // Filter: check if signup has opened yet
-      if (signup.attributes.open_at) {
-        const openAt = new Date(signup.attributes.open_at);
-        if (openAt > now) {
-          console.log(`    ❌ Filtered: not open yet`);
-          filtered.notOpen++;
-          continue;
-        }
+      // Skip if not featured
+      if (!event.attributes.featured) {
+        skippedNotFeatured++;
+        continue;
       }
       
-      // Filter: check if signup has closed
-      if (signup.attributes.close_at) {
-        const closeAt = new Date(signup.attributes.close_at);
-        if (closeAt < now) {
-          console.log(`    ❌ Filtered: signup has closed`);
-          filtered.closed++;
-          continue;
-        }
+      console.log(`\n  Featured Event: ${instance.attributes.name}`);
+      console.log(`    Starts: ${instance.attributes.starts_at}`);
+      console.log(`    Church Center URL: ${instance.attributes.church_center_url}`);
+      
+      // Skip events that have already ended
+      const endsAt = instance.attributes.ends_at 
+        ? new Date(instance.attributes.ends_at)
+        : new Date(instance.attributes.starts_at);
+      
+      if (endsAt < now) {
+        console.log(`    ❌ Skipped: Event has ended`);
+        continue;
       }
       
-      // Get associated event for additional metadata
-      const eventId = signup.relationships?.event?.data?.id;
-      const event = eventId ? eventsMap.get(eventId) : null;
-      
-      console.log(`    Event ID: ${eventId}, Found: ${!!event}`);
-      
-      if (event) {
-        console.log(`    Event starts: ${event.attributes.starts_at}`);
-        console.log(`    Event visible: ${event.attributes.visible_in_church_center}`);
-        
-        // Filter: skip if the event itself has already passed
-        const eventStartsAt = new Date(event.attributes.starts_at);
-        if (eventStartsAt < now) {
-          console.log(`    ❌ Filtered: event has already started/passed`);
-          filtered.eventPassed++;
-          continue;
-        }
-        
-        // Filter: only include if visible in church center (from event)
-        if (!event.attributes.visible_in_church_center) {
-          console.log(`    ❌ Filtered: event not visible in church center`);
-          filtered.visibility++;
-          continue;
-        }
+      // Check visibility
+      if (!event.attributes.visible_in_church_center) {
+        console.log(`    ❌ Skipped: Not visible in Church Center`);
+        continue;
+      }
+      if (event.attributes.archived_at) {
+        console.log(`    ❌ Skipped: Event is archived`);
+        continue;
       }
       
-      console.log(`    ✅ Including signup`);
+      // Get image URL (prefer instance image, fallback to event image)
+      const imageUrl = instance.attributes.image_url || event?.attributes.image_url || null;
+      let localImage: string | null = null;
       
-      // Merge signup and event data
-      flattenedEvents.push({
-        source: 'registrations',
-        event_id: signup.id,
-        name: signup.attributes.name,
-        // Prefer event description if available, fallback to signup description
-        description: event?.attributes.description || signup.attributes.description,
-        summary: event?.attributes.summary || null,
-        category: null,
-        location: event?.attributes.location || null,
-        // Use event banner/logo if available, then signup logo
-        image_url: event?.attributes.banner_image_url || event?.attributes.logo || signup.attributes.logo_url || null,
-        registration_url: signup.attributes.new_registration_url,
-        visible_in_church_center: event?.attributes.visible_in_church_center ?? true,
-        starts_at: event?.attributes.starts_at || signup.attributes.open_at || signup.attributes.created_at,
-        ends_at: event?.attributes.ends_at || null,
-        all_day_event: false,
-        created_at: event?.attributes.created_at || signup.attributes.created_at,
-        updated_at: event?.attributes.updated_at || signup.attributes.updated_at,
+      if (imageUrl) {
+        console.log(`    Image URL: ${imageUrl}`);
+        localImage = await downloadImage(imageUrl, instance.id);
+      } else {
+        console.log(`    No image available`);
+      }
+      
+      console.log(`    ✅ Including event`);
+      
+      featuredEvents.push({
+        event_id: eventId || instance.id,
+        instance_id: instance.id,
+        name: instance.attributes.name,
+        description: instance.attributes.description || event?.attributes.summary || event?.attributes.description || null,
+        location: instance.attributes.location,
+        image_url: imageUrl,
+        local_image: localImage,
+        church_center_url: instance.attributes.church_center_url,
+        starts_at: instance.attributes.starts_at,
+        ends_at: instance.attributes.ends_at,
+        all_day_event: instance.attributes.all_day_event,
       });
     }
   }
 
-  console.log(`\nFiltered out:`);
-  console.log(`  - Archived: ${filtered.archived}`);
-  console.log(`  - Not open yet: ${filtered.notOpen}`);
-  console.log(`  - Signup closed: ${filtered.closed}`);
-  console.log(`  - Event passed: ${filtered.eventPassed}`);
-  console.log(`  - Not visible: ${filtered.visibility}`);
-  console.log(`Processed ${flattenedEvents.length} registration signups (filtered)`);
-  return flattenedEvents;
+  console.log(`\nSkipped ${skippedNotFeatured} non-featured events`);
+  console.log(`Processed ${featuredEvents.length} featured events`);
+  return featuredEvents;
 }
 
 /**
  * Save events to JSON file
  */
-function saveEvents(events: FlattenedEvent[]): void {
+function saveEvents(events: FeaturedEvent[]): void {
   // Ensure the directory exists
   const dir = dirname(OUTPUT_FILE);
   mkdirSync(dir, { recursive: true });
@@ -450,26 +337,16 @@ async function main(): Promise<void> {
   try {
     validateEnvironment();
     
-    // Fetch from both APIs
-    const [calendarResponse, registrationResponse] = await Promise.all([
-      fetchCalendarEvents(),
-      fetchRegistrationSignups(),
-    ]);
+    // Fetch all future event instances with their parent events
+    const instancesResponse = await fetchFutureEventInstances();
     
-    // Process both sources
-    const calendarEvents = processCalendarEvents(calendarResponse);
-    const registrationEvents = processRegistrationSignups(registrationResponse);
+    // Process and filter for featured events only
+    const featuredEvents = await processFeaturedEvents(instancesResponse);
     
-    // Combine all events
-    const allEvents = [...calendarEvents, ...registrationEvents];
+    // Save to JSON file
+    saveEvents(featuredEvents);
     
-    console.log(`\nTotal events: ${allEvents.length}`);
-    console.log(`  - Calendar: ${calendarEvents.length}`);
-    console.log(`  - Registrations: ${registrationEvents.length}`);
-    
-    saveEvents(allEvents);
-    
-    console.log('✓ Successfully fetched and saved events');
+    console.log('\n✓ Successfully fetched and saved featured events');
   } catch (error) {
     console.error('Error fetching events:', error);
     process.exit(1);

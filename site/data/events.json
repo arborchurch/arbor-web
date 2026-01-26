@@ -1,0 +1,110 @@
+{
+  "last_updated": "2026-01-25T23:09:38.256Z",
+  "count": 8,
+  "events": [
+    {
+      "event_id": "19461348",
+      "instance_id": "210166959",
+      "name": "Community Practice",
+      "description": null,
+      "location": null,
+      "image_url": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1769936399&key=uploads%2F215436%2Fb3yun9z6ls2iaj5fb3xkcr59ono3&thumb=960x540%23&signature=7dd1e47fbc143fd14c6c297c48f7a4ccd029fd91df73a87d1a9067eeab52508d",
+      "local_image": "/events/event-210166959.jpg",
+      "church_center_url": "https://arborchurch.churchcenter.com/calendar/event/210166959",
+      "starts_at": "2026-01-29T02:30:00Z",
+      "ends_at": "2026-01-29T04:00:00Z",
+      "all_day_event": false
+    },
+    {
+      "event_id": "19669565",
+      "instance_id": "211875911",
+      "name": "VBS Planning Meeting",
+      "description": "Every year we are stoked to host our neighbors, friends, and Arborkiddos at VBS; it takes the whole Arbor village to pull it off.\n\nIf you’d like to flex your leadership gifts toward this outreach event, please come to an inital VBS PLANNING MEETING on Sunday, Feb 1 right after second service. No signup necessary! Just come and surprise Lindsey with your support. We’ve already been praying for you!",
+      "location": null,
+      "image_url": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1769936399&key=uploads%2F215436%2Fgu9w1or19c9l5vugkhdlp29swqge&thumb=960x540%23&signature=5c79d4fa86616b8c480692ca8c97cdaa21090fff5f67719a278c33398e98dd5a",
+      "local_image": "/events/event-211875911.jpg",
+      "church_center_url": "https://arborchurch.churchcenter.com/calendar/event/211875911",
+      "starts_at": "2026-02-01T20:30:00Z",
+      "ends_at": "2026-02-01T21:30:00Z",
+      "all_day_event": false
+    },
+    {
+      "event_id": "19461348",
+      "instance_id": "210166960",
+      "name": "Community Practice",
+      "description": null,
+      "location": null,
+      "image_url": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1769936399&key=uploads%2F215436%2Fb3yun9z6ls2iaj5fb3xkcr59ono3&thumb=960x540%23&signature=7dd1e47fbc143fd14c6c297c48f7a4ccd029fd91df73a87d1a9067eeab52508d",
+      "local_image": "/events/event-210166960.jpg",
+      "church_center_url": "https://arborchurch.churchcenter.com/calendar/event/210166960",
+      "starts_at": "2026-02-05T02:30:00Z",
+      "ends_at": "2026-02-05T04:00:00Z",
+      "all_day_event": false
+    },
+    {
+      "event_id": "19461348",
+      "instance_id": "210166961",
+      "name": "Community Practice",
+      "description": null,
+      "location": null,
+      "image_url": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1769936399&key=uploads%2F215436%2Fb3yun9z6ls2iaj5fb3xkcr59ono3&thumb=960x540%23&signature=7dd1e47fbc143fd14c6c297c48f7a4ccd029fd91df73a87d1a9067eeab52508d",
+      "local_image": "/events/event-210166961.jpg",
+      "church_center_url": "https://arborchurch.churchcenter.com/calendar/event/210166961",
+      "starts_at": "2026-02-12T02:30:00Z",
+      "ends_at": "2026-02-12T04:00:00Z",
+      "all_day_event": false
+    },
+    {
+      "event_id": "19716068",
+      "instance_id": "212328251",
+      "name": "Ash Wednesday",
+      "description": "<div>\n  <div>A sh Wednesday is one of our favorite services of the year due to its simplicity and contemplative atmosphere. Song, scripture, and prayer ready our hearts for communion and the blessing of ashes. These elements usher in the season of Lent, a time of emptying ourselves in order to more deeply understand Christ's work on the cross.<br><br></div>\n</div>\n",
+      "location": null,
+      "image_url": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1769936399&key=uploads%2F215436%2F1cls32qfmkmqdbqzsd0pd1qhihhp&thumb=960x540%23&signature=55eb0d4e76956a3cc4cd5037964a956d5311d86abba4dda942676cba74983b47",
+      "local_image": "/events/event-212328251.jpg",
+      "church_center_url": "https://arborchurch.churchcenter.com/calendar/event/212328251",
+      "starts_at": "2026-02-19T02:30:00Z",
+      "ends_at": "2026-02-19T03:30:00Z",
+      "all_day_event": false
+    },
+    {
+      "event_id": "19461348",
+      "instance_id": "210166963",
+      "name": "Community Practice",
+      "description": null,
+      "location": null,
+      "image_url": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1769936399&key=uploads%2F215436%2Fb3yun9z6ls2iaj5fb3xkcr59ono3&thumb=960x540%23&signature=7dd1e47fbc143fd14c6c297c48f7a4ccd029fd91df73a87d1a9067eeab52508d",
+      "local_image": "/events/event-210166963.jpg",
+      "church_center_url": "https://arborchurch.churchcenter.com/calendar/event/210166963",
+      "starts_at": "2026-02-26T02:30:00Z",
+      "ends_at": "2026-02-26T04:00:00Z",
+      "all_day_event": false
+    },
+    {
+      "event_id": "19461348",
+      "instance_id": "210166964",
+      "name": "Community Practice",
+      "description": null,
+      "location": null,
+      "image_url": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1769936399&key=uploads%2F215436%2Fb3yun9z6ls2iaj5fb3xkcr59ono3&thumb=960x540%23&signature=7dd1e47fbc143fd14c6c297c48f7a4ccd029fd91df73a87d1a9067eeab52508d",
+      "local_image": "/events/event-210166964.jpg",
+      "church_center_url": "https://arborchurch.churchcenter.com/calendar/event/210166964",
+      "starts_at": "2026-03-05T02:30:00Z",
+      "ends_at": "2026-03-05T04:00:00Z",
+      "all_day_event": false
+    },
+    {
+      "event_id": "19461348",
+      "instance_id": "210166965",
+      "name": "Community Practice",
+      "description": null,
+      "location": null,
+      "image_url": "https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1769936399&key=uploads%2F215436%2Fb3yun9z6ls2iaj5fb3xkcr59ono3&thumb=960x540%23&signature=7dd1e47fbc143fd14c6c297c48f7a4ccd029fd91df73a87d1a9067eeab52508d",
+      "local_image": "/events/event-210166965.jpg",
+      "church_center_url": "https://arborchurch.churchcenter.com/calendar/event/210166965",
+      "starts_at": "2026-03-12T01:30:00Z",
+      "ends_at": "2026-03-12T03:00:00Z",
+      "all_day_event": false
+    }
+  ]
+}

@@ -87,38 +87,46 @@
 </div>
 
 {{ $now := now }}
-{{ $upcomingEvents := slice }}
-{{ range where .Site.RegularPages "Section" "events" }}
-{{ if ge (.Date) $now }}
-{{ $upcomingEvents = $upcomingEvents | append . }}
-{{ end }}
-{{ end }}
-{{ if gt (len $upcomingEvents) 0 }}
+{{ $featuredEvents := .Site.Data.events }}
+{{ if and $featuredEvents (gt $featuredEvents.count 0) }}
 <div class="container my-5 hero-section">
   <div class="row header-row">
     <div class="col-12 text-center mb-4">
       <h2>Upcoming events</h2>
     </div>
   </div>
-  <div class="row">
-    {{ $sortedEvents := sort $upcomingEvents ".Date" "asc" }}
-    {{ range first 3 $sortedEvents }}
-    {{ if .Params.button_link }}
-    <div class="col-12 col-md-4 mb-4">
-      <div class="card h-100">
-        <div class="card-body d-flex flex-column">
-          <h5 class="card-title">{{ .Title }}</h5>
-          <p class="card-text text-muted">{{ .Date.Format "January 2, 2006" }}</p>
-          <div class="mt-auto hero-buttons">
-            <a href="{{ .Params.button_link }}" class="btn btn-secondary">{{ .Params.button_text }}</a>
+  <div class="row justify-content-center">
+    {{ $uniqueEvents := slice }}
+    {{ $seenEventIds := slice }}
+    {{ range $featuredEvents.events }}
+      {{ if not (in $seenEventIds .event_id) }}
+        {{ $seenEventIds = $seenEventIds | append .event_id }}
+        {{ $uniqueEvents = $uniqueEvents | append . }}
+      {{ end }}
+    {{ end }}
+    {{ range first 6 $uniqueEvents }}
+    <div class="col-12 col-sm-6 col-lg-4 mb-4">
+      <a href="{{ .church_center_url }}" target="_blank" class="event-card-link">
+        <div class="event-card">
+          {{ if .local_image }}
+          <img src="{{ .local_image }}" alt="{{ .name }}" class="event-card-image">
+          {{ else if .image_url }}
+          <img src="{{ .image_url }}" alt="{{ .name }}" class="event-card-image">
+          {{ else }}
+          <div class="event-card-placeholder">
+            <span>{{ .name }}</span>
           </div>
+          {{ end }}
         </div>
-      </div>
+        <div class="event-card-info">
+          <p class="event-card-name">{{ .name }}</p>
+          <p class="event-card-date">{{ (time .starts_at).Local | time.Format "Monday, January 2 • 3:04 PM" }}</p>
+        </div>
+      </a>
     </div>
     {{ end }}
-    {{ end }}
   </div>
-  <a class="followup-link" href="/events">All events &rarr;</a>
+  <a class="followup-link" href="/events/">All events &rarr;</a>
 </div>
 {{ end }}
 
