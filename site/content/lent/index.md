@@ -41,7 +41,7 @@ This Guide is designed to help you more fully participate in the Lenten season t
 This 8 day devotional has been curated to help guide you through Holy Week, starting on Palm Sunday and ending on Easter. Each entry is designed to take 15 - 45 minutes, depending on how much time you have to spend. Each day, you will find the same components: an icon, a text from the Gospels, a Psalm, a devotional, a short prayer, and a few reflection questions.
 
 <div class="event-details">
-  <a class="button" href="/pdf/holy-week-devotional-2025.pdf">
+  <a class="button" href="/pdf/holy-week-devotional-2026.pdf">
   <span class="glyphicon glyphicon-file"></span>
   Holy Week Devotional
   <small>(PDF)</small>
