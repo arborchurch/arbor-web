@@ -1,7 +1,7 @@
 ---
 date: "2022-08-07"
 title: "Ryan Plantz"
-position: "Lead Pastor"
+position: "Lead Pastor, Elder"
 email:
 emailname:
 weight: 1
