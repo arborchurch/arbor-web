@@ -6,7 +6,7 @@ speaker: "Ryan Plantz"
 type: message
 podcast_bytes: 24969859
 podcast_duration: 34:40
-podcast: https://arborchurchnw.org/podcast/the-triumph-of-the-model-house.mp3
+podcast: https://arborchurchnw.org/podcast/the-triumph-of-god-the-model-house.mp3
 youtube_id: XZ-QYoAkw0s
 ---
 
