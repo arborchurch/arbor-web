@@ -10,7 +10,7 @@ podcast: https://arborchurchnw.org/podcast/the-triumph-of-the-model-house.mp3
 youtube_id: XZ-QYoAkw0s
 ---
 
-> This was according to the eternal purpose that he accomplished in Christ Jesus our Lord, in whom we have boldness and confident access to God by way of Christ’s faithfulness. For this reason I ask you not to lose heart because of what I am suffering for you, which is your glory.
+>  There is one body and one Spirit, just as you too were called to the one hope of your calling, one Lord, one faith, one baptism, one God and Father of all, who is over all and through all and in all. 
 
 -- Ephesians 4
 
