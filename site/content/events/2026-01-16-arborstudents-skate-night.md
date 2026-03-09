@@ -1,11 +1,9 @@
 ---
-title: ArborStudents Skate Night
-date: 2026-01-18T14:26:47.534Z
-publishdate: 2026-01-16T14:26:47.560Z
-expirydate: 2026-01-20T14:26:47.582Z
-button_text: learn more!
-button_link: https://calendar.planningcenteronline.com/events/19663887?event_instance_id=211775312
+title: ArborStudents 'Dave and Busters'  Students Night
+date: 2026-03-22T14:26:47.534Z
+publishdate: 2026-03-09T14:26:47.560Z
+expirydate: 2026-03-29T14:26:47.582Z
+button_text: ""
+button_link: ""
 ---
-Join us at the BELLEVUE ICE RINK to help kick off 2026! 
-
-Tickets available at www.bellevueicerink.com
+Hey Arbor Students! Join us Sunday Night, March 22nd, from 6pm-7:30pm at Dave and Busters in Bellevue for our next STUDENTS NIGHT! Bring a friend, bring some $$ for food and games!
