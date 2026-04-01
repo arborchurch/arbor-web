@@ -159,7 +159,7 @@
             {{ if and (ge $eventStart $dayStart) (lt $eventStart $dayEnd) }}
             {{ $hasEvents = true }}
             <div class="calendar-event">
-              <div class="calendar-event-time">{{ $eventStart.Format "3:04 PM" }}</div>
+              <div class="calendar-event-time">{{ dateFormat "3:04 PM" .starts_at "America/Los_Angeles" }}</div>
               <div class="calendar-event-name">{{ .name }}</div>
             </div>
             {{ end }}
