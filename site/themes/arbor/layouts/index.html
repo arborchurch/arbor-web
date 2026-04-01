@@ -156,7 +156,7 @@
             {{ $hasEvents := false }}
             {{ range $calendar }}
             {{ $eventStart := time .starts_at }}
-            {{ $eventStartPacific := $eventStart.Add (duration "hour" -8) }}
+            {{ $eventStartPacific := $eventStart.In (time.Location "America/Los_Angeles") }}
             {{ if and (ge $eventStartPacific $dayStart) (lt $eventStartPacific $dayEnd) }}
             {{ $hasEvents = true }}
             <div class="calendar-event">
