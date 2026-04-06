@@ -4,7 +4,7 @@ title: "Easter Sunday"
 series: "easter-2026"
 speaker: "Ryan Plantz"
 type: message
-podcast: https://arborchurchnw.org/podcast/easter_2026.mp3
+podcast: https://arborchurchnw.org/podcast/Easter_2026.mp3
 podcast_bytes: 25931057
 podcast_duration: 36:00
 ---
