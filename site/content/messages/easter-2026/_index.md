@@ -1,7 +1,7 @@
 ---
-date: "2024-03-31"
+date: "2026-04-05"
 type: series
 resources:
   - name: header
-    src: easter-2024.jpg
+    src: easter-2026.jpg
 ---
