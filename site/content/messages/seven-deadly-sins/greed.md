@@ -1,6 +1,6 @@
 ---
 date: "2026-05-03T09:00:00-08:00"
-title: "Greed"
+title: "Seven Deadly Sins: Greed"
 series: "seven-deadly-sins"
 speaker: "Ryan Plantz"
 type: message

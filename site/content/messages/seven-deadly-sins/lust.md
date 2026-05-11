@@ -1,6 +1,6 @@
 ---
 date: "2026-04-26T09:00:00-08:00"
-title: "Lust"
+title: "Seven Deadly Sins: Lust"
 series: "seven-deadly-sins"
 speaker: "Ryan Plantz"
 type: message
