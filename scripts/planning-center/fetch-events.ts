@@ -1,10 +1,12 @@
 #!/usr/bin/env tsx
 
 /**
- * Fetch FEATURED events from Planning Center API and save to Hugo data file
+ * Fetch FEATURED Calendar events and active Registration signups from
+ * Planning Center API and save to Hugo data file
  * 
- * This script finds events tagged as "Featured" in Planning Center Calendar,
- * downloads their images, and saves the event data to a JSON file.
+ * This script finds events tagged as "Featured" in Planning Center Calendar
+ * and merges them with open/unarchived Registration signups that have an
+ * upcoming next signup time.
  * 
  * Environment Variables Required:
  * - PLANNING_CENTER_APP_ID: Your Planning Center Application ID
@@ -24,6 +26,7 @@ const __dirname = dirname(__filename);
 const PLANNING_CENTER_APP_ID = process.env.PLANNING_CENTER_APP_ID;
 const PLANNING_CENTER_SECRET = process.env.PLANNING_CENTER_SECRET;
 const CALENDAR_API_BASE_URL = 'https://api.planningcenteronline.com/calendar/v2';
+const REGISTRATIONS_API_BASE_URL = 'https://api.planningcenteronline.com/registrations/v2';
 const OUTPUT_FILE = join(__dirname, '../../site/data/events.json');
 const IMAGES_DIR = join(__dirname, '../../site/static/events');
 
@@ -86,6 +89,61 @@ interface FeaturedEvent {
   all_day_event: boolean;
 }
 
+interface RegistrationSignup {
+  type: string;
+  id: string;
+  attributes: {
+    archived: boolean;
+    close_at: string | null;
+    closed: boolean;
+    created_at: string;
+    description: string | null;
+    logo_url: string | null;
+    name: string;
+    new_registration_url: string | null;
+    open: boolean;
+    open_at: string | null;
+    updated_at: string;
+  };
+  relationships?: {
+    next_signup_time?: {
+      data?: {
+        type: string;
+        id: string;
+      } | null;
+    };
+    signup_location?: {
+      data?: {
+        type: string;
+        id: string;
+      } | null;
+    };
+  };
+}
+
+interface SignupTime {
+  type: string;
+  id: string;
+  attributes: {
+    all_day: boolean;
+    created_at: string;
+    ends_at: string | null;
+    starts_at: string;
+    updated_at: string;
+  };
+}
+
+interface SignupLocation {
+  type: string;
+  id: string;
+  attributes: {
+    formatted_address: string | null;
+    full_formatted_address: string | null;
+    name: string | null;
+    url: string | null;
+  };
+}
+
 /**
  * Validate required environment variables
  */
@@ -111,13 +169,14 @@ function getAuthHeader(): string {
 /**
  * Make an authenticated request to Planning Center API
  */
-async function apiRequest(url: string): Promise<any> {
+async function apiRequest(url: string, headers: Record<string, string> = {}): Promise<any> {
   const authString = getAuthHeader();
   
   const response = await fetch(url, {
     headers: {
       'Authorization': `Basic ${authString}`,
       'Content-Type': 'application/json',
+      ...headers,
     },
   });
 
@@ -144,6 +203,53 @@ async function fetchFutureEventInstances(): Promise<any> {
   console.log(`Fetched ${data.data?.length || 0} event instances`);
   
   return data;
+}
+
+interface RegistrationEvent {
+  type: string;
+  id: string;
+  attributes: {
+    featured: boolean;
+    name: string;
+  };
+}
+
+/**
+ * Fetch featured registration event IDs from the Registrations Events API,
+ * then fetch their full signup details.
+ */
+async function fetchFeaturedRegistrationSignups(): Promise<RegistrationSignup[]> {
+  console.log('Fetching featured registration events from Planning Center...');
+
+  const featuredEventIds: string[] = [];
+  let url = `${REGISTRATIONS_API_BASE_URL}/events?filter=unarchived,published&order=starts_at&per_page=100`;
+
+  while (url) {
+    const data = await apiRequest(url, { 'X-PCO-API-Version': '2020-06-16' });
+    const events: RegistrationEvent[] = data.data || [];
+    console.log(`Fetched ${events.length} registration events`);
+
+    for (const event of events) {
+      if (event.attributes?.featured) {
+        featuredEventIds.push(event.id);
+      }
+    }
+
+    url = data.links?.next || '';
+  }
+
+  console.log(`Found ${featuredEventIds.length} featured registration events`);
+
+  const signups = await Promise.all(
+    featuredEventIds.map(async (eventId) => {
+      const signupResponse = await apiRequest(
+        `${REGISTRATIONS_API_BASE_URL}/signups/${eventId}?include=next_signup_time,signup_location`
+      );
+      return signupResponse.data as RegistrationSignup;
+    })
+  );
+
+  return signups;
 }
 
 /**
@@ -196,6 +302,37 @@ async function downloadImage(imageUrl: string, eventId: string): Promise<string 
     console.error(`  ✗ Failed to download image: ${error}`);
     return null;
   }
+}
+
+/**
+ * Strip HTML tags from Planning Center Registrations descriptions.
+ */
+function stripHtml(htmlText: string | null): string | null {
+  if (!htmlText) {
+    return null;
+  }
+
+  const text = htmlText
+    .replace(/<[^>]*>/g, ' ')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, '\'')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  return text || null;
+}
+
+/**
+ * Convert /reservations/new URLs to the event-level Church Center URL.
+ */
+function toChurchCenterEventUrl(newRegistrationUrl: string | null): string | null {
+  if (!newRegistrationUrl) {
+    return null;
+  }
+
+  return newRegistrationUrl.replace(/\/reservations\/new\/?$/, '');
 }
 
 /**
@@ -307,6 +444,86 @@ async function processFeaturedEvents(response: any): Promise<FeaturedEvent[]> {
 }
 
 /**
+ * Process featured registration signups that have an upcoming next signup time.
+ */
+async function processFeaturedRegistrations(signups: RegistrationSignup[]): Promise<FeaturedEvent[]> {
+  console.log(`\nFound ${signups.length} featured registration signups`);
+
+  const featuredEvents: FeaturedEvent[] = [];
+  const now = new Date();
+  let skippedNotOpen = 0;
+  let skippedWithoutTime = 0;
+
+  console.log('\nProcessing registration signups (featured + open + upcoming)...');
+
+  for (const signup of signups) {
+    if (!signup.attributes.open || signup.attributes.archived) {
+      skippedNotOpen++;
+      continue;
+    }
+
+    const signupTimeResponse = await apiRequest(
+      `${REGISTRATIONS_API_BASE_URL}/signups/${signup.id}/next_signup_time`
+    );
+    const signupTime = signupTimeResponse.data as SignupTime | null;
+    if (!signupTime) {
+      skippedWithoutTime++;
+      continue;
+    }
+
+    const startsAt = signupTime.attributes.starts_at;
+    const endsAtValue = signupTime.attributes.ends_at || startsAt;
+    const endsAt = new Date(endsAtValue);
+    if (endsAt < now) {
+      continue;
+    }
+
+    console.log(`\n  Registration Signup: ${signup.attributes.name}`);
+    console.log(`    Starts: ${startsAt}`);
+
+    const imageUrl = signup.attributes.logo_url || null;
+    let localImage: string | null = null;
+
+    if (imageUrl) {
+      console.log(`    Image URL: ${imageUrl}`);
+      localImage = await downloadImage(imageUrl, signup.id);
+    } else {
+      console.log('    No image available');
+    }
+
+    let location: SignupLocation | null = null;
+    const locationResponse = await apiRequest(
+      `${REGISTRATIONS_API_BASE_URL}/signups/${signup.id}/signup_location`
+    );
+    if (locationResponse?.data?.type === 'SignupLocation') {
+      location = locationResponse.data as SignupLocation;
+    }
+
+    featuredEvents.push({
+      event_id: signup.id,
+      instance_id: signup.id,
+      name: signup.attributes.name,
+      description: stripHtml(signup.attributes.description),
+      location: location?.attributes.name || location?.attributes.formatted_address || null,
+      image_url: imageUrl,
+      local_image: localImage,
+      church_center_url: toChurchCenterEventUrl(signup.attributes.new_registration_url),
+      starts_at: startsAt,
+      ends_at: signupTime.attributes.ends_at,
+      all_day_event: signupTime.attributes.all_day,
+    });
+
+    console.log('    ✅ Including registration signup');
+  }
+
+  console.log(`\nSkipped ${skippedNotOpen} closed/archived registration signups`);
+  console.log(`Skipped ${skippedWithoutTime} registration signups with no upcoming time`);
+  console.log(`Processed ${featuredEvents.length} registration signups`);
+
+  return featuredEvents;
+}
+
+/**
  * Save events to JSON file
  */
 function saveEvents(events: FeaturedEvent[]): void {
@@ -337,11 +554,17 @@ async function main(): Promise<void> {
   try {
     validateEnvironment();
     
-    // Fetch all future event instances with their parent events
-    const instancesResponse = await fetchFutureEventInstances();
+    // Fetch all featured Calendar event instances and featured registration signups
+    const [instancesResponse, registrationSignups] = await Promise.all([
+      fetchFutureEventInstances(),
+      fetchFeaturedRegistrationSignups(),
+    ]);
     
-    // Process and filter for featured events only
-    const featuredEvents = await processFeaturedEvents(instancesResponse);
+    // Process featured Calendar events
+    const featuredCalendarEvents = await processFeaturedEvents(instancesResponse);
+    // Process featured/open/upcoming Registration signups
+    const featuredRegistrationEvents = await processFeaturedRegistrations(registrationSignups);
+    const featuredEvents = [...featuredCalendarEvents, ...featuredRegistrationEvents];
     
     // Save to JSON file
     saveEvents(featuredEvents);
