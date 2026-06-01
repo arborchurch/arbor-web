@@ -1,7 +1,7 @@
 ---
-title: ArborStudents
-date: 2024-08-29T21:14:55.337Z
-publishdate: 2024-08-29T21:14:44.321Z
-expirydate: 2024-08-31T21:14:44.359Z
+title: Arbor Students Event
+date: 2026-06-17T21:54:09.263Z
+publishdate: 2026-06-01T21:14:44.321Z
+expirydate: 2026-09-01T21:54:54.863Z
 ---
-H﻿ey ArborStudents! We'll see you Thursday at 7 for fun, teaching, and McDonald's!
+H﻿ey Arbor Students! We'll see you Wednesday June 17 at Arbor church for students night! 6-8pm! We are having a once a month, summer gatherings with games, food and fun for middle school through high school age kids.
