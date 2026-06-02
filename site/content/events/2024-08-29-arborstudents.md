@@ -1,7 +1,7 @@
 ---
 title: Arbor Students Events
 date: 2026-06-17T21:54:09.263Z
-publishdate: 2026-06-01T21:14:44.321Z
+publishdate: 2026-06-02T17:32:15.989Z
 expirydate: 2026-09-01T21:54:54.863Z
 ---
 ![]()
