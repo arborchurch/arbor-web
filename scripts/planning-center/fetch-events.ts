@@ -144,17 +144,33 @@ interface SignupLocation {
   };
 }
 
+class ApiRequestError extends Error {
+  status: number;
+  statusText: string;
+  url: string;
+
+  constructor(url: string, status: number, statusText: string, errorText: string) {
+    super(`API request failed: ${status} ${statusText}\n${errorText}`);
+    this.name = 'ApiRequestError';
+    this.status = status;
+    this.statusText = statusText;
+    this.url = url;
+  }
+}
+
 /**
  * Validate required environment variables
  */
-function validateEnvironment(): void {
+function validateEnvironment(): boolean {
   if (!PLANNING_CENTER_APP_ID || !PLANNING_CENTER_SECRET) {
     console.error('Error: Missing required environment variables');
     console.error('Please set:');
     console.error('  - PLANNING_CENTER_APP_ID');
     console.error('  - PLANNING_CENTER_SECRET');
-    process.exit(1);
+    return false;
   }
+
+  return true;
 }
 
 /**
@@ -171,7 +187,9 @@ function getAuthHeader(): string {
  */
 async function apiRequest(url: string, headers: Record<string, string> = {}): Promise<any> {
   const authString = getAuthHeader();
-  
+
+  console.log(`API request: GET ${url}`);
+
   const response = await fetch(url, {
     headers: {
       'Authorization': `Basic ${authString}`,
@@ -182,9 +200,7 @@ async function apiRequest(url: string, headers: Record<string, string> = {}): Pr
 
   if (!response.ok) {
     const errorText = await response.text();
-    throw new Error(
-      `API request failed: ${response.status} ${response.statusText}\n${errorText}`
-    );
+    throw new ApiRequestError(url, response.status, response.statusText, errorText);
   }
 
   return response.json();
@@ -240,14 +256,21 @@ async function fetchFeaturedRegistrationSignups(): Promise<RegistrationSignup[]>
 
   console.log(`Found ${featuredEventIds.length} featured registration events`);
 
-  const signups = await Promise.all(
-    featuredEventIds.map(async (eventId) => {
+  const signups: RegistrationSignup[] = [];
+  for (const eventId of featuredEventIds) {
+    try {
       const signupResponse = await apiRequest(
         `${REGISTRATIONS_API_BASE_URL}/signups/${eventId}?include=next_signup_time,signup_location`
       );
-      return signupResponse.data as RegistrationSignup;
-    })
-  );
+      signups.push(signupResponse.data as RegistrationSignup);
+    } catch (error) {
+      if (error instanceof ApiRequestError && error.status === 404) {
+        console.warn(`Skipping registration event ${eventId}: ${error.message}`);
+        continue;
+      }
+      throw error;
+    }
+  }
 
   return signups;
 }
@@ -462,58 +485,66 @@ async function processFeaturedRegistrations(signups: RegistrationSignup[]): Prom
       continue;
     }
 
-    const signupTimeResponse = await apiRequest(
-      `${REGISTRATIONS_API_BASE_URL}/signups/${signup.id}/next_signup_time`
-    );
-    const signupTime = signupTimeResponse.data as SignupTime | null;
-    if (!signupTime) {
-      skippedWithoutTime++;
-      continue;
+    try {
+      const signupTimeResponse = await apiRequest(
+        `${REGISTRATIONS_API_BASE_URL}/signups/${signup.id}/next_signup_time`
+      );
+      const signupTime = signupTimeResponse.data as SignupTime | null;
+      if (!signupTime) {
+        skippedWithoutTime++;
+        continue;
+      }
+
+      const startsAt = signupTime.attributes.starts_at;
+      const endsAtValue = signupTime.attributes.ends_at || startsAt;
+      const endsAt = new Date(endsAtValue);
+      if (endsAt < now) {
+        continue;
+      }
+
+      console.log(`\n  Registration Signup: ${signup.attributes.name}`);
+      console.log(`    Starts: ${startsAt}`);
+
+      const imageUrl = signup.attributes.logo_url || null;
+      let localImage: string | null = null;
+
+      if (imageUrl) {
+        console.log(`    Image URL: ${imageUrl}`);
+        localImage = await downloadImage(imageUrl, signup.id);
+      } else {
+        console.log('    No image available');
+      }
+
+      let location: SignupLocation | null = null;
+      const locationResponse = await apiRequest(
+        `${REGISTRATIONS_API_BASE_URL}/signups/${signup.id}/signup_location`
+      );
+      if (locationResponse?.data?.type === 'SignupLocation') {
+        location = locationResponse.data as SignupLocation;
+      }
+
+      featuredEvents.push({
+        event_id: signup.id,
+        instance_id: signup.id,
+        name: signup.attributes.name,
+        description: stripHtml(signup.attributes.description),
+        location: location?.attributes.name || location?.attributes.formatted_address || null,
+        image_url: imageUrl,
+        local_image: localImage,
+        church_center_url: toChurchCenterEventUrl(signup.attributes.new_registration_url),
+        starts_at: startsAt,
+        ends_at: signupTime.attributes.ends_at,
+        all_day_event: signupTime.attributes.all_day,
+      });
+
+      console.log('    ✅ Including registration signup');
+    } catch (error) {
+      if (error instanceof ApiRequestError && error.status === 404) {
+        console.warn(`    ⚠ Skipping registration signup ${signup.id} (${signup.attributes.name}): ${error.message}`);
+        continue;
+      }
+      throw error;
     }
-
-    const startsAt = signupTime.attributes.starts_at;
-    const endsAtValue = signupTime.attributes.ends_at || startsAt;
-    const endsAt = new Date(endsAtValue);
-    if (endsAt < now) {
-      continue;
-    }
-
-    console.log(`\n  Registration Signup: ${signup.attributes.name}`);
-    console.log(`    Starts: ${startsAt}`);
-
-    const imageUrl = signup.attributes.logo_url || null;
-    let localImage: string | null = null;
-
-    if (imageUrl) {
-      console.log(`    Image URL: ${imageUrl}`);
-      localImage = await downloadImage(imageUrl, signup.id);
-    } else {
-      console.log('    No image available');
-    }
-
-    let location: SignupLocation | null = null;
-    const locationResponse = await apiRequest(
-      `${REGISTRATIONS_API_BASE_URL}/signups/${signup.id}/signup_location`
-    );
-    if (locationResponse?.data?.type === 'SignupLocation') {
-      location = locationResponse.data as SignupLocation;
-    }
-
-    featuredEvents.push({
-      event_id: signup.id,
-      instance_id: signup.id,
-      name: signup.attributes.name,
-      description: stripHtml(signup.attributes.description),
-      location: location?.attributes.name || location?.attributes.formatted_address || null,
-      image_url: imageUrl,
-      local_image: localImage,
-      church_center_url: toChurchCenterEventUrl(signup.attributes.new_registration_url),
-      starts_at: startsAt,
-      ends_at: signupTime.attributes.ends_at,
-      all_day_event: signupTime.attributes.all_day,
-    });
-
-    console.log('    ✅ Including registration signup');
   }
 
   console.log(`\nSkipped ${skippedNotOpen} closed/archived registration signups`);
@@ -552,7 +583,10 @@ function saveEvents(events: FeaturedEvent[]): void {
  */
 async function main(): Promise<void> {
   try {
-    validateEnvironment();
+    const hasValidEnvironment = validateEnvironment();
+    if (!hasValidEnvironment) {
+      return;
+    }
     
     // Fetch all featured Calendar event instances and featured registration signups
     const [instancesResponse, registrationSignups] = await Promise.all([
@@ -572,7 +606,6 @@ async function main(): Promise<void> {
     console.log('\n✓ Successfully fetched and saved featured events');
   } catch (error) {
     console.error('Error fetching events:', error);
-    process.exit(1);
   }
 }
 
