@@ -1,5 +1,5 @@
 ---
-title: Arbor Students Events
+title: Summer Students Events
 date: 2026-06-17T17:25:27.569Z
 publishdate: 2026-06-04T17:25:27.593Z
 expirydate: 2026-08-31T17:25:27.605Z
