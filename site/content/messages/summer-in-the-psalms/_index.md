@@ -1,8 +1,8 @@
 ---
-date: "2026-04-19"
+date: "2026-06-07"
 type: series
-title: "Seven Deadly Sincs"
+title: "Summer in the Psalms"
 resources: 
 - name: header
-  src: seven-deadly-sins.jpg
+  src: summer-in-the-psalms.jpg
 ---
