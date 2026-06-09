@@ -4,7 +4,7 @@ title: "Braden Unger"
 position: "Elder"
 email:
 emailname:
-weight: 10
+weight: 100
 resources:
 - name: photo
   src: "braden-small.jpeg"
