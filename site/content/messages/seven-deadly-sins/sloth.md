@@ -1,6 +1,6 @@
 ---
 date: "2026-05-24T10:00:00-08:00"
-title: "Seven Deadly Sins: Slot"
+title: "Seven Deadly Sins: Sloth"
 series: "seven-deadly-sins"
 speaker: "Alison Acone"
 type: message
