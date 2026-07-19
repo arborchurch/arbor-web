@@ -4,3 +4,4 @@
 *.mp4
 tags
 site/.hugo_build.lock
+scripts/planning-center/env-vars.sh
