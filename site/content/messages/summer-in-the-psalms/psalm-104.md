@@ -1,6 +1,6 @@
 ---
 date: "2026-07-26T10:00:00-08:00"
-title: "Summer in the Psalms: Psalm 1024"
+title: "Summer in the Psalms: Psalm 104"
 series: "summer-in-the-psalms"
 speaker: "Ryan Plantz"
 type: message
