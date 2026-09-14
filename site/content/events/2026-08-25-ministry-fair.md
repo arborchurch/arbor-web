@@ -6,7 +6,7 @@ expirydate: 2026-10-31T19:11:34.221Z
 button_text: "sign up "
 button_link: https://arborchurch.churchcenter.com/registrations/signups/3889835
 ---
-🍂 **MINISTRY FAIR — NOW VIRTUAL!** 🍂
+**MINISTRY FAIR — NOW VIRTUAL!** 
 
 This October, we’re bringing the Ministry Fair online! 
 
