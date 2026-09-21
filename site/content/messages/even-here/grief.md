@@ -1,6 +1,6 @@
 ---
 date: "2026-09-20T10:00:00-08:00"
-title: "Even Here: Grief"
+title: "Even Here: Grief in Pastorloss"
 series: "even-here"
 speaker: "Alison Acone"
 type: message
@@ -12,4 +12,4 @@ youtube_id: hHlltWJzYA4
 
 > Indeed, we felt we had received the sentence of death. But this happened that we might not rely on ourselves but on God, who raises the dead. 
 
-As we grapple with the grief of sudden pastor loss for a second time, Alison shares a Biblical framework for grief from 2 Corinthians 1, and a recipe for your very own _grief smoothie_.
+As we grapple with the grief of sudden pastorloss for a second time, Alison shares a Biblical framework for grief from 2 Corinthians 1, and a recipe for your very own _grief smoothie_.
