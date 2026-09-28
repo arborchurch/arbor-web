@@ -1,7 +1,7 @@
 ---
 title: Trunk or Treat
 date: 2026-10-25T20:36:59.363Z
-publishdate: 2026-09-28T16:11:48.133Z
+publishdate: 2026-09-28T17:45:45.018Z
 expirydate: 2026-10-26T20:37:13.563Z
 button_text: sign your trunk up today!
 button_link: https://arborchurch.churchcenter.com/registrations/events/3867165
