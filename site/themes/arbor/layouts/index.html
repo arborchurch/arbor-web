@@ -71,6 +71,10 @@
           {{ if .Params.podcast }}
           <a href="{{ .Params.podcast }}" class="btn btn-outline-primary" target="_blank">Listen</a>
           {{ end }}
+          {{ if .Resources.GetMatch "transcription.md" }}
+          &nbsp;
+          <a href="{{ .RelPermalink }}" class="btn btn-outline-primary">Read</a>
+          {{ end }}
         </div>
         <div>
         </div>

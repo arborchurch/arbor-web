@@ -21,6 +21,7 @@ DURATION=$(ffprobe -i "$INPUT" -show_entries format=duration -v quiet -of csv="p
 BYTES=$(stat -f "%z" "$OUTPUT")
 
 echo "---"
+echo "podcast: https://arborchurchnw.org/podcast/$OUTPUT"
 echo "podcast_bytes: $BYTES"
 echo "podcast_duration: $DURATION"
 echo "---"
@@ -30,5 +31,3 @@ scp "$OUTPUT" arborchurch@arborchurchnw.org:arborchurchnw.org/podcast
 
 # upload original to web host
 scp "$INPUT" arborchurch@arborchurchnw.org:arborchurchnw.org/podcast/originals
-
-

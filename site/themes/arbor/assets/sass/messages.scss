@@ -42,6 +42,49 @@
   margin-bottom: 50px;
 }
 
+.message-transcription {
+  border-top: 1px solid #d0d0d0;
+  margin-top: 50px;
+  padding-top: 30px;
+}
+
+.message-transcription .transcript-pull-quote {
+  border-left: 5px solid #a4846f;
+  color: #575757;
+  font-size: 1.2em;
+  font-style: italic;
+  margin: 40px 0;
+  padding: 10px 25px;
+
+  p {
+    margin: 0;
+  }
+}
+
+.small-group-discussion {
+  background-color: #f8f6f4;
+  border: 1px solid #d0d0d0;
+  border-left: 5px solid #a4846f;
+  margin-top: 60px;
+  padding: 30px;
+
+  h2 {
+    color: #a4846f;
+    font-family: "Montserrat";
+    font-size: 24px;
+    margin: 0 0 20px;
+  }
+
+  ol {
+    margin: 0;
+    padding-left: 25px;
+  }
+
+  li + li {
+    margin-top: 15px;
+  }
+}
+
 .message-video-16-9 {
   overflow: hidden;
   height: 0;
@@ -75,4 +118,3 @@
   text-transform: lowercase;
   width: 100%;
 }
-
