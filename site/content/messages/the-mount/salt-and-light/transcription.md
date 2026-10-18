@@ -18,6 +18,11 @@ As Jeff Pierce and Dallas Willard have said, we lean in and listen to Jesus also
 
 And so here is what he says this morning. We're in Matthew 5. Actually, I'm going to scroll back just a little bit, and we're going to do a little recap of last week because last week was our first week in the Sermon on the Mount.
 
+<aside class="scripture-card">
+  <p>When he saw the crowds, he went up the mountain. After he sat down his disciples came to him. Then he began to teach them by saying: Blessed are the poor in spirit, for the kingdom of heaven belongs to them.</p>
+  <footer>Matthew 5:1–3 (NET)</footer>
+</aside>
+
 So in verse one, it says: "Now when Jesus saw the crowds, he went up on the mountainside and sat down. His disciples came to him and began to teach them: 'Blessed are the poor in spirit, those who mourn; those who are meek; those who hunger and thirst for righteousness; blessed are the merciful, the pure in heart, and the peacemakers; blessed are those who are persecuted because of righteousness.'"
 
 In these 11 verses, Jesus sets the table for the sermon. These are Beatitudes that I just listed—they're attributes that paint a picture of a citizen who belongs to a different kingdom, God's kingdom. And as you recall, each of those attributes is lined up against a promise—a promise such as, "Blessed are the merciful, because they will receive mercy."
@@ -66,13 +71,27 @@ So, quick seminary moment here. I want to introduce to you the *Missio Dei*, whi
 
 Then Abraham is next, and God promises Abraham that all peoples on earth would be blessed through him. Okay, then we have Israel, or Jacob—Jacob who also is known as Israel. God says, "I will make your descendants as numerous as the stars in the sky, and through your offspring all nations on earth will be blessed." Okay, so you see God is using people to flourish, cultivate, and bless everyone around them.
 
-And then Jesus enters, and in John 3:16, of course, we see His mission: the God is going to love the world by giving His Son for us, that everyone who believes wouldn't perish but have eternal life. Jesus' purpose was to redeem the world, and then He passes the baton to the church. Capital C, Church. He says, "Therefore go and make disciples of all nations, teach them to find and follow me," basically.
+<aside class="scripture-card">
+  <p>For this is the way God loved the world: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.</p>
+  <footer>John 3:16 (NET)</footer>
+</aside>
+
+And then Jesus enters, and in John 3:16, of course, we see His mission: the God is going to love the world by giving His Son for us, that everyone who believes wouldn't perish but have eternal life.
+
+Jesus' purpose was to redeem the world, and then He passes the baton to the church. Capital C, Church. He says, "Therefore go and make disciples of all nations, teach them to find and follow me," basically.
 
 Okay, so Adam, Abraham, Israel, Jesus, and the church are all on the mission of God to bless the world and make Him known. That is called the *Missio Dei*, the mission of God. So it's kind of mind-blowing to think that we are part of something bigger than ourselves. We're bigger than just our own lives or our family's lives. We're even bigger than this church, right? Christians all around who carry God's light are to be a blessing to the whole world.
 
 God intends for us to penetrate the world. Christian salt has no business to remain snugly in elegant little ecclesiastical salt sellers. Our place is to be rubbed into the secular community. As salt is rubbed into meat to stop it from going bad, when society does go bad, we Christians tend to throw up our hands in pious horror and we approach the non-Christian world. But should we not rather reproach ourselves? One can hardly blame unsalted meat for going bad. It can't do anything else. The real question is to ask: where is the salt? Is it in the shaker or out in the world?
 
-I don't know if you caught the little cautionary note Jesus said when he talked about salt's influence. It's a temporal condition. Our influence is temporal in verse 13. He had said, "If a salt loses its saltiness, how can it be made salty again? It's no longer good for anything." Which sounds so rough, like "not to be good for anything."
+<aside class="scripture-card">
+  <p>You are the salt of the earth. But if salt loses its flavor, how can it be made salty again? It is no longer good for anything except to be thrown out and trampled on by people!</p>
+  <footer>Matthew 5:13 (NET)</footer>
+</aside>
+
+I don't know if you caught the little cautionary note Jesus said when he talked about salt's influence. It's a temporal condition. Our influence is temporal in verse 13. He had said, "If a salt loses its saltiness, how can it be made salty again? It's no longer good for anything."
+
+Which sounds so rough, like "not to be good for anything."
 
 Salt that loses its salty properties can no longer do what it was purposed for. It's no longer a preservative. It's no longer flavorful. It's no longer medicinal. But I don't want us to read this as transactional love. Like, Jesus is not saying, "Dude, as soon as you're not productive in my kingdom, you're not with any sort of value. You're out." That is not His purpose here.
 
@@ -95,6 +114,11 @@ Well, I was thinking about light therapy in 2020. It was really having its day. 
 But to first-century Judeans, light was more than hope for a clear skin day or a steady mood. A lightbringer on a dark path meant safety and direction. A light source in a dark home gave a chance for interaction, warmth, and food. And light on towers at the edge of the sea—lighthouses as we call them now—they were established 300 years before Christ. They prevented shipwrecks and prevented lives being lost. So this is far more than just cosmetic improvement. These mountainside listeners, they are understanding light to be a quality and quantity of life impact.
 
 So this is who we are. Do we give quality and quantity of life impact? Are we impacting others? How can we do that?
+
+<aside class="scripture-card">
+  <p>You are the light of the world. A city located on a hill cannot be hidden. People do not light a lamp and put it under a basket but on a lampstand, and it gives light to all in the house. In the same way, let your light shine before people, so that they can see your good deeds and give honor to your Father in heaven.</p>
+  <footer>Matthew 5:14–16 (NET)</footer>
+</aside>
 
 In verse 16, he continues. So he said, "You're the light of the world. Don't hide it under a lamp. Put it on the stand. In the same way, let your light shine before others that they may see your good deeds and glorify your Father in heaven."
 

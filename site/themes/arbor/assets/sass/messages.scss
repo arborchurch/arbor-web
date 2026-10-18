@@ -61,6 +61,26 @@
   }
 }
 
+.message-transcription .scripture-card {
+  background-color: #f8f6f4;
+  border: 1px solid #d0d0d0;
+  border-left: 5px solid #a4846f;
+  margin: 35px 0;
+  padding: 25px 30px;
+
+  p {
+    font-family: Georgia, "Times New Roman", serif;
+    margin: 0 0 15px;
+  }
+
+  footer {
+    color: #707070;
+    font-family: "Montserrat";
+    font-size: 14px;
+    text-transform: uppercase;
+  }
+}
+
 .small-group-discussion {
   background-color: #f8f6f4;
   border: 1px solid #d0d0d0;
