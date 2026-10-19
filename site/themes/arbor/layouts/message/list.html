@@ -26,6 +26,13 @@
 
 <p>{{ .Content }}</p>
 
+{{ if .Resources.GetMatch "transcription.md" }}
+  <a href="{{ .RelPermalink }}#transcript" class="transcript-link">
+    <span class="glyphicon glyphicon-file" aria-hidden="true"></span>
+    Read transcript
+  </a>
+{{ end }}
+
 {{ if not (isset .Params "youtube_id") }}
   <audio src="{{ .Params.podcast }}" controls="controls"></audio>
 {{ end }}

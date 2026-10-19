@@ -42,6 +42,21 @@
   margin-bottom: 50px;
 }
 
+.transcript-link {
+  align-items: center;
+  display: inline-flex;
+  font-family: $header-font;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+  text-indent: 0;
+
+  .glyphicon {
+    font-size: 16px;
+    margin-right: 8px;
+  }
+}
+
 .message-transcription {
   border-top: 1px solid #d0d0d0;
   margin-top: 50px;

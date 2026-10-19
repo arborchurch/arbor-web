@@ -1,16 +1,6 @@
 ## The Heart Before Behavior
 
-The whole thing about what we're talking today is about this idea of performance and that Israel was living under and this outward behavior that they thought was going to earn them something or prestige or recognition within the community as a holy person. And so for all of us that volunteer here today, for all you do, while we may not have a real trophy, just know that God is seeing your heart during the season.
-
-You stepping forward and filling the gap. This is spontaneous, but just truly thank you for all that you're doing.
-
-We couldn't be continuing without all of you. So all of you give each other a hand for all the volunteers we're doing.
-
-So we are three weeks, by the way, if you're new here, my name is Scott Hetherington. I'm an elder here at the church and one of the speakers on a regular basis.
-
-And I'm going to try to keep this to less than 85 minutes today. But we are three weeks into the Sermon on the Mount and we have covered the Beatitudes.
-
-We're going to talk about the Beatitudes, which outline eight traits of the kingdom citizens. And they describe the kind of heart that receives God's blessings, a heart that knows its need and dependencies on God.
+We're going to talk about the Beatitudes, which outline eight traits of the kingdom citizens. They describe the kind of heart that receives God's blessings, a heart that knows its need and dependencies on God.
 
 And this heart call is the focus of the kingdom of God. We then learned last week about what that looks externally when Alison taught us about being followers of Christ or salt and light.
 

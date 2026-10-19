@@ -5,7 +5,7 @@
 <div class="message message-details col-sm-12 col-md-8 col-sm-offset-0 col-md-offset-2">
     {{ .Render "list" }}
     {{ with .Resources.GetMatch "transcription.md" }}
-      <section class="message-transcription">
+      <section id="transcript" class="message-transcription">
         <h3>Transcript</h3>
         {{ .Content }}
       </section>
