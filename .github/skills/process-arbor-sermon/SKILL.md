@@ -49,14 +49,17 @@ Create a dedicated speech-analysis WAV before using `whisper.cpp`: 16 kHz,
 mono, signed 16-bit PCM. Do not send a high-sample-rate stereo livestream WAV
 directly to Whisper.
 
-Before invoking Whisper, inspect the installed binary's `--help` and available
-models; installations have used different binary names and options. Use the
-best practical English model available. Transcribe the analysis audio in short
-chunks (at most 2 minutes at a time) with fresh context for every chunk,
-retaining each chunk's original start offset in its filename or timestamp
-record. When audio has already been extracted into chunks, do **not** pass its
-original offset to Whisper as an input offset; that option skips that many
-milliseconds of the chunk. Preserve timestamped JSON/SRT/text output.
+Before invoking Whisper, first use the local checkout at
+`$HOME/git/whisper.cpp`: its preferred binary is
+`build/bin/whisper-cli`, and its models are in `models/`. Inspect that binary's
+`--help` and the available models; only search for another installation when
+this checkout or its executable is unavailable. Use the best practical English
+model available. Transcribe the analysis audio in short chunks (at most 2
+minutes at a time) with fresh context for every chunk, retaining each chunk's
+original start offset in its filename or timestamp record. When audio has
+already been extracted into chunks, do **not** pass its original offset to
+Whisper as an input offset; that option skips that many milliseconds of the
+chunk. Preserve timestamped JSON/SRT/text output.
 
 Do not accept a full-service transcript merely because Whisper exited
 successfully. Read samples from the early, middle, and late service. If text
@@ -66,31 +69,50 @@ carrying music, prayer, or an early decoding error through an entire service.
 An initial prompt may itself appear in the generated text; treat any such
 prompt echo as invalid output and rerun that chunk without a prompt.
 
-Read enough of the timestamped chunk transcripts to determine:
+Read enough of the timestamped chunk transcripts to determine two distinct
+windows:
 
-- **start:** the first meaningful sermon words, after audio checks, worship,
-  announcements, and introductions that are not part of the message;
-- **end:** the final meaningful sermon words, before prayer/music/response
-  material that is not part of the message.
+- **audio start/end:** preserve the speaker's own greeting, introduction,
+  personal preamble, and setup before the substantive teaching; remove only
+  prior worship, host announcements, stage handoff, audio checks, and
+  post-message prayer/music/response material that is not part of the
+  speaker's contribution. Start the audio no earlier than 0.5 seconds before
+  the speaker's first clear word, so the fade-in finishes before that word;
+- **transcript start/end:** begin with the first substantive teaching words,
+  after speaker-specific introductory material, and end with the final
+  meaningful sermon words before non-message response material.
 
-Use explicit `HH:MM:SS` timestamps. Do not assume that all prayer belongs to
-the message: retain it only when it is integral to the sermon. Note the chosen
-timestamps and one sentence of evidence for each boundary in the handoff note.
-When the boundary is uncertain, present the proposed range for approval before
-uploading.
+Use explicit `HH:MM:SS` timestamps for both windows. Do not assume that all
+prayer belongs to the message: retain it only when it is integral to the
+speaker's sermon. Note each audio boundary and transcript boundary, with one
+sentence of evidence, in the handoff note. Confirm the audio start by listening
+to the source around the boundary rather than relying solely on ASR, which can
+mistake music or a stage transition for speech. Never use the shorter
+transcript window as the podcast-audio trim. When a boundary is uncertain,
+present the proposed ranges for approval before uploading.
 
 ## 3. Produce the audio master
 
-Use `ffmpeg` to trim the full-service WAV to the selected range. Then normalize
-the trimmed file with loudness normalization, not a simple volume boost, and
-limit true peak to `-1 dBTP`. Target a mono podcast master near `-16 LUFS`
-unless the repository's encoder changes its existing 96 kbps mono delivery
-standard.
+Use `ffmpeg` to trim the full-service WAV to the selected **audio** range.
+Measure the source range before mastering. Target a mono podcast master near
+`-16 LUFS` only when loudness normalization can do so transparently. Never use
+peak limiting, clipping, or compression merely to meet that target.
+
+For a clear but quiet source, prefer a transparent fixed gain derived from
+measured peak headroom over loudness normalization: the maximum gain is the
+difference between the measured true peak and the chosen safe output peak.
+Use a modest safety margin below `0 dBTP`, and verify the resulting true peak
+afterward. When the user specifies a gain for a particular message, apply
+that exact gain only if the resulting peak remains below `0 dBTP`; otherwise
+stop for a revised gain rather than applying a limiter. A master below the
+loudness target that remains clear is preferable to a louder degraded master.
 
 Apply a short 0.5 second fade-in and fade-out to the final trimmed audio. A
 fade must fit inside the selected audio duration. Inspect duration and audio
-levels with `ffprobe`/`ffmpeg` after processing; if normalization would create
-obvious distortion, revise the filter rather than accepting clipped audio.
+levels with `ffprobe`/`ffmpeg` after processing. Compare representative early,
+middle, and late portions of the master with the source at matched playback
+level; if mastering changes clarity or introduces distortion, revise it or
+use a trim-and-fade-only master rather than accepting a louder degraded file.
 
 Use a stable, URL-friendly filename:
 
