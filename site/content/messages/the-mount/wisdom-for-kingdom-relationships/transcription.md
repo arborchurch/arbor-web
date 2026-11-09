@@ -1,101 +1,426 @@
 ## The Context of Kingdom Relationships
 
-Oftentimes they get thrown and used into different areas and they're not connected to the context, the culture, or the consistency of the message that Jesus is using. Those are the three C's I always go back to when I look at verses or passages in the Bible. What is the context of the verse within this passage, the letter, or that book? What is the culture or who is it being addressed to at the time? And is it consistent the way I'm interpreting it with the rest of scripture? Because God's word does not contradict each other. And so for some of these things that we're looking at today, it might be a little bit eye-opening for some of us. Others, it might just be a good review and a good reminder. But all three of these things we're looking at today are about relationships. And in this Sermon on the Mount that we've been going about, it's all about how do we live as citizens of the kingdom of God. Has anybody ever traveled somewhere with a passport to a different country? All right. You know that we, stand out when we're there, right? We try to act like we fit in
+Good to see you all. My name is Scott Hetherington.
 
+I'm an elder here at the church and speak off and on with our speaking team here. If you're a first-time person here today, we're thrilled to have you.
 
-in. We even try to use a little bit of the language. We try to just be like in the groove and act like we know everything, but oh no, we stand out like a sore thumb. Everywhere we travel as Americans, we stand out. And we have a passport that can identify who we are, but we don't quite fit in. And the reason I bring that up is I think a lot of times as citizens of the kingdom of God as Christians, we say we've got the badge and the passport to be a Christian, but we aren't standing out in a good way. We're standing out in that awkward tourism way. How many of you know can relate to that? I've been there. I've done that. And what Jesus is trying to say is I want you to stand out, but in a way that draws people to you for the right reasons. And the reason I want that is because I'm drawing you to me for relationship for the right reasons. And that's what we're going through today. As we look at Matthew 7, 1 through 12, which contains three verses, it's written in a poem form. It's called, this is the beginning of the end of Jesus' teaching on the sermon.
+We didn't do our normal meet and greet, but after the service, please make sure you connect with somebody. We'd love to welcome you and make sure that you know you're welcome here at Arbor and we're glad you're with us.
 
+Today's message covers probably the three most popular verses, quotes, and teachings of Jesus that the entire world knows. I am on a quick timeline today; you think I normally go long, but this is going to be tight. The message we're jumping in today covers probably the three most popular verses, quotes, teachings of Jesus that the entire world knows.
 
-and it's called the Inclusio. And it's a writing style that places similar topics at the beginning and the end of the poem. Jesus begins this whole dialogue in righteousness with how we treat others and then ends with the golden rule as well. Jesus tells us not to judge, yet also use wisdom and discernment toward others, and then concludes with treating others as you want to be treated. So again, as we read through this, I want you to be thinking about how are we relationally living out our citizenship in the kingdom in a world that is lost and looking for hope. So let's jump right in. <aside class="scripture-card">
+When you hear them today, spoiler alert: they are ‘do not judge lest ye be judged,’ How many have heard that thrown around out there before?
+
+All right? Ask, seek, and knock, and it will be given to you.
+
+We've all heard that and a lot of people have. And then the last one, the golden rule, do unto others as you'd have them do to you.
+
+How many have heard those in one context or another outside of church, just like anywhere else? They get used a lot, all right?
+
+Especially with children, right? Do to others as you'd want them do to you.
+
+But we delve into this today and I think that these truths have gotten a little bit mixed up in our world today. We've kind of lost the context and true meaning of what centers them and why they're being used.
+
+And as we jump in today, I want to get back to the heart of the quotes or teachings that are universally shared from Jesus are about relationships. And oftentimes they get thrown and used into different areas and they're not connected to the context, the culture, or the consistency of the message that Jesus is using.
+
+Those are the three C's I always go back to when I look at verses or passages in the Bible. What is the context of the verse within this passage, the letter, or that book?
+
+What is the culture or who is it being addressed to at the time, and is it consistent the way and used into different areas and they're not connected to the context, the culture, or the consistency of the message that Jesus is using. Those are the three C's I always go back to when I look at verses or passages in the Bible.
+
+What is the context of the verse within this passage, the letter, or that book? What is the culture or who is it being addressed to at the time?
+
+And is it consistent the way I'm interpreting it with the rest of scripture? Because God's word does not contradict each other.
+
+And so for some of these things that we're looking at today, it might be a little bit eye-opening for some of us. Others, it might just be a good review and a good reminder.
+
+But all three of these things we're looking at today are about relationships. And in this Sermon on the Mount that we've been going about, it's all about how do we live as citizens of the kingdom of God.
+
+Has anybody ever traveled somewhere with a passport to a different country? All right.
+
+You know that we, stand out when we're there, right? We try to act like we fit in.
+
+We even try to use a little bit of the language. We try to just be like in the groove and act like we know everything, but oh no, we stand out like a sore thumb.
+
+Everywhere we travel as Americans, we stand out. And we have a passport that can identify who we are, but we don't quite fit in.
+
+And the reason I bring that up is I think a lot of times as citizens of the kingdom of God as Christians, we say we've got the badge and the passport to be a Christian, but we aren't standing out in a good way. We're standing out in that awkward tourism way.
+
+How many of you know can relate to that? I've been there.
+
+I've done that. And what Jesus is trying to say is I want you to stand out, but in a way that draws people to you for the right reasons.
+
+And the reason I want that is because I'm drawing you to me for relationship for the right reasons. And that's what we're going through today.
+
+As we look at Matthew 7, 1 through 12, which contains three verses, it's written in a poem form. It's called, this is the beginning of the end of Jesus' teaching on the sermon. and it's called the Inclusio.
+
+And it's a writing style that places similar topics at the beginning and the end of the poem. Jesus begins this whole dialogue in righteousness with how we treat others and then ends with the golden rule as well.
+
+Jesus tells us not to judge, yet also use wisdom and discernment toward others, and then concludes with treating others as you want to be treated. So again, as we read through this, I want you to be thinking about how are we relationally living out our citizenship in the kingdom in a world that is lost and looking for hope.
+
+## Judgment and Self-Reflection
+
+So let's jump right in.
+
+<aside class="scripture-card">
   <p>“Do not judge so that you will not be judged. For by the standard you judge you will be judged, and the measure you use will be the measure you receive.”</p>
   <footer>Matthew 7:1–2 (NET)</footer>
 </aside>
 
-Verses one and two of Matthew seven. Do not judge or you too will be judged. For in the same way you judge others, you will be judged. And with the measure you use, it will be measured against you. All right. I think a lot of times when people say, don't judge me, what they're really saying is like, don't think less of me. All right. Don't you think bad of me. You can judge me. not like what I'm doing, but don't you dare think less of me or bad of me.
+Verses one and two of Matthew seven.
 
+Do not judge or you too will be judged. For in the same way you judge others, you will be judged.
 
-There's this whole context of how we use this word judge. And remember that much of Jesus' teaching on the mount is centered around the Jewish law, the Torah, the prophets, and he is consistently pointing out the flawed outward performance over the Pharisees' inward purity. That's what this is talking about. And if both sides are not aligned with God's grace and mercy, it can lead to judging others in the way that God doesn't want us to. God and Jesus are referring to this super hypercritical, censorious attitude that actively looks at the heart and puts their heart in a place that you shouldn't. That's what he's talking about. He is not talking about, as a few verses later, he talks to us about using discernment and wisdom that we're going to look at. So Jesus isn't saying don't judge. He's saying don't judge in that manner. The manner that you are seeing your pharisaical leaders judging you in your position because, you're not praying in the way that you should.
+And with the measure you use, it will be measured against you. All right.
 
+I think a lot of times when people say, don't judge me, what they're really saying is like, don't think less of me. All right.
 
-you're not giving more of what you should give, or you're not following the Sabbath exactly right, and so I know where your heart is. And this is what Jesus is talking about. And we live in a world today where I think this is so relevant because nobody wants us to judge anything as right or wrong. And we as Christians have gotten weak in our ability to lovingly correct, admonish, rebuke, and encourage one another because it looks like, oh, don't judge me. Don't you dare judge me, or you will be judged. Yet God tells us in his scripture all the time, I discipline those I love. He tells us to rebuke, correct, and admonish one another. So what does he mean by don't judge one another? Jesus is giving us specific feedback on how to ensure our judging is occurring from a godly heart. And he does this in the next verse with the great analogy you all know about the speck and the plank, all right? Anybody in here wear contacts like me? Have you ever noticed like the
+Don't you think bad of me. You can judge me. not like what I'm doing, but don't you dare think less of me or bad of me.
 
+There's this whole context of how we use this word judge. And remember that much of Jesus' teaching on the mount is centered around the Jewish law, the Torah, the prophets, and he is consistently pointing out the flawed outward performance over the Pharisees' inward purity.
 
-tiniest little eyelash or speck on a contact can drive you crazy. I mean, I'm like sitting here, like I got a twitch in my eye. And there's times it's so bad, I just have to like blindly walk my way to the bathroom and hope when I take my contact, it doesn't fall down the lens. And again, I'm sharing publicly what I should keep privately. I've not learned this lesson from Garrett yet, but I would need to do that. But this is what I think of when I think of this verse. Like the speck that's in my eye that's clogging it all up, and I'm trying to look clearly at everybody else, and I can't do it. So let's dive in here. Why do you look at the speck of sawdust in your brother's eye, that could be sisters, brothers, sisters, people's eye, and pay no attention to the plank in your own eye? How can you say to your brother, let me take the speck out of your eye when all the time there's this plank in your own eye, this giant timber? You hypocrite. Jesus is just so kind sometimes. You hypocrite. First take the plank out of your own eye, and then you will see clearly remove the speck. from your brother's eye.
+That's what this is talking about. And if both sides are not aligned with God's grace and mercy, it can lead to judging others in the way that God doesn't want us to.
 
+God and Jesus are referring to this super hypercritical, censorious attitude that actively looks at the heart and puts their heart in a place that you shouldn't. That's what he's talking about.
 
-and we have all said this verse to one another in different means. Could you just quit telling your little sister what to do? You're the problem, all right? All of us have used this framing of this thinking here. It's like, you don't tell me what to do when you're the problem. You can't even see it. It's kind of like the driving analogy, all right? And I'm probably talking more privately, publicly again. The guy that likes to use their horn, and nobody's driving fast enough. They're not leaving the green light quick enough. They're not using their blinker. They're going slow in the left lane, and you're tailgating them or flashing your lights just to give them the helpful clue that you're in the wrong lane. And then the minute someone corrects you on how you're driving, I'm a great driver. Don't judge me. What are you telling me what to do, all right? And you all have somebody in the member that's your helper driver, all right? That little helper that tells you when it's time to turn, or when you need to hit your brakes, or you're too close, all right? And don't use this line. It's like, it's amazing how long I could drive by myself, but now I need a helper, That no one can do it.
+He is not talking about, as a few verses later, he talks to us about using discernment and wisdom that we're going to look at. So Jesus isn't saying don't judge.
 
+He's saying don't judge in that manner. The manner that you are seeing your pharisaical leaders judging you in your position because, you're not praying in the way that you should. you're not giving more of what you should give, or you're not following the Sabbath exactly right, and so I know where your heart is.
 
-goes over well with the person that's trying to help you. Just a little advice there. We're moving on here, all right? I'm the last one to give any advice, all right? But Jesus redirects our impulse to judge others and creates instead an opportunity for critical self-reflection. The problem is we are so often unaware of our own character flaws and biases, they distort how we see others. You've heard of the whole science around confirmation bias, right? That we see things the way we want to, that way we've been taught to see them, the way that our historical growing up has taught us to see them. This is why Jesus continues with this analogy of the speck and the plank and tells us you must be first aware of your own issues. Are you looking at the man in the mirror before you use a microscope on other people, all right? And yes, I just threw out a great song there, all right? Are you aware of yourself? Here's the big question: Are you aware of yourself? Here's the big question. you aware of yourself?
+And this is what Jesus is talking about. And we live in a world today where I think this is so relevant because nobody wants us to judge anything as right or wrong.
 
+And we as Christians have gotten weak in our ability to lovingly correct, admonish, rebuke, and encourage one another because it looks like, oh, don't judge me. Don't you dare judge me, or you will be judged.
 
-and how sure are you that you're aware of yourself? Kind of like the bad breath analogy, all right? Are you brave enough to tell somebody they have bad breath or do you just put up with it? And are you sure that you're aware that you don't have bad breath, all right? And sometimes we don't know, so I just carry mints in my pockets just in case because I'm paranoid about bad breath. But the key word we have here is this, discernment. It all comes down to godly discernment. And Jesus follows this whole thing up before you pick the speck out of somebody's eye, look at the plank in your eye, he goes right in the next verse, he says this. It's a really interesting verse. <aside class="scripture-card">
+Yet God tells us in his scripture all the time, I discipline those I love. He tells us to rebuke, correct, and admonish one another.
+
+So what does he mean by don't judge one another? Jesus is giving us specific feedback on how to ensure our judging is occurring from a godly heart.
+
+And he does this in the next verse with the great analogy you all know about the speck and the plank, all right? Anybody in here wear contacts like me?
+
+Have you ever noticed like the tiniest little eyelash or speck on a contact can drive you crazy. I mean, I'm like sitting here, like I got a twitch in my eye.
+
+And there's times it's so bad, I just have to like blindly walk my way to the bathroom and hope when I take my contact, it doesn't fall down the lens. And again, I'm sharing publicly what I should keep privately.
+
+I've not learned this lesson from Garrett yet, but I would need to do that. But this is what I think of when I think of this verse.
+
+Like the speck that's in my eye that's clogging it all up, and I'm trying to look clearly at everybody else, and I can't do it. So let's dive in here.
+
+Why do you look at the speck of sawdust in your brother's eye, that could be sisters, brothers, sisters, people's eye, and pay no attention to the plank in your own eye? How can you say to your brother, let me take the speck out of your eye when all the time there's this plank in your own eye, this giant timber?
+
+You hypocrite. Jesus is just so kind sometimes.
+
+You hypocrite. First take the plank out of your own eye, and then you will see clearly remove the speck. from your brother's eye. and we have all said this verse to one another in different means.
+
+Could you just quit telling your little sister what to do? You're the problem, all right?
+
+All of us have used this framing of this thinking here. It's like, you don't tell me what to do when you're the problem.
+
+You can't even see it. It's kind of like the driving analogy, all right?
+
+And I'm probably talking more privately, publicly again. The guy that likes to use their horn, and nobody's driving fast enough.
+
+They're not leaving the green light quick enough. They're not using their blinker.
+
+They're going slow in the left lane, and you're tailgating them or flashing your lights just to give them the helpful clue that you're in the wrong lane. And then the minute someone corrects you on how you're driving, I'm a great driver.
+
+Don't judge me. What are you telling me what to do, all right?
+
+And you all have somebody in the member that's your helper driver, all right? That little helper that tells you when it's time to turn, or when you need to hit your brakes, or you're too close, all right?
+
+And don't use this line. It's like, it's amazing how long I could drive by myself, but now I need a helper, That no one can do it. goes over well with the person that's trying to help you.
+
+Just a little advice there. We're moving on here, all right?
+
+I'm the last one to give any advice, all right? But Jesus redirects our impulse to judge others and creates instead an opportunity for critical self-reflection.
+
+The problem is we are so often unaware of our own character flaws and biases, they distort how we see others. You've heard of the whole science around confirmation bias, right?
+
+That we see things the way we want to, that way we've been taught to see them, the way that our historical growing up has taught us to see them. This is why Jesus continues with this analogy of the speck and the plank and tells us you must be first aware of your own issues.
+
+Are you looking at the man in the mirror before you use a microscope on other people, all right? And yes, I just threw out a great song there, all right?
+
+Are you aware of yourself? Here's the big question: Are you aware of yourself?
+
+Here's the big question. you aware of yourself? and how sure are you that you're aware of yourself? Kind of like the bad breath analogy, all right?
+
+Are you brave enough to tell somebody they have bad breath or do you just put up with it? And are you sure that you're aware that you don't have bad breath, all right?
+
+And sometimes we don't know, so I just carry mints in my pockets just in case because I'm paranoid about bad breath. ## Discernment in Relationships
+
+But the key word we have here is this, discernment.
+
+It all comes down to godly discernment. And Jesus follows this whole thing up before you pick the speck out of somebody's eye, look at the plank in your eye, he goes right in the next verse, he says this.
+
+It's a really interesting verse. <aside class="scripture-card">
   <p>“Do not give what is holy to dogs or throw your pearls before pigs; otherwise they will trample them under their feet and turn around and tear you to pieces.”</p>
   <footer>Matthew 7:6 (NET)</footer>
 </aside>
 
-Do not give dogs what is sacred. Do not throw your pearls to pigs. If you do, they may trample them under their feet and turn and tear you to pieces. By the way, if you don't, I grew up with my grandpa's side of the family being pig farmers. Pigs are vicious and mean. That might be news to some of you, they're not cute, cuddly little piglet animals. They grew up there.
+Do not give dogs what is sacred.
 
+Do not throw your pearls to pigs. If you do, they may trample them under their feet and turn and tear you to pieces.
 
-They are mean. They will eat whatever you want in there. You throw anything in there, they fight each other, they gnaw at each other, and they are like battleground. It's like World War II in there over their food. That's what this is saying. And when you first read it, you might think, so we should just leave people alone and not say anything? No. Jesus is actually telling you in your conversation with people about the speck or the plank or something they need to be corrected on. Understand and be aware, one, of yourself and your presence, but two, how are they responding? And so often, one thing I've had to learn in my life is maybe I am aware of how I'm coming across, but I'm not aware of how somebody's responding. And maybe they're not ready for it. Maybe they're being too hard-hearted. Maybe they're just pushing back too much. And in the effort of keeping relationship down the road, we have to learn when it's time to say, thank you for hearing me. You're not ready for this. we're moving on. Jesus himself told the disciples in other passages and he said,
+By the way, if you don't, I grew up with my grandpa's side of the family being pig farmers. Pigs are vicious and mean.
 
+That might be news to some of you, they're not cute, cuddly little piglet animals. They grew up there.
 
-If the cities you go to are persecuting you and railing against you and they're not receiving my word, bang the dust off of your shoes and walk away. Because you might not be the person or the seed or the avenue that Jesus needs to get to that person's heart. So don't conceit yourself to think I'm the only one that can get to this person. No, Jesus can do it without you. He will find somebody else. He's got everybody in his own hands. In fact, he's saying and going back to this, it's connected to Proverbs 26 where Proverbs 26 says this, do not answer a fool according to his folly or you yourself will be just like him. Don't argue stupid with stupid, all right? Don't argue emotional with emotional. Answer a fool according to his folly or he will be wise in his own eyes. Jesus is teaching that while we must reject a prideful condemnatory spirit, we must not throw away our ability to fruit, or character. Loving others does not
+They are mean. They will eat whatever you want in there.
 
+You throw anything in there, they fight each other, they gnaw at each other, and they are like battleground. It's like World War II in there over their food.
 
-not mean suspending our common sense or discernment. It means this. We are called to balance judgment with discernment in our relationships. You have to hear that. So now we're stuck. All right. He opens up with don't judge. How do I know if I'm judging people or not? How do I judge or correct or do this correctly? Then he tells us to, all right, pick the speck out of her own eye or the plank out of my own eye and somebody else and do all this. And then he says, be careful not to spend too much time. How do I know how to do all this? This is where we jump in this next verse, the ask, seek, knock. And this is where context is important. This verse has been used a lot in salvation messages. I'm not saying stop doing that, but understand the context of where Jesus is going in a relationship. So now how do we use discernment? Look what he says here in verse seven and eight. This is really cool. <aside class="scripture-card">
+That's what this is saying. And when you first read it, you might think, so we should just leave people alone and not say anything?
+
+No. Jesus is actually telling you in your conversation with people about the speck or the plank or something they need to be corrected on.
+
+Understand and be aware, one, of yourself and your presence, but two, how are they responding? And so often, one thing I've had to learn in my life is maybe I am aware of how I'm coming across, but I'm not aware of how somebody's responding.
+
+And maybe they're not ready for it. Maybe they're being too hard-hearted.
+
+Maybe they're just pushing back too much. And in the effort of keeping relationship down the road, we have to learn when it's time to say, thank you for hearing me.
+
+You're not ready for this. we're moving on. Jesus himself told the disciples in other passages and he said, If the cities you go to are persecuting you and railing against you and they're not receiving my word, bang the dust off of your shoes and walk away.
+
+Because you might not be the person or the seed or the avenue that Jesus needs to get to that person's heart. So don't conceit yourself to think I'm the only one that can get to this person.
+
+No, Jesus can do it without you. He will find somebody else.
+
+He's got everybody in his own hands. In fact, he's saying and going back to this, it's connected to Proverbs 26 where Proverbs 26 says this, do not answer a fool according to his folly or you yourself will be just like him.
+
+Don't argue stupid with stupid, all right? Don't argue emotional with emotional.
+
+Answer a fool according to his folly or he will be wise in his own eyes. Jesus is teaching that while we must reject a prideful condemnatory spirit, we must not throw away our ability to fruit, or character.
+
+Loving others does not not mean suspending our common sense or discernment. It means this.
+
+<blockquote class="transcript-pull-quote">
+  <p>We are called to balance judgment with discernment in our relationships.</p>
+</blockquote> You have to hear that.
+
+So now we're stuck. All right.
+
+He opens up with don't judge. How do I know if I'm judging people or not?
+
+How do I judge or correct or do this correctly? Then he tells us to, all right, pick the speck out of her own eye or the plank out of my own eye and somebody else and do all this.
+
+And then he says, be careful not to spend too much time. How do I know how to do all this?
+
+## Asking for Wisdom
+
+This is where we jump in this next verse, the ask, seek, knock. And this is where context is important.
+
+This verse has been used a lot in salvation messages. I'm not saying stop doing that, but understand the context of where Jesus is going in a relationship.
+
+So now how do we use discernment? Look what he says here in verse seven and eight.
+
+This is really cool. <aside class="scripture-card">
   <p>“Ask and it will be given to you; seek and you will find; knock and the door will be opened for you.”</p>
   <footer>Matthew 7:7 (NET)</footer>
 </aside>
 
-Ask and it will be given to you. Seek and you will find. Knock and the door will be opened to you. For everyone who asks, receives.
+Ask and it will be given to you.
 
+Seek and you will find. Knock and the door will be opened to you.
 
-The one who seeks finds, and the one who knocks, the door will be opened. I promise you, I have preached this passage probably three different ways. I've heard it preached a whole bunch of different ways. I've heard it used in salvation messages. I've heard it used in the wealth prosperity messages. I've heard it used that Jesus, go ask for Jesus, he'll give the desires of your heart messages. But within the context of the Sermon on the Mount, in Jesus honing down on relationships, here's what he's saying. Ask for discernment, it'll be given to you. Seek wisdom, and you will find it. Knock on the door of tell me what to do, God. Help open the door of the heart if you want it to be, and it will be open for you. That's what he's saying here. Discernment needs wisdom, and God's love gives us wisdom. In fact, James says in his chapter, in his book, if any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you. So here's what he's saying.
+For everyone who asks, receives. The one who seeks finds, and the one who knocks, the door will be opened.
 
+I promise you, I have preached this passage probably three different ways. I've heard it preached a whole bunch of different ways.
 
-Asking is a direct, humble request to God for what you need. Acknowledging your dependence on God's wisdom and discernment rather than relying on your own. Seeking is an active and intentional pursuit and initiative moving beyond a passive thought to genuinely seeking God's word and character for discernment and wisdom. And knocking is a persistent, vulnerable posture at God's door. Am I getting this right? Are you home? Can we talk? Can we hash this out a bit? It's anticipating a personal response and readiness. We just finished up trick or treat. It's funny to watch how kids approach different doors during trick or treat. How many of you have a kid that's just the brave one, just runs right up to the door, nothing at all, knocks and is ready to go? And then you've got the other one that's like looking at the little skeletons or the little things that are sitting out and they're like getting a little scared and any slight jolt or thing, ah, and they run away. All right? How many are picturing that? with me.
+I've heard it used in salvation messages. I've heard it used in the wealth prosperity messages.
 
+I've heard it used that Jesus, go ask for Jesus, he'll give the desires of your heart messages. But within the context of the Sermon on the Mount, in Jesus honing down on relationships, here's what he's saying.
 
-And we're not even gonna go down the road with the people that just leave the bowl outside and don't even open the door, all right? And have you seen the videos going around of like kids taking the whole bowl and dumping it in their bag and running off? Yeah, I'm not judging, but I'm judging. There was one piece of candy, all right? Don't tempt the rule followers by just putting one bowl out there full of candy, all right? All that to say is this. I think oftentimes we approach God in this scared, timid manner because we're not sure what to ask him. Other times we approach him so boldly and we're banging on that door so much we're demanding things from him. Trick or treat is all about trick or treat. God's not about trick or treat. There's no trick, there's no treat. It's simply God opening the door and saying, what do you need? Not what do you want? What do you need to pursue relationships in the way that I want? So here's what it's saying. Jesus is inviting us to approach God our Father with openness and trust.
+Ask for discernment, it'll be given to you. Seek wisdom, and you will find it.
 
+Knock on the door of tell me what to do, God. Help open the door of the heart if you want it to be, and it will be open for you.
 
-because it's only in him that we get this. God answers the context of this verse is about if you need the wisdom and discernment of how to biblically correct, accountable talk, hold people accountable with God in your relationships, discipling, then come, ask, seek, and knock, and I will give it to you. He jumps right into verse 9 and 11, then to create another analogy. He says, which of you, if your son asks for bread, will give you a stone? That's really interesting. And if he asks for a fish, will you give him a snake? If then you are evil, know how to give good gifts to your children. How much more will your Father in heaven give good gifts to those who ask him? I was teaching this in fifth grade Sunday school class, and when I read that part about if you ask him for a fish, he gives you a snake, I had a kid go, cool. Yes. That's not what he's saying that The snake is cooler than the fish, all right? The fish is sustenance.
+That's what he's saying here. Discernment needs wisdom, and God's love gives us wisdom.
 
+In fact, James says in his chapter, in his book, if any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you. So here's what he's saying.
 
-feeding. The snake is the predator. And this is what this is saying right here. People misread these verses. I misread them as a promise that God will give us whatever we ask for. But Jesus places this analogy right in the middle of it all to say, you come to me asking and I truly know what it is you really need. And you're asking for bread. I'm not going to give you something bad so you can trust me, but I may give you a type of bread that you haven't thought you need yet. And isn't that what he did at the well with the woman? You come here to get water. I can give you living water so you will never thirst again. And then she's like, wait, never thirst again? I don't have to come back up to this well again? He goes, again, I'm not talking about the well. I'm talking about this well, the heart. And in that relationship, he found a way to get a voice into a woman's life like this. And he said, I'm not talking about the well. I'm talking about this well.
+Asking is a direct, humble request to God for what you need. Acknowledging your dependence on God's wisdom and discernment rather than relying on your own.
 
+Seeking is an active and intentional pursuit and initiative moving beyond a passive thought to genuinely seeking God's word and character for discernment and wisdom. And knocking is a persistent, vulnerable posture at God's door.
 
-that had pushed everybody out of her life. And what God is saying here is this. Human relationships are messy. And Jesus' ethical standards are incredibly high. The good gifts the Father promises are not material wealth. Instead, the supreme good gift is the divine wisdom, grace, and empathy required to navigate complex human relationships. That is what this is about. He's standing on the mount preaching to people from all over saying, I want you to believe me, that I am the Son of God. Rather than a blank check to get whatever we want, God is offering you access to a library of his wisdom and discernment and how to navigate relationships. And sometimes we approach our prayers with a subconscious fear that God is distant, stingy, or annoyed with my request. And rather, the passage assures assures us
+Am I getting this right? Are you home?
 
+Can we talk? Can we hash this out a bit?
 
-us that when we ask, seek, and knock, we're not trying to twist the arm of a reluctant God or a reluctant Savior. We're knocking on the door that has a bowl full of something ready to hand us. He's there to help us. The life of the kingdom isn't something we manufacture on our own. It's something we receive from the king in relationship with him through prayer. Hearing all this and the systematic way Jesus is going through this poem, this poetry type of thinking, how do we get along and love one another as I love you? He ends with the golden rule. I'm not sure how it got that name. I don't know if Jesus would have chose golden. He wasn't about golden. He was more about woodsy and artsy stuff, all right? But it says this, so in everything, in everything I have just said, that's what the so is. Therefore,
+It's anticipating a personal response and readiness. We just finished up trick or treat.
 
+It's funny to watch how kids approach different doors during trick or treat. How many of you have a kid that's just the brave one, just runs right up to the door, nothing at all, knocks and is ready to go?
 
-<aside class="scripture-card">
+And then you've got the other one that's like looking at the little skeletons or the little things that are sitting out and they're like getting a little scared and any slight jolt or thing, ah, and they run away. All right?
+
+How many are picturing that? with me. And we're not even gonna go down the road with the people that just leave the bowl outside and don't even open the door, all right?
+
+And have you seen the videos going around of like kids taking the whole bowl and dumping it in their bag and running off? Yeah, I'm not judging, but I'm judging.
+
+There was one piece of candy, all right? Don't tempt the rule followers by just putting one bowl out there full of candy, all right?
+
+All that to say is this. I think oftentimes we approach God in this scared, timid manner because we're not sure what to ask him.
+
+Other times we approach him so boldly and we're banging on that door so much we're demanding things from him. Trick or treat is all about trick or treat.
+
+God's not about trick or treat. There's no trick, there's no treat.
+
+It's simply God opening the door and saying, what do you need? Not what do you want?
+
+What do you need to pursue relationships in the way that I want? So here's what it's saying.
+
+Jesus is inviting us to approach God our Father with openness and trust. because it's only in him that we get this. God answers the context of this verse is about if you need the wisdom and discernment of how to biblically correct, accountable talk, hold people accountable with God in your relationships, discipling, then come, ask, seek, and knock, and I will give it to you.
+
+## The Father Gives What We Need
+
+He jumps right into verse 9 and 11, then to create another analogy. He says, which of you, if your son asks for bread, will give you a stone?
+
+That's really interesting. And if he asks for a fish, will you give him a snake?
+
+If then you are evil, know how to give good gifts to your children. How much more will your Father in heaven give good gifts to those who ask him?
+
+I was teaching this in fifth grade Sunday school class, and when I read that part about if you ask him for a fish, he gives you a snake, I had a kid go, cool. Yes.
+
+That's not what he's saying that The snake is cooler than the fish, all right? The fish is sustenance. feeding.
+
+The snake is the predator. And this is what this is saying right here.
+
+People misread these verses. I misread them as a promise that God will give us whatever we ask for.
+
+But Jesus places this analogy right in the middle of it all to say, you come to me asking and I truly know what it is you really need. And you're asking for bread.
+
+I'm not going to give you something bad so you can trust me, but I may give you a type of bread that you haven't thought you need yet. And isn't that what he did at the well with the woman?
+
+You come here to get water. I can give you living water so you will never thirst again.
+
+And then she's like, wait, never thirst again? I don't have to come back up to this well again?
+
+He goes, again, I'm not talking about the well. I'm talking about this well, the heart.
+
+And in that relationship, he found a way to get a voice into a woman's life like this. And he said, I'm not talking about the well.
+
+I'm talking about this well. that had pushed everybody out of her life. And what God is saying here is this.
+
+Human relationships are messy. And Jesus' ethical standards are incredibly high.
+
+The good gifts the Father promises are not material wealth. Instead, the supreme good gift is the divine wisdom, grace, and empathy required to navigate complex human relationships.
+
+That is what this is about. He's standing on the mount preaching to people from all over saying, I want you to believe me, that I am the Son of God.
+
+Rather than a blank check to get whatever we want, God is offering you access to a library of his wisdom and discernment and how to navigate relationships. And sometimes we approach our prayers with a subconscious fear that God is distant, stingy, or annoyed with my request.
+
+And rather, the passage assures assures us us that when we ask, seek, and knock, we're not trying to twist the arm of a reluctant God or a reluctant Savior. We're knocking on the door that has a bowl full of something ready to hand us.
+
+He's there to help us. <blockquote class="transcript-pull-quote">
+  <p>The life of the kingdom isn't something we manufacture on our own.</p>
+</blockquote>
+
+The life of the kingdom isn't something we manufacture on our own.
+
+It's something we receive from the king in relationship with him through prayer. ## The Golden Rule
+
+Hearing all this and the systematic way Jesus is going through this poem, this poetry type of thinking, how do we get along and love one another as I love you?
+
+He ends with the golden rule. I'm not sure how it got that name.
+
+I don't know if Jesus would have chose golden. He wasn't about golden.
+
+He was more about woodsy and artsy stuff, all right? But it says this, so in everything, in everything I have just said, that's what the so is.
+
+Therefore, <aside class="scripture-card">
   <p>“In everything, treat others as you would want them to treat you, for this fulfills the law and the prophets.”</p>
   <footer>Matthew 7:12 (NET)</footer>
 </aside>
 
-Everything I just told you for the last 20 minutes, therefore, do to others what you would have them do to you, for this sums up the law of the prophets. Now get this, what's crazy is Jesus started the Sermon on the Mount after the Beatitudes about the greatest law, the prophets. And now he's bringing it all the way back to the thing about the law is this, how well can you love people as you want to be loved? Every human has a need to love, the need to be loved, the need to feel worthwhile, and the need to belong. And that is Jesus. Living out the golden rule is really complex though. When we find ourselves in these tense relationships and these ethical dilemmas, it's hard to figure out how doing right by someone else actually looks good and pure. So when we ask, seek, and knock, we're asking God for that guidance.
+Everything I just told you for the last 20 minutes, therefore, do to others what you would have them do to you, for this sums up the law of the prophets. Now get this, what's crazy is Jesus started the Sermon on the Mount after the Beatitudes about the greatest law, the prophets.
 
+And now he's bringing it all the way back to the thing about the law is this, how well can you love people as you want to be loved? Every human has a need to love, the need to be loved, the need to feel worthwhile, and the need to belong.
 
-And what we seek is patience and clarity. Look at the situation from God's perspective first. You always hear, look at it from the other person's perspective. That's not bad. But when you're asking, seeking, and knocking, you should be asking, God, give me your view of the situation. And more often than not, God's going to kneel down, look you in the eye, and go, you got a little bit of an eyelash here. Let's work on that. And when you let God operate on the speck in your eye, like a caring mom getting a sliver out of your finger, he will then prepare your heart of how he sees the person that you feel you need to talk to, and if you are the person to talk to them, and then how to talk to them. That's the heart of Jesus. That's how he approached the hurt, the lost, the wounded. At the start of this sermon on the mount, Jesus says he came to fulfill
+And that is Jesus. Living out the golden rule is really complex though.
 
+When we find ourselves in these tense relationships and these ethical dilemmas, it's hard to figure out how doing right by someone else actually looks good and pure. So when we ask, seek, and knock, we're asking God for that guidance.
 
-fulfill the law of the prophets. And at the conclusion of his sermon in the mount, almost the end of it, he says, do to others as you would have done to you. That sums up the law of the prophets. Are you getting the heart of relationship here? I'm going to quote the Bible project here because I like it. I think it's cool. It says this, we cannot separate a relationship with God from our relationship with others. The vertical action of consistently asking, seeking, and knocking on God's door is exactly what produces the horizontal capacity to love, forgive, and extend grace to others. You could say in this verse, give the grace to others that you would want God's grace given to you. Kingdom citizens extend the same grace, trust, and love they have received from the Father. The man can come on up. As I close out now, I want to encourage you. We say this is like
+And what we seek is patience and clarity. Look at the situation from God's perspective first.
 
+You always hear, look at it from the other person's perspective. That's not bad.
 
-what we want to do. But oftentimes, as Paul says, what I want to do, I do not do. And the things I don't want to do, I end up doing. That right there is like Scott's diary. Trust me, all right? I got Nike, I got Nike breath times. My foot's in my mouth more often than I like at times. I think I've gotten better at it, but people who've known me long enough are like, eh, maybe. Here's the thing. I want you to notice something. Everything Jesus is asking of us here, he has already done for us. He is the only one who has ever walked this earth with no plank in his eye. If anyone has the right to sit in a judgment chair, it's him. And yet scripture tells us he did not come in the world to condemn us, but to save it. He said that with his own words. The only person with every right to judge us chose instead to be judged in our place.
+But when you're asking, seeking, and knocking, you should be asking, God, give me your view of the situation. And more often than not, God's going to kneel down, look you in the eye, and go, you got a little bit of an eyelash here.
 
+Let's work on that. And when you let God operate on the speck in your eye, like a caring mom getting a sliver out of your finger, he will then prepare your heart of how he sees the person that you feel you need to talk to, and if you are the person to talk to them, and then how to talk to them.
 
-that's who we're going to. He is the one who perfectly lived out the golden rule. He didn't simply avoid harming us. He didn't just tell us we are sinners and living in a wrong relationship. He took initiative. He came looking for us. He taught us. He sat with us. He weeped with Nicodemus. He pleaded with the woman at the well. He forgave Peter. Why? Because he wanted to show us. What I do to you, I want you to do to others because the golden rule is not words. I am the golden rule. I am it. And I'm the living proof. And he is the one who opens the door. We knock, it opens because he was willing to shut out anything in our path to prevent us from getting to him. There's no scary skeletons on the way to the door. There's no fear and you need to walk.
+That's the heart of Jesus. That's how he approached the hurt, the lost, the wounded.
 
+At the start of this sermon on the mount, Jesus says he came to fulfill fulfill the law of the prophets. And at the conclusion of his sermon in the mount, almost the end of it, he says, do to others as you would have done to you.
 
-You knock, he will open it and he'll have a conversation with you. Let God deal with your heart before you deal with somebody else's. Keep asking, seeking, knocking, trusting that your father loves to give you good gifts. And take the initiative to love people the way God loves us. To correct and admonish and disciple one another the way Jesus did us. The whole Sermon on the Mount is, you have heard this, but I'm telling you this. And not only I'm telling you, I'm going to show you. And he has shown each and every one of us what a good, good God he is. God, I thank you for this message, God. I thank you for your passage in the Sermon on the Mount, Lord. I pray, God, as we worship you in this closing song that you would show us what we need to hear today.
+That sums up the law of the prophets. Are you getting the heart of relationship here?
 
+I'm going to quote the Bible project here because I like it. I think it's cool.
 
-today, God, and then what we need to go live. Lord, all the judging in us in a world today that just judges everybody on everything. God, this is so relevant to where we are in the landscape of the world today. How do we navigate a world that's just so judgmental and throwing rocks across the rivers at each other, God? How do we, as the body of Christ, rise up in the midst of that and still speak truth? That we don't let empathy become enablement of sin, but we find a way to show people your love and your light. And if we can't do it, God, we know to walk away and pray for them that someone else can do that and that you can do it, God. Show us how to be citizens of the kingdom of God that build relationship and love with others the way you did. God, may we please judge with the heart of Christ, ask, seek, and knock for your wisdom, and may we love others the way you loved us. In Jesus' name, amen.
+It says this, we cannot separate a relationship with God from our relationship with others. The vertical action of consistently asking, seeking, and knocking on God's door is exactly what produces the horizontal capacity to love, forgive, and extend grace to others.
 
+You could say in this verse, give the grace to others that you would want God's grace given to you. Kingdom citizens extend the same grace, trust, and love they have received from the Father.
 
-<section class="small-group-discussion"> <h2>Small Group Discussion</h2> <ol> <li>Where do you notice the difference between condemning judgment and loving discernment in your own relationships?</li> <li>What might it look like to ask, seek, and knock for God's wisdom in a difficult conversation this week?</li> <li>How can the Golden Rule shape one concrete way you love or correct someone in your life?</li> </ol> </section> 
+The man can come on up. ## Jesus Shows Us the Way
+
+As I close out now, I want to encourage you.
+
+We say this is like what we want to do. But oftentimes, as Paul says, what I want to do, I do not do.
+
+And the things I don't want to do, I end up doing. That right there is like Scott's diary.
+
+Trust me, all right? I got Nike, I got Nike breath times.
+
+My foot's in my mouth more often than I like at times. I think I've gotten better at it, but people who've known me long enough are like, eh, maybe.
+
+Here's the thing. I want you to notice something.
+
+Everything Jesus is asking of us here, he has already done for us. He is the only one who has ever walked this earth with no plank in his eye.
+
+If anyone has the right to sit in a judgment chair, it's him. And yet scripture tells us he did not come in the world to condemn us, but to save it.
+
+He said that with his own words. The only person with every right to judge us chose instead to be judged in our place. that's who we're going to.
+
+He is the one who perfectly lived out the golden rule. He didn't simply avoid harming us.
+
+He didn't just tell us we are sinners and living in a wrong relationship. He took initiative.
+
+He came looking for us. He taught us.
+
+He sat with us. He weeped with Nicodemus.
+
+He pleaded with the woman at the well. He forgave Peter.
+
+Why? Because he wanted to show us.
+
+What I do to you, I want you to do to others because the golden rule is not words. I am the golden rule.
+
+I am it. And I'm the living proof.
+
+And he is the one who opens the door. We knock, it opens because he was willing to shut out anything in our path to prevent us from getting to him.
+
+There's no scary skeletons on the way to the door. There's no fear and you need to walk.
+
+You knock, he will open it and he'll have a conversation with you. Let God deal with your heart before you deal with somebody else's.
+
+Keep asking, seeking, knocking, trusting that your father loves to give you good gifts. And take the initiative to love people the way God loves us.
+
+To correct and admonish and disciple one another the way Jesus did us. The whole Sermon on the Mount is, you have heard this, but I'm telling you this.
+
+And not only I'm telling you, I'm going to show you. And he has shown each and every one of us what a good, good God he is.
+
+God, I thank you for this message, God. I thank you for your passage in the Sermon on the Mount, Lord.
+
+I pray, God, as we worship you in this closing song that you would show us what we need to hear today. today, God, and then what we need to go live. Lord, all the judging in us in a world today that just judges everybody on everything.
+
+God, this is so relevant to where we are in the landscape of the world today. How do we navigate a world that's just so judgmental and throwing rocks across the rivers at each other, God?
+
+How do we, as the body of Christ, rise up in the midst of that and still speak truth? That we don't let empathy become enablement of sin, but we find a way to show people your love and your light.
+
+And if we can't do it, God, we know to walk away and pray for them that someone else can do that and that you can do it, God. Show us how to be citizens of the kingdom of God that build relationship and love with others the way you did.
+
+God, may we please judge with the heart of Christ, ask, seek, and knock for your wisdom, and may we love others the way you loved us. In Jesus' name, amen.
+
+<section class="small-group-discussion">
+  <h2>Small Group Discussion</h2>
+  <ol>
+    <li>Where do you notice the difference between condemning judgment and loving discernment in your own relationships?</li>
+    <li>What might it look like to ask, seek, and knock for God's wisdom in a difficult conversation this week?</li>
+    <li>How can the Golden Rule shape one concrete way you love or correct someone in your life?</li>
+  </ol>
+</section>

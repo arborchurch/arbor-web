@@ -167,6 +167,13 @@ claims, or replacement Scripture wording that the speaker did not say.
 - after cleanup and paragraphing, ensure every prose paragraph starts with a
   capitalized word and repair or remove any stranded ASR fragment rather than
   presenting it as a sentence;
+- before publishing, read the first three prose paragraphs and samples from
+  the middle and end of the rendered Markdown. Confirm that each paragraph
+  begins and ends with a complete spoken sentence, that no sentence is split
+  by a transcription-chunk boundary, and that pronouns such as “they” retain
+  their antecedent from the selected transcript opening. Do not treat
+  line-wrapped ASR output as editorial paragraphs: reflow it into complete
+  sentences first;
 - when the speaker explicitly cites, paraphrases, or reads Scripture, put a
   Scripture card immediately **before** that citation. Use the free NET Bible
   text, provide the reference and `(NET)` in the footer, and follow the
