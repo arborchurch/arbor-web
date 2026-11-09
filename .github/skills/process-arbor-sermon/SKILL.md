@@ -196,8 +196,12 @@ claims, or replacement Scripture wording that the speaker did not say.
   </blockquote>
   ```
 
-- end with exactly three open-ended questions inviting reflection and practical
-  application, using the established markup:
+- end with exactly three open-ended questions using the established markup.
+  Use a balanced progression: begin with one text- or message-observation
+  question, follow with one interpretation or application question that can be
+  answered without self-disclosure, and include at most one optional personal
+  reflection. Do not make all three questions require vulnerability,
+  commitment, or disclosure:
 
   ```html
   <section class="small-group-discussion">

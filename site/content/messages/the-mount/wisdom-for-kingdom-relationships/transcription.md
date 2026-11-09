@@ -143,7 +143,9 @@ Here's the big question. you aware of yourself? and how sure are you that you're
 
 Are you brave enough to tell somebody they have bad breath or do you just put up with it? And are you sure that you're aware that you don't have bad breath, all right?
 
-And sometimes we don't know, so I just carry mints in my pockets just in case because I'm paranoid about bad breath. ## Discernment in Relationships
+And sometimes we don't know, so I just carry mints in my pockets just in case because I'm paranoid about bad breath.
+
+## Discernment in Relationships
 
 But the key word we have here is this, discernment.
 
@@ -313,7 +315,9 @@ He's there to help us. <blockquote class="transcript-pull-quote">
 
 The life of the kingdom isn't something we manufacture on our own.
 
-It's something we receive from the king in relationship with him through prayer. ## The Golden Rule
+It's something we receive from the king in relationship with him through prayer.
+
+## The Golden Rule
 
 Hearing all this and the systematic way Jesus is going through this poem, this poetry type of thinking, how do we get along and love one another as I love you?
 
@@ -356,7 +360,9 @@ It says this, we cannot separate a relationship with God from our relationship w
 
 You could say in this verse, give the grace to others that you would want God's grace given to you. Kingdom citizens extend the same grace, trust, and love they have received from the Father.
 
-The man can come on up. ## Jesus Shows Us the Way
+The band can come on up.
+
+## Jesus Shows Us the Way
 
 As I close out now, I want to encourage you.
 
@@ -419,8 +425,8 @@ God, may we please judge with the heart of Christ, ask, seek, and knock for your
 <section class="small-group-discussion">
   <h2>Small Group Discussion</h2>
   <ol>
-    <li>Where do you notice the difference between condemning judgment and loving discernment in your own relationships?</li>
-    <li>What might it look like to ask, seek, and knock for God's wisdom in a difficult conversation this week?</li>
-    <li>How can the Golden Rule shape one concrete way you love or correct someone in your life?</li>
+    <li>What distinctions does Scott make between condemning judgment and wise discernment?</li>
+    <li>How does Scott connect asking, seeking, and knocking with wisdom for relationships?</li>
+    <li>Where, if anywhere, does the Golden Rule offer a helpful perspective for a relationship in your life?</li>
   </ol>
 </section>
