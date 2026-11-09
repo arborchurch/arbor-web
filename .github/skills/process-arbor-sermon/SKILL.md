@@ -91,6 +91,14 @@ mistake music or a stage transition for speech. Never use the shorter
 transcript window as the podcast-audio trim. When a boundary is uncertain,
 present the proposed ranges for approval before uploading.
 
+For a speaker transition under music or a bumper, transcribe independent
+15-second source clips across the transition in addition to listening. Locate
+the speaker's first clear word from those clips, then start the audio 0.5
+seconds before it so the fade finishes before speech. After mastering, inspect
+and transcribe an early sample from the output itself to confirm the greeting
+and setup remain present; also inspect a middle sample to catch timestamp or
+fade processing that can silently truncate the master.
+
 ## 3. Produce the audio master
 
 Use `ffmpeg` to trim the full-service WAV to the selected **audio** range.
