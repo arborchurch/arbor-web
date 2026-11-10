@@ -10,4 +10,4 @@ resources:
   src: "katie.jpg"
 ---
 
-Katie is a single mama to two wild and wonderful boys, a licensed esthetician, and a lover of all things skin and self-care. She was raised in Bothell as a pastor's kid, which gave her a deep sense of faith and family. In her free time you'll likely find her eating too much Chik-fil-A (if there is such a thing) or enjoying time with family on Whidbey Island -- relaxing by the lake and recharging in nature. 
+Katie was raised in Bothell and grew up as a pastor’s kid, where faith, family, and community became important parts of who she is. Outside of work, you’ll most often find her spending time with her family on Whidbey Island, enjoying lake days, playing pickleball and soaking up the slower pace of life. She loves getting lost in a new book, crocheting and trying new foodie spots.
